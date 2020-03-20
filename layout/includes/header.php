@@ -36,8 +36,9 @@ if (empty($CFG->loginhttps)) {
 
 // Check if this is a course or module page and check setting to hide site title.
 // If not one of these pages, by default show it (set $hidesitetitle to false).
-if ( (strstr($PAGE->pagetype, 'course')) ||
-     (strstr($PAGE->pagetype, 'mod')) && ($this->page->course->id > 1) ) {
+if ((strstr($PAGE->pagetype, 'course')) ||
+    (strstr($PAGE->pagetype, 'mod')) && ($this->page->course->id > 1)
+) {
     $hidesitetitle = !empty(($PAGE->theme->settings->coursepageheaderhidesitetitle)) ? true : false;
 } else {
     $hidesitetitle = false;
@@ -53,8 +54,10 @@ $setfull = theme_adaptable_get_full();
 $bsoptionsdata = array('data' => array());
 
 // Main navbar.
-if (isset($PAGE->theme->settings->stickynavbar) && $PAGE->theme->settings->stickynavbar == 1
-    && $PAGE->pagetype != "grade-report-grader-index" && $PAGE->bodyid != "page-grade-report-grader-index") {
+if (
+    isset($PAGE->theme->settings->stickynavbar) && $PAGE->theme->settings->stickynavbar == 1
+    && $PAGE->pagetype != "grade-report-grader-index" && $PAGE->bodyid != "page-grade-report-grader-index"
+) {
     $fixedheader = true;
     $bsoptionsdata['data']['stickynavbar'] = true;
 } else {
@@ -78,7 +81,8 @@ $responsivealerts = $PAGE->theme->settings->responsivealerts;
 $shownavbar = false;
 if (
     (isloggedin() && !isguestuser()) ||
-    (!empty($PAGE->theme->settings->enablenavbarwhenloggedout)) ) {
+    (!empty($PAGE->theme->settings->enablenavbarwhenloggedout))
+) {
 
     // Remove menu navbar in Quiz pages even if they don't use SEB.
     if ($PAGE->pagetype != "mod-quiz-attempt") {
@@ -90,10 +94,10 @@ $headerbg = '';
 if (!empty($PAGE->theme->settings->categoryhavecustomheader)) {
     $currenttopcat = \theme_adaptable\toolbox::get_current_top_level_catetgory();
     if (!empty($currenttopcat)) {
-        $categoryheaderbgimageset = 'categoryheaderbgimage'.$currenttopcat;
+        $categoryheaderbgimageset = 'categoryheaderbgimage' . $currenttopcat;
         if (!empty($PAGE->theme->settings->$categoryheaderbgimageset)) {
             $headerbg = ' class="headerbgimage" style="background-image: ' .
-            ' url('.$PAGE->theme->setting_file_url($categoryheaderbgimageset, $categoryheaderbgimageset).');"';
+                ' url(' . $PAGE->theme->setting_file_url($categoryheaderbgimageset, $categoryheaderbgimageset) . ');"';
         }
     }
 } else {
@@ -101,7 +105,7 @@ if (!empty($PAGE->theme->settings->categoryhavecustomheader)) {
 }
 if ((empty($headerbg)) && (!empty($PAGE->theme->settings->headerbgimage))) {
     $headerbg = ' class="headerbgimage" style="background-image: ' .
-    ' url('.$PAGE->theme->setting_file_url('headerbgimage', 'headerbgimage').');"';
+        ' url(' . $PAGE->theme->setting_file_url('headerbgimage', 'headerbgimage') . ');"';
 }
 
 // Choose the header style.  There styles available are:
@@ -121,8 +125,10 @@ $usermenu = '';
 // Only used when user is logged in.
 if (isloggedin()) {
     // User icon.
-    $userpic = $OUTPUT->user_picture($USER, array('link' => false, 'visibletoscreenreaders' => false,
-               'size' => 50, 'class' => 'userpicture'));
+    $userpic = $OUTPUT->user_picture($USER, array(
+        'link' => false, 'visibletoscreenreaders' => false,
+        'size' => 50, 'class' => 'userpicture'
+    ));
     // User name.
     $username = format_string(fullname($USER));
 
@@ -161,7 +167,7 @@ $fontssubset = '';
 switch ($PAGE->theme->settings->fontname) {
     case 'default':
         // Get the default font used by the browser.
-    break;
+        break;
 
     default:
         // Get the Google fonts.
@@ -175,17 +181,17 @@ switch ($PAGE->theme->settings->fontname) {
         $fontssubset = '';
 
         // Get the Google Font weights.
-        $fontweight = ':'.$PAGE->theme->settings->fontweight.','.$PAGE->theme->settings->fontweight.'i';
-        $fontheaderweight = ':'.$PAGE->theme->settings->fontheaderweight.','.$PAGE->theme->settings->fontheaderweight.'i';
-        $fonttitleweight = ':'.$PAGE->theme->settings->fonttitleweight.','.$PAGE->theme->settings->fonttitleweight.'i';
+        $fontweight = ':' . $PAGE->theme->settings->fontweight . ',' . $PAGE->theme->settings->fontweight . 'i';
+        $fontheaderweight = ':' . $PAGE->theme->settings->fontheaderweight . ',' . $PAGE->theme->settings->fontheaderweight . 'i';
+        $fonttitleweight = ':' . $PAGE->theme->settings->fonttitleweight . ',' . $PAGE->theme->settings->fonttitleweight . 'i';
 
         // Get the Google fonts subset.
         if (!empty($PAGE->theme->settings->fontsubset)) {
-            $fontssubset = '&subset='.$PAGE->theme->settings->fontsubset;
+            $fontssubset = '&subset=' . $PAGE->theme->settings->fontsubset;
         } else {
             $fontssubset = '';
         }
-    break;
+        break;
 }
 
 // Get the HTML for the settings bits.
@@ -209,13 +215,14 @@ if (!empty($PAGE->theme->settings->standardscreenwidth)) {
 echo $OUTPUT->doctype();
 ?>
 <html <?php echo $OUTPUT->htmlattributes(); ?>>
+
 <head>
     <title><?php echo $OUTPUT->page_title(); ?></title>
     <link rel="icon" href="<?php echo $OUTPUT->favicon(); ?>" />
 
-<?php
-// HTML head.
-echo $OUTPUT->standard_head_html() ?>
+    <?php
+    // HTML head.
+    echo $OUTPUT->standard_head_html() ?>
     <!-- CSS print media -->
     <link rel="stylesheet" type="text/css" href="<?php echo $wwwroot; ?>/theme/adaptable/style/print.css" media="print">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -243,11 +250,9 @@ echo $OUTPUT->standard_head_html() ?>
     <?php
     // Load fonts.
     if ((!empty($fontname)) && ($fontname != 'default') && ($fontname != 'custom')) {
-        ?>
-    <!-- Load Google Fonts -->
-    <link href='https://fonts.googleapis.com/css?family=<?php echo $fontname.$fontweight.$fontssubset; ?>'
-    rel='stylesheet'
-    type='text/css'>
+    ?>
+        <!-- Load Google Fonts -->
+        <link href='https://fonts.googleapis.com/css?family=<?php echo $fontname . $fontweight . $fontssubset; ?>' rel='stylesheet' type='text/css'>
     <?php
     }
     ?>
@@ -255,9 +260,7 @@ echo $OUTPUT->standard_head_html() ?>
     <?php
     if ((!empty($fontheadername)) && ($fontheadername != 'default') && ($fontname != 'custom')) {
     ?>
-        <link href='https://fonts.googleapis.com/css?family=<?php echo $fontheadername.$fontheaderweight.$fontssubset; ?>'
-        rel='stylesheet'
-        type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=<?php echo $fontheadername . $fontheaderweight . $fontssubset; ?>' rel='stylesheet' type='text/css'>
     <?php
     }
     ?>
@@ -265,9 +268,7 @@ echo $OUTPUT->standard_head_html() ?>
     <?php
     if ((!empty($fonttitlename)) && ($fonttitlename != 'default') && ($fontname != 'custom')) {
     ?>
-        <link href='https://fonts.googleapis.com/css?family=<?php echo $fonttitlename.$fonttitleweight.$fontssubset; ?>'
-        rel='stylesheet'
-        type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=<?php echo $fonttitlename . $fonttitleweight . $fontssubset; ?>' rel='stylesheet' type='text/css'>
     <?php
     }
     ?>
@@ -287,529 +288,521 @@ if (!empty($PAGE->theme->settings->responsivesectionnav)) {
     $nomobilenavigation = 'nomobilenavigation';
 }
 ?>
-<body <?php echo $OUTPUT->body_attributes(array('two-column', $setzoom, 'header-'.$adaptableheaderstyle,
-        $pageheader, $hasheaderbg, $nomobilenavigation)); ?>>
 
-<?php
-echo $OUTPUT->standard_top_of_body_html();
+<body <?php echo $OUTPUT->body_attributes(array(
+            'two-column', $setzoom, 'header-' . $adaptableheaderstyle,
+            $pageheader, $hasheaderbg, $nomobilenavigation
+        )); ?>>
 
-// Development or wrong moodle version alert.
-// echo $OUTPUT->get_dev_alert();.
-?>
+    <?php
+    echo $OUTPUT->standard_top_of_body_html();
 
-<div id="page" class="container-fluid <?php echo "$setfull $showiconsclass $standardscreenwidthclass"; ?>">
+    // Development or wrong moodle version alert.
+    // echo $OUTPUT->get_dev_alert();.
+    ?>
 
-<?php
-    echo $OUTPUT->get_alert_messages();
-?>
+    <div id="page" class="container-fluid <?php echo "$setfull $showiconsclass $standardscreenwidthclass"; ?>">
 
-
-<?php if ($adaptableheaderstyle == "style1") : ?>
-
-    <header id="adaptable-page-header-wrapper" <?php echo $headerbg; ?> >
-
-    <div id="above-header" class="mb-2 mb-lg-3">
-        <div class="container">
-            <nav class="navbar navbar-expand btco-hover-menu">
-
-                <?php if ($shownavbar) { ?>
-                <div id="adaptable-page-header-nav-drawer" data-region="drawer-toggle" class="d-lg-none mr-3">
-                    <button id="drawer" aria-expanded="false" aria-controls="nav-drawer" type="button"
-                            class="nav-link float-sm-left mr-1" data-side="left">
-                        <i class="fa fa-bars fa-fw " aria-hidden="true"></i>
-                        <span class="sr-only"><?php echo get_string('sidepanel'); ?></span>
-                    </button>
-                </div>
-                <?php } ?>
-
-                <div class="collapse navbar-collapse">
-                <?php
-                if (empty($PAGE->theme->settings->menuslinkright)) {
-                    echo '<div class="my-auto m-1">' . $OUTPUT->get_top_menus() . '</div>';
-                }
-                ?>
-
-                    <ul class="navbar-nav ml-auto my-auto">
-
-                        <div class="pull-left">
-                            <?php echo $OUTPUT->user_menu(); ?>
-                        </div>
-
-                        <?php
-                        if (!empty($PAGE->theme->settings->menuslinkright)) {
-                            echo '<div class="my-auto m-1">' . $OUTPUT->get_top_menus() . '</div>';
-                        }
-                        ?>
-
-                        <?php
-                        if (!empty($PAGE->theme->settings->responsivesearchicon)) {
-                            $classes = 'd-xs-block d-sm-block d-md-none my-auto';
-                        } else {
-                            $classes = 'd-none';
-                        }
-                        ?>
-                        <li class="nav-item <?php echo $classes; ?> mx-md-1 my-auto">
-                            <a class="nav-link" href="<?php p($wwwroot) ?>/course/search.php">
-                                <i class="icon fa fa-search fa-fw " title="Search" aria-label="Search"></i>
-                            </a>
-                        </li>
-
-                        <?php
-
-                        // Remove Messages and Notifications icons in Quiz pages even if they don't use SEB.
-                        if ($PAGE->pagetype != "mod-quiz-attempt") {
-                            echo '<div class="my-auto mx-md-1">' . $OUTPUT->navbar_plugin_output() . '</div>';
-                        }
-
-                        if (empty($PAGE->layout_options['langmenu']) || $PAGE->layout_options['langmenu']) {
-                            echo '<li class="nav-item dropdown ml-2 my-auto">';
-                            echo $OUTPUT->lang_menu();
-                            echo '</li>';
-                        }
-
-                        if ((!isloggedin() || isguestuser()) && ($PAGE->pagetype != "login-index")) {
-                            echo $OUTPUT->page_heading_menu();
-
-                            if ($PAGE->theme->settings->displaylogin == 'box') {
-                                // Login button.
-                        ?>
-                        <form id="pre-login-form" class="form-inline my-2 my-lg-0" action="<?php p($wwwroot) ?>/login/index.php"
-                            method="post">
-                        <input type="hidden" name="logintoken" value="<?php echo s(\core\session\manager::get_login_token()); ?>"/>
-                        <input type="text" name="username"
-                                    placeholder="<?php echo get_string('loginplaceholder', 'theme_adaptable'); ?>" size="11">
-                        <input type="password" name="password"
-                                    placeholder="<?php echo get_string('passwordplaceholder', 'theme_adaptable'); ?>"  size="11">
-                        <button class="btn-login" type="submit"><?php echo get_string('logintextbutton', 'theme_adaptable'); ?>
-                        </button>
-                        </form>
-                        <?php
-                            } else if ($PAGE->theme->settings->displaylogin == 'button') {
-                        ?>
-                            <form id="pre-login-form" class="form-inline my-0 my-lg-1"
-                                action="<?php p($wwwroot) ?>/login/index.php" method="post">
-                            <input type="hidden" name="logintoken"
-                                value="<?php echo s(\core\session\manager::get_login_token()); ?>"/>
-                            <button class="btn-login" type="submit">
-                                <?php echo get_string('logintextbutton', 'theme_adaptable'); ?>
-                            </button>
-                            </form>
-                        <?php
-                            }
-                        } else {
-                            // Display user profile menu.
-                            ?>
-
-                            <li class="nav-item dropdown ml-3 ml-md-4 mr-2 mr-md-0">
-                                <?php echo $usermenu; ?>
-                            </li>
-
-                        <?php
-                        }
-                    ?>
-
-                    </ul>
-                </div>
-            </nav>
-        </div>
-    </div>
-
-    <div id="page-header" class="container <?php echo $PAGE->theme->settings->responsiveheader;?>">
-        <div class="row">
-
-        <div class="col-lg-4">
         <?php
-        // Site title or logo.
-        if (!$hidesitetitle) {
-            echo '<div class="d-flex align-items-start bd-highlight">';
-            echo $OUTPUT->get_logo_title($currenttopcat);
-            echo '</div>';
-        }
+        echo $OUTPUT->get_alert_messages();
         ?>
-        </div>
 
-        <div class="col-lg-8 p-0 my-auto">
-            <?php
-            // Remove Search Box or Social icons in Quiz pages even if they don't use SEB.
-            if ($PAGE->pagetype != "mod-quiz-attempt") {
-                // Social icons.
-                if ($PAGE->theme->settings->socialorsearch == 'social') {
-                        ?>
-                        <div class="socialbox pull-right <?php echo $PAGE->theme->settings->responsivesocial; ?>">
-                            <?php
-                            echo $OUTPUT->socialicons();
-                            ?>
-                        </div>
-                        <?php
-                }
-            }
-                    ?>
 
-                <?php
-                // Search box.
-                if ( (!$hidesitetitle) && ($PAGE->theme->settings->socialorsearch == 'search') ) { ?>
-                    <div class="searchbox d-none d-lg-block">
-                        <form action="<?php echo $wwwroot; ?>/course/search.php">
-                            <label class="hidden" for="search-1" style="display: none;"><?php echo get_string("searchcourses")?>
-                            </label>
-                            <div class="search-box grey-box bg-white clear-fix">
-                                <input placeholder="<?php echo get_string("searchcourses", "theme_adaptable"); ?>"
-                                        accesskey="6"
-                                        class="search_tour bg-white no-border left search-box__input ui-autocomplete-input"
-                                        type="text"
-                                        name="search"
-                                        id="search-1"
-                                        autocomplete="off">
-                                        <button title="<?php echo get_string("searchcourses", "theme_adaptable")?>"
-                                                type="submit" class="no-border bg-white pas search-box__button">
-                                                <abbr class="fa fa-search"
-                                                    title="<?php echo get_string("searchcourses", "theme_adaptable");?>">
-                                                </abbr>
-                                        </button>
+        <?php if ($adaptableheaderstyle == "style1") : ?>
+
+            <header id="adaptable-page-header-wrapper" <?php echo $headerbg; ?>>
+
+                <div id="above-header" class="mb-2 mb-lg-3">
+                    <div class="container">
+                        <nav class="navbar navbar-expand btco-hover-menu">
+
+                            <?php if ($shownavbar) { ?>
+                                <div id="adaptable-page-header-nav-drawer" data-region="drawer-toggle" class="d-lg-none mr-3">
+                                    <button id="drawer" aria-expanded="false" aria-controls="nav-drawer" type="button" class="nav-link float-sm-left mr-1" data-side="left">
+                                        <i class="fa fa-bars fa-fw " aria-hidden="true"></i>
+                                        <span class="sr-only"><?php echo get_string('sidepanel'); ?></span>
+                                    </button>
+                                </div>
+                            <?php } ?>
+
+                            <div class="collapse navbar-collapse">
+                                <?php
+                                if (empty($PAGE->theme->settings->menuslinkright)) {
+                                    echo '<div class="my-auto m-1">' . $OUTPUT->get_top_menus() . '</div>';
+                                }
+                                ?>
+
+                                <ul class="navbar-nav ml-auto my-auto">
+
+                                    <div class="pull-left">
+                                        <?php echo $OUTPUT->user_menu(); ?>
+                                    </div>
+
+                                    <?php
+                                    if (!empty($PAGE->theme->settings->menuslinkright)) {
+                                        echo '<div class="my-auto m-1">' . $OUTPUT->get_top_menus() . '</div>';
+                                    }
+                                    ?>
+
+                                    <?php
+                                    if (!empty($PAGE->theme->settings->responsivesearchicon)) {
+                                        $classes = 'd-xs-block d-sm-block d-md-none my-auto';
+                                    } else {
+                                        $classes = 'd-none';
+                                    }
+                                    ?>
+                                    <li class="nav-item <?php echo $classes; ?> mx-md-1 my-auto">
+                                        <a class="nav-link" href="<?php p($wwwroot) ?>/course/search.php">
+                                            <i class="icon fa fa-search fa-fw " title="Search" aria-label="Search"></i>
+                                        </a>
+                                    </li>
+
+                                    <?php
+
+                                    // Remove Messages and Notifications icons in Quiz pages even if they don't use SEB.
+                                    if ($PAGE->pagetype != "mod-quiz-attempt") {
+                                        echo '<div class="my-auto mx-md-1">' . $OUTPUT->navbar_plugin_output() . '</div>';
+                                    }
+
+                                    if (empty($PAGE->layout_options['langmenu']) || $PAGE->layout_options['langmenu']) {
+                                        echo '<li class="nav-item dropdown ml-2 my-auto">';
+                                        echo $OUTPUT->lang_menu();
+                                        echo '</li>';
+                                    }
+
+                                    if ((!isloggedin() || isguestuser()) && ($PAGE->pagetype != "login-index")) {
+                                        echo $OUTPUT->page_heading_menu();
+
+                                        if ($PAGE->theme->settings->displaylogin == 'box') {
+                                            // Login button.
+                                    ?>
+                                            <form id="pre-login-form" class="form-inline my-2 my-lg-0" action="<?php p($wwwroot) ?>/login/index.php" method="post">
+                                                <input type="hidden" name="logintoken" value="<?php echo s(\core\session\manager::get_login_token()); ?>" />
+                                                <input type="text" name="username" placeholder="<?php echo get_string('loginplaceholder', 'theme_adaptable'); ?>" size="11">
+                                                <input type="password" name="password" placeholder="<?php echo get_string('passwordplaceholder', 'theme_adaptable'); ?>" size="11">
+                                                <button class="btn-login" type="submit"><?php echo get_string('logintextbutton', 'theme_adaptable'); ?>
+                                                </button>
+                                            </form>
+                                        <?php
+                                        } else if ($PAGE->theme->settings->displaylogin == 'button') {
+                                        ?>
+                                            <form id="pre-login-form" class="form-inline my-0 my-lg-1" action="<?php p($wwwroot) ?>/login/index.php" method="post">
+                                                <input type="hidden" name="logintoken" value="<?php echo s(\core\session\manager::get_login_token()); ?>" />
+                                                <button class="btn-login" type="submit">
+                                                    <?php echo get_string('logintextbutton', 'theme_adaptable'); ?>
+                                                </button>
+                                            </form>
+                                        <?php
+                                        } else if ($PAGE->theme->settings->displaylogin == 'alternativeurl') {
+                                        ?>
+                                            <a class="btn-login" href="<?php echo $PAGE->theme->settings->alternateloginurl; ?>">
+                                                <?php echo get_string('logintextbutton', 'theme_adaptable'); ?>
+                                            </a>
+                                        <?php
+                                        }
+                                    } else {
+                                        // Display user profile menu.
+                                        ?>
+
+                                        <li class="nav-item dropdown ml-3 ml-md-4 mr-2 mr-md-0">
+                                            <?php echo $usermenu; ?>
+                                        </li>
+
+                                    <?php
+                                    }
+                                    ?>
+
+                                </ul>
                             </div>
-                        </form>
+                        </nav>
                     </div>
-                <?php
-                }
-                ?>
-
-                <div id="course-header">
-                    <?php echo $OUTPUT->course_header(); ?>
                 </div>
 
-            </div>
-            </div>
+                <div id="page-header" class="container <?php echo $PAGE->theme->settings->responsiveheader; ?>">
+                    <div class="row">
 
-    </div>
+                        <div class="col-lg-4">
+                            <?php
+                            // Site title or logo.
+                            if (!$hidesitetitle) {
+                                echo '<div class="d-flex align-items-start bd-highlight">';
+                                echo $OUTPUT->get_logo_title($currenttopcat);
+                                echo '</div>';
+                            }
+                            ?>
+                        </div>
 
-<?php endif; // End header style 1. ?>
+                        <div class="col-lg-8 p-0 my-auto">
+                            <?php
+                            // Remove Search Box or Social icons in Quiz pages even if they don't use SEB.
+                            if ($PAGE->pagetype != "mod-quiz-attempt") {
+                                // Social icons.
+                                if ($PAGE->theme->settings->socialorsearch == 'social') {
+                            ?>
+                                    <div class="socialbox pull-right <?php echo $PAGE->theme->settings->responsivesocial; ?>">
+                                        <?php
+                                        echo $OUTPUT->socialicons();
+                                        ?>
+                                    </div>
+                            <?php
+                                }
+                            }
+                            ?>
 
-<?php // Begin header style 2 (2 row header).  This includes a css class ID called "header2". ?>
-<?php if ($adaptableheaderstyle == "style2") : ?>
+                            <?php
+                            // Search box.
+                            if ((!$hidesitetitle) && ($PAGE->theme->settings->socialorsearch == 'search')) { ?>
+                                <div class="searchbox d-none d-lg-block">
+                                    <form action="<?php echo $wwwroot; ?>/course/search.php">
+                                        <label class="hidden" for="search-1" style="display: none;"><?php echo get_string("searchcourses") ?>
+                                        </label>
+                                        <div class="search-box grey-box bg-white clear-fix">
+                                            <input placeholder="<?php echo get_string("searchcourses", "theme_adaptable"); ?>" accesskey="6" class="search_tour bg-white no-border left search-box__input ui-autocomplete-input" type="text" name="search" id="search-1" autocomplete="off">
+                                            <button title="<?php echo get_string("searchcourses", "theme_adaptable") ?>" type="submit" class="no-border bg-white pas search-box__button">
+                                                <abbr class="fa fa-search" title="<?php echo get_string("searchcourses", "theme_adaptable"); ?>">
+                                                </abbr>
+                                            </button>
+                                        </div>
+                                    </form>
+                                </div>
+                            <?php
+                            }
+                            ?>
 
-    <header id="adaptable-page-header-wrapper" <?php echo $headerbg; ?> >
+                            <div id="course-header">
+                                <?php echo $OUTPUT->course_header(); ?>
+                            </div>
 
-    <div id="header2" class="container">
+                        </div>
+                    </div>
 
-      <div class="row">
+                </div>
 
-        <div class="d-none d-lg-block col-lg-4">
-        <div class="d-flex align-items-start bd-highlight">
-
-            <?php
-            // Site title or logo.
-            if (!$hidesitetitle) {
-                echo $OUTPUT->get_logo_title($currenttopcat);
-            }
+            <?php endif; // End header style 1.
             ?>
 
-            <div id="course-header">
-                <?php echo $OUTPUT->course_header(); ?>
-            </div>
-        </div>
-        </div>
+            <?php // Begin header style 2 (2 row header).  This includes a css class ID called "header2".
+            ?>
+            <?php if ($adaptableheaderstyle == "style2") : ?>
 
-        <div class="col-lg-8 p-0 my-auto">
+                <header id="adaptable-page-header-wrapper" <?php echo $headerbg; ?>>
 
-            <nav class="navbar navbar-expand btco-hover-menu">
+                    <div id="header2" class="container">
 
-                <?php if ($shownavbar) { ?>
-                <div id="adaptable-page-header-nav-drawer" data-region="drawer-toggle" class="d-lg-none mr-3">
-                    <button id="drawer" aria-expanded="false" aria-controls="nav-drawer" type="button"
-                    class="nav-link float-sm-left mr-1" data-side="left">
-                        <i class="fa fa-bars fa-fw " aria-hidden="true"></i>
-                        <span class="sr-only"><?php echo get_string('sidepanel'); ?></span>
-                    </button>
-                </div>
-                <?php } ?>
+                        <div class="row">
 
-                <div class="collapse navbar-collapse">
+                            <div class="d-none d-lg-block col-lg-4">
+                                <div class="d-flex align-items-start bd-highlight">
 
-                    <ul class="navbar-nav ml-auto">
+                                    <?php
+                                    // Site title or logo.
+                                    if (!$hidesitetitle) {
+                                        echo $OUTPUT->get_logo_title($currenttopcat);
+                                    }
+                                    ?>
 
-                        <div class="my-auto">
-                            <?php echo $OUTPUT->search_box(); ?>
+                                    <div id="course-header">
+                                        <?php echo $OUTPUT->course_header(); ?>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-8 p-0 my-auto">
+
+                                <nav class="navbar navbar-expand btco-hover-menu">
+
+                                    <?php if ($shownavbar) { ?>
+                                        <div id="adaptable-page-header-nav-drawer" data-region="drawer-toggle" class="d-lg-none mr-3">
+                                            <button id="drawer" aria-expanded="false" aria-controls="nav-drawer" type="button" class="nav-link float-sm-left mr-1" data-side="left">
+                                                <i class="fa fa-bars fa-fw " aria-hidden="true"></i>
+                                                <span class="sr-only"><?php echo get_string('sidepanel'); ?></span>
+                                            </button>
+                                        </div>
+                                    <?php } ?>
+
+                                    <div class="collapse navbar-collapse">
+
+                                        <ul class="navbar-nav ml-auto">
+
+                                            <div class="my-auto">
+                                                <?php echo $OUTPUT->search_box(); ?>
+                                            </div>
+
+                                            <?php
+                                            echo '<div class="my-auto m-1">' . $OUTPUT->get_top_menus($showtext = false) . '</div>';
+                                            ?>
+
+                                            <div class="pull-left mr-2 my-auto">
+                                                <?php echo $OUTPUT->user_menu(); ?>
+                                            </div>
+
+                                            <?php
+                                            if (!empty($PAGE->theme->settings->responsivesearchicon)) {
+                                                $classes = 'd-xs-block d-sm-block d-md-none';
+                                            } else {
+                                                $classes = 'd-none';
+                                            }
+                                            ?>
+
+                                            <?php
+
+                                            echo '<div class="my-auto mx-1">' . $OUTPUT->navbar_plugin_output() . '</div>';
+
+                                            $showlangtext = false;
+
+                                            if (empty($PAGE->layout_options['langmenu']) || $PAGE->layout_options['langmenu']) {
+                                                echo '<div class="my-auto">' . $OUTPUT->lang_menu($showlangtext) . '</div>';
+                                            }
+
+                                            if (!isloggedin() || isguestuser()) {
+                                                echo $OUTPUT->page_heading_menu();
+
+                                                if ($PAGE->theme->settings->displaylogin == 'box') {
+                                                    // Login button.
+                                            ?>
+                                                    <form id="pre-login-form" class="form-inline my-auto m-1" action="<?php p($wwwroot) ?>/login/index.php" method="post">
+                                                        <input type="hidden" name="logintoken" value="<?php echo s(\core\session\manager::get_login_token()); ?>" />
+                                                        <input type="text" name="username" placeholder="<?php echo get_string('loginplaceholder', 'theme_adaptable'); ?>" size="11">
+                                                        <input type="password" name="password" placeholder="<?php echo get_string('passwordplaceholder', 'theme_adaptable'); ?>" size="11">
+                                                        <button class="btn-login" type="submit"><?php echo get_string('logintextbutton', 'theme_adaptable'); ?>
+                                                        </button>
+                                                    </form>
+                                                <?php
+                                                } else if ($PAGE->theme->settings->displaylogin == 'button') {
+                                                ?>
+                                                    <form id="pre-login-form" class="form-inline my-auto m-1" action="<?php p($wwwroot) ?>/login/index.php" method="post">
+                                                        <input type="hidden" name="logintoken" value="<?php echo s(\core\session\manager::get_login_token()); ?>" />
+                                                        <button class="btn-login" type="submit">
+                                                            <?php echo get_string('logintextbutton', 'theme_adaptable'); ?>
+                                                        </button>
+                                                    </form>
+                                                <?php
+                                                }
+                                            } else {
+                                                // Display user profile menu.
+                                                ?>
+
+                                                <li class="nav-item dropdown ml-3 ml-md-2 mr-2 mr-md-0 my-auto">
+                                                    <?php echo $usermenu; ?>
+                                                </li>
+
+                                            <?php
+                                            }
+                                            ?>
+
+                                        </ul>
+                                    </div>
+                                </nav>
+                            </div>
                         </div>
+                    </div>
 
-                        <?php
-                            echo '<div class="my-auto m-1">' . $OUTPUT->get_top_menus($showtext = false) . '</div>';
-                        ?>
+                <?php endif; // End header style 2.
+                ?>
 
-                        <div class="pull-left mr-2 my-auto">
-                            <?php echo $OUTPUT->user_menu(); ?>
-                        </div>
-
-                        <?php
-                        if (!empty($PAGE->theme->settings->responsivesearchicon)) {
-                            $classes = 'd-xs-block d-sm-block d-md-none';
-                        } else {
-                            $classes = 'd-none';
-                        }
-                        ?>
-
-                        <?php
-
-                        echo '<div class="my-auto mx-1">' . $OUTPUT->navbar_plugin_output() . '</div>';
-
-                        $showlangtext = false;
-
-                        if (empty($PAGE->layout_options['langmenu']) || $PAGE->layout_options['langmenu']) {
-                            echo '<div class="my-auto">' . $OUTPUT->lang_menu($showlangtext) . '</div>';
-                        }
-
-                        if (!isloggedin() || isguestuser()) {
-                            echo $OUTPUT->page_heading_menu();
-
-                            if ($PAGE->theme->settings->displaylogin == 'box') {
-                                // Login button.
-                        ?>
-                        <form id="pre-login-form" class="form-inline my-auto m-1"
-                            action="<?php p($wwwroot) ?>/login/index.php" method="post">
-                        <input type="hidden" name="logintoken" value="<?php echo s(\core\session\manager::get_login_token()); ?>"/>
-                        <input type="text" name="username"
-                                    placeholder="<?php echo get_string('loginplaceholder', 'theme_adaptable'); ?>" size="11">
-                        <input type="password" name="password"
-                                    placeholder="<?php echo get_string('passwordplaceholder', 'theme_adaptable'); ?>"  size="11">
-                        <button class="btn-login" type="submit"><?php echo get_string('logintextbutton', 'theme_adaptable'); ?>
-                        </button>
-                        </form>
-                        <?php
-                            } else if ($PAGE->theme->settings->displaylogin == 'button') {
-                        ?>
-                            <form id="pre-login-form" class="form-inline my-auto m-1"
-                                action="<?php p($wwwroot) ?>/login/index.php" method="post">
-                            <input type="hidden" name="logintoken"
-                                value="<?php echo s(\core\session\manager::get_login_token()); ?>"/>
-                            <button class="btn-login" type="submit">
-                                <?php echo get_string('logintextbutton', 'theme_adaptable'); ?>
-                            </button>
-                            </form>
-                        <?php
-                            }
-                        } else {
-                            // Display user profile menu.
-                            ?>
-
-                            <li class="nav-item dropdown ml-3 ml-md-2 mr-2 mr-md-0 my-auto">
-                                <?php echo $usermenu; ?>
-                            </li>
-
-                        <?php
-                        }
-                    ?>
-
-                    </ul>
-                </div>
-            </nav>
-        </div>
-      </div>
-    </div>
-
-<?php endif; // End header style 2. ?>
-
-
-<?php
-// Navbar Menu.
-if ($shownavbar) {
-?>
-
-<div id="nav-drawer" data-region="drawer" class="d-print-none moodle-has-zindex closed" aria-hidden="true" tabindex="-1">
-    <div id="nav-drawer-inner">
-        <nav class="list-group">
-            <ul class="list-unstyled components">
 
                 <?php
-                echo $OUTPUT->navigation_menu('main-navigation-drawer');
+                // Navbar Menu.
+                if ($shownavbar) {
+                ?>
 
-                if (empty($PAGE->theme->settings->disablecustommenu)) {
-                    echo $OUTPUT->custom_menu_drawer();
-                }
-                if ($PAGE->theme->settings->enabletoolsmenus) {
-                    echo $OUTPUT->tools_menu('tools-menu-drawer');
+                    <div id="nav-drawer" data-region="drawer" class="d-print-none moodle-has-zindex closed" aria-hidden="true" tabindex="-1">
+                        <div id="nav-drawer-inner">
+                            <nav class="list-group">
+                                <ul class="list-unstyled components">
+
+                                    <?php
+                                    echo $OUTPUT->navigation_menu('main-navigation-drawer');
+
+                                    if (empty($PAGE->theme->settings->disablecustommenu)) {
+                                        echo $OUTPUT->custom_menu_drawer();
+                                    }
+                                    if ($PAGE->theme->settings->enabletoolsmenus) {
+                                        echo $OUTPUT->tools_menu('tools-menu-drawer');
+                                    }
+                                    ?>
+
+                                </ul>
+                            </nav>
+
+                            <nav class="list-group m-t-1">
+                                <?php echo $OUTPUT->context_mobile_settings_menu(); ?>
+                                <a class="list-group-item list-group-item-action " href="<?php echo $CFG->wwwroot . '/admin/search.php'; ?>">
+                                    <div class="m-l-0">
+                                        <div class="media">
+                                            <span class="media-left">
+                                                <i class="icon fa fa-wrench fa-fw" aria-hidden="true"></i>
+                                            </span>
+                                            <span class="media-body "><?php echo get_string('administrationsite'); ?></span>
+                                        </div>
+                                    </div>
+                                </a>
+                            </nav>
+                        </div>
+                    </div>
+
+                    <div id="main-navbar" class="d-none d-lg-block">
+                        <div class="container">
+                            <div class="navbar navbar-expand-md btco-hover-menu">
+                                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+
+                                    <span class="navbar-toggler-icon"></span>
+                                </button>
+
+                                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+                                    <nav role="navigation" aria-label="<?php echo get_string('sitelinkslabel', 'theme_adaptable'); ?>">
+                                        <ul class="navbar-nav">
+                                            <?php echo $OUTPUT->navigation_menu('main-navigation'); ?>
+
+                                            <?php
+                                            if (empty($PAGE->theme->settings->disablecustommenu)) {
+                                                echo $OUTPUT->custom_menu();
+                                            }
+                                            if ($PAGE->theme->settings->enabletoolsmenus) {
+                                                echo $OUTPUT->tools_menu();
+                                            }
+                                            ?>
+                                        </ul>
+                                    </nav>
+
+                                    <ul class="navbar-nav ml-auto">
+
+                                        <?php
+                                        $navbareditsettings = $PAGE->theme->settings->editsettingsbutton;
+                                        $showcog = true;
+                                        $showeditbuttons = false;
+
+                                        if ($navbareditsettings == 'button') {
+                                            $showeditbuttons = true;
+                                            $showcog = false;
+                                        } else if ($navbareditsettings == 'cogandbutton') {
+                                            $showeditbuttons = true;
+                                        }
+
+                                        $coursemenucontent = $OUTPUT->context_header_settings_menu();
+                                        if ($showcog) {
+                                            if ($coursemenucontent) {
+                                        ?>
+                                                <li class="nav-item mr-2">
+                                                    <div class="context-header-settings-menu">
+                                                        <?php echo $coursemenucontent; ?>
+                                                    </div>
+                                                </li>
+                                            <?php
+                                            }
+                                        }
+
+                                        $othermenucontent = $OUTPUT->region_main_settings_menu();
+                                        if ($showcog) {
+                                            if ($othermenucontent) {
+                                            ?>
+                                                <li class="nav-item mr-2">
+                                                    <div id="region-main-settings-menu" class="region-main-settings-menu">
+                                                        <?php echo $othermenucontent; ?>
+                                                    </div>
+                                                </li>
+                                        <?php
+                                            }
+                                        }
+                                        ?>
+
+                                        <?php
+                                        // Ensure to only hide the button on relevant pages.  Some pages will need the button, such as the
+                                        // dashboard page. Checking if the cog is being displayed above to figure out if it still needs to
+                                        // show (when there is no cog). Also show mod pages (e.g. Forum, Lesson) as these sometimes have
+                                        // a button for a specific purpose.
+                                        if (($showeditbuttons) || (
+                                                (empty($coursemenucontent)) &&
+                                                (empty($othermenucontent))) ||
+                                            (strstr($PAGE->pagetype, 'mod-'))
+                                        ) {
+                                            $pageheadingbutton = $OUTPUT->page_heading_button();
+                                            if (!empty($pageheadingbutton)) {
+                                        ?>
+                                                <li class="nav-item mx-0 my-auto">
+                                                    <div id="edittingbutton">
+                                                        <?php echo $pageheadingbutton; ?>
+                                                    </div>
+                                                </li>
+                                        <?php
+                                            }
+                                        }
+                                        ?>
+
+                                        <?php
+                                        if (isloggedin()) {
+                                            if (!empty($this->page->theme->settings->enableshowhideblocks)) {
+                                                $zoomside = ((!empty($this->page->theme->settings->blockside)) &&
+                                                    ($this->page->theme->settings->blockside == 1)) ? 'left' : 'right';
+                                                $hidetitle = get_string('hideblocks', 'theme_adaptable');
+                                                $showtitle = get_string('showblocks', 'theme_adaptable');
+                                                if ($setzoom == 'zoomin') { // Blocks not shown.
+                                                    $zoominicontitle = $showtitle;
+                                                    if ($zoomside == 'right') {
+                                                        $icontype = 'outdent';
+                                                    } else {
+                                                        $icontype = 'indent';
+                                                    }
+                                                } else {
+                                                    $zoominicontitle = $hidetitle;
+                                                    if ($zoomside == 'right') {
+                                                        $icontype = 'indent';
+                                                    } else {
+                                                        $icontype = 'outdent';
+                                                    }
+                                                }
+                                                echo html_writer::start_tag('li', array('class' => 'nav-item mr-1'));
+                                                echo html_writer::start_tag(
+                                                    'div',
+                                                    array(
+                                                        'id' => 'zoominicon', 'class' => $zoomside . ' nav-link', 'title' => $zoominicontitle,
+                                                        'data-hidetitle' => $hidetitle, 'data-showtitle' => $showtitle
+                                                    )
+                                                );
+                                                echo html_writer::tag('i', '', array('class' => 'fa fa-lg fa-' . $icontype, 'aria-hidden' => 'true'));
+                                                if ($PAGE->theme->settings->enableshowhideblockstext) {
+                                                    echo html_writer::tag('span', $zoominicontitle, array('class' => 'showhideblocksdesc'));
+                                                }
+                                                echo html_writer::end_tag('div');
+                                                echo html_writer::end_tag('li');
+                                                $PAGE->requires->js_call_amd('theme_adaptable/zoomin', 'init');
+                                            }
+                                            if ($PAGE->theme->settings->enablezoom) { ?>
+                                                <li class="nav-item mx-0 hbll">
+                                                    <a class="nav-link moodlewidth" href="javascript:void(0);" title="<?php echo get_string('fullscreen', 'theme_adaptable') ?>">
+                                                        <i class="fa fa-expand fa-lg"></i>
+                                                        <?php if ($PAGE->theme->settings->enablezoomshowtext) { ?>
+                                                            <span class="zoomdesc"><?php echo get_string('fullscreen', 'theme_adaptable') ?></span>
+                                                        <?php } ?>
+                                                    </a>
+                                                </li>
+                                                <li class="nav-item mx-0 sbll">
+                                                    <a class="nav-link moodlewidth" href="javascript:void(0);" title="<?php echo get_string('standardview', 'theme_adaptable') ?>">
+                                                        <i class="fa fa-compress fa-lg"></i>
+                                                        <?php if ($PAGE->theme->settings->enablezoomshowtext) { ?>
+                                                            <span class="zoomdesc"><?php echo get_string('standardview', 'theme_adaptable') ?></span>
+                                                        <?php } ?>
+                                                    </a>
+                                                </li>
+                                        <?php
+                                            }
+                                        }
+                                        ?>
+                                    </ul>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                <?php
                 }
                 ?>
 
-            </ul>
-        </nav>
+                </header>
 
-        <nav class="list-group m-t-1">
-            <?php echo $OUTPUT->context_mobile_settings_menu(); ?>
-            <a class="list-group-item list-group-item-action " href="<?php echo $CFG->wwwroot.'/admin/search.php'; ?>">
-                <div class="m-l-0">
-                    <div class="media">
-                        <span class="media-left">
-                            <i class="icon fa fa-wrench fa-fw" aria-hidden="true"></i>
-                        </span>
-                        <span class="media-body "><?php echo get_string('administrationsite'); ?></span>
-                    </div>
-                </div>
-            </a>
-        </nav>
-    </div>
-</div>
+                <?php
 
-<div id="main-navbar" class="d-none d-lg-block">
-    <div class="container">
-        <div class="navbar navbar-expand-md btco-hover-menu">
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-
-            <span class="navbar-toggler-icon"></span>
-            </button>
-
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-
-            <nav role="navigation" aria-label="<?php echo get_string('sitelinkslabel', 'theme_adaptable'); ?>">
-                <ul class="navbar-nav">
-                    <?php echo $OUTPUT->navigation_menu('main-navigation'); ?>
-
-                    <?php
-                    if (empty($PAGE->theme->settings->disablecustommenu)) {
-                        echo $OUTPUT->custom_menu();
-                    }
-                    if ($PAGE->theme->settings->enabletoolsmenus) {
-                        echo $OUTPUT->tools_menu();
-                    }
-                    ?>
-                </ul>
-            </nav>
-
-                <ul class="navbar-nav ml-auto">
-
-                    <?php
-                    $navbareditsettings = $PAGE->theme->settings->editsettingsbutton;
-                    $showcog = true;
-                    $showeditbuttons = false;
-
-                    if ($navbareditsettings == 'button') {
-                        $showeditbuttons = true;
-                        $showcog = false;
-                    } else if ($navbareditsettings == 'cogandbutton') {
-                        $showeditbuttons = true;
-                    }
-
-                    $coursemenucontent = $OUTPUT->context_header_settings_menu();
-                    if ($showcog) {
-                        if ($coursemenucontent) {
-                    ?>
-                            <li class="nav-item mr-2">
-                                <div class="context-header-settings-menu">
-                                    <?php echo $coursemenucontent; ?>
-                                </div>
-                            </li>
-                    <?php
-                        }
-                    }
-
-                    $othermenucontent = $OUTPUT->region_main_settings_menu();
-                    if ($showcog) {
-                        if ($othermenucontent) {
-                    ?>
-                            <li class="nav-item mr-2">
-                                <div id="region-main-settings-menu" class="region-main-settings-menu">
-                                    <?php echo $othermenucontent; ?>
-                                </div>
-                            </li>
-                    <?php
-                        }
-                    }
-                    ?>
-
-                    <?php
-                    // Ensure to only hide the button on relevant pages.  Some pages will need the button, such as the
-                    // dashboard page. Checking if the cog is being displayed above to figure out if it still needs to
-                    // show (when there is no cog). Also show mod pages (e.g. Forum, Lesson) as these sometimes have
-                    // a button for a specific purpose.
-                    if ( ($showeditbuttons) || (
-                        (empty($coursemenucontent)) &&
-                        (empty($othermenucontent))
-                        ) ||
-                        (strstr($PAGE->pagetype, 'mod-'))
-                    ) {
-                        $pageheadingbutton = $OUTPUT->page_heading_button();
-                        if (!empty($pageheadingbutton)) {
-                        ?>
-                        <li class="nav-item mx-0 my-auto">
-                             <div id="edittingbutton">
-                                <?php echo $pageheadingbutton; ?>
-                            </div>
-                        </li>
-                        <?php
-                        }
-                    }
-                    ?>
-
-                    <?php
-                    if (isloggedin()) {
-                        if (!empty($this->page->theme->settings->enableshowhideblocks)) {
-                            $zoomside = ((!empty($this->page->theme->settings->blockside)) &&
-                                        ($this->page->theme->settings->blockside == 1)) ? 'left' : 'right';
-                            $hidetitle = get_string('hideblocks', 'theme_adaptable');
-                            $showtitle = get_string('showblocks', 'theme_adaptable');
-                            if ($setzoom == 'zoomin') { // Blocks not shown.
-                                $zoominicontitle = $showtitle;
-                                if ($zoomside == 'right') {
-                                    $icontype = 'outdent';
-                                } else {
-                                    $icontype = 'indent';
-                                }
-                            } else {
-                                $zoominicontitle = $hidetitle;
-                                if ($zoomside == 'right') {
-                                    $icontype = 'indent';
-                                } else {
-                                    $icontype = 'outdent';
-                                }
-                            }
-                            echo html_writer::start_tag('li', array('class' => 'nav-item mr-1'));
-                            echo html_writer::start_tag('div',
-                                array('id' => 'zoominicon', 'class' => $zoomside. ' nav-link', 'title' => $zoominicontitle,
-                                    'data-hidetitle' => $hidetitle, 'data-showtitle' => $showtitle));
-                            echo html_writer::tag('i', '', array('class' => 'fa fa-lg fa-'.$icontype, 'aria-hidden' => 'true'));
-                            if ($PAGE->theme->settings->enableshowhideblockstext) {
-                                echo html_writer::tag('span', $zoominicontitle, array('class' => 'showhideblocksdesc'));
-                            }
-                            echo html_writer::end_tag('div');
-                            echo html_writer::end_tag('li');
-                            $PAGE->requires->js_call_amd('theme_adaptable/zoomin', 'init');
-                        }
-                        if ($PAGE->theme->settings->enablezoom) { ?>
-                            <li class="nav-item mx-0 hbll">
-                                <a class="nav-link moodlewidth" href="javascript:void(0);"
-                                    title="<?php echo get_string('fullscreen', 'theme_adaptable') ?>">
-                                    <i class="fa fa-expand fa-lg"></i>
-                                    <?php if ($PAGE->theme->settings->enablezoomshowtext) { ?>
-                                    <span class="zoomdesc"><?php echo get_string('fullscreen', 'theme_adaptable') ?></span>
-                                    <?php } ?>
-                                </a>
-                            </li>
-                            <li class="nav-item mx-0 sbll">
-                                <a class="nav-link moodlewidth" href="javascript:void(0);"
-                                    title="<?php echo get_string('standardview', 'theme_adaptable') ?>">
-                                    <i class="fa fa-compress fa-lg"></i>
-                                    <?php if ($PAGE->theme->settings->enablezoomshowtext) { ?>
-                                    <span class="zoomdesc"><?php echo get_string('standardview', 'theme_adaptable') ?></span>
-                                    <?php } ?>
-                                </a>
-                            </li>
-                    <?php
-                        }
-                    }
-                    ?>
-                </ul>
-
-            </div>
-        </div>
-    </div>
-</div>
-
-<?php
-}
-?>
-
-</header>
-
-<?php
-
-// Display News Ticker.
-echo $OUTPUT->get_news_ticker();
+                // Display News Ticker.
+                echo $OUTPUT->get_news_ticker();

@@ -29,8 +29,11 @@ defined('MOODLE_INTERNAL') || die;
 // Header heading.
 $temp = new admin_settingpage('theme_adaptable_header', get_string('headersettings', 'theme_adaptable'));
 if ($ADMIN->fulltree) {
-    $temp->add(new admin_setting_heading('theme_adaptable_header', get_string('headersettingsheading', 'theme_adaptable'),
-    format_text(get_string('headerdesc', 'theme_adaptable'), FORMAT_MARKDOWN)));
+    $temp->add(new admin_setting_heading(
+        'theme_adaptable_header',
+        get_string('headersettingsheading', 'theme_adaptable'),
+        format_text(get_string('headerdesc', 'theme_adaptable'), FORMAT_MARKDOWN)
+    ));
 
     // Header image.
     $name = 'theme_adaptable/headerbgimage';
@@ -46,9 +49,18 @@ if ($ADMIN->fulltree) {
     $choices = array(
         'button' => get_string('displayloginbutton', 'theme_adaptable'),
         'box' => get_string('displayloginbox', 'theme_adaptable'),
+        'alternativeurl' => get_string('displayloginalternate', 'theme_adaptable'),
         'no' => get_string('displayloginno', 'theme_adaptable')
     );
     $setting = new admin_setting_configselect($name, $title, $description, 'button', $choices);
+    $setting->set_updatedcallback('theme_reset_all_caches');
+    $temp->add($setting);
+
+    // Alternative login url
+    $name = 'theme_adaptable/alternateloginurl';
+    $title = get_string('alternateloginurl', 'theme_adaptable');
+    $description = get_string('alternateloginurldesc', 'theme_adaptable');
+    $setting = new admin_setting_configtext($name, $title, $description, '');
     $setting->set_updatedcallback('theme_reset_all_caches');
     $temp->add($setting);
 
@@ -211,9 +223,11 @@ if ($ADMIN->fulltree) {
     $temp->add($setting);
 
     // My courses section.
-    $temp->add(new admin_setting_heading('theme_adaptable_headerstyle_heading',
+    $temp->add(new admin_setting_heading(
+        'theme_adaptable_headerstyle_heading',
         get_string('headerstyleheading', 'theme_adaptable'),
-        format_text(get_string('headerstyleheadingdesc', 'theme_adaptable'), FORMAT_MARKDOWN)));
+        format_text(get_string('headerstyleheadingdesc', 'theme_adaptable'), FORMAT_MARKDOWN)
+    ));
 
     // Adaptable header style selection.
     $name = 'theme_adaptable/headerstyle';
