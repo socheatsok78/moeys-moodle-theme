@@ -48,8 +48,8 @@ define(['jquery', 'core/log'], function ($, log) {
 
                 window['MoEYS'] = MoEYS;
 
-                log.debug('currentpage', currentpage);
-                log.debug('MoEYS', MoEYS);
+                log.debug(currentpage);
+                log.debug(MoEYS);
             }
 
             // Ready scripts
