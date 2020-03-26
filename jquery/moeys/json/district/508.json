@@ -1,0 +1,392 @@
+{
+    "id": 508,
+    "schools": [
+        {
+            "id": "05080103001",
+            "school_type_id": 2,
+            "district_id": 508,
+            "commune_id": "050801",
+            "village_id": "05080103",
+            "name": "Peam",
+            "name_km": "បឋម.ពាម"
+        },
+        {
+            "id": "05080105022",
+            "school_type_id": 2,
+            "district_id": 508,
+            "commune_id": "050801",
+            "village_id": "05080105",
+            "name": "Am Laing",
+            "name_km": "អមលាំង"
+        },
+        {
+            "id": "05080105505",
+            "school_type_id": 1,
+            "district_id": 508,
+            "commune_id": "050801",
+            "village_id": "05080105",
+            "name": "Am Laing",
+            "name_km": "អមលាំង"
+        },
+        {
+            "id": "05080105704",
+            "school_type_id": 3,
+            "district_id": 508,
+            "commune_id": "050801",
+            "village_id": "05080105",
+            "name": "Am Laing",
+            "name_km": "អនុវិទ្យាល័យអមលាំង"
+        },
+        {
+            "id": "05080106002",
+            "school_type_id": 2,
+            "district_id": 508,
+            "commune_id": "050801",
+            "village_id": "05080106",
+            "name": "Kang Khemarak Phoumin",
+            "name_km": "កងខេមរភូមិន្ទ"
+        },
+        {
+            "id": "05080106510",
+            "school_type_id": 1,
+            "district_id": 508,
+            "commune_id": "050801",
+            "village_id": "05080106",
+            "name": "Kangkhemrak Phummin",
+            "name_km": "កងខេមរភូមិន្ទ"
+        },
+        {
+            "id": "05080109003",
+            "school_type_id": 2,
+            "district_id": 508,
+            "commune_id": "050801",
+            "village_id": "05080109",
+            "name": "Trapaing Pneuv",
+            "name_km": "ត្រពាំងព្នៅ"
+        },
+        {
+            "id": "05080109508",
+            "school_type_id": 1,
+            "district_id": 508,
+            "commune_id": "050801",
+            "village_id": "05080109",
+            "name": "Trapaing Pneuv",
+            "name_km": "ត្រពាំងព្នៅ"
+        },
+        {
+            "id": "05080111019",
+            "school_type_id": 2,
+            "district_id": 508,
+            "commune_id": "050801",
+            "village_id": "05080111",
+            "name": "Ponleu Thmei Chrova",
+            "name_km": "ពន្លឺថ្មី"
+        },
+        {
+            "id": "05080112020",
+            "school_type_id": 2,
+            "district_id": 508,
+            "commune_id": "050801",
+            "village_id": "05080112",
+            "name": "O Da",
+            "name_km": "អូរដា"
+        },
+        {
+            "id": "05080113021",
+            "school_type_id": 2,
+            "district_id": 508,
+            "commune_id": "050801",
+            "village_id": "05080113",
+            "name": "Taing Haong",
+            "name_km": "តាំងហោង"
+        },
+        {
+            "id": "05080202004",
+            "school_type_id": 2,
+            "district_id": 508,
+            "commune_id": "050802",
+            "village_id": "05080202",
+            "name": "Samrong Kampuchea Japan",
+            "name_km": "សំរោងមិត្តភាពកម្ពុជា ជប៉ុន"
+        },
+        {
+            "id": "05080202501",
+            "school_type_id": 1,
+            "district_id": 508,
+            "commune_id": "050802",
+            "village_id": "05080202",
+            "name": "Samrong",
+            "name_km": "សំរោង"
+        },
+        {
+            "id": "05080202902",
+            "school_type_id": 5,
+            "district_id": 508,
+            "commune_id": "050802",
+            "village_id": "05080202",
+            "name": "Samrong",
+            "name_km": "វិទ្យាល័យហ៊ុនសែនសំរោង"
+        },
+        {
+            "id": "05080205027",
+            "school_type_id": 2,
+            "district_id": 508,
+            "commune_id": "050802",
+            "village_id": "05080205",
+            "name": "Kaun Phnom",
+            "name_km": "ជាស៊ីមកូនភ្នំ"
+        },
+        {
+            "id": "05080401009",
+            "school_type_id": 2,
+            "district_id": 508,
+            "commune_id": "050804",
+            "village_id": "05080401",
+            "name": "Prey Veng",
+            "name_km": "ព្រៃវែង"
+        },
+        {
+            "id": "05080402026",
+            "school_type_id": 2,
+            "district_id": 508,
+            "commune_id": "050804",
+            "village_id": "05080402",
+            "name": "Phnom Bath",
+            "name_km": "ភ្នំបាត"
+        },
+        {
+            "id": "05080403005",
+            "school_type_id": 2,
+            "district_id": 508,
+            "commune_id": "050804",
+            "village_id": "05080403",
+            "name": "Taing Po",
+            "name_km": "តាំងពោធិ៏"
+        },
+        {
+            "id": "05080404006",
+            "school_type_id": 2,
+            "district_id": 508,
+            "commune_id": "050804",
+            "village_id": "05080404",
+            "name": "Prambei Mum",
+            "name_km": "ប្រាំបីមុម"
+        },
+        {
+            "id": "05080405007",
+            "school_type_id": 2,
+            "district_id": 508,
+            "commune_id": "050804",
+            "village_id": "05080405",
+            "name": "Trapaing Troak",
+            "name_km": "ត្រពាំងត្រោក"
+        },
+        {
+            "id": "05080407506",
+            "school_type_id": 1,
+            "district_id": 508,
+            "commune_id": "050804",
+            "village_id": "05080407",
+            "name": "Taing Po",
+            "name_km": "តាំងពោធិ៏"
+        },
+        {
+            "id": "05080409008",
+            "school_type_id": 2,
+            "district_id": 508,
+            "commune_id": "050804",
+            "village_id": "05080409",
+            "name": "Thann Kim Sorn",
+            "name_km": "ថាន់ គឹមស៊ន"
+        },
+        {
+            "id": "05080410502",
+            "school_type_id": 1,
+            "district_id": 508,
+            "commune_id": "050804",
+            "village_id": "05080410",
+            "name": "Prambei Mum",
+            "name_km": "ប្រាំបីមុម"
+        },
+        {
+            "id": "05080410901",
+            "school_type_id": 5,
+            "district_id": 508,
+            "commune_id": "050804",
+            "village_id": "05080410",
+            "name": "Anlung Chrey",
+            "name_km": "វិទ្យាល័យហ៊ុនសែនអន្លង់ជ្រៃ"
+        },
+        {
+            "id": "05080504010",
+            "school_type_id": 2,
+            "district_id": 508,
+            "commune_id": "050805",
+            "village_id": "05080504",
+            "name": "Teuk Lorng",
+            "name_km": "ទឹកលង"
+        },
+        {
+            "id": "05080504507",
+            "school_type_id": 1,
+            "district_id": 508,
+            "commune_id": "050805",
+            "village_id": "05080504",
+            "name": "Teuk Lorng",
+            "name_km": "ទឹកលង"
+        },
+        {
+            "id": "05080504706",
+            "school_type_id": 3,
+            "district_id": 508,
+            "commune_id": "050805",
+            "village_id": "05080504",
+            "name": "Teuk Lorng",
+            "name_km": "អនុវិទ្យាល័យទឹកលង"
+        },
+        {
+            "id": "05080507011",
+            "school_type_id": 2,
+            "district_id": 508,
+            "commune_id": "050805",
+            "village_id": "05080507",
+            "name": "Phoum Thmei Mittapheap Kampuchea Japan",
+            "name_km": "បឋមសិក្សាភូមិថ្មី"
+        },
+        {
+            "id": "05080507504",
+            "school_type_id": 1,
+            "district_id": 508,
+            "commune_id": "050805",
+            "village_id": "05080507",
+            "name": "Phoum Thmei Mittapheap Kampuchea Japan",
+            "name_km": "ភូមិថ្មី"
+        },
+        {
+            "id": "05080604024",
+            "school_type_id": 2,
+            "district_id": 508,
+            "commune_id": "050806",
+            "village_id": "05080604",
+            "name": "Anha Ses",
+            "name_km": "អញ្ញាសេះ"
+        },
+        {
+            "id": "05080606012",
+            "school_type_id": 2,
+            "district_id": 508,
+            "commune_id": "050806",
+            "village_id": "05080606",
+            "name": "Toap Mean",
+            "name_km": "ទព័មាន"
+        },
+        {
+            "id": "05080606705",
+            "school_type_id": 3,
+            "district_id": 508,
+            "commune_id": "050806",
+            "village_id": "05080606",
+            "name": "Toap Mean",
+            "name_km": "អនុវិទ្យាល័យទ័ពមាន"
+        },
+        {
+            "id": "05080607023",
+            "school_type_id": 2,
+            "district_id": 508,
+            "commune_id": "050806",
+            "village_id": "05080607",
+            "name": "O Snuol",
+            "name_km": "បឋម អូរស្នួល"
+        },
+        {
+            "id": "05080702013",
+            "school_type_id": 2,
+            "district_id": 508,
+            "commune_id": "050807",
+            "village_id": "05080702",
+            "name": "Veal Pun",
+            "name_km": "វាលពន់"
+        },
+        {
+            "id": "05080708015",
+            "school_type_id": 2,
+            "district_id": 508,
+            "commune_id": "050807",
+            "village_id": "05080708",
+            "name": "Taing Banteay",
+            "name_km": "តាំងបន្ទាយ"
+        },
+        {
+            "id": "05080710014",
+            "school_type_id": 2,
+            "district_id": 508,
+            "commune_id": "050807",
+            "village_id": "05080710",
+            "name": "Prey Mich",
+            "name_km": "ព្រៃមិច"
+        },
+        {
+            "id": "05080710503",
+            "school_type_id": 1,
+            "district_id": 508,
+            "commune_id": "050807",
+            "village_id": "05080710",
+            "name": "Prey Mich",
+            "name_km": "មត្តេយ្យព្រៃមិច"
+        },
+        {
+            "id": "05080710707",
+            "school_type_id": 3,
+            "district_id": 508,
+            "commune_id": "050807",
+            "village_id": "05080710",
+            "name": "Thaom RaingsyPreymich",
+            "name_km": "អនុវិ.ធម្មរង្សីព្រៃមិច"
+        },
+        {
+            "id": "05080805016",
+            "school_type_id": 2,
+            "district_id": 508,
+            "commune_id": "050808",
+            "village_id": "05080805",
+            "name": "Wat Tbeng",
+            "name_km": "វត្តត្បែង"
+        },
+        {
+            "id": "05080805703",
+            "school_type_id": 3,
+            "district_id": 508,
+            "commune_id": "050808",
+            "village_id": "05080805",
+            "name": "Wat Tbeng",
+            "name_km": "អនុវិទ្យាល័យវត្តត្បែង"
+        },
+        {
+            "id": "05080807017",
+            "school_type_id": 2,
+            "district_id": 508,
+            "commune_id": "050808",
+            "village_id": "05080807",
+            "name": "Rolaing Beng",
+            "name_km": "រលាំងបែង"
+        },
+        {
+            "id": "05080807509",
+            "school_type_id": 1,
+            "district_id": 508,
+            "commune_id": "050808",
+            "village_id": "05080807",
+            "name": "Rolang Bang",
+            "name_km": "មត្តេយ្យរលាំងបែង"
+        },
+        {
+            "id": "05080810018",
+            "school_type_id": 2,
+            "district_id": 508,
+            "commune_id": "050808",
+            "village_id": "05080810",
+            "name": "Rumchek (A)",
+            "name_km": "រំចេក"
+        }
+    ]
+}

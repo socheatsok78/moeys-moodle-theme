@@ -1,0 +1,203 @@
+{
+    "id": 905,
+    "schools": [
+        {
+            "id": "09050101001",
+            "school_type_id": 2,
+            "district_id": 905,
+            "commune_id": "090501",
+            "village_id": "09050101",
+            "name": "Pak Khlang",
+            "name_km": "ប៉ាក់ខ្លង"
+        },
+        {
+            "id": "09050101501",
+            "school_type_id": 1,
+            "district_id": 905,
+            "commune_id": "090501",
+            "village_id": "09050101",
+            "name": "Pak Khlang",
+            "name_km": "ប៉ាក់ខ្លង"
+        },
+        {
+            "id": "09050101901",
+            "school_type_id": 5,
+            "district_id": 905,
+            "commune_id": "090501",
+            "village_id": "09050101",
+            "name": "Pak Khlang",
+            "name_km": "វិទ្យាល័យប៉ាក់ខ្លង"
+        },
+        {
+            "id": "09050104010",
+            "school_type_id": 2,
+            "district_id": 905,
+            "commune_id": "090501",
+            "village_id": "09050104",
+            "name": "Boeung Kachhang",
+            "name_km": "បឺង​កាឆាង"
+        },
+        {
+            "id": "09050104505",
+            "school_type_id": 1,
+            "district_id": 905,
+            "commune_id": "090501",
+            "village_id": "09050104",
+            "name": "Boeung Kachhang",
+            "name_km": "បឺងកាឆាង"
+        },
+        {
+            "id": "09050105002",
+            "school_type_id": 2,
+            "district_id": 905,
+            "commune_id": "090501",
+            "village_id": "09050105",
+            "name": "Koh Por",
+            "name_km": "កោះប៉ោ"
+        },
+        {
+            "id": "09050106003",
+            "school_type_id": 2,
+            "district_id": 905,
+            "commune_id": "090501",
+            "village_id": "09050106",
+            "name": "Mondul Seima Ram",
+            "name_km": "សាលាបឋមសិក្សាមណ្ឌលសីមារាម"
+        },
+        {
+            "id": "09050106504",
+            "school_type_id": 1,
+            "district_id": 905,
+            "commune_id": "090501",
+            "village_id": "09050106",
+            "name": "Mondul Seima Ram",
+            "name_km": "មណ្ឌលសីម៉ារាម"
+        },
+        {
+            "id": "09050107005",
+            "school_type_id": 2,
+            "district_id": 905,
+            "commune_id": "090501",
+            "village_id": "09050107",
+            "name": "Seila Meanchey",
+            "name_km": "សិលាមានជ័យ"
+        },
+        {
+            "id": "09050107008",
+            "school_type_id": 2,
+            "district_id": 905,
+            "commune_id": "090501",
+            "village_id": "09050107",
+            "name": "Hun Sen Cham Yeam",
+            "name_km": "ហ៊ុនសែនចាំយាម"
+        },
+        {
+            "id": "09050107011",
+            "school_type_id": 2,
+            "district_id": 905,
+            "commune_id": "090501",
+            "village_id": "09050107",
+            "name": "Vong Kathak",
+            "name_km": "ឧបសម្ព័ន្ធវង់កាថាក់"
+        },
+        {
+            "id": "09050107014",
+            "school_type_id": 2,
+            "district_id": 905,
+            "commune_id": "090501",
+            "village_id": "09050107",
+            "name": "Kor 2",
+            "name_km": "ឧបសម្ព័ន្ធគ២"
+        },
+        {
+            "id": "09050107015",
+            "school_type_id": 2,
+            "district_id": 905,
+            "commune_id": "090501",
+            "village_id": "09050107",
+            "name": "Kor 3",
+            "name_km": "ឧបសម្ព័ន្ធគ៣"
+        },
+        {
+            "id": "09050107502",
+            "school_type_id": 1,
+            "district_id": 905,
+            "commune_id": "090501",
+            "village_id": "09050107",
+            "name": "Hun Sen Cham Yeam",
+            "name_km": "ហ៊ុន សែនចាំយាម"
+        },
+        {
+            "id": "09050107702",
+            "school_type_id": 3,
+            "district_id": 905,
+            "commune_id": "090501",
+            "village_id": "09050107",
+            "name": "Hun Sen Cham Yeam",
+            "name_km": "អនុវិទ្យាល័យហ៊ុនសែនចាំយាម"
+        },
+        {
+            "id": "09050201004",
+            "school_type_id": 2,
+            "district_id": 905,
+            "commune_id": "090502",
+            "village_id": "09050201",
+            "name": "Kiri Vong",
+            "name_km": "គីរីវង្ស"
+        },
+        {
+            "id": "09050202012",
+            "school_type_id": 2,
+            "district_id": 905,
+            "commune_id": "090502",
+            "village_id": "09050202",
+            "name": "Peam Krasoab 2",
+            "name_km": "ពាមក្រសោប"
+        },
+        {
+            "id": "09050203009",
+            "school_type_id": 2,
+            "district_id": 905,
+            "commune_id": "090502",
+            "village_id": "09050203",
+            "name": "Koh Kang",
+            "name_km": "កោះកាង"
+        },
+        {
+            "id": "09050203503",
+            "school_type_id": 1,
+            "district_id": 905,
+            "commune_id": "090502",
+            "village_id": "09050203",
+            "name": "Koh Kang",
+            "name_km": "កោះកាង"
+        },
+        {
+            "id": "09050203703",
+            "school_type_id": 3,
+            "district_id": 905,
+            "commune_id": "090502",
+            "village_id": "09050203",
+            "name": "Peam Krasoab",
+            "name_km": "ពាមក្រសោប"
+        },
+        {
+            "id": "09050302006",
+            "school_type_id": 2,
+            "district_id": 905,
+            "commune_id": "090503",
+            "village_id": "09050302",
+            "name": "Tea Banh Ta Chat",
+            "name_km": "ទៀបាញ់កាចាត"
+        },
+        {
+            "id": "09050303007",
+            "school_type_id": 2,
+            "district_id": 905,
+            "commune_id": "090503",
+            "village_id": "09050303",
+            "name": "Tuol Koki",
+            "name_km": "ទួលគគីរ"
+        }
+    ]
+}

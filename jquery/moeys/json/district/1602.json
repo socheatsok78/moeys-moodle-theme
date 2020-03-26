@@ -1,0 +1,257 @@
+{
+    "id": 1602,
+    "schools": [
+        {
+            "id": "16020101001",
+            "school_type_id": 2,
+            "district_id": 1602,
+            "commune_id": "160201",
+            "village_id": "16020101",
+            "name": "Borei Kamakar 1",
+            "name_km": "បឋមសិក្សាបុរីកម្មករមួយ"
+        },
+        {
+            "id": "16020101510",
+            "school_type_id": 1,
+            "district_id": 1602,
+            "commune_id": "160201",
+            "village_id": "16020101",
+            "name": "Borei Kamakar 1",
+            "name_km": "បឋមសិក្សាបុរីកម្មករ១"
+        },
+        {
+            "id": "16020102002",
+            "school_type_id": 2,
+            "district_id": 1602,
+            "commune_id": "160201",
+            "village_id": "16020102",
+            "name": "Borei Kamakar 2",
+            "name_km": "បឋមសិក្សាបុរីកម្មករពីរ"
+        },
+        {
+            "id": "16020102011",
+            "school_type_id": 2,
+            "district_id": 1602,
+            "commune_id": "160201",
+            "village_id": "16020102",
+            "name": "Borei Kamakar 5",
+            "name_km": "បឋមសិក្សាបុរីកម្មករប្រាំ"
+        },
+        {
+            "id": "16020102506",
+            "school_type_id": 1,
+            "district_id": 1602,
+            "commune_id": "160201",
+            "village_id": "16020102",
+            "name": "Borei Kamakar 2",
+            "name_km": "បឋមសិក្សាបុរីកម្មករ២"
+        },
+        {
+            "id": "16020102512",
+            "school_type_id": 1,
+            "district_id": 1602,
+            "commune_id": "160201",
+            "village_id": "16020104",
+            "name": "Borie Kamakar5 Pre-School",
+            "name_km": "សាលាបឋមសិក្សាបុរីកម្មករ៥"
+        },
+        {
+            "id": "16020103003",
+            "school_type_id": 2,
+            "district_id": 1602,
+            "commune_id": "160201",
+            "village_id": "16020103",
+            "name": "Borei Kamakar 3",
+            "name_km": "បឋមសិក្សាបុរីកម្មករបី"
+        },
+        {
+            "id": "16020103511",
+            "school_type_id": 1,
+            "district_id": 1602,
+            "commune_id": "160201",
+            "village_id": "16020103",
+            "name": "Borei Kamkor Mouy",
+            "name_km": "បឋមសិក្សាបុរីកម្មករ៣"
+        },
+        {
+            "id": "16020104004",
+            "school_type_id": 2,
+            "district_id": 1602,
+            "commune_id": "160201",
+            "village_id": "16020104",
+            "name": "Borei Kamakar 4",
+            "name_km": "បឋមសិក្សាបុរីកម្មករបូន"
+        },
+        {
+            "id": "16020104505",
+            "school_type_id": 1,
+            "district_id": 1602,
+            "commune_id": "160201",
+            "village_id": "16020104",
+            "name": "Borei Kamakar 4",
+            "name_km": "បឋមសិក្សាបុរីកម្មករបូន"
+        },
+        {
+            "id": "16020201010",
+            "school_type_id": 2,
+            "district_id": 1602,
+            "commune_id": "160202",
+            "village_id": "16020201",
+            "name": "Hun Sen Phoum Thmey",
+            "name_km": "បឋមសិក្សាហ៊ុនសែនភូមិថ្មី"
+        },
+        {
+            "id": "16020201504",
+            "school_type_id": 1,
+            "district_id": 1602,
+            "commune_id": "160202",
+            "village_id": "16020201",
+            "name": "Hun Sen Phoum Thmey",
+            "name_km": "បឋមសិក្សាហ៊ុនសែនភូមិថ្មី"
+        },
+        {
+            "id": "16020201901",
+            "school_type_id": 5,
+            "district_id": 1602,
+            "commune_id": "160202",
+            "village_id": "16020201",
+            "name": "Samdech Euv Samdech Me",
+            "name_km": "វិទ្យាល័យសម្តេចឳសម្តេចម៉ែ"
+        },
+        {
+            "id": "16020201902",
+            "school_type_id": 5,
+            "district_id": 1602,
+            "commune_id": "160202",
+            "village_id": "16020201",
+            "name": "Hun Sen Phoum Thmey",
+            "name_km": "វិទ្យាល័យហ៊ុនសែនភូមិថ្មី"
+        },
+        {
+            "id": "16020203005",
+            "school_type_id": 2,
+            "district_id": 1602,
+            "commune_id": "160202",
+            "village_id": "16020203",
+            "name": "Samdech Krom Preah",
+            "name_km": "បឋមសិក្សាសម្តេចក្រុមព្រះ"
+        },
+        {
+            "id": "16020203503",
+            "school_type_id": 1,
+            "district_id": 1602,
+            "commune_id": "160202",
+            "village_id": "16020203",
+            "name": "Samdech Krom Preah",
+            "name_km": "បឋមសិក្សាសម្តេចក្រុមព្រះ"
+        },
+        {
+            "id": "16020205007",
+            "school_type_id": 2,
+            "district_id": 1602,
+            "commune_id": "160202",
+            "village_id": "16020205",
+            "name": "Bou Thang Tes Anlung",
+            "name_km": "បឋមសិក្សាប៊ូថងទេសអន្លុង"
+        },
+        {
+            "id": "16020205501",
+            "school_type_id": 1,
+            "district_id": 1602,
+            "commune_id": "160202",
+            "village_id": "16020205",
+            "name": "Banlung",
+            "name_km": "មត្តេយ្យសិក្សាធនធានក្រុងបានលុង"
+        },
+        {
+            "id": "16020205507",
+            "school_type_id": 1,
+            "district_id": 1602,
+            "commune_id": "160202",
+            "village_id": "16020205",
+            "name": "Bou Thang Tes Anlung",
+            "name_km": "បឋមសិក្សាប៊ូថងទេសអន្លុង"
+        },
+        {
+            "id": "16020206008",
+            "school_type_id": 2,
+            "district_id": 1602,
+            "commune_id": "160202",
+            "village_id": "16020206",
+            "name": "Labansiek",
+            "name_km": "បឋមសិក្សាឡាបានសៀក"
+        },
+        {
+            "id": "16020206013",
+            "school_type_id": 2,
+            "district_id": 1602,
+            "commune_id": "160202",
+            "village_id": "16020206",
+            "name": "Esara Vogel",
+            "name_km": "បឋមសិក្សាអេហ្សារ៉ាវ៉ូហ្គែល"
+        },
+        {
+            "id": "16020206502",
+            "school_type_id": 1,
+            "district_id": 1602,
+            "commune_id": "160202",
+            "village_id": "16020206",
+            "name": "Labansiek",
+            "name_km": "មត្តេយ្យសិក្សាឡាបានសៀក"
+        },
+        {
+            "id": "16020206508",
+            "school_type_id": 1,
+            "district_id": 1602,
+            "commune_id": "160202",
+            "village_id": "16020206",
+            "name": "Esara Vogel",
+            "name_km": "បឋមសិក្សាអេហ្សារ៉ាវ៉ូហ្គេល"
+        },
+        {
+            "id": "16020207703",
+            "school_type_id": 3,
+            "district_id": 1602,
+            "commune_id": "160202",
+            "village_id": "16020207",
+            "name": "Labansiek",
+            "name_km": "អនុវិទ្យាល័យឡាបានសៀក"
+        },
+        {
+            "id": "16020207903",
+            "school_type_id": 5,
+            "district_id": 1602,
+            "commune_id": "160202",
+            "village_id": "16020207",
+            "name": "Anteveasekthan Banlung",
+            "name_km": "វិទ្យាល័យអន្តេវាសិកដ្ឋានបានលុង"
+        },
+        {
+            "id": "16020301009",
+            "school_type_id": 2,
+            "district_id": 1602,
+            "commune_id": "160203",
+            "village_id": "16020301",
+            "name": "Hun Sen Yeak Lom",
+            "name_km": "បឋមសិក្សាហ៊ុនសែនយក្សឡោម"
+        },
+        {
+            "id": "16020301509",
+            "school_type_id": 1,
+            "district_id": 1602,
+            "commune_id": "160203",
+            "village_id": "16020301",
+            "name": "Hun Sen Yeak Lom",
+            "name_km": "បឋមសិក្សាហ៊ុនសែនយក្សឡោម"
+        },
+        {
+            "id": "16020305012",
+            "school_type_id": 2,
+            "district_id": 1602,
+            "commune_id": "160203",
+            "village_id": "16020305",
+            "name": "Chry",
+            "name_km": "បឋមសិក្សាភូមិជ្រី"
+        }
+    ]
+}

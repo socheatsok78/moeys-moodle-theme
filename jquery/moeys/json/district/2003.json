@@ -1,0 +1,527 @@
+{
+    "id": 2003,
+    "schools": [
+        {
+            "id": "20030101001",
+            "school_type_id": 2,
+            "district_id": 2003,
+            "commune_id": "200301",
+            "village_id": "20030101",
+            "name": "Wat Bos Morn Leu",
+            "name_km": "ហ៊ុន សែនបុសមនលើ"
+        },
+        {
+            "id": "20030105002",
+            "school_type_id": 2,
+            "district_id": 2003,
+            "commune_id": "200301",
+            "village_id": "20030105",
+            "name": "Bos Morn",
+            "name_km": "បុសមន"
+        },
+        {
+            "id": "20030105705",
+            "school_type_id": 3,
+            "district_id": 2003,
+            "commune_id": "200301",
+            "village_id": "20030105",
+            "name": "Sao Yat Bos Morn",
+            "name_km": "សៅ យ៉ាតបុសមន"
+        },
+        {
+            "id": "20030107003",
+            "school_type_id": 2,
+            "district_id": 2003,
+            "commune_id": "200301",
+            "village_id": "20030107",
+            "name": "Hun Sen Sramar",
+            "name_km": "ហ៊ុន សែន ស្រម៉"
+        },
+        {
+            "id": "20030107509",
+            "school_type_id": 1,
+            "district_id": 2003,
+            "commune_id": "200301",
+            "village_id": "20030107",
+            "name": "Hun Sen Sramar",
+            "name_km": "ហ៊ុន សែន ស្រម៉"
+        },
+        {
+            "id": "20030201027",
+            "school_type_id": 2,
+            "district_id": 2003,
+            "commune_id": "200302",
+            "village_id": "20030201",
+            "name": "Thna Thnung",
+            "name_km": "ហ៊ុន សែនថ្នាធ្នង់"
+        },
+        {
+            "id": "20030202028",
+            "school_type_id": 2,
+            "district_id": 2003,
+            "commune_id": "200302",
+            "village_id": "20030202",
+            "name": "Hun Sen Serei Vong",
+            "name_km": "ហ៊ុុន សែនសិរីវង្ស"
+        },
+        {
+            "id": "20030202708",
+            "school_type_id": 3,
+            "district_id": 2003,
+            "commune_id": "200302",
+            "village_id": "20030202",
+            "name": "Thna Thnung",
+            "name_km": "ថ្នាធ្នង់"
+        },
+        {
+            "id": "20030204024",
+            "school_type_id": 2,
+            "district_id": 2003,
+            "commune_id": "200302",
+            "village_id": "20030204",
+            "name": "2 Thnou",
+            "name_km": "២ធ្នូ"
+        },
+        {
+            "id": "20030205025",
+            "school_type_id": 2,
+            "district_id": 2003,
+            "commune_id": "200302",
+            "village_id": "20030205",
+            "name": "Hun Sen Wat Thnung",
+            "name_km": "ហ៊ុន សែនវត្តធ្នង់"
+        },
+        {
+            "id": "20030206026",
+            "school_type_id": 2,
+            "district_id": 2003,
+            "commune_id": "200302",
+            "village_id": "20030206",
+            "name": "Hun Sen Prek Pork",
+            "name_km": "ហ៊ុន សែនព្រែកពក"
+        },
+        {
+            "id": "20030206513",
+            "school_type_id": 1,
+            "district_id": 2003,
+            "commune_id": "200302",
+            "village_id": "20030206",
+            "name": "Hun Sen Prek Pork",
+            "name_km": "ហ៊ុន សែនព្រែកពក"
+        },
+        {
+            "id": "20030301004",
+            "school_type_id": 2,
+            "district_id": 2003,
+            "commune_id": "200303",
+            "village_id": "20030301",
+            "name": "Thmear",
+            "name_km": "ធ្នា"
+        },
+        {
+            "id": "20030307005",
+            "school_type_id": 2,
+            "district_id": 2003,
+            "commune_id": "200303",
+            "village_id": "20030307",
+            "name": "Pongror",
+            "name_km": "ពង្រ"
+        },
+        {
+            "id": "20030307703",
+            "school_type_id": 3,
+            "district_id": 2003,
+            "commune_id": "200303",
+            "village_id": "20030307",
+            "name": "Thmear",
+            "name_km": "សោមឯកធ្មា"
+        },
+        {
+            "id": "20030402901",
+            "school_type_id": 5,
+            "district_id": 2003,
+            "commune_id": "200304",
+            "village_id": "20030402",
+            "name": "Hun Sen Kampong Chak",
+            "name_km": "ហ៊ុន សែនកំពង់ចក"
+        },
+        {
+            "id": "20030403006",
+            "school_type_id": 2,
+            "district_id": 2003,
+            "commune_id": "200304",
+            "village_id": "20030403",
+            "name": "Kov Samouth Kampong Chak",
+            "name_km": "កូវសាមុតកំពង់ចក"
+        },
+        {
+            "id": "20030403503",
+            "school_type_id": 1,
+            "district_id": 2003,
+            "commune_id": "200304",
+            "village_id": "20030403",
+            "name": "Resource Kampong Chak",
+            "name_km": "កូវសាមុតកំពង់ចក"
+        },
+        {
+            "id": "20030405007",
+            "school_type_id": 2,
+            "district_id": 2003,
+            "commune_id": "200304",
+            "village_id": "20030405",
+            "name": "Leak Reachea",
+            "name_km": "ឡឹកសំបុណ្យល័ក្ខរាជា"
+        },
+        {
+            "id": "20030405517",
+            "school_type_id": 1,
+            "district_id": 2003,
+            "commune_id": "200304",
+            "village_id": "20030405",
+            "name": "Leuk Sambon Leakreachea",
+            "name_km": "ឡឹកសំបុណ្យលក័្ខរាជា"
+        },
+        {
+            "id": "20030501010",
+            "school_type_id": 2,
+            "district_id": 2003,
+            "commune_id": "200305",
+            "village_id": "20030501",
+            "name": "Chrung Popel",
+            "name_km": "ជ្រងពពេល"
+        },
+        {
+            "id": "20030502008",
+            "school_type_id": 2,
+            "district_id": 2003,
+            "commune_id": "200305",
+            "village_id": "20030502",
+            "name": "Tuol Sala",
+            "name_km": "ទួលសាលា"
+        },
+        {
+            "id": "20030502505",
+            "school_type_id": 1,
+            "district_id": 2003,
+            "commune_id": "200305",
+            "village_id": "20030502",
+            "name": "Tuol Sala",
+            "name_km": "ទួលសាលា"
+        },
+        {
+            "id": "20030502706",
+            "school_type_id": 3,
+            "district_id": 2003,
+            "commune_id": "200305",
+            "village_id": "20030502",
+            "name": "Tuol Sala",
+            "name_km": "ទួលសាលា"
+        },
+        {
+            "id": "20030504032",
+            "school_type_id": 2,
+            "district_id": 2003,
+            "commune_id": "200305",
+            "village_id": "20030504",
+            "name": "ត្រពាំងវែង",
+            "name_km": "ត្រពាំងវែង"
+        },
+        {
+            "id": "20030505009",
+            "school_type_id": 2,
+            "district_id": 2003,
+            "commune_id": "200305",
+            "village_id": "20030505",
+            "name": "Hun Sen Phoum Krauch",
+            "name_km": "ហ៊ុន សែនភូមិក្រូច"
+        },
+        {
+            "id": "20030505511",
+            "school_type_id": 1,
+            "district_id": 2003,
+            "commune_id": "200305",
+            "village_id": "20030505",
+            "name": "Hun Sen Phoum Krauch",
+            "name_km": "ហ៊ុន សែនភូមិក្រូច"
+        },
+        {
+            "id": "20030508514",
+            "school_type_id": 1,
+            "district_id": 2003,
+            "commune_id": "200308",
+            "village_id": "20030805",
+            "name": "Prey Tayorn",
+            "name_km": "ព្រែតាយ័ន្ត"
+        },
+        {
+            "id": "20030602011",
+            "school_type_id": 2,
+            "district_id": 2003,
+            "commune_id": "200306",
+            "village_id": "20030602",
+            "name": "Samrong",
+            "name_km": "សំរោង"
+        },
+        {
+            "id": "20030602510",
+            "school_type_id": 1,
+            "district_id": 2003,
+            "commune_id": "200306",
+            "village_id": "20030602",
+            "name": "Hun Sen Samrong",
+            "name_km": "ហ៊ុន សែនសំរោង"
+        },
+        {
+            "id": "20030602902",
+            "school_type_id": 5,
+            "district_id": 2003,
+            "commune_id": "200306",
+            "village_id": "20030602",
+            "name": "Kampong Samrong",
+            "name_km": "កំពង់សំរោង"
+        },
+        {
+            "id": "20030604012",
+            "school_type_id": 2,
+            "district_id": 2003,
+            "commune_id": "200306",
+            "village_id": "20030604",
+            "name": "Kampong Ampil",
+            "name_km": "កំពង់អំពិល"
+        },
+        {
+            "id": "20030606013",
+            "school_type_id": 2,
+            "district_id": 2003,
+            "commune_id": "200306",
+            "village_id": "20030606",
+            "name": "Tuol Chres",
+            "name_km": "ទួលច្រេស"
+        },
+        {
+            "id": "20030606502",
+            "school_type_id": 1,
+            "district_id": 2003,
+            "commune_id": "200306",
+            "village_id": "20030606",
+            "name": "Tuol Chres",
+            "name_km": "ទួលច្រេស"
+        },
+        {
+            "id": "20030702014",
+            "school_type_id": 2,
+            "district_id": 2003,
+            "commune_id": "200307",
+            "village_id": "20030702",
+            "name": "Tuol Prasrei",
+            "name_km": "ទួលប្រស្រី"
+        },
+        {
+            "id": "20030703015",
+            "school_type_id": 2,
+            "district_id": 2003,
+            "commune_id": "200307",
+            "village_id": "20030703",
+            "name": "Chey Mony",
+            "name_km": "ជ័យមុន្នី"
+        },
+        {
+            "id": "20030703504",
+            "school_type_id": 1,
+            "district_id": 2003,
+            "commune_id": "200307",
+            "village_id": "20030703",
+            "name": "Chey Mony",
+            "name_km": "ជ័យមុន្នី"
+        },
+        {
+            "id": "20030708016",
+            "school_type_id": 2,
+            "district_id": 2003,
+            "commune_id": "200307",
+            "village_id": "20030708",
+            "name": "Meun Chey",
+            "name_km": "ម៉ឺនជ័យ"
+        },
+        {
+            "id": "20030708506",
+            "school_type_id": 1,
+            "district_id": 2003,
+            "commune_id": "200307",
+            "village_id": "20030708",
+            "name": "Meun Chey",
+            "name_km": "ម៉ឺនជ័យ"
+        },
+        {
+            "id": "20030708709",
+            "school_type_id": 3,
+            "district_id": 2003,
+            "commune_id": "200307",
+            "village_id": "20030708",
+            "name": "Meun Chey",
+            "name_km": "ម៉ឺនជ័យ"
+        },
+        {
+            "id": "20030805017",
+            "school_type_id": 2,
+            "district_id": 2003,
+            "commune_id": "200308",
+            "village_id": "20030805",
+            "name": "Prey Ta Yoan",
+            "name_km": "ព្រៃតាយ័ន្ត"
+        },
+        {
+            "id": "20030806030",
+            "school_type_id": 2,
+            "district_id": 2003,
+            "commune_id": "200308",
+            "village_id": "20030806",
+            "name": "Hun Sen Sek Yum",
+            "name_km": "សេកយំ"
+        },
+        {
+            "id": "20030806516",
+            "school_type_id": 1,
+            "district_id": 2003,
+            "commune_id": "200308",
+            "village_id": "20030806",
+            "name": "Hun Sen Sek Yum",
+            "name_km": "ហ៊ុន សែន សេកយំ"
+        },
+        {
+            "id": "20030807018",
+            "school_type_id": 2,
+            "district_id": 2003,
+            "commune_id": "200308",
+            "village_id": "20030807",
+            "name": "Chieng Am Setha Porng Teuk",
+            "name_km": "ជៀងអំសេដ្ឋាពងទឹក"
+        },
+        {
+            "id": "20030807512",
+            "school_type_id": 1,
+            "district_id": 2003,
+            "commune_id": "200308",
+            "village_id": "20030807",
+            "name": "Chieng Am Setha Pong Teuk",
+            "name_km": "ទួលតាកែវ"
+        },
+        {
+            "id": "20030807903",
+            "school_type_id": 5,
+            "district_id": 2003,
+            "commune_id": "200308",
+            "village_id": "20030807",
+            "name": "Hun Sen Porng Teuk",
+            "name_km": "ហ៊ុន​​ សែនពងទឹក"
+        },
+        {
+            "id": "20030902019",
+            "school_type_id": 2,
+            "district_id": 2003,
+            "commune_id": "200309",
+            "village_id": "20030902",
+            "name": "Sangker",
+            "name_km": "សង្កែ"
+        },
+        {
+            "id": "20030902707",
+            "school_type_id": 3,
+            "district_id": 2003,
+            "commune_id": "200309",
+            "village_id": "20030902",
+            "name": "Sangker",
+            "name_km": "សង្កែ"
+        },
+        {
+            "id": "20030906020",
+            "school_type_id": 2,
+            "district_id": 2003,
+            "commune_id": "200309",
+            "village_id": "20030906",
+            "name": "Hun Sen Wat Thmei",
+            "name_km": "ហ៊ុន សែន វត្តថ្មី"
+        },
+        {
+            "id": "20030906508",
+            "school_type_id": 1,
+            "district_id": 2003,
+            "commune_id": "200309",
+            "village_id": "20030906",
+            "name": "Hun Senwat Thmei",
+            "name_km": "ហ៊ុន សែន វត្តថ្មី"
+        },
+        {
+            "id": "20031001022",
+            "school_type_id": 2,
+            "district_id": 2003,
+            "commune_id": "200310",
+            "village_id": "20031001",
+            "name": "Ba Krong",
+            "name_km": "បាក្រុង"
+        },
+        {
+            "id": "20031004031",
+            "school_type_id": 2,
+            "district_id": 2003,
+            "commune_id": "200310",
+            "village_id": "20031004",
+            "name": "Raung Damrei",
+            "name_km": "រោងដំរី"
+        },
+        {
+            "id": "20031005029",
+            "school_type_id": 2,
+            "district_id": 2003,
+            "commune_id": "200310",
+            "village_id": "20031005",
+            "name": "Vong Keang",
+            "name_km": "វង្សគៀង"
+        },
+        {
+            "id": "20031007023",
+            "school_type_id": 2,
+            "district_id": 2003,
+            "commune_id": "200310",
+            "village_id": "20031007",
+            "name": "Marak",
+            "name_km": "ម្រាក"
+        },
+        {
+            "id": "20031007515",
+            "school_type_id": 1,
+            "district_id": 2003,
+            "commune_id": "200310",
+            "village_id": "20031007",
+            "name": "Mreak",
+            "name_km": "ម្រាក"
+        },
+        {
+            "id": "20031009021",
+            "school_type_id": 2,
+            "district_id": 2003,
+            "commune_id": "200310",
+            "village_id": "20031009",
+            "name": "Svay Chek",
+            "name_km": "ស្វាយចេក"
+        },
+        {
+            "id": "20031009507",
+            "school_type_id": 1,
+            "district_id": 2003,
+            "commune_id": "200310",
+            "village_id": "20031009",
+            "name": "Svay Chek",
+            "name_km": "ស្វាយចេក"
+        },
+        {
+            "id": "20031009710",
+            "school_type_id": 3,
+            "district_id": 2003,
+            "commune_id": "200310",
+            "village_id": "20031009",
+            "name": "Svay Chek",
+            "name_km": "ស្វាយចេក"
+        }
+    ]
+}

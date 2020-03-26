@@ -1,0 +1,176 @@
+{
+    "id": 1204,
+    "schools": [
+        {
+            "id": "12040101014",
+            "school_type_id": 2,
+            "district_id": 1204,
+            "commune_id": "120401",
+            "village_id": "12040101",
+            "name": "Phoum Russey",
+            "name_km": "បឋមសិក្សាភូមិឫស្សី"
+        },
+        {
+            "id": "12040101515",
+            "school_type_id": 1,
+            "district_id": 1204,
+            "commune_id": "120401",
+            "village_id": "12040101",
+            "name": "Phoum Russey",
+            "name_km": "ភូមិឫស្សី"
+        },
+        {
+            "id": "12040103016",
+            "school_type_id": 2,
+            "district_id": 1204,
+            "commune_id": "120401",
+            "village_id": "12040103",
+            "name": "Sola",
+            "name_km": "បឋមសិក្សាសឡា"
+        },
+        {
+            "id": "12040105015",
+            "school_type_id": 2,
+            "district_id": 1204,
+            "commune_id": "120401",
+            "village_id": "12040105",
+            "name": "Stung Meanchey",
+            "name_km": "បឋមសិក្សាស្ទឹងមានជ័យ"
+        },
+        {
+            "id": "12040105506",
+            "school_type_id": 1,
+            "district_id": 1204,
+            "commune_id": "120401",
+            "village_id": "12040105",
+            "name": "Stung Meanchey",
+            "name_km": "ស្ទឹងមានជ័យ"
+        },
+        {
+            "id": "12040201001",
+            "school_type_id": 2,
+            "district_id": 1204,
+            "commune_id": "120402",
+            "village_id": "12040201",
+            "name": "Chamroeun Phal",
+            "name_km": "បឋមសិក្សាចំរើនផល"
+        },
+        {
+            "id": "12040201702",
+            "school_type_id": 3,
+            "district_id": 1204,
+            "commune_id": "120402",
+            "village_id": "12040201",
+            "name": "Chamroeun Phal",
+            "name_km": "អនុវិទ្យាល័យ  ចំរើនផល"
+        },
+        {
+            "id": "12040203002",
+            "school_type_id": 2,
+            "district_id": 1204,
+            "commune_id": "120402",
+            "village_id": "12040203",
+            "name": "Wat Sansom Kosal",
+            "name_km": "បឋមសិក្សាវត្តសន្សំកុសល"
+        },
+        {
+            "id": "12040203533",
+            "school_type_id": 1,
+            "district_id": 1204,
+            "commune_id": "120402",
+            "village_id": "12040203",
+            "name": "Wat Sansom Kosal",
+            "name_km": "វត្តសន្សំកុសល"
+        },
+        {
+            "id": "12040205003",
+            "school_type_id": 2,
+            "district_id": 1204,
+            "commune_id": "120402",
+            "village_id": "12040205",
+            "name": "Wat Dambauk Khpuos",
+            "name_km": "បឋមសិក្សាវត្តដំបូលខ្ពស់"
+        },
+        {
+            "id": "12040205512",
+            "school_type_id": 1,
+            "district_id": 1204,
+            "commune_id": "120402",
+            "village_id": "12040205",
+            "name": "Wat Dambauk Khpuos",
+            "name_km": "វត្តដំបូកខ្ពស់"
+        },
+        {
+            "id": "12040205703",
+            "school_type_id": 3,
+            "district_id": 1204,
+            "commune_id": "120402",
+            "village_id": "12040205",
+            "name": "Wat Dambauk Khpuos",
+            "name_km": "អនុវិទ្យាល័យ  វត្តដំបូកខ្ពស់"
+        },
+        {
+            "id": "12040601502",
+            "school_type_id": 1,
+            "district_id": 1204,
+            "commune_id": "120406",
+            "village_id": "12040601",
+            "name": "Hun Sen Chak Angre Phoum 1",
+            "name_km": "មត្តេយ្យចាក់អង្រែភូមិ១"
+        },
+        {
+            "id": "12040602005",
+            "school_type_id": 2,
+            "district_id": 1204,
+            "commune_id": "120406",
+            "village_id": "12040602",
+            "name": "Chak Angre Leu",
+            "name_km": "បឋមសិក្សាចាក់អង្រែលើ"
+        },
+        {
+            "id": "12040701006",
+            "school_type_id": 2,
+            "district_id": 1204,
+            "commune_id": "120407",
+            "village_id": "12040701",
+            "name": "Chak Angre Phoum 2",
+            "name_km": "បឋមសិក្សាហ៊ុនសែនចាក់អង្រែ"
+        },
+        {
+            "id": "12040701501",
+            "school_type_id": 1,
+            "district_id": 1204,
+            "commune_id": "120407",
+            "village_id": "12040701",
+            "name": "Chak Angre Phoum 2",
+            "name_km": "ហ៊ុន សែនចាក់អង្រែ"
+        },
+        {
+            "id": "12040701904",
+            "school_type_id": 5,
+            "district_id": 1204,
+            "commune_id": "120407",
+            "village_id": "12040701",
+            "name": "Hun Sen Chak Angre",
+            "name_km": "វិទ្យាល័យ ហ៊ុនសែនចាក់អង្រែ"
+        },
+        {
+            "id": "12040702004",
+            "school_type_id": 2,
+            "district_id": 1204,
+            "commune_id": "120407",
+            "village_id": "12040702",
+            "name": "Chak Angre Phoum 3",
+            "name_km": "បឋមសិក្សាចាក់អង្រែភូមិ៣"
+        },
+        {
+            "id": "12040702511",
+            "school_type_id": 1,
+            "district_id": 1204,
+            "commune_id": "120407",
+            "village_id": "12040702",
+            "name": "Chak Angre Phoum 3",
+            "name_km": "ចាក់អង្រែភូមិ៣"
+        }
+    ]
+}

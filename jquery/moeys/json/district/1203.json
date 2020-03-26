@@ -1,0 +1,167 @@
+{
+    "id": 1203,
+    "schools": [
+        {
+            "id": "12030302005",
+            "school_type_id": 2,
+            "district_id": 1203,
+            "commune_id": "120303",
+            "village_id": "12030302",
+            "name": "Phnom Daun Penh",
+            "name_km": "បឋមសិក្សាភ្នំដូនពេញ"
+        },
+        {
+            "id": "12030302901",
+            "school_type_id": 5,
+            "district_id": 1203,
+            "commune_id": "120303",
+            "village_id": "12030302",
+            "name": "Preah Sisovath",
+            "name_km": "វិទ្យាល័យព្រះសុីសុវត្តិ"
+        },
+        {
+            "id": "12030404903",
+            "school_type_id": 5,
+            "district_id": 1203,
+            "commune_id": "120304",
+            "village_id": "12030404",
+            "name": "Wat Koh",
+            "name_km": "វត្តកោះ"
+        },
+        {
+            "id": "12030405001",
+            "school_type_id": 2,
+            "district_id": 1203,
+            "commune_id": "120304",
+            "village_id": "12030405",
+            "name": "Wat Koh",
+            "name_km": "បឋមសិក្សាវត្តកោះ"
+        },
+        {
+            "id": "12030409501",
+            "school_type_id": 1,
+            "district_id": 1203,
+            "commune_id": "120304",
+            "village_id": "12030409",
+            "name": "Wat Koh",
+            "name_km": "មត្តេយ្យវត្តកោះ"
+        },
+        {
+            "id": "12030607003",
+            "school_type_id": 2,
+            "district_id": 1203,
+            "commune_id": "120306",
+            "village_id": "12030607",
+            "name": "Preah Norodom",
+            "name_km": "បឋមសិក្សាព្រះនរោត្តម"
+        },
+        {
+            "id": "12030607504",
+            "school_type_id": 1,
+            "district_id": 1203,
+            "commune_id": "120306",
+            "village_id": "12030607",
+            "name": "Preah Norodom",
+            "name_km": "ព្រះនរោត្តម"
+        },
+        {
+            "id": "12030703012",
+            "school_type_id": 2,
+            "district_id": 1203,
+            "commune_id": "120307",
+            "village_id": "12030703",
+            "name": "Wat Botum Vadei",
+            "name_km": "បឋមសិក្សាវត្តបទុមវតី"
+        },
+        {
+            "id": "12030704010",
+            "school_type_id": 2,
+            "district_id": 1203,
+            "commune_id": "120307",
+            "village_id": "12030704",
+            "name": "Sala Anouwat",
+            "name_km": "បឋមសិក្សាអនុវត្ត"
+        },
+        {
+            "id": "12030704902",
+            "school_type_id": 5,
+            "district_id": 1203,
+            "commune_id": "120307",
+            "village_id": "12030704",
+            "name": "Aknouwat",
+            "name_km": "វិទ្យាល័យអនុវត្ត"
+        },
+        {
+            "id": "12030705502",
+            "school_type_id": 1,
+            "district_id": 1203,
+            "commune_id": "120307",
+            "village_id": "12030705",
+            "name": "8 Mina",
+            "name_km": "មត្តេយ្យ៨មីនា"
+        },
+        {
+            "id": "12030802011",
+            "school_type_id": 2,
+            "district_id": 1203,
+            "commune_id": "120308",
+            "village_id": "12030802",
+            "name": "Chaktomouk",
+            "name_km": "បឋមសិក្សាចតុមុខ"
+        },
+        {
+            "id": "12030802503",
+            "school_type_id": 1,
+            "district_id": 1203,
+            "commune_id": "120308",
+            "village_id": "12030802",
+            "name": "Chaktomouk",
+            "name_km": "ចតុមុខ"
+        },
+        {
+            "id": "12030802703",
+            "school_type_id": 3,
+            "district_id": 1203,
+            "commune_id": "120308",
+            "village_id": "12030802",
+            "name": "Chaktomouk",
+            "name_km": "អនុវិទ្យាល័យ  ចតុមុខ"
+        },
+        {
+            "id": "12031002007",
+            "school_type_id": 2,
+            "district_id": 1203,
+            "commune_id": "120310",
+            "village_id": "12031002",
+            "name": "Kolap 1",
+            "name_km": "បឋមសិក្សាកូលាបទី១"
+        },
+        {
+            "id": "12031002506",
+            "school_type_id": 1,
+            "district_id": 1203,
+            "commune_id": "120310",
+            "village_id": "12031002",
+            "name": "Kolap 1",
+            "name_km": "កូលាបទី១"
+        },
+        {
+            "id": "12031005904",
+            "school_type_id": 5,
+            "district_id": 1203,
+            "commune_id": "120310",
+            "village_id": "12031005",
+            "name": "Hun Sen  Bun Rany Wat Phnom",
+            "name_km": "វិទ្យាល័យហ៊ុនសែនប៊ុនរ៉ានីវត្តភ្នំ"
+        },
+        {
+            "id": "12031101006",
+            "school_type_id": 2,
+            "district_id": 1203,
+            "commune_id": "120311",
+            "village_id": "12031101",
+            "name": "Haing Ngor Sras Chak",
+            "name_km": "បឋមសិក្សាហាំងង៉ោស្រះចក"
+        }
+    ]
+}

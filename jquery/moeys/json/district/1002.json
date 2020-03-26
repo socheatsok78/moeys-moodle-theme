@@ -1,0 +1,248 @@
+{
+    "id": 1002,
+    "schools": [
+        {
+            "id": "10020101001",
+            "school_type_id": 2,
+            "district_id": 1002,
+            "commune_id": "100207",
+            "village_id": "10020701",
+            "name": "Koh Trung",
+            "name_km": "សាលាបឋមកោះទ្រង់"
+        },
+        {
+            "id": "10020101701",
+            "school_type_id": 3,
+            "district_id": 1002,
+            "commune_id": "100207",
+            "village_id": "10020701",
+            "name": "Koh Trung",
+            "name_km": "អនុ,កោះទ្រង់"
+        },
+        {
+            "id": "10020102002",
+            "school_type_id": 2,
+            "district_id": 1002,
+            "commune_id": "100207",
+            "village_id": "10020701",
+            "name": "Chung Koh Trung",
+            "name_km": "សាលាបឋមចុងកោះ"
+        },
+        {
+            "id": "10020302005",
+            "school_type_id": 2,
+            "district_id": 1002,
+            "commune_id": "100209",
+            "village_id": "10020905",
+            "name": "Kratie Krong",
+            "name_km": "សាលាបឋមក្រចេះក្រុង"
+        },
+        {
+            "id": "10020302006",
+            "school_type_id": 2,
+            "district_id": 1002,
+            "commune_id": "100209",
+            "village_id": "10020902",
+            "name": "Aknouwat",
+            "name_km": "សាលាបឋមអនុវត្ត"
+        },
+        {
+            "id": "10020302903",
+            "school_type_id": 5,
+            "district_id": 1002,
+            "commune_id": "100209",
+            "village_id": "10020902",
+            "name": "Khoum Kratie",
+            "name_km": "វិ.ហស​ ក្រុងក្រចេះ"
+        },
+        {
+            "id": "10020304007",
+            "school_type_id": 2,
+            "district_id": 1002,
+            "commune_id": "100209",
+            "village_id": "10020904",
+            "name": "Hun Sen Trapaing Pring",
+            "name_km": "បឋមហសត្រពាំងព្រីង"
+        },
+        {
+            "id": "10020304901",
+            "school_type_id": 5,
+            "district_id": 1002,
+            "commune_id": "100209",
+            "village_id": "10020904",
+            "name": "Preah Moha Ksatrei Kossomak",
+            "name_km": "វិ,ព្រះមហាក្សត្រីយានីកុសុម:"
+        },
+        {
+            "id": "10020305502",
+            "school_type_id": 1,
+            "district_id": 1002,
+            "commune_id": "100209",
+            "village_id": "10020905",
+            "name": "Kratie Krong",
+            "name_km": "មតេ្តយ្យក្រចេះក្រុង"
+        },
+        {
+            "id": "10020401008",
+            "school_type_id": 2,
+            "district_id": 1002,
+            "commune_id": "100210",
+            "village_id": "10021001",
+            "name": "Kantring",
+            "name_km": "សាលាបឋមកន្រ្ទីង"
+        },
+        {
+            "id": "10020402009",
+            "school_type_id": 2,
+            "district_id": 1002,
+            "commune_id": "100210",
+            "village_id": "10021002",
+            "name": "Kapo",
+            "name_km": "សាលាបឋមកាប៉ូ"
+        },
+        {
+            "id": "10020402503",
+            "school_type_id": 1,
+            "district_id": 1002,
+            "commune_id": "100210",
+            "village_id": "10021002",
+            "name": "Kapo",
+            "name_km": "មត្តេយ្យសិក្សាកាប៉ូ"
+        },
+        {
+            "id": "10020402703",
+            "school_type_id": 3,
+            "district_id": 1002,
+            "commune_id": "100210",
+            "village_id": "10021002",
+            "name": "Kapo",
+            "name_km": "អនុវិ,កាប៉ូ"
+        },
+        {
+            "id": "10020403010",
+            "school_type_id": 2,
+            "district_id": 1002,
+            "commune_id": "100210",
+            "village_id": "10021003",
+            "name": "Hun Sen O Russey 1",
+            "name_km": "សាលាបឋមអូរឬស្សីទី១"
+        },
+        {
+            "id": "10020403504",
+            "school_type_id": 1,
+            "district_id": 1002,
+            "commune_id": "100210",
+            "village_id": "10021003",
+            "name": "Hun Sen O Russey 1",
+            "name_km": "មត្តេយ្យហ៊ុនសែនអូឬស្សី១"
+        },
+        {
+            "id": "10020404011",
+            "school_type_id": 2,
+            "district_id": 1002,
+            "commune_id": "100210",
+            "village_id": "10020404",
+            "name": "O Russey 2",
+            "name_km": "សាលាបឋមអូរឬស្សី២"
+        },
+        {
+            "id": "10020404505",
+            "school_type_id": 1,
+            "district_id": 1002,
+            "commune_id": "100210",
+            "village_id": "10020404",
+            "name": "O Russey 2",
+            "name_km": "មត្តេយ្យធនធានអូរឬស្សី២"
+        },
+        {
+            "id": "10020404902",
+            "school_type_id": 5,
+            "district_id": 1002,
+            "commune_id": "100210",
+            "village_id": "10020404",
+            "name": "Kratie Krong",
+            "name_km": "វិទ្យាល័យក្រចេះក្រុង"
+        },
+        {
+            "id": "10020405012",
+            "school_type_id": 2,
+            "district_id": 1002,
+            "commune_id": "100210",
+            "village_id": "10021005",
+            "name": "24 Kanha 1993",
+            "name_km": "សាលាបឋម២៤កញ្ញា"
+        },
+        {
+            "id": "10020405506",
+            "school_type_id": 1,
+            "district_id": 1002,
+            "commune_id": "100210",
+            "village_id": "10021005",
+            "name": "24 Kanha 1993",
+            "name_km": "សាលាមត្តេយ្យសិក្សា២៤កញ្ញា"
+        },
+        {
+            "id": "10020501013",
+            "school_type_id": 2,
+            "district_id": 1002,
+            "commune_id": "100211",
+            "village_id": "10021101",
+            "name": "Roka Kandal",
+            "name_km": "សាលាបឋមសិក្សា រកាកណ្តាល "
+        },
+        {
+            "id": "10020501508",
+            "school_type_id": 1,
+            "district_id": 1002,
+            "commune_id": "100211",
+            "village_id": "10021101",
+            "name": "Roka Kandal",
+            "name_km": "មតេ្តយ្យសិក្សារកាកណ្តាល"
+        },
+        {
+            "id": "10020501704",
+            "school_type_id": 3,
+            "district_id": 1002,
+            "commune_id": "100211",
+            "village_id": "10021101",
+            "name": "Roka Kandal",
+            "name_km": "អនុវិ,រកាកណ្តាល"
+        },
+        {
+            "id": "10020801003",
+            "school_type_id": 2,
+            "district_id": 1002,
+            "commune_id": "100208",
+            "village_id": "10020801",
+            "name": "Krakor",
+            "name_km": "សាលាបឋមក្រគរ"
+        },
+        {
+            "id": "10020801501",
+            "school_type_id": 1,
+            "district_id": 1002,
+            "commune_id": "100208",
+            "village_id": "10020801",
+            "name": "Krakor",
+            "name_km": "មត្តេយ្យក្រគរ"
+        },
+        {
+            "id": "10020801711",
+            "school_type_id": 3,
+            "district_id": 1002,
+            "commune_id": "100208",
+            "village_id": "10020801",
+            "name": "Krakor",
+            "name_km": "អនុ,ក្រគរ"
+        },
+        {
+            "id": "10020802004",
+            "school_type_id": 2,
+            "district_id": 1002,
+            "commune_id": "100208",
+            "village_id": "10020802",
+            "name": "Tuol Monorom",
+            "name_km": "សាលាបឋមទួលមនោរម្យ"
+        }
+    ]
+}

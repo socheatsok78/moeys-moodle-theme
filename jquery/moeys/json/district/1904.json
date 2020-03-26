@@ -1,0 +1,392 @@
+{
+    "id": 1904,
+    "schools": [
+        {
+            "id": "19040101014",
+            "school_type_id": 2,
+            "district_id": 1904,
+            "commune_id": "190401",
+            "village_id": "19040101",
+            "name": "Aknouwat",
+            "name_km": "សាលាបឋមសិក្សាអនុវត្ត"
+        },
+        {
+            "id": "19040101502",
+            "school_type_id": 1,
+            "district_id": 1904,
+            "commune_id": "190401",
+            "village_id": "19040101",
+            "name": "Aknouwat",
+            "name_km": "អនុវត្ត"
+        },
+        {
+            "id": "19040102501",
+            "school_type_id": 1,
+            "district_id": 1904,
+            "commune_id": "190401",
+            "village_id": "19040102",
+            "name": "Ponleu Komar",
+            "name_km": "សាលាមតេ្តយ្យពន្លឺកុមារ"
+        },
+        {
+            "id": "19040103001",
+            "school_type_id": 2,
+            "district_id": 1904,
+            "commune_id": "190401",
+            "village_id": "19040103",
+            "name": "Stung Treng Krong",
+            "name_km": "សាលាបឋមសិក្សាស្ទឹងត្រែង"
+        },
+        {
+            "id": "19040103503",
+            "school_type_id": 1,
+            "district_id": 1904,
+            "commune_id": "190401",
+            "village_id": "19040103",
+            "name": "Stung Treng Krong",
+            "name_km": "ស្ទឺងត្រែងក្រុង"
+        },
+        {
+            "id": "19040104011",
+            "school_type_id": 2,
+            "district_id": 1904,
+            "commune_id": "190401",
+            "village_id": "19040104",
+            "name": "Samdech Krom Preah",
+            "name_km": "សាលាបឋមសិក្សាសម្តេចក្រុមព្រះ"
+        },
+        {
+            "id": "19040104013",
+            "school_type_id": 2,
+            "district_id": 1904,
+            "commune_id": "190401",
+            "village_id": "19040104",
+            "name": "O Porng Moan",
+            "name_km": "សាលាបឋមសិក្សាអូរពងមាន់"
+        },
+        {
+            "id": "19040104018",
+            "school_type_id": 2,
+            "district_id": 1904,
+            "commune_id": "190401",
+            "village_id": "19040104",
+            "name": "Samaki Akphewat",
+            "name_km": "តេជោហ៊ុនសែនសាមគ្គីអភិវឌ្ឍន៏"
+        },
+        {
+            "id": "19040104020",
+            "school_type_id": 2,
+            "district_id": 1904,
+            "commune_id": "190401",
+            "village_id": "19040104",
+            "name": "Trapaing Prei Serey Oudom",
+            "name_km": "បឋមសិក្សាត្រពាំងប្រីសិរីឩត្តម"
+        },
+        {
+            "id": "19040104506",
+            "school_type_id": 1,
+            "district_id": 1904,
+            "commune_id": "190401",
+            "village_id": "19040104",
+            "name": "Samdech Krom Preah",
+            "name_km": "សាលាបឋមសិក្សាក្រុមព្រះ"
+        },
+        {
+            "id": "19040104511",
+            "school_type_id": 1,
+            "district_id": 1904,
+            "commune_id": "190401",
+            "village_id": "19040104",
+            "name": "O Porng Moan",
+            "name_km": "សាលាបឋមសិក្សាអូរពងមាន់"
+        },
+        {
+            "id": "19040104512",
+            "school_type_id": 1,
+            "district_id": 1904,
+            "commune_id": "190401",
+            "village_id": "19040104",
+            "name": "Samaki Akphewat",
+            "name_km": "តេជោហ៊ុនសែនសាមគ្គីអភិវឌ្ឍន៏"
+        },
+        {
+            "id": "19040104515",
+            "school_type_id": 1,
+            "district_id": 1904,
+            "commune_id": "190401",
+            "village_id": "19040104",
+            "name": "Trapaing Prei Serey Oudom",
+            "name_km": "សាលាបឋមសិក្សាត្រពាំងប្រីសិរីឩត្តម"
+        },
+        {
+            "id": "19040104516",
+            "school_type_id": 1,
+            "district_id": 1904,
+            "commune_id": "190401",
+            "village_id": "19040104",
+            "name": "Koh sneng",
+            "name_km": "មត្តេយ្យសិក្សាកោះស្នែង"
+        },
+        {
+            "id": "19040104903",
+            "school_type_id": 5,
+            "district_id": 1904,
+            "commune_id": "190401",
+            "village_id": "19040104",
+            "name": "Bun Rani Hun Sen O Pong Moan",
+            "name_km": "វិទ្យាល័យប៊ុនរ៉ានីហ៊ុនសែនអូរពងមាន់"
+        },
+        {
+            "id": "19040105012",
+            "school_type_id": 2,
+            "district_id": 1904,
+            "commune_id": "190401",
+            "village_id": "19040105",
+            "name": "Samdech Euv Samdech Me",
+            "name_km": "សាលាបឋមសិក្សាសម្តេច ឳ-ម៉ែ"
+        },
+        {
+            "id": "19040105510",
+            "school_type_id": 1,
+            "district_id": 1904,
+            "commune_id": "190401",
+            "village_id": "19040105",
+            "name": "Samdech Euv Samdech Me",
+            "name_km": "សាលាបឋមសិក្សាសម្តេច ឳ៌- ម៉ែ"
+        },
+        {
+            "id": "19040105901",
+            "school_type_id": 5,
+            "district_id": 1904,
+            "commune_id": "190401",
+            "village_id": "19040105",
+            "name": "Preah Reach Bochneykech",
+            "name_km": "វិទ្យាល័យព្រះរាជបូជនីយកិច្ច"
+        },
+        {
+            "id": "19040203002",
+            "school_type_id": 2,
+            "district_id": 1904,
+            "commune_id": "190402",
+            "village_id": "19040203",
+            "name": "Sras Russey",
+            "name_km": "សាលាបឋមសិក្សាស្រៈឬស្សី"
+        },
+        {
+            "id": "19040203507",
+            "school_type_id": 1,
+            "district_id": 1904,
+            "commune_id": "190402",
+            "village_id": "19040203",
+            "name": "Sras Russey",
+            "name_km": "សាលាបឋមសិក្សាស្រៈឬស្សី"
+        },
+        {
+            "id": "19040203902",
+            "school_type_id": 5,
+            "district_id": 1904,
+            "commune_id": "190402",
+            "village_id": "19040203",
+            "name": "Hun Sen Stung Treng",
+            "name_km": " វិទ្យាល័យហ៊ុនសែនស្ទឹងត្រែង"
+        },
+        {
+            "id": "19040301003",
+            "school_type_id": 2,
+            "district_id": 1904,
+            "commune_id": "190403",
+            "village_id": "19040301",
+            "name": "Hun Sen Ba Chong",
+            "name_km": "សាលាបឋមសិក្សាហ៊ុនសែនបាចុង"
+        },
+        {
+            "id": "19040301508",
+            "school_type_id": 1,
+            "district_id": 1904,
+            "commune_id": "190403",
+            "village_id": "19040301",
+            "name": "Hun Sen Ba Chong",
+            "name_km": "សាលាបឋមសិក្សាហ៊ុនសែនបាចុង"
+        },
+        {
+            "id": "19040302004",
+            "school_type_id": 2,
+            "district_id": 1904,
+            "commune_id": "190403",
+            "village_id": "19040302",
+            "name": "Kaing Memay",
+            "name_km": "សាលាបឋមសិក្សាកាំងមេម៉ាយ"
+        },
+        {
+            "id": "19040303005",
+            "school_type_id": 2,
+            "district_id": 1904,
+            "commune_id": "190403",
+            "village_id": "19040303",
+            "name": "Hun Sen Kaing Dei Sar",
+            "name_km": "សាលាបឋមសិក្សាហ៊ុនសែនកាំងដីស"
+        },
+        {
+            "id": "19040303021",
+            "school_type_id": 2,
+            "district_id": 1904,
+            "commune_id": "190403",
+            "village_id": "19040303",
+            "name": "O Chheu Teal",
+            "name_km": "អូរឈើទាល"
+        },
+        {
+            "id": "19040303704",
+            "school_type_id": 3,
+            "district_id": 1904,
+            "commune_id": "190403",
+            "village_id": "19040303",
+            "name": "Preah Bat",
+            "name_km": "អនុវិទ្យាល័យព្រះបាទ"
+        },
+        {
+            "id": "19040401006",
+            "school_type_id": 2,
+            "district_id": 1904,
+            "commune_id": "190404",
+            "village_id": "19040401",
+            "name": "Phoum Thmey",
+            "name_km": "សាលាបឋមសិក្សាភូមិថ្មី"
+        },
+        {
+            "id": "19040401513",
+            "school_type_id": 1,
+            "district_id": 1904,
+            "commune_id": "190404",
+            "village_id": "19040401",
+            "name": "Phoum Thmey",
+            "name_km": "សាលាបឋមសិក្សាភូមិថ្មី"
+        },
+        {
+            "id": "19040402007",
+            "school_type_id": 2,
+            "district_id": 1904,
+            "commune_id": "190404",
+            "village_id": "19040402",
+            "name": "Hang Khosuon",
+            "name_km": "សាលាបឋមសិក្សាហាងខូសួន"
+        },
+        {
+            "id": "19040402504",
+            "school_type_id": 1,
+            "district_id": 1904,
+            "commune_id": "190404",
+            "village_id": "19040402",
+            "name": "Hang Khosuon",
+            "name_km": "សាលាបឋមសិក្សាហាងខូសួន"
+        },
+        {
+            "id": "19040402702",
+            "school_type_id": 3,
+            "district_id": 1904,
+            "commune_id": "190404",
+            "village_id": "19040402",
+            "name": "Hun Sen Samaki",
+            "name_km": "អនុវិទ្យាល័យហ៊ុនសែនសាមគ្គឺ"
+        },
+        {
+            "id": "19040403008",
+            "school_type_id": 2,
+            "district_id": 1904,
+            "commune_id": "190404",
+            "village_id": "19040403",
+            "name": "Hang Khoban",
+            "name_km": "សាលាបឋមសិក្សាហាងខូបាន"
+        },
+        {
+            "id": "19040403509",
+            "school_type_id": 1,
+            "district_id": 1904,
+            "commune_id": "190404",
+            "village_id": "19040403",
+            "name": "Hang Khoban",
+            "name_km": "សាលាបឋមសិក្សាហាងខូបាន"
+        },
+        {
+            "id": "19040404009",
+            "school_type_id": 2,
+            "district_id": 1904,
+            "commune_id": "190404",
+            "village_id": "19040404",
+            "name": "Koh Khanden",
+            "name_km": "សាលាបឋមសិក្សាកោះខនឌិន"
+        },
+        {
+            "id": "19040404505",
+            "school_type_id": 1,
+            "district_id": 1904,
+            "commune_id": "190404",
+            "village_id": "19040404",
+            "name": "Koh Khanden",
+            "name_km": "សាលាបឋមសិក្សាកោះខនឌិន"
+        },
+        {
+            "id": "19040405010",
+            "school_type_id": 2,
+            "district_id": 1904,
+            "commune_id": "190404",
+            "village_id": "19040405",
+            "name": "Kham Phan",
+            "name_km": "ខាំផាន់"
+        },
+        {
+            "id": "19040406017",
+            "school_type_id": 2,
+            "district_id": 1904,
+            "commune_id": "190404",
+            "village_id": "19040406",
+            "name": "Rasmey Samaki",
+            "name_km": "រស្មីសាមគ្គី"
+        },
+        {
+            "id": "19040407015",
+            "school_type_id": 2,
+            "district_id": 1904,
+            "commune_id": "190404",
+            "village_id": "19040407",
+            "name": "Sakhoun",
+            "name_km": "សាលាបឋមសិក្សាសាឃូន"
+        },
+        {
+            "id": "19040407514",
+            "school_type_id": 1,
+            "district_id": 1904,
+            "commune_id": "190404",
+            "village_id": "19040407",
+            "name": "Sakhoun",
+            "name_km": "សាលាបឋមសិក្សាសាឃូន"
+        },
+        {
+            "id": "19040408016",
+            "school_type_id": 2,
+            "district_id": 1904,
+            "commune_id": "190404",
+            "village_id": "19040408",
+            "name": "Chamkar Khe",
+            "name_km": "ខេ"
+        },
+        {
+            "id": "19040409019",
+            "school_type_id": 2,
+            "district_id": 1904,
+            "commune_id": "190404",
+            "village_id": "19040409",
+            "name": "Rithy Sen Chey",
+            "name_km": "សាាលាបឋមសិក្សាឬទ្ធីសែនជ័យ"
+        },
+        {
+            "id": "19040409020",
+            "school_type_id": 2,
+            "district_id": 1904,
+            "commune_id": "190404",
+            "village_id": "19040406",
+            "name": "Prai Chas Samaki",
+            "name_km": "ព្រៃចាស់សាមគ្គី"
+        }
+    ]
+}

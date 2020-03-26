@@ -1,0 +1,437 @@
+{
+    "id": 2007,
+    "schools": [
+        {
+            "id": "20070201006",
+            "school_type_id": 2,
+            "district_id": 2007,
+            "commune_id": "200702",
+            "village_id": "20070201",
+            "name": "Koki Som",
+            "name_km": "គគីរសោម"
+        },
+        {
+            "id": "20070201703",
+            "school_type_id": 3,
+            "district_id": 2007,
+            "commune_id": "200702",
+            "village_id": "20070201",
+            "name": "Koki Som",
+            "name_km": "គគីរសោម"
+        },
+        {
+            "id": "20070202007",
+            "school_type_id": 2,
+            "district_id": 2007,
+            "commune_id": "200702",
+            "village_id": "20070202",
+            "name": "Kampout Touk",
+            "name_km": "កំពោតទូក"
+        },
+        {
+            "id": "20070204035",
+            "school_type_id": 2,
+            "district_id": 2007,
+            "commune_id": "200702",
+            "village_id": "20070204",
+            "name": "Chheuteal",
+            "name_km": "ឈើទាល"
+        },
+        {
+            "id": "20070206008",
+            "school_type_id": 2,
+            "district_id": 2007,
+            "commune_id": "200702",
+            "village_id": "20070206",
+            "name": "Tuol Ang",
+            "name_km": "ទួលអង្គ"
+        },
+        {
+            "id": "20070208033",
+            "school_type_id": 2,
+            "district_id": 2007,
+            "commune_id": "200702",
+            "village_id": "20070208",
+            "name": "Bat Thong",
+            "name_km": "បាត់ថង់"
+        },
+        {
+            "id": "20070301901",
+            "school_type_id": 5,
+            "district_id": 2007,
+            "commune_id": "200703",
+            "village_id": "20070301",
+            "name": "Hun Sen Prasaut",
+            "name_km": "វិទ្យាល័យហ៊ុនសែនប្រសូតិ"
+        },
+        {
+            "id": "20070303009",
+            "school_type_id": 2,
+            "district_id": 2007,
+            "commune_id": "200703",
+            "village_id": "20070303",
+            "name": "Banteay",
+            "name_km": "បន្ទាយ"
+        },
+        {
+            "id": "20070303511",
+            "school_type_id": 1,
+            "district_id": 2007,
+            "commune_id": "200703",
+            "village_id": "20070303",
+            "name": "Banteay",
+            "name_km": "បន្ទាយ"
+        },
+        {
+            "id": "20070306010",
+            "school_type_id": 2,
+            "district_id": 2007,
+            "commune_id": "200703",
+            "village_id": "20070306",
+            "name": "Moeung Samphan",
+            "name_km": "ម៉ឹង សំផន"
+        },
+        {
+            "id": "20070306516",
+            "school_type_id": 1,
+            "district_id": 2007,
+            "commune_id": "200703",
+            "village_id": "20070306",
+            "name": "Moeung Samphan",
+            "name_km": "ម៉ឹង សំផន"
+        },
+        {
+            "id": "20070308034",
+            "school_type_id": 2,
+            "district_id": 2007,
+            "commune_id": "200703",
+            "village_id": "20070308",
+            "name": "Kandieng Reay",
+            "name_km": "កណ្ដៀងរាយ"
+        },
+        {
+            "id": "20070308520",
+            "school_type_id": 1,
+            "district_id": 2007,
+            "commune_id": "200703",
+            "village_id": "20070308",
+            "name": "Kandieng Reay",
+            "name_km": "កណ្ដៀងរាយ"
+        },
+        {
+            "id": "20070401011",
+            "school_type_id": 2,
+            "district_id": 2007,
+            "commune_id": "200704",
+            "village_id": "20070401",
+            "name": "Monorom",
+            "name_km": "មន្យោរម"
+        },
+        {
+            "id": "20070501012",
+            "school_type_id": 2,
+            "district_id": 2007,
+            "commune_id": "200705",
+            "village_id": "20070501",
+            "name": "Thlok Pring",
+            "name_km": "ថ្លុកព្រីង"
+        },
+        {
+            "id": "20070502013",
+            "school_type_id": 2,
+            "district_id": 2007,
+            "commune_id": "200705",
+            "village_id": "20070502",
+            "name": "Thnal Keng",
+            "name_km": "ថ្នល់កែង"
+        },
+        {
+            "id": "20070505014",
+            "school_type_id": 2,
+            "district_id": 2007,
+            "commune_id": "200705",
+            "village_id": "20070505",
+            "name": "Popet",
+            "name_km": "ញឹមយន់ពពែត"
+        },
+        {
+            "id": "20070505517",
+            "school_type_id": 1,
+            "district_id": 2007,
+            "commune_id": "200705",
+            "village_id": "20070505",
+            "name": "Nhim Yonn Popet",
+            "name_km": "ញឹមយន់ ពពែត"
+        },
+        {
+            "id": "20070505706",
+            "school_type_id": 3,
+            "district_id": 2007,
+            "commune_id": "200705",
+            "village_id": "20070505",
+            "name": "Popet",
+            "name_km": "ពពែត"
+        },
+        {
+            "id": "20070601015",
+            "school_type_id": 2,
+            "district_id": 2007,
+            "commune_id": "200706",
+            "village_id": "20070601",
+            "name": "Prey Ta Ei",
+            "name_km": "ព្រៃតាអី"
+        },
+        {
+            "id": "20070601707",
+            "school_type_id": 3,
+            "district_id": 2007,
+            "commune_id": "200706",
+            "village_id": "20070601",
+            "name": "Prey Ta Ei",
+            "name_km": "ព្រៃតាអី"
+        },
+        {
+            "id": "20070701016",
+            "school_type_id": 2,
+            "district_id": 2007,
+            "commune_id": "200707",
+            "village_id": "20070701",
+            "name": "Prey Rumduol",
+            "name_km": "មិត្តភាពកម្ពុជាចិនព្រៃរំដួល"
+        },
+        {
+            "id": "20070701518",
+            "school_type_id": 1,
+            "district_id": 2007,
+            "commune_id": "200707",
+            "village_id": "20070701",
+            "name": "Prey Rumduol",
+            "name_km": "មិត្តភាពកម្ពុជាចិនព្រៃរំដួល"
+        },
+        {
+            "id": "20070701704",
+            "school_type_id": 3,
+            "district_id": 2007,
+            "commune_id": "200707",
+            "village_id": "20070701",
+            "name": "Prey Rumduol",
+            "name_km": "ព្រៃរំដួល"
+        },
+        {
+            "id": "20070702017",
+            "school_type_id": 2,
+            "district_id": 2007,
+            "commune_id": "200707",
+            "village_id": "20070702",
+            "name": "Pich Montrei",
+            "name_km": "ពេជ្រមន្ត្រី"
+        },
+        {
+            "id": "20070702508",
+            "school_type_id": 1,
+            "district_id": 2007,
+            "commune_id": "200707",
+            "village_id": "20070702",
+            "name": "Pich Montrei",
+            "name_km": "ពេជ្រមន្ត្រី"
+        },
+        {
+            "id": "20070705018",
+            "school_type_id": 2,
+            "district_id": 2007,
+            "commune_id": "200707",
+            "village_id": "20070705",
+            "name": "Prey Chheu Teal",
+            "name_km": "ព្រៃឈើទាល"
+        },
+        {
+            "id": "20070705509",
+            "school_type_id": 1,
+            "district_id": 2007,
+            "commune_id": "200707",
+            "village_id": "20070705",
+            "name": "Prey Chheu Teal",
+            "name_km": "ព្រៃឈើទាល"
+        },
+        {
+            "id": "20070709019",
+            "school_type_id": 2,
+            "district_id": 2007,
+            "commune_id": "200707",
+            "village_id": "20070709",
+            "name": "Saray",
+            "name_km": "សារ៉ាយ"
+        },
+        {
+            "id": "20070709519",
+            "school_type_id": 1,
+            "district_id": 2007,
+            "commune_id": "200707",
+            "village_id": "20070709",
+            "name": "Saray",
+            "name_km": "សារ៉ាយ"
+        },
+        {
+            "id": "20070804020",
+            "school_type_id": 2,
+            "district_id": 2007,
+            "commune_id": "200708",
+            "village_id": "20070804",
+            "name": "Khchay",
+            "name_km": "ខ្ជាយ"
+        },
+        {
+            "id": "20070804504",
+            "school_type_id": 1,
+            "district_id": 2007,
+            "commune_id": "200708",
+            "village_id": "20070804",
+            "name": "Khchay",
+            "name_km": "ខ្ជាយ"
+        },
+        {
+            "id": "20070804702",
+            "school_type_id": 3,
+            "district_id": 2007,
+            "commune_id": "200708",
+            "village_id": "20070804",
+            "name": "Khchay",
+            "name_km": "ខ្ជាយ"
+        },
+        {
+            "id": "20070808032",
+            "school_type_id": 2,
+            "district_id": 2007,
+            "commune_id": "200708",
+            "village_id": "20070808",
+            "name": "Bek Chan",
+            "name_km": "កែវមុំងួនមុតបែកចាន"
+        },
+        {
+            "id": "20070808512",
+            "school_type_id": 1,
+            "district_id": 2007,
+            "commune_id": "200708",
+            "village_id": "20070808",
+            "name": "Keo Meung Noumuth Bek Chan",
+            "name_km": "កែវមុំងួនមុតបែកចាន"
+        },
+        {
+            "id": "20070901021",
+            "school_type_id": 2,
+            "district_id": 2007,
+            "commune_id": "200709",
+            "village_id": "20070901",
+            "name": "Sambour",
+            "name_km": "សំបួរ"
+        },
+        {
+            "id": "20070901514",
+            "school_type_id": 1,
+            "district_id": 2007,
+            "commune_id": "200709",
+            "village_id": "20070901",
+            "name": "Sambour",
+            "name_km": "សំបូរ"
+        },
+        {
+            "id": "20070901705",
+            "school_type_id": 3,
+            "district_id": 2007,
+            "commune_id": "200709",
+            "village_id": "20070901",
+            "name": "Sambour",
+            "name_km": "សំបួរ"
+        },
+        {
+            "id": "20070902022",
+            "school_type_id": 2,
+            "district_id": 2007,
+            "commune_id": "200709",
+            "village_id": "20070902",
+            "name": "Ta Nou",
+            "name_km": "តានូ"
+        },
+        {
+            "id": "20070902507",
+            "school_type_id": 1,
+            "district_id": 2007,
+            "commune_id": "200709",
+            "village_id": "20070902",
+            "name": "Ta Nou",
+            "name_km": "តានូ"
+        },
+        {
+            "id": "20070904023",
+            "school_type_id": 2,
+            "district_id": 2007,
+            "commune_id": "200709",
+            "village_id": "20070904",
+            "name": "Prey Toteung",
+            "name_km": "ព្រៃទទឹង"
+        },
+        {
+            "id": "20070908024",
+            "school_type_id": 2,
+            "district_id": 2007,
+            "commune_id": "200709",
+            "village_id": "20070908",
+            "name": "Samaki Raingsei",
+            "name_km": "សាមគ្គីរង្សី"
+        },
+        {
+            "id": "20070908513",
+            "school_type_id": 1,
+            "district_id": 2007,
+            "commune_id": "200709",
+            "village_id": "20070908",
+            "name": "Samaki Raingsei",
+            "name_km": "សាមគ្គីរង្សី"
+        },
+        {
+            "id": "20071103030",
+            "school_type_id": 2,
+            "district_id": 2007,
+            "commune_id": "200711",
+            "village_id": "20071103",
+            "name": "Ang Svay",
+            "name_km": "អង្គស្វាយ"
+        },
+        {
+            "id": "20071103505",
+            "school_type_id": 1,
+            "district_id": 2007,
+            "commune_id": "200711",
+            "village_id": "20071103",
+            "name": "Ang Svay",
+            "name_km": "អង្គស្វាយ"
+        },
+        {
+            "id": "20071103903",
+            "school_type_id": 5,
+            "district_id": 2007,
+            "commune_id": "200711",
+            "village_id": "20071103",
+            "name": "Hun Sen Svay  Rumpear",
+            "name_km": "ហ៊ុន សែន ស្វាយរំពារ"
+        },
+        {
+            "id": "20071105031",
+            "school_type_id": 2,
+            "district_id": 2007,
+            "commune_id": "200711",
+            "village_id": "20071105",
+            "name": "Po Tunteum",
+            "name_km": "ពោធិ៍ទន្ទឹម"
+        },
+        {
+            "id": "20071105506",
+            "school_type_id": 1,
+            "district_id": 2007,
+            "commune_id": "200711",
+            "village_id": "20071105",
+            "name": "Po Tunteum",
+            "name_km": "ពោធិ៍ទន្ទឹម"
+        }
+    ]
+}

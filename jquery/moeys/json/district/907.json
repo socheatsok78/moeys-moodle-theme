@@ -1,0 +1,194 @@
+{
+    "id": 907,
+    "schools": [
+        {
+            "id": "09070101012",
+            "school_type_id": 2,
+            "district_id": 907,
+            "commune_id": "090701",
+            "village_id": "09070101",
+            "name": "O Kei",
+            "name_km": "អូកី"
+        },
+        {
+            "id": "09070102001",
+            "school_type_id": 2,
+            "district_id": 907,
+            "commune_id": "090701",
+            "village_id": "09070102",
+            "name": "Chi Phat",
+            "name_km": "ជីផាត"
+        },
+        {
+            "id": "09070102501",
+            "school_type_id": 1,
+            "district_id": 907,
+            "commune_id": "090701",
+            "village_id": "09070102",
+            "name": "Chi Phat",
+            "name_km": "ជីផាត"
+        },
+        {
+            "id": "09070102701",
+            "school_type_id": 3,
+            "district_id": 907,
+            "commune_id": "090701",
+            "village_id": "09070102",
+            "name": "Chi Phat",
+            "name_km": "អនុវិទ្យាល័យជីផាត"
+        },
+        {
+            "id": "09070104013",
+            "school_type_id": 2,
+            "district_id": 907,
+            "commune_id": "090701",
+            "village_id": null,
+            "name": "Teuk La-ak",
+            "name_km": "ទឹកល្អក់"
+        },
+        {
+            "id": "09070201015",
+            "school_type_id": 2,
+            "district_id": 907,
+            "commune_id": "090702",
+            "village_id": "09070201",
+            "name": "Phoum Chamnar",
+            "name_km": "ចំណារ"
+        },
+        {
+            "id": "09070202005",
+            "school_type_id": 2,
+            "district_id": 907,
+            "commune_id": "090702",
+            "village_id": "09070202",
+            "name": "Pralay",
+            "name_km": "ប្រឡាយ"
+        },
+        {
+            "id": "09070203014",
+            "school_type_id": 2,
+            "district_id": 907,
+            "commune_id": "090702",
+            "village_id": "09070203",
+            "name": "Phoum Samrong",
+            "name_km": "ឧបសម្ព័ន្ធសំរោង"
+        },
+        {
+            "id": "09070302004",
+            "school_type_id": 2,
+            "district_id": 907,
+            "commune_id": "090703",
+            "village_id": "09070302",
+            "name": "Russey Chrum",
+            "name_km": "ឫស្សីជ្រំុ"
+        },
+        {
+            "id": "09070302009",
+            "school_type_id": 2,
+            "district_id": 907,
+            "commune_id": "090703",
+            "village_id": "09070302",
+            "name": "Koki Chrum",
+            "name_km": "ឧ.គគីរជ្រុំ"
+        },
+        {
+            "id": "09070302504",
+            "school_type_id": 1,
+            "district_id": 907,
+            "commune_id": "090703",
+            "village_id": "09070302",
+            "name": "Russey Chrum",
+            "name_km": "មតេ្តយ្យសិក្សា ឬស្សីជ្រុំ"
+        },
+        {
+            "id": "09070302702",
+            "school_type_id": 3,
+            "district_id": 907,
+            "commune_id": "090703",
+            "village_id": "09070302",
+            "name": "Russey Chrum",
+            "name_km": "អនុ.ឫស្សីជ្រុំ"
+        },
+        {
+            "id": "09070401002",
+            "school_type_id": 2,
+            "district_id": 907,
+            "commune_id": "090704",
+            "village_id": "09070401",
+            "name": "Chumnoap",
+            "name_km": "ជំនាប់"
+        },
+        {
+            "id": "09070402003",
+            "school_type_id": 2,
+            "district_id": 907,
+            "commune_id": "090704",
+            "village_id": "09070402",
+            "name": "Thmar Daun Peuv",
+            "name_km": "ថ្មដូនពៅ"
+        },
+        {
+            "id": "09070402011",
+            "school_type_id": 2,
+            "district_id": 907,
+            "commune_id": "090704",
+            "village_id": "09070402",
+            "name": "Phoum Koh",
+            "name_km": "ភូមិកោះ"
+        },
+        {
+            "id": "09070402503",
+            "school_type_id": 1,
+            "district_id": 907,
+            "commune_id": "090704",
+            "village_id": "09070402",
+            "name": "Thmar Daun Peuv",
+            "name_km": "ថ្មដូនពៅ"
+        },
+        {
+            "id": "09070402704",
+            "school_type_id": 3,
+            "district_id": 907,
+            "commune_id": "090704",
+            "village_id": "09070402",
+            "name": "Thmar Daun Peuv",
+            "name_km": "អនុវិទ្យាល័យថ្មដូនពៅ"
+        },
+        {
+            "id": "09070502010",
+            "school_type_id": 2,
+            "district_id": 907,
+            "commune_id": "090705",
+            "village_id": "09070502",
+            "name": "Spean Kdar",
+            "name_km": "ស្ពានក្តារ"
+        },
+        {
+            "id": "09070503006",
+            "school_type_id": 2,
+            "district_id": 907,
+            "commune_id": "090705",
+            "village_id": "09070503",
+            "name": "Ta Tai Leu",
+            "name_km": "តាទៃលើ"
+        },
+        {
+            "id": "09070503502",
+            "school_type_id": 1,
+            "district_id": 907,
+            "commune_id": "090705",
+            "village_id": "09070503",
+            "name": "Ta Tai Leu",
+            "name_km": "តាទៃលើ"
+        },
+        {
+            "id": "09070503703",
+            "school_type_id": 3,
+            "district_id": 907,
+            "commune_id": "090705",
+            "village_id": "09070503",
+            "name": "Ta Tai Leu",
+            "name_km": "អនុ.តាទៃលើ"
+        }
+    ]
+}

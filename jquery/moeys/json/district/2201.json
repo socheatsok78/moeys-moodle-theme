@@ -1,0 +1,194 @@
+{
+    "id": 2201,
+    "schools": [
+        {
+            "id": "22010101001",
+            "school_type_id": 2,
+            "district_id": 2201,
+            "commune_id": "220101",
+            "village_id": "22010101",
+            "name": "Hun Sen Kep",
+            "name_km": "ហ៊ុន​ សែន​កែប"
+        },
+        {
+            "id": "22010101501",
+            "school_type_id": 1,
+            "district_id": 2201,
+            "commune_id": "220101",
+            "village_id": "22010101",
+            "name": "Hun Sen Kep",
+            "name_km": "ហ៊ុន សែនកែប"
+        },
+        {
+            "id": "22010101703",
+            "school_type_id": 3,
+            "district_id": 2201,
+            "commune_id": "220101",
+            "village_id": "22010101",
+            "name": "Hun Sen Kep",
+            "name_km": "ហ៊ុន សែន កែប"
+        },
+        {
+            "id": "22010102002",
+            "school_type_id": 2,
+            "district_id": 2201,
+            "commune_id": "220101",
+            "village_id": "22010102",
+            "name": "Hun Sen Keo Krasaing",
+            "name_km": "ហ៊ុន​ សែន​កែវ​ក្រសាំង"
+        },
+        {
+            "id": "22010102503",
+            "school_type_id": 1,
+            "district_id": 2201,
+            "commune_id": "220101",
+            "village_id": "22010102",
+            "name": "Hun Sen Keo Krasaing",
+            "name_km": "ហ៊ុន សែន​កែវ​ក្រសាំង"
+        },
+        {
+            "id": "22010201003",
+            "school_type_id": 2,
+            "district_id": 2201,
+            "commune_id": "220102",
+            "village_id": "22010201",
+            "name": "Hun Sen Damnak Chang-eur",
+            "name_km": "ប៊ុន​រ៉ានី​ហ៊ុន​សែន​​ដំណាក់​ចង្អើរ"
+        },
+        {
+            "id": "22010201502",
+            "school_type_id": 1,
+            "district_id": 2201,
+            "commune_id": "220102",
+            "village_id": "22010201",
+            "name": "Bun Rany Hun Sen Damnak Chann",
+            "name_km": "ប៊ុន​រ៉ានី​ហ៊ុន​សែន​​ដំណាក់​ចង្អើរ"
+        },
+        {
+            "id": "22010202004",
+            "school_type_id": 2,
+            "district_id": 2201,
+            "commune_id": "220102",
+            "village_id": "22010202",
+            "name": "Hun Sen Kampong Tralach",
+            "name_km": "ហ៊ុន​ សែន​កំពង់​ត្រឡាច"
+        },
+        {
+            "id": "22010202006",
+            "school_type_id": 2,
+            "district_id": 2201,
+            "commune_id": "220102",
+            "village_id": "22010202",
+            "name": "Ang Phnom Tauch",
+            "name_km": "អង្គ​ភ្នំ​តូច"
+        },
+        {
+            "id": "22010202505",
+            "school_type_id": 1,
+            "district_id": 2201,
+            "commune_id": "220102",
+            "village_id": "22010202",
+            "name": "Hun Sen Kampong Tralach",
+            "name_km": "ហ៊ុនសែនកំពង់ត្រឡាច"
+        },
+        {
+            "id": "22010202509",
+            "school_type_id": 1,
+            "district_id": 2201,
+            "commune_id": "220102",
+            "village_id": "22010202",
+            "name": "Ang Phnom Tauch",
+            "name_km": "អង្គ​ភ្នំ​តូច"
+        },
+        {
+            "id": "22010203005",
+            "school_type_id": 2,
+            "district_id": 2201,
+            "commune_id": "220102",
+            "village_id": "22010203",
+            "name": "Sbov",
+            "name_km": "ស្បូវ"
+        },
+        {
+            "id": "22010203504",
+            "school_type_id": 1,
+            "district_id": 2201,
+            "commune_id": "220102",
+            "village_id": "22010203",
+            "name": "Sbov",
+            "name_km": "មត្តេយ្យសិក្សាស្បូវ"
+        },
+        {
+            "id": "22010203702",
+            "school_type_id": 3,
+            "district_id": 2201,
+            "commune_id": "220102",
+            "village_id": "22010203",
+            "name": "Sangkum Reastr Nyum",
+            "name_km": "សង្គមរាស្រ្តនិយម"
+        },
+        {
+            "id": "22010301007",
+            "school_type_id": 2,
+            "district_id": 2201,
+            "commune_id": "220102",
+            "village_id": "22010203",
+            "name": "O Krasar",
+            "name_km": "អូរ​ក្រសា"
+        },
+        {
+            "id": "22010301508",
+            "school_type_id": 1,
+            "district_id": 2201,
+            "commune_id": "220101",
+            "village_id": "22010203",
+            "name": "O Krasar",
+            "name_km": "អូរក្រសារ"
+        },
+        {
+            "id": "22010302008",
+            "school_type_id": 2,
+            "district_id": 2201,
+            "commune_id": "220101",
+            "village_id": "22010203",
+            "name": "Chakriya Vong",
+            "name_km": "ចរិយាវង្ស"
+        },
+        {
+            "id": "22010302009",
+            "school_type_id": 2,
+            "district_id": 2201,
+            "commune_id": "220101",
+            "village_id": "22010203",
+            "name": "NAMIKO Phnom Sosear",
+            "name_km": "ណាមីកូ ភ្នំ​សរសៀ"
+        },
+        {
+            "id": "22010302506",
+            "school_type_id": 1,
+            "district_id": 2201,
+            "commune_id": null,
+            "village_id": null,
+            "name": "NAMIKO Phnom Sosear",
+            "name_km": "ណាមីកូភ្នំសសៀរ"
+        },
+        {
+            "id": "22010302507",
+            "school_type_id": 1,
+            "district_id": 2201,
+            "commune_id": "220101",
+            "village_id": "22010203",
+            "name": "Chakrya Vong",
+            "name_km": "ចរិយាវង្ស"
+        },
+        {
+            "id": "22010302901",
+            "school_type_id": 5,
+            "district_id": 2201,
+            "commune_id": "220101",
+            "village_id": "22010101",
+            "name": "Bun Rany Hun SenChakriya Vong",
+            "name_km": "វិ.ប៊ុនរ៉ានីហ៊ុនសែនចរិយាវង្ស"
+        }
+    ]
+}

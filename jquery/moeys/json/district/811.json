@@ -1,0 +1,185 @@
+{
+    "id": 811,
+    "schools": [
+        {
+            "id": "08110201001",
+            "school_type_id": 2,
+            "district_id": 811,
+            "commune_id": "081102",
+            "village_id": "08110201",
+            "name": "Bun Rany Hun Sen Krapeu Ha",
+            "name_km": "ហស ក្រពើហា"
+        },
+        {
+            "id": "08110202002",
+            "school_type_id": 2,
+            "district_id": 811,
+            "commune_id": "081102",
+            "village_id": "08110202",
+            "name": "Samdech Hun Sen Prek Russey",
+            "name_km": "ហស​ ព្រែកឬស្សី"
+        },
+        {
+            "id": "08110303003",
+            "school_type_id": 2,
+            "district_id": 811,
+            "commune_id": "081103",
+            "village_id": "08110303",
+            "name": "Prek Ta Peuv",
+            "name_km": "ព្រែកតាពៅ"
+        },
+        {
+            "id": "08110304010",
+            "school_type_id": 2,
+            "district_id": 811,
+            "commune_id": "081103",
+            "village_id": "08110304",
+            "name": "Stung Chreuv",
+            "name_km": "ស្ទឹងជ្រៅ"
+        },
+        {
+            "id": "08110304702",
+            "school_type_id": 3,
+            "district_id": 811,
+            "commune_id": "081103",
+            "village_id": "08110304",
+            "name": "Stung Chreuv",
+            "name_km": "ស្ទឹងជ្រៅ"
+        },
+        {
+            "id": "08110401004",
+            "school_type_id": 2,
+            "district_id": 811,
+            "commune_id": "081104",
+            "village_id": "08110401",
+            "name": "Takhmao",
+            "name_km": "តាខ្មៅ"
+        },
+        {
+            "id": "08110401005",
+            "school_type_id": 2,
+            "district_id": 811,
+            "commune_id": "081104",
+            "village_id": "08110401",
+            "name": "Aknouwat Bun Rany Hun Sen",
+            "name_km": "អនុវត្ត បន​ហស "
+        },
+        {
+            "id": "08110401501",
+            "school_type_id": 1,
+            "district_id": 811,
+            "commune_id": "081104",
+            "village_id": "08110401",
+            "name": "Srok Takhmao",
+            "name_km": "ក្រុងតាខ្មៅ"
+        },
+        {
+            "id": "08110401902",
+            "school_type_id": 5,
+            "district_id": 811,
+            "commune_id": "081104",
+            "village_id": "08110401",
+            "name": "Hun Sen Serei Pheap",
+            "name_km": "ហស សេរីភាព"
+        },
+        {
+            "id": "08110402006",
+            "school_type_id": 2,
+            "district_id": 811,
+            "commune_id": "081104",
+            "village_id": "08110402",
+            "name": "Hun Sen Prek Samrong",
+            "name_km": "បន ហស ព្រែកសំរោង"
+        },
+        {
+            "id": "08110402502",
+            "school_type_id": 1,
+            "district_id": 811,
+            "commune_id": "081104",
+            "village_id": "08110402",
+            "name": "Prek Samrong",
+            "name_km": "ព្រែកសំរោង"
+        },
+        {
+            "id": "08110402701",
+            "school_type_id": 3,
+            "district_id": 811,
+            "commune_id": "081104",
+            "village_id": "08110402",
+            "name": "Aknouwat",
+            "name_km": "អនុវត្ត "
+        },
+        {
+            "id": "08110403901",
+            "school_type_id": 5,
+            "district_id": 811,
+            "commune_id": "081104",
+            "village_id": "08110403",
+            "name": "Hun Sen Takhmao",
+            "name_km": "ហស តាខ្មៅ"
+        },
+        {
+            "id": "08110502007",
+            "school_type_id": 2,
+            "district_id": 811,
+            "commune_id": "081105",
+            "village_id": "08110502",
+            "name": "Samdech Heng Samrin Prek Ho",
+            "name_km": "សម្ដេចហេងសំរិនព្រែកហូរ"
+        },
+        {
+            "id": "08110502012",
+            "school_type_id": 2,
+            "district_id": 811,
+            "commune_id": "081105",
+            "village_id": "08110502",
+            "name": "Samdech Ketebandeth B.R.N.H.S Prek Ho",
+            "name_km": "បរនហស ព្រែកហូរ"
+        },
+        {
+            "id": "08110502704",
+            "school_type_id": 3,
+            "district_id": 811,
+            "commune_id": "081105",
+            "village_id": "08110502",
+            "name": "Bunrany Hun Sen Prek Ho",
+            "name_km": "បរនហស ព្រែកហូរ"
+        },
+        {
+            "id": "08110601008",
+            "school_type_id": 2,
+            "district_id": 811,
+            "commune_id": "081106",
+            "village_id": "08110601",
+            "name": "Hun Sen Kampong Samnanh",
+            "name_km": "ហស កំពង់សំណាញ់"
+        },
+        {
+            "id": "08110602011",
+            "school_type_id": 2,
+            "district_id": 811,
+            "commune_id": "081106",
+            "village_id": "08110602",
+            "name": "Hun Sen Khporb Veng",
+            "name_km": "ហ៊ុនសែន ខ្ពបវែង"
+        },
+        {
+            "id": "08110602703",
+            "school_type_id": 3,
+            "district_id": 811,
+            "commune_id": "081106",
+            "village_id": "08110602",
+            "name": "Hun Sen Khporb Veng",
+            "name_km": "ហស ខ្ពបវែង"
+        },
+        {
+            "id": "08110603009",
+            "school_type_id": 2,
+            "district_id": 811,
+            "commune_id": "081106",
+            "village_id": "08110603",
+            "name": "Krabao",
+            "name_km": "ក្របៅ"
+        }
+    ]
+}

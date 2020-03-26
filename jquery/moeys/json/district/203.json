@@ -1,0 +1,689 @@
+{
+    "id": 203,
+    "schools": [
+        {
+            "id": "02030101022",
+            "school_type_id": 2,
+            "district_id": 203,
+            "commune_id": "020301",
+            "village_id": "02030101",
+            "name": "O Ta Koam 1",
+            "name_km": "អូរតាគាំ១"
+        },
+        {
+            "id": "02030102023",
+            "school_type_id": 2,
+            "district_id": 203,
+            "commune_id": "020301",
+            "village_id": "02030102",
+            "name": "O Ta Koam 2",
+            "name_km": "អូរតាគាំ២"
+        },
+        {
+            "id": "02030102513",
+            "school_type_id": 1,
+            "district_id": 203,
+            "commune_id": "020301",
+            "village_id": "02030102",
+            "name": "O Ta Koam 2",
+            "name_km": "អូរតាគាំ ២"
+        },
+        {
+            "id": "02030104024",
+            "school_type_id": 2,
+            "district_id": 203,
+            "commune_id": "020301",
+            "village_id": "02030104",
+            "name": "Tuol Ta Ek",
+            "name_km": "ទួលតាឯក"
+        },
+        {
+            "id": "02030104512",
+            "school_type_id": 1,
+            "district_id": 203,
+            "commune_id": "020301",
+            "village_id": "02030104",
+            "name": "Ponleu Komar",
+            "name_km": "ពន្លឺកុមារ"
+        },
+        {
+            "id": "02030104701",
+            "school_type_id": 3,
+            "district_id": 203,
+            "commune_id": "020301",
+            "village_id": "02030104",
+            "name": "Wat Damrei Sar",
+            "name_km": "វត្តដំរីស"
+        },
+        {
+            "id": "02030201901",
+            "school_type_id": 5,
+            "district_id": 203,
+            "commune_id": "020302",
+            "village_id": "02030201",
+            "name": "Net Yang",
+            "name_km": "នេតយ៉ង់"
+        },
+        {
+            "id": "02030204026",
+            "school_type_id": 2,
+            "district_id": 203,
+            "commune_id": "020302",
+            "village_id": "02030204",
+            "name": "13 Makara",
+            "name_km": "១៣មករា"
+        },
+        {
+            "id": "02030204038",
+            "school_type_id": 2,
+            "district_id": 203,
+            "commune_id": "020302",
+            "village_id": "02030204",
+            "name": "Aknouwat",
+            "name_km": "បឋមអនុវត្តន៍"
+        },
+        {
+            "id": "02030204509",
+            "school_type_id": 1,
+            "district_id": 203,
+            "commune_id": "020302",
+            "village_id": "02030204",
+            "name": "13 Makara",
+            "name_km": "13 មករា"
+        },
+        {
+            "id": "02030206027",
+            "school_type_id": 2,
+            "district_id": 203,
+            "commune_id": "020302",
+            "village_id": "02030206",
+            "name": "Prek Preah Sdech",
+            "name_km": "ព្រែកព្រះស្តេច"
+        },
+        {
+            "id": "02030207028",
+            "school_type_id": 2,
+            "district_id": 203,
+            "commune_id": "020302",
+            "village_id": "02030207",
+            "name": "Samdech Chea Sim",
+            "name_km": "សម្តេចជាស៊ីម"
+        },
+        {
+            "id": "02030207508",
+            "school_type_id": 1,
+            "district_id": 203,
+            "commune_id": "020302",
+            "village_id": "02030207",
+            "name": "Samdech Chea Sim",
+            "name_km": "សម្តេច ជាស៊ីម"
+        },
+        {
+            "id": "02030303029",
+            "school_type_id": 2,
+            "district_id": 203,
+            "commune_id": "020303",
+            "village_id": "02030303",
+            "name": "Rumchek 3",
+            "name_km": "រំចេច៣"
+        },
+        {
+            "id": "02030303523",
+            "school_type_id": 1,
+            "district_id": 203,
+            "commune_id": "020303",
+            "village_id": "02030303",
+            "name": "Rumchek 3",
+            "name_km": "រំចេក ៣"
+        },
+        {
+            "id": "02030303707",
+            "school_type_id": 3,
+            "district_id": 203,
+            "commune_id": "020303",
+            "village_id": "02030303",
+            "name": "Aknouwat",
+            "name_km": "អនុវត្តន៏"
+        },
+        {
+            "id": "02030306030",
+            "school_type_id": 2,
+            "district_id": 203,
+            "commune_id": "020303",
+            "village_id": "02030306",
+            "name": "Sophy",
+            "name_km": "សូភី"
+        },
+        {
+            "id": "02030306510",
+            "school_type_id": 1,
+            "district_id": 203,
+            "commune_id": "020303",
+            "village_id": "02030306",
+            "name": "Sophy",
+            "name_km": "សូ ភី"
+        },
+        {
+            "id": "02030308031",
+            "school_type_id": 2,
+            "district_id": 203,
+            "commune_id": "020303",
+            "village_id": "02030308",
+            "name": "Ratanak",
+            "name_km": "រតនៈ"
+        },
+        {
+            "id": "02030308511",
+            "school_type_id": 1,
+            "district_id": 203,
+            "commune_id": "020303",
+            "village_id": "02030308",
+            "name": "Ratanak",
+            "name_km": "រតនៈ"
+        },
+        {
+            "id": "02030401001",
+            "school_type_id": 2,
+            "district_id": 203,
+            "commune_id": "020304",
+            "village_id": "02030401",
+            "name": "Po Vong",
+            "name_km": "ពោធិវង្ស"
+        },
+        {
+            "id": "02030401504",
+            "school_type_id": 1,
+            "district_id": 203,
+            "commune_id": "020304",
+            "village_id": "02030401",
+            "name": "Po Vong",
+            "name_km": "ពោធិវង្ស"
+        },
+        {
+            "id": "02030403002",
+            "school_type_id": 2,
+            "district_id": 203,
+            "commune_id": "020304",
+            "village_id": "02030403",
+            "name": "Wat Leap",
+            "name_km": "វត្តលៀប"
+        },
+        {
+            "id": "02030403505",
+            "school_type_id": 1,
+            "district_id": 203,
+            "commune_id": "020304",
+            "village_id": "02030403",
+            "name": "Wat Leap",
+            "name_km": "វត្តលៀប"
+        },
+        {
+            "id": "02030404704",
+            "school_type_id": 3,
+            "district_id": 203,
+            "commune_id": "020304",
+            "village_id": "02030404",
+            "name": "Chamkar Samrong",
+            "name_km": "ចំការសំរោង"
+        },
+        {
+            "id": "02030502010",
+            "school_type_id": 2,
+            "district_id": 203,
+            "commune_id": "020305",
+            "village_id": "02030502",
+            "name": "Mittapheap",
+            "name_km": "មិត្តភាព"
+        },
+        {
+            "id": "02030502514",
+            "school_type_id": 1,
+            "district_id": 203,
+            "commune_id": "020305",
+            "village_id": "02030502",
+            "name": "Mittapheap",
+            "name_km": "មិត្តភាព"
+        },
+        {
+            "id": "02030503011",
+            "school_type_id": 2,
+            "district_id": 203,
+            "commune_id": "020305",
+            "village_id": "02030503",
+            "name": "Chrey Koang",
+            "name_km": "ជ្រៃកោង"
+        },
+        {
+            "id": "02030601005",
+            "school_type_id": 2,
+            "district_id": 203,
+            "commune_id": "020306",
+            "village_id": "02030601",
+            "name": "Chong Prek",
+            "name_km": "ចុងព្រែក"
+        },
+        {
+            "id": "02030601532",
+            "school_type_id": 1,
+            "district_id": 203,
+            "commune_id": "020306",
+            "village_id": "02030601",
+            "name": "Chong Prek",
+            "name_km": "ចុងព្រែក"
+        },
+        {
+            "id": "02030602006",
+            "school_type_id": 2,
+            "district_id": 203,
+            "commune_id": "020306",
+            "village_id": "02030602",
+            "name": "Kdol",
+            "name_km": "ក្តុលូនទាវ"
+        },
+        {
+            "id": "02030602520",
+            "school_type_id": 1,
+            "district_id": 203,
+            "commune_id": "020306",
+            "village_id": "02030602",
+            "name": "Kdol Daun Teav",
+            "name_km": "ក្តុលដូនទាវ"
+        },
+        {
+            "id": "02030602904",
+            "school_type_id": 5,
+            "district_id": 203,
+            "commune_id": "020306",
+            "village_id": "02030602",
+            "name": "Kdol Daun Teav",
+            "name_km": "ក្ដុលដូនទាវ"
+        },
+        {
+            "id": "02030604007",
+            "school_type_id": 2,
+            "district_id": 203,
+            "commune_id": "020306",
+            "village_id": "02030604",
+            "name": "Ta Pruoch",
+            "name_km": "តាព្រួច"
+        },
+        {
+            "id": "02030604528",
+            "school_type_id": 1,
+            "district_id": 203,
+            "commune_id": "020306",
+            "village_id": "02030604",
+            "name": "Ta Pruoch",
+            "name_km": "តាព្រួច"
+        },
+        {
+            "id": "02030607008",
+            "school_type_id": 2,
+            "district_id": 203,
+            "commune_id": "020306",
+            "village_id": "02030607",
+            "name": "Thkov",
+            "name_km": "ថ្កូវ"
+        },
+        {
+            "id": "02030607531",
+            "school_type_id": 1,
+            "district_id": 203,
+            "commune_id": "020306",
+            "village_id": "02030607",
+            "name": "Thkov",
+            "name_km": "ថ្កូវ"
+        },
+        {
+            "id": "02030701012",
+            "school_type_id": 2,
+            "district_id": 203,
+            "commune_id": "020307",
+            "village_id": "02030701",
+            "name": "O Mal Prey Roka",
+            "name_km": "អូរម៉ាល់ព្រៃរកា"
+        },
+        {
+            "id": "02030701519",
+            "school_type_id": 1,
+            "district_id": 203,
+            "commune_id": "020307",
+            "village_id": "02030701",
+            "name": "O Mal Prey Roka",
+            "name_km": "អូរម៉ាល់ព្រៃរកា"
+        },
+        {
+            "id": "02030702013",
+            "school_type_id": 2,
+            "district_id": 203,
+            "commune_id": "020307",
+            "village_id": "02030702",
+            "name": "Dak Sasar",
+            "name_km": "ដាក់សសរ"
+        },
+        {
+            "id": "02030702534",
+            "school_type_id": 1,
+            "district_id": 203,
+            "commune_id": "020307",
+            "village_id": "02030702",
+            "name": "Beung OuvLork",
+            "name_km": "បឹងឪឡោក"
+        },
+        {
+            "id": "02030703014",
+            "school_type_id": 2,
+            "district_id": 203,
+            "commune_id": "020307",
+            "village_id": "02030703",
+            "name": "Sala Balat",
+            "name_km": "សាលាបាឡាត់"
+        },
+        {
+            "id": "02030703515",
+            "school_type_id": 1,
+            "district_id": 203,
+            "commune_id": "020307",
+            "village_id": "02030703",
+            "name": "Sala Balat",
+            "name_km": "សាលាបាឡាត់"
+        },
+        {
+            "id": "02030705015",
+            "school_type_id": 2,
+            "district_id": 203,
+            "commune_id": "020307",
+            "village_id": "02030705",
+            "name": "Kauk Ponley",
+            "name_km": "គោកពន្លៃ"
+        },
+        {
+            "id": "02030705533",
+            "school_type_id": 1,
+            "district_id": 203,
+            "commune_id": "020307",
+            "village_id": "02030705",
+            "name": "Kauk ponley",
+            "name_km": "គោកពន្លៃ"
+        },
+        {
+            "id": "02030706016",
+            "school_type_id": 2,
+            "district_id": 203,
+            "commune_id": "020307",
+            "village_id": "02030706",
+            "name": "Wat Roka",
+            "name_km": "វត្តរកា"
+        },
+        {
+            "id": "02030706516",
+            "school_type_id": 1,
+            "district_id": 203,
+            "commune_id": "020307",
+            "village_id": "02030706",
+            "name": "Wat Roka",
+            "name_km": "វត្តរកា"
+        },
+        {
+            "id": "02030709018",
+            "school_type_id": 2,
+            "district_id": 203,
+            "commune_id": "020307",
+            "village_id": "02030709",
+            "name": "Boeung Raing",
+            "name_km": "បឹងរាំង"
+        },
+        {
+            "id": "02030709525",
+            "school_type_id": 1,
+            "district_id": 203,
+            "commune_id": "020307",
+            "village_id": "02030709",
+            "name": "Boeung Raing",
+            "name_km": "បឹងរាំង"
+        },
+        {
+            "id": "02030709705",
+            "school_type_id": 3,
+            "district_id": 203,
+            "commune_id": "020307",
+            "village_id": "02030709",
+            "name": "O Mal",
+            "name_km": "អូរម៉ាល់"
+        },
+        {
+            "id": "02030801032",
+            "school_type_id": 2,
+            "district_id": 203,
+            "commune_id": "020308",
+            "village_id": "02030801",
+            "name": "Wat Kor",
+            "name_km": "វត្តគរ"
+        },
+        {
+            "id": "02030801503",
+            "school_type_id": 1,
+            "district_id": 203,
+            "commune_id": "020308",
+            "village_id": "02030801",
+            "name": "Wat Kor",
+            "name_km": "វត្តគរ"
+        },
+        {
+            "id": "02030801703",
+            "school_type_id": 3,
+            "district_id": 203,
+            "commune_id": "020308",
+            "village_id": "02030801",
+            "name": "Wat Kor",
+            "name_km": "វត្តគរ"
+        },
+        {
+            "id": "02030802033",
+            "school_type_id": 2,
+            "district_id": 203,
+            "commune_id": "020308",
+            "village_id": "02030802",
+            "name": "Chrab Krasaing",
+            "name_km": "ច្រាបក្រសាំង"
+        },
+        {
+            "id": "02030802518",
+            "school_type_id": 1,
+            "district_id": 203,
+            "commune_id": "020308",
+            "village_id": "02030802",
+            "name": "Chrab Krasaing",
+            "name_km": "ច្រាបក្រសាំង"
+        },
+        {
+            "id": "02030803034",
+            "school_type_id": 2,
+            "district_id": 203,
+            "commune_id": "020308",
+            "village_id": "02030803",
+            "name": "Balaing",
+            "name_km": "បល្ល័ង្គ"
+        },
+        {
+            "id": "02030803527",
+            "school_type_id": 1,
+            "district_id": 203,
+            "commune_id": "020308",
+            "village_id": "02030803",
+            "name": "Balaing",
+            "name_km": "បល្ល័ង្គ"
+        },
+        {
+            "id": "02030804035",
+            "school_type_id": 2,
+            "district_id": 203,
+            "commune_id": "020308",
+            "village_id": "02030804",
+            "name": "Khsach Poy",
+            "name_km": "ខ្សាច់ពោយ"
+        },
+        {
+            "id": "02030804529",
+            "school_type_id": 1,
+            "district_id": 203,
+            "commune_id": "020308",
+            "village_id": "02030804",
+            "name": "Khsach Poy",
+            "name_km": "ខ្សាច់ពោយ"
+        },
+        {
+            "id": "02030806037",
+            "school_type_id": 2,
+            "district_id": 203,
+            "commune_id": "020308",
+            "village_id": "02030806",
+            "name": "Kampong Seima",
+            "name_km": "កំពង់សីមា"
+        },
+        {
+            "id": "02030806526",
+            "school_type_id": 1,
+            "district_id": 203,
+            "commune_id": "020308",
+            "village_id": "02030806",
+            "name": "Kampong Seima",
+            "name_km": "កំពង់សីមា"
+        },
+        {
+            "id": "02030901507",
+            "school_type_id": 1,
+            "district_id": 203,
+            "commune_id": "020309",
+            "village_id": "02030901",
+            "name": "Bandos Komar",
+            "name_km": "បណ្តុះកុមារ"
+        },
+        {
+            "id": "02030903019",
+            "school_type_id": 2,
+            "district_id": 203,
+            "commune_id": "020309",
+            "village_id": "02030903",
+            "name": "Hun Sen O Char",
+            "name_km": "ហ៊ុនសែនអូរមាន"
+        },
+        {
+            "id": "02030904020",
+            "school_type_id": 2,
+            "district_id": 203,
+            "commune_id": "020309",
+            "village_id": "02030904",
+            "name": "Andaung Chenh",
+            "name_km": "អណ្តូងចេញ"
+        },
+        {
+            "id": "02030905039",
+            "school_type_id": 2,
+            "district_id": 203,
+            "commune_id": "020309",
+            "village_id": "02030905",
+            "name": "Hva Ponleu Selpak",
+            "name_km": "ហ្វាពន្លឺសិល្បៈ"
+        },
+        {
+            "id": "02030905905",
+            "school_type_id": 5,
+            "district_id": 203,
+            "commune_id": "020309",
+            "village_id": "02030905",
+            "name": "Hva Ponleu Selpak",
+            "name_km": "ហ្វាពន្លឺសិល្បៈ"
+        },
+        {
+            "id": "02030906021",
+            "school_type_id": 2,
+            "district_id": 203,
+            "commune_id": "020309",
+            "village_id": "02030906",
+            "name": "Ang",
+            "name_km": "បឋមសិក្សាអង់"
+        },
+        {
+            "id": "02030906530",
+            "school_type_id": 1,
+            "district_id": 203,
+            "commune_id": "020309",
+            "village_id": "02030906",
+            "name": "Ang",
+            "name_km": "អង់"
+        },
+        {
+            "id": "02031001702",
+            "school_type_id": 3,
+            "district_id": 203,
+            "commune_id": "020310",
+            "village_id": "02031001",
+            "name": "Sor Heu",
+            "name_km": "សោ​ ហឺ"
+        },
+        {
+            "id": "02031001902",
+            "school_type_id": 5,
+            "district_id": 203,
+            "commune_id": "020310",
+            "village_id": "02031001",
+            "name": "Preah Monivong",
+            "name_km": "ព្រះមុនីវង្ស"
+        },
+        {
+            "id": "02031002003",
+            "school_type_id": 2,
+            "district_id": 203,
+            "commune_id": "020310",
+            "village_id": "02031002",
+            "name": "2 Thnou",
+            "name_km": "២ធ្នូ"
+        },
+        {
+            "id": "02031002501",
+            "school_type_id": 1,
+            "district_id": 203,
+            "commune_id": "020310",
+            "village_id": "02031002",
+            "name": "2 Thnou",
+            "name_km": "២ធ្នូ"
+        },
+        {
+            "id": "02031004004",
+            "school_type_id": 2,
+            "district_id": 203,
+            "commune_id": "020310",
+            "village_id": "02031004",
+            "name": "Wat Kampheng",
+            "name_km": "វត្តកំផែង"
+        },
+        {
+            "id": "02031004502",
+            "school_type_id": 1,
+            "district_id": 203,
+            "commune_id": "020310",
+            "village_id": "02031004",
+            "name": "Srok Battambang",
+            "name_km": "ធនធានក្រុងបាត់ដំបង"
+        },
+        {
+            "id": "02031004522",
+            "school_type_id": 1,
+            "district_id": 203,
+            "commune_id": "020310",
+            "village_id": "02031004",
+            "name": "Wat Kampheng",
+            "name_km": "វត្តកំផែង"
+        },
+        {
+            "id": "02031004903",
+            "school_type_id": 5,
+            "district_id": 203,
+            "commune_id": "020310",
+            "village_id": "02031004",
+            "name": "Samdech Euv",
+            "name_km": "សម្តេចឪ"
+        }
+    ]
+}

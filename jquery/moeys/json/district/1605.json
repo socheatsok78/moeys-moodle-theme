@@ -1,0 +1,374 @@
+{
+    "id": 1605,
+    "schools": [
+        {
+            "id": "16050101001",
+            "school_type_id": 2,
+            "district_id": 1605,
+            "commune_id": "160501",
+            "village_id": "16050101",
+            "name": "O Kan",
+            "name_km": "បឋមសិក្សាអូរកាន"
+        },
+        {
+            "id": "16050102002",
+            "school_type_id": 2,
+            "district_id": 1605,
+            "commune_id": "160501",
+            "village_id": "16050102",
+            "name": "Sre Chhouk",
+            "name_km": "បឋមសិក្សាស្រែឈូក"
+        },
+        {
+            "id": "16050103003",
+            "school_type_id": 2,
+            "district_id": 1605,
+            "commune_id": "160501",
+            "village_id": "16050103",
+            "name": "Sam Kha",
+            "name_km": "បឋមសិក្សាសាមខា"
+        },
+        {
+            "id": "16050104004",
+            "school_type_id": 2,
+            "district_id": 1605,
+            "commune_id": "160501",
+            "village_id": "16050104",
+            "name": "Dei Lo",
+            "name_km": "បឋមសិក្សាដីឡូត៍"
+        },
+        {
+            "id": "16050105005",
+            "school_type_id": 2,
+            "district_id": 1605,
+            "commune_id": "160501",
+            "village_id": "16050105",
+            "name": "Ban Mai",
+            "name_km": "បឋមសិក្សាបានម៉ៃ"
+        },
+        {
+            "id": "16050107006",
+            "school_type_id": 2,
+            "district_id": 1605,
+            "commune_id": "160501",
+            "village_id": "16050107",
+            "name": "Chey Oudom",
+            "name_km": "បឋមសិក្សាជ័យឩត្តម"
+        },
+        {
+            "id": "16050107502",
+            "school_type_id": 1,
+            "district_id": 1605,
+            "commune_id": "160501",
+            "village_id": "16050107",
+            "name": "Chey Oudom",
+            "name_km": "មត្តេយ្យសិក្សាជ័យឩត្តម"
+        },
+        {
+            "id": "16050107901",
+            "school_type_id": 5,
+            "district_id": 1605,
+            "commune_id": "160501",
+            "village_id": "16050107",
+            "name": "Lumphat High School",
+            "name_km": "វិទ្យាល័យលំផាត់"
+        },
+        {
+            "id": "16050201007",
+            "school_type_id": 2,
+            "district_id": 1605,
+            "commune_id": "160502",
+            "village_id": "16050201",
+            "name": "Kaleng",
+            "name_km": "បឋមសិក្សាកាឡែង"
+        },
+        {
+            "id": "16050201024",
+            "school_type_id": 2,
+            "district_id": 1605,
+            "commune_id": "160502",
+            "village_id": "16050201",
+            "name": "Sa Yuos",
+            "name_km": "បឋមសិក្សាសាយ៉ស់"
+        },
+        {
+            "id": "16050202008",
+            "school_type_id": 2,
+            "district_id": 1605,
+            "commune_id": "160502",
+            "village_id": "16050202",
+            "name": "Veal Thom",
+            "name_km": "សាលាបឋមសិក្សាវាលធំ"
+        },
+        {
+            "id": "16050203031",
+            "school_type_id": 2,
+            "district_id": 1605,
+            "commune_id": "160502",
+            "village_id": "16050203",
+            "name": "Kanang Ket",
+            "name_km": "បឋមសិក្សាកាណាងកិត"
+        },
+        {
+            "id": "16050204021",
+            "school_type_id": 2,
+            "district_id": 1605,
+            "commune_id": "160502",
+            "village_id": "16050204",
+            "name": "O Sieng Le",
+            "name_km": "បឋមសិក្សាអូរសៀងលែ"
+        },
+        {
+            "id": "16050204503",
+            "school_type_id": 1,
+            "district_id": 1605,
+            "commune_id": "160502",
+            "village_id": "16050204",
+            "name": "O Sieng Le",
+            "name_km": "មត្តេយ្យសិក្សាអូរសៀងលែ"
+        },
+        {
+            "id": "16050204702",
+            "school_type_id": 3,
+            "district_id": 1605,
+            "commune_id": "160502",
+            "village_id": "16050202",
+            "name": "Osieng Le Secondary School",
+            "name_km": "អនុវិទ្យាល័យអូរសៀងលែ"
+        },
+        {
+            "id": "16050303010",
+            "school_type_id": 2,
+            "district_id": 1605,
+            "commune_id": "160503",
+            "village_id": "16050303",
+            "name": "Labaing 1",
+            "name_km": "បឋមសិក្សាឡាបាំងមួយ"
+        },
+        {
+            "id": "16050303505",
+            "school_type_id": 1,
+            "district_id": 1605,
+            "commune_id": "160503",
+            "village_id": "16050303",
+            "name": "Labaing 1",
+            "name_km": "បឋមសិក្សាឡាបាំង១"
+        },
+        {
+            "id": "16050401011",
+            "school_type_id": 2,
+            "district_id": 1605,
+            "commune_id": "160504",
+            "village_id": "16050401",
+            "name": "Labaing 2",
+            "name_km": "បឋមសិក្សាឡាបាំងពីរ"
+        },
+        {
+            "id": "16050401504",
+            "school_type_id": 1,
+            "district_id": 1605,
+            "commune_id": "160504",
+            "village_id": "16050401",
+            "name": "Labaing 2",
+            "name_km": "បឋមសិក្សាឡាបាំង២"
+        },
+        {
+            "id": "16050402020",
+            "school_type_id": 2,
+            "district_id": 1605,
+            "commune_id": "160504",
+            "village_id": "16050402",
+            "name": "Kachanh",
+            "name_km": "បឋមសិក្សាកាចាញ"
+        },
+        {
+            "id": "16050501019",
+            "school_type_id": 2,
+            "district_id": 1605,
+            "commune_id": "160505",
+            "village_id": "16050501",
+            "name": "Nang Katong",
+            "name_km": "បឋមសិក្សាណងកាតុង"
+        },
+        {
+            "id": "16050501030",
+            "school_type_id": 2,
+            "district_id": 1605,
+            "commune_id": "160505",
+            "village_id": "16050501",
+            "name": "Santepheap",
+            "name_km": "បឋមសិក្សាសន្តិភាព"
+        },
+        {
+            "id": "16050501511",
+            "school_type_id": 1,
+            "district_id": 1605,
+            "commune_id": "160505",
+            "village_id": "16050501",
+            "name": "OL Pre-School",
+            "name_km": "សាលាបឋមសិក្សាអុល"
+        },
+        {
+            "id": "16050502022",
+            "school_type_id": 2,
+            "district_id": 1605,
+            "commune_id": "160505",
+            "village_id": "16050502",
+            "name": "Sahaka",
+            "name_km": "បឋមសិក្សាសហការ"
+        },
+        {
+            "id": "16050503012",
+            "school_type_id": 2,
+            "district_id": 1605,
+            "commune_id": "160505",
+            "village_id": "16050503",
+            "name": "Batang",
+            "name_km": "បឋមសិក្សាបាតាង"
+        },
+        {
+            "id": "16050503508",
+            "school_type_id": 1,
+            "district_id": 1605,
+            "commune_id": "160505",
+            "village_id": "16050502",
+            "name": "Sahaka Pre-school",
+            "name_km": "បឋមសិក្សាសហការ"
+        },
+        {
+            "id": "16050504025",
+            "school_type_id": 2,
+            "district_id": 1605,
+            "commune_id": "160505",
+            "village_id": "16050504",
+            "name": "Chang Ra",
+            "name_km": "បឋមសិក្សាចងរ៉ា"
+        },
+        {
+            "id": "16050504027",
+            "school_type_id": 2,
+            "district_id": 1605,
+            "commune_id": "160505",
+            "village_id": "16050504",
+            "name": "Chang Ra 2",
+            "name_km": "បឋមសិក្សាចងរ៉ា២"
+        },
+        {
+            "id": "16050504510",
+            "school_type_id": 1,
+            "district_id": 1605,
+            "commune_id": "160505",
+            "village_id": "16050504",
+            "name": "Chang Ra Pre-School",
+            "name_km": "សាលាបឋមសិក្សាចងរ៉ា២"
+        },
+        {
+            "id": "16050506028",
+            "school_type_id": 2,
+            "district_id": 1605,
+            "commune_id": "160505",
+            "village_id": "16050506",
+            "name": "Chamkar Sann",
+            "name_km": "បឋមសិក្សាចំការសាន់"
+        },
+        {
+            "id": "16050601015",
+            "school_type_id": 2,
+            "district_id": 1605,
+            "commune_id": "160506",
+            "village_id": "16050601",
+            "name": "Phoum Thmei",
+            "name_km": "បឋមសិក្សាភូមិថ្មី"
+        },
+        {
+            "id": "16050602016",
+            "school_type_id": 2,
+            "district_id": 1605,
+            "commune_id": "160506",
+            "village_id": "16050602",
+            "name": "Patok",
+            "name_km": "បឋមសិក្សាប៉ាតត់"
+        },
+        {
+            "id": "16050603013",
+            "school_type_id": 2,
+            "district_id": 1605,
+            "commune_id": "160506",
+            "village_id": "16050603",
+            "name": "Keng Sann",
+            "name_km": "បឋមសិក្សាកែងសាន់"
+        },
+        {
+            "id": "16050604017",
+            "school_type_id": 2,
+            "district_id": 1605,
+            "commune_id": "160506",
+            "village_id": "16050604",
+            "name": "Samotr Leu",
+            "name_km": "បឋមសិក្សាសាមុត្រលើ"
+        },
+        {
+            "id": "16050605018",
+            "school_type_id": 2,
+            "district_id": 1605,
+            "commune_id": "160506",
+            "village_id": "16050605",
+            "name": "Kacham",
+            "name_km": "បឋមសិក្សាកាចាម"
+        },
+        {
+            "id": "16050606009",
+            "school_type_id": 2,
+            "district_id": 1605,
+            "commune_id": "160506",
+            "village_id": "16050606",
+            "name": "Nang Hai",
+            "name_km": "បឋមសិក្សាណងហៃ"
+        },
+        {
+            "id": "16050606512",
+            "school_type_id": 1,
+            "district_id": 1605,
+            "commune_id": "160506",
+            "village_id": "16050606",
+            "name": "Nang Hai Pre-School",
+            "name_km": "សាលាបឋមសិក្សាណងហៃ"
+        },
+        {
+            "id": "16050607014",
+            "school_type_id": 2,
+            "district_id": 1605,
+            "commune_id": "160506",
+            "village_id": "16050607",
+            "name": "Seda",
+            "name_km": "បឋមសិក្សាសេដា"
+        },
+        {
+            "id": "16050607509",
+            "school_type_id": 1,
+            "district_id": 1605,
+            "commune_id": "160506",
+            "village_id": "16050606",
+            "name": "Seda Pre-school",
+            "name_km": "មត្តេយ្យសេដា"
+        },
+        {
+            "id": "16050607703",
+            "school_type_id": 3,
+            "district_id": 1605,
+            "commune_id": "160506",
+            "village_id": "16050607",
+            "name": "Samot Seda Secondary School",
+            "name_km": "អនុវិទ្យាល័យសាមុត្រសេដា"
+        },
+        {
+            "id": "16050608027",
+            "school_type_id": 2,
+            "district_id": 1605,
+            "commune_id": "160506",
+            "village_id": "16050608",
+            "name": "Ol",
+            "name_km": "បឋមសិក្សាអុល"
+        }
+    ]
+}

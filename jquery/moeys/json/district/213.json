@@ -1,0 +1,545 @@
+{
+    "id": 213,
+    "schools": [
+        {
+            "id": "02130104901",
+            "school_type_id": 5,
+            "district_id": 213,
+            "commune_id": "021301",
+            "village_id": "02130104",
+            "name": "Koah Kralar",
+            "name_km": "វិទ្យាល័យគាស់ក្រឡ"
+        },
+        {
+            "id": "02130106001",
+            "school_type_id": 2,
+            "district_id": 213,
+            "commune_id": "021301",
+            "village_id": "02130106",
+            "name": "Boeung Chhnas",
+            "name_km": "បឹងឈ្នះ"
+        },
+        {
+            "id": "02130108002",
+            "school_type_id": 2,
+            "district_id": 213,
+            "commune_id": "021301",
+            "village_id": "02130108",
+            "name": "Vathanak Vichea",
+            "name_km": "វឌ្ឍនវិជ្ជា"
+        },
+        {
+            "id": "02130109501",
+            "school_type_id": 1,
+            "district_id": 213,
+            "commune_id": "021301",
+            "village_id": "02130109",
+            "name": "Phoum Spean",
+            "name_km": "គាស់ក្រឡ"
+        },
+        {
+            "id": "02130202003",
+            "school_type_id": 2,
+            "district_id": 213,
+            "commune_id": "021302",
+            "village_id": "02130202",
+            "name": "Khveng",
+            "name_km": "ខ្វែង"
+        },
+        {
+            "id": "02130202514",
+            "school_type_id": 1,
+            "district_id": 213,
+            "commune_id": "021302",
+            "village_id": "02130202",
+            "name": "Khveng",
+            "name_km": "ខ្វែង"
+        },
+        {
+            "id": "02130203036",
+            "school_type_id": 2,
+            "district_id": 213,
+            "commune_id": "021302",
+            "village_id": "02130203",
+            "name": "Chork Rorka",
+            "name_km": "ឆករកា"
+        },
+        {
+            "id": "02130203037",
+            "school_type_id": 2,
+            "district_id": 213,
+            "commune_id": "021302",
+            "village_id": "02130203",
+            "name": "Aron Reaksmey",
+            "name_km": "អរុណរស្មី"
+        },
+        {
+            "id": "02130203038",
+            "school_type_id": 2,
+            "district_id": 213,
+            "commune_id": "021302",
+            "village_id": "02130203",
+            "name": "BEUNG PREAH PUNLEY",
+            "name_km": "បឹងព្រះពន្លៃ"
+        },
+        {
+            "id": "02130203515",
+            "school_type_id": 1,
+            "district_id": 213,
+            "commune_id": "021302",
+            "village_id": "02130203",
+            "name": "On Dong Kon Tuct",
+            "name_km": "អណ្តូងកន្ទួត"
+        },
+        {
+            "id": "02130204004",
+            "school_type_id": 2,
+            "district_id": 213,
+            "commune_id": "021302",
+            "village_id": "02130204",
+            "name": "Daun Ba",
+            "name_km": "ដូនបា"
+        },
+        {
+            "id": "02130204704",
+            "school_type_id": 3,
+            "district_id": 213,
+            "commune_id": "021302",
+            "village_id": "02130204",
+            "name": "Daun Ba",
+            "name_km": "ដូនបា"
+        },
+        {
+            "id": "02130205005",
+            "school_type_id": 2,
+            "district_id": 213,
+            "commune_id": "021302",
+            "village_id": "02130205",
+            "name": "Tuol Leap",
+            "name_km": "ទួលលៀប"
+        },
+        {
+            "id": "02130205516",
+            "school_type_id": 1,
+            "district_id": 213,
+            "commune_id": "021302",
+            "village_id": "02130205",
+            "name": "Puk Chhmar",
+            "name_km": "ទួល  លៀប"
+        },
+        {
+            "id": "02130207030",
+            "school_type_id": 2,
+            "district_id": 213,
+            "commune_id": "021302",
+            "village_id": "02130207",
+            "name": "Prey Phnheas",
+            "name_km": "ព្រៃភ្ងាស"
+        },
+        {
+            "id": "02130207517",
+            "school_type_id": 1,
+            "district_id": 213,
+            "commune_id": "021302",
+            "village_id": "02130207",
+            "name": "Toul Leap",
+            "name_km": "ព្រៃភ្ងាស"
+        },
+        {
+            "id": "02130209027",
+            "school_type_id": 2,
+            "district_id": 213,
+            "commune_id": "021302",
+            "village_id": "02130209",
+            "name": "Anlung Mean",
+            "name_km": "អន្លង់មៀន"
+        },
+        {
+            "id": "02130210029",
+            "school_type_id": 2,
+            "district_id": 213,
+            "commune_id": "021302",
+            "village_id": "02130210",
+            "name": "Tuol Veng",
+            "name_km": "ទួលវែង"
+        },
+        {
+            "id": "02130210503",
+            "school_type_id": 1,
+            "district_id": 213,
+            "commune_id": "021302",
+            "village_id": "02130210",
+            "name": "Tuol Veng",
+            "name_km": "ទួលវែង"
+        },
+        {
+            "id": "02130212033",
+            "school_type_id": 2,
+            "district_id": 213,
+            "commune_id": "021302",
+            "village_id": null,
+            "name": "Andaung Kantuot",
+            "name_km": "អណ្ដូងកន្ទួត"
+        },
+        {
+            "id": "02130301023",
+            "school_type_id": 2,
+            "district_id": 213,
+            "commune_id": "021303",
+            "village_id": "02130301",
+            "name": "Kraing Svat",
+            "name_km": "ក្រាំងស្វាត"
+        },
+        {
+            "id": "02130301507",
+            "school_type_id": 1,
+            "district_id": 213,
+            "commune_id": "021303",
+            "village_id": "02130301",
+            "name": "Kraing Svat",
+            "name_km": "ក្រាំងស្វាត"
+        },
+        {
+            "id": "02130303006",
+            "school_type_id": 2,
+            "district_id": 213,
+            "commune_id": "021303",
+            "village_id": "02130303",
+            "name": "Chhnal Moan",
+            "name_km": "ឆ្នាល់មាន់"
+        },
+        {
+            "id": "02130303705",
+            "school_type_id": 3,
+            "district_id": 213,
+            "commune_id": "021303",
+            "village_id": "02130303",
+            "name": "Chhnal Moan",
+            "name_km": "ឆ្នាល់មាន់"
+        },
+        {
+            "id": "02130306035",
+            "school_type_id": 2,
+            "district_id": 213,
+            "commune_id": "021303",
+            "village_id": "02130306",
+            "name": "O Deum Chrey",
+            "name_km": "អូរដើមជ្រៃ"
+        },
+        {
+            "id": "02130307024",
+            "school_type_id": 2,
+            "district_id": 213,
+            "commune_id": "021303",
+            "village_id": "02130307",
+            "name": "Prey Sinh",
+            "name_km": "ព្រៃសិន"
+        },
+        {
+            "id": "02130307504",
+            "school_type_id": 1,
+            "district_id": 213,
+            "commune_id": "021303",
+            "village_id": "02130307",
+            "name": "Prey sinh",
+            "name_km": "ព្រៃសិន"
+        },
+        {
+            "id": "02130308022",
+            "school_type_id": 2,
+            "district_id": 213,
+            "commune_id": "021303",
+            "village_id": "02130308",
+            "name": "Samrong Leu",
+            "name_km": "សំរោងលើ"
+        },
+        {
+            "id": "02130309026",
+            "school_type_id": 2,
+            "district_id": 213,
+            "commune_id": "021303",
+            "village_id": "02130309",
+            "name": "O Thlork",
+            "name_km": "អូរឆ្លាក"
+        },
+        {
+            "id": "02130402007",
+            "school_type_id": 2,
+            "district_id": 213,
+            "commune_id": "021304",
+            "village_id": "02130402",
+            "name": "Kauk Poun",
+            "name_km": "គោកពោន"
+        },
+        {
+            "id": "02130402032",
+            "school_type_id": 2,
+            "district_id": 213,
+            "commune_id": "021304",
+            "village_id": "02130402",
+            "name": "Rieng Tieng",
+            "name_km": "រៀងទៀង"
+        },
+        {
+            "id": "02130402511",
+            "school_type_id": 1,
+            "district_id": 213,
+            "commune_id": "021304",
+            "village_id": "02130402",
+            "name": "Kauk Poun",
+            "name_km": "គោកពោន"
+        },
+        {
+            "id": "02130403008",
+            "school_type_id": 2,
+            "district_id": 213,
+            "commune_id": "021304",
+            "village_id": "02130403",
+            "name": "Kantuot",
+            "name_km": "កន្ទួត"
+        },
+        {
+            "id": "02130403505",
+            "school_type_id": 1,
+            "district_id": 213,
+            "commune_id": "021304",
+            "village_id": "02130403",
+            "name": "Kan Tuot",
+            "name_km": "កន្ទួត"
+        },
+        {
+            "id": "02130404009",
+            "school_type_id": 2,
+            "district_id": 213,
+            "commune_id": "021304",
+            "village_id": "02130404",
+            "name": "Tuol Mates",
+            "name_km": "ទួលម្ទេស"
+        },
+        {
+            "id": "02130404510",
+            "school_type_id": 1,
+            "district_id": 213,
+            "commune_id": "021304",
+            "village_id": "02130404",
+            "name": "Tuol mates",
+            "name_km": "ទួលម្ទេស"
+        },
+        {
+            "id": "02130405010",
+            "school_type_id": 2,
+            "district_id": 213,
+            "commune_id": "021304",
+            "village_id": "02130405",
+            "name": "Chhay Balaing",
+            "name_km": "ឆាយបល្ល័ង្គ"
+        },
+        {
+            "id": "02130405508",
+            "school_type_id": 1,
+            "district_id": 213,
+            "commune_id": "021304",
+            "village_id": "02130405",
+            "name": "Chhay Balaing",
+            "name_km": "ឆាយបល្ល័ង្គ"
+        },
+        {
+            "id": "02130405702",
+            "school_type_id": 3,
+            "district_id": 213,
+            "commune_id": "021304",
+            "village_id": "02130405",
+            "name": "Thipdei",
+            "name_km": "ធិបតី"
+        },
+        {
+            "id": "02130408025",
+            "school_type_id": 2,
+            "district_id": 213,
+            "commune_id": "021304",
+            "village_id": "02130408",
+            "name": "Boeung Raing",
+            "name_km": "បឹងរាំង"
+        },
+        {
+            "id": "02130409031",
+            "school_type_id": 2,
+            "district_id": 213,
+            "commune_id": "021304",
+            "village_id": "02130409",
+            "name": "Boeung Balaing",
+            "name_km": "បឹងបល្ល័ង្គ"
+        },
+        {
+            "id": "02130410011",
+            "school_type_id": 2,
+            "district_id": 213,
+            "commune_id": "021304",
+            "village_id": "02130410",
+            "name": "Ra",
+            "name_km": "រ៉ា"
+        },
+        {
+            "id": "02130411012",
+            "school_type_id": 2,
+            "district_id": 213,
+            "commune_id": "021304",
+            "village_id": "02130411",
+            "name": "Samrong",
+            "name_km": "សំរោង"
+        },
+        {
+            "id": "02130411513",
+            "school_type_id": 1,
+            "district_id": 213,
+            "commune_id": "021304",
+            "village_id": "02130411",
+            "name": "Samrong",
+            "name_km": "សំរោង"
+        },
+        {
+            "id": "02130503021",
+            "school_type_id": 2,
+            "district_id": 213,
+            "commune_id": "021305",
+            "village_id": "02130503",
+            "name": "Ta Nuot",
+            "name_km": "តានួត"
+        },
+        {
+            "id": "02130503509",
+            "school_type_id": 1,
+            "district_id": 213,
+            "commune_id": "021305",
+            "village_id": "02130503",
+            "name": "Ta Nuot",
+            "name_km": "តានួត"
+        },
+        {
+            "id": "02130504020",
+            "school_type_id": 2,
+            "district_id": 213,
+            "commune_id": "021305",
+            "village_id": "02130504",
+            "name": "Ta Khor",
+            "name_km": "តាខោ"
+        },
+        {
+            "id": "02130506014",
+            "school_type_id": 2,
+            "district_id": 213,
+            "commune_id": "021305",
+            "village_id": "02130506",
+            "name": "Prek Phdao",
+            "name_km": "ព្រៃផ្ដៅ"
+        },
+        {
+            "id": "02130506506",
+            "school_type_id": 1,
+            "district_id": 213,
+            "commune_id": "021305",
+            "village_id": "02130506",
+            "name": "Prey Phdao",
+            "name_km": "ព្រៃផ្ដៅ"
+        },
+        {
+            "id": "02130508013",
+            "school_type_id": 2,
+            "district_id": 213,
+            "commune_id": "021305",
+            "village_id": "02130508",
+            "name": "Preah Phos",
+            "name_km": "ព្រះផុស"
+        },
+        {
+            "id": "02130508706",
+            "school_type_id": 3,
+            "district_id": 213,
+            "commune_id": "021305",
+            "village_id": "02130508",
+            "name": "Preah Phos",
+            "name_km": "ព្រះផុស"
+        },
+        {
+            "id": "02130510019",
+            "school_type_id": 2,
+            "district_id": 213,
+            "commune_id": "021305",
+            "village_id": "02130510",
+            "name": "Kouy Veng",
+            "name_km": "កុយវែង"
+        },
+        {
+            "id": "02130510502",
+            "school_type_id": 1,
+            "district_id": 213,
+            "commune_id": "021305",
+            "village_id": "02130510",
+            "name": "Kouy Veng",
+            "name_km": "កុយវែង"
+        },
+        {
+            "id": "02130511028",
+            "school_type_id": 2,
+            "district_id": 213,
+            "commune_id": "021305",
+            "village_id": "02130511",
+            "name": "Boeung Chork",
+            "name_km": "បឹងចក"
+        },
+        {
+            "id": "02130512034",
+            "school_type_id": 2,
+            "district_id": 213,
+            "commune_id": "021305",
+            "village_id": null,
+            "name": "A Rei",
+            "name_km": "អារី"
+        },
+        {
+            "id": "02130601015",
+            "school_type_id": 2,
+            "district_id": 213,
+            "commune_id": "021306",
+            "village_id": "02130601",
+            "name": "Kauk Trom",
+            "name_km": "គោកត្រុំ"
+        },
+        {
+            "id": "02130605016",
+            "school_type_id": 2,
+            "district_id": 213,
+            "commune_id": "021306",
+            "village_id": "02130605",
+            "name": "Sleng Chour",
+            "name_km": "ស្លែងជួរ"
+        },
+        {
+            "id": "02130606017",
+            "school_type_id": 2,
+            "district_id": 213,
+            "commune_id": "021306",
+            "village_id": "02130606",
+            "name": "Mittapheap",
+            "name_km": "មិត្តភាព"
+        },
+        {
+            "id": "02130607018",
+            "school_type_id": 2,
+            "district_id": 213,
+            "commune_id": "021306",
+            "village_id": "02130607",
+            "name": "Hab",
+            "name_km": "ហប់"
+        },
+        {
+            "id": "02130607703",
+            "school_type_id": 3,
+            "district_id": 213,
+            "commune_id": "021306",
+            "village_id": "02130607",
+            "name": "Hab",
+            "name_km": "ហប់"
+        }
+    ]
+}

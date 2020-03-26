@@ -1,0 +1,212 @@
+{
+    "id": 1413,
+    "schools": [
+        {
+            "id": "14130101001",
+            "school_type_id": 2,
+            "district_id": 1413,
+            "commune_id": "141301",
+            "village_id": "14130101",
+            "name": "Hun Sen Baray Keut",
+            "name_km": "ហ៊ុនសែនបារាយណ៍"
+        },
+        {
+            "id": "14130101002",
+            "school_type_id": 2,
+            "district_id": 1413,
+            "commune_id": "141301",
+            "village_id": "14130101",
+            "name": "Baray Keut",
+            "name_km": "បារាយណ៍កើត"
+        },
+        {
+            "id": "14130101508",
+            "school_type_id": 1,
+            "district_id": 1413,
+            "commune_id": "141301",
+            "village_id": "14130101",
+            "name": "Baray Keut",
+            "name_km": "បារាយណ៍កើត"
+        },
+        {
+            "id": "14130102003",
+            "school_type_id": 2,
+            "district_id": 1413,
+            "commune_id": "141301",
+            "village_id": "14130102",
+            "name": "Baray Lech",
+            "name_km": "បារាយណ៍លិច"
+        },
+        {
+            "id": "14130102501",
+            "school_type_id": 1,
+            "district_id": 1413,
+            "commune_id": "141301",
+            "village_id": "14130102",
+            "name": "Hun Sen Baray Lech",
+            "name_km": "បារយណ៍លិច"
+        },
+        {
+            "id": "14130102701",
+            "school_type_id": 3,
+            "district_id": 1413,
+            "commune_id": "141301",
+            "village_id": "14130102",
+            "name": "Baray Lech",
+            "name_km": "បារាយណ៍"
+        },
+        {
+            "id": "14130201004",
+            "school_type_id": 2,
+            "district_id": 1413,
+            "commune_id": "141302",
+            "village_id": "14130201",
+            "name": "Raung Damrei",
+            "name_km": "រោងដំរី"
+        },
+        {
+            "id": "14130201502",
+            "school_type_id": 1,
+            "district_id": 1413,
+            "commune_id": "141302",
+            "village_id": "14130201",
+            "name": "Raung Damrei",
+            "name_km": "រោងដំរី"
+        },
+        {
+            "id": "14130204005",
+            "school_type_id": 2,
+            "district_id": 1413,
+            "commune_id": "141302",
+            "village_id": "14130204",
+            "name": "Svay Sokhor",
+            "name_km": "ស្វាយសុខោ"
+        },
+        {
+            "id": "14130204503",
+            "school_type_id": 1,
+            "district_id": 1413,
+            "commune_id": "141302",
+            "village_id": "14130204",
+            "name": "Svay Sokhor",
+            "name_km": "ស្វាយសុខោ"
+        },
+        {
+            "id": "14130204702",
+            "school_type_id": 3,
+            "district_id": 1413,
+            "commune_id": "141302",
+            "village_id": "14130204",
+            "name": "Cheung Teuk",
+            "name_km": "ជើងទឹក"
+        },
+        {
+            "id": "14130301504",
+            "school_type_id": 1,
+            "district_id": 1413,
+            "commune_id": "141303",
+            "village_id": "14130301",
+            "name": "Prey Veng Krong",
+            "name_km": "ព្រៃវែងក្រុង"
+        },
+        {
+            "id": "14130302006",
+            "school_type_id": 2,
+            "district_id": 1413,
+            "commune_id": "141303",
+            "village_id": "14130302",
+            "name": "Kraing Ka-ek",
+            "name_km": "ក្រាំងក្អែក"
+        },
+        {
+            "id": "14130302007",
+            "school_type_id": 2,
+            "district_id": 1413,
+            "commune_id": "141303",
+            "village_id": "14130302",
+            "name": "Prey Veng Krong",
+            "name_km": "ព្រៃវែងក្រុង"
+        },
+        {
+            "id": "14130302507",
+            "school_type_id": 1,
+            "district_id": 1413,
+            "commune_id": "141303",
+            "village_id": "14130302",
+            "name": "Kraing Ka-ek",
+            "name_km": "ក្រាំងក្អែក"
+        },
+        {
+            "id": "14130303008",
+            "school_type_id": 2,
+            "district_id": 1413,
+            "commune_id": "141303",
+            "village_id": "14130303",
+            "name": "Hun Sen Aknouwat",
+            "name_km": "អនុវត្តហ៊ុនសែនព្រៃវែង"
+        },
+        {
+            "id": "14130303703",
+            "school_type_id": 3,
+            "district_id": 1413,
+            "commune_id": "141303",
+            "village_id": "14130303",
+            "name": "Aknouwat",
+            "name_km": "អនុវត្ត"
+        },
+        {
+            "id": "14130303901",
+            "school_type_id": 5,
+            "district_id": 1413,
+            "commune_id": "141303",
+            "village_id": "14130303",
+            "name": "Preah Ang Duong",
+            "name_km": "ព្រះអង្គឌួង"
+        },
+        {
+            "id": "14130304009",
+            "school_type_id": 2,
+            "district_id": 1413,
+            "commune_id": "141303",
+            "village_id": "14130304",
+            "name": "Pannha Khet Ram",
+            "name_km": "បុញ្ញខេត្តារាម"
+        },
+        {
+            "id": "14130304505",
+            "school_type_id": 1,
+            "district_id": 1413,
+            "commune_id": "141303",
+            "village_id": "14130304",
+            "name": "Pannha Khet Ram",
+            "name_km": "បុញ្ញាខេត្តារាម"
+        },
+        {
+            "id": "14130304902",
+            "school_type_id": 5,
+            "district_id": 1413,
+            "commune_id": "141303",
+            "village_id": "14130304",
+            "name": "Hun Sen Kampong Leav",
+            "name_km": "ហ៊ុនសែន កំពង់លាវ"
+        },
+        {
+            "id": "14130305010",
+            "school_type_id": 2,
+            "district_id": 1413,
+            "commune_id": "141303",
+            "village_id": "14130305",
+            "name": "Kdei Kandal",
+            "name_km": "ព្រុំសុន ក្ដីកណ្ដាល"
+        },
+        {
+            "id": "14130305506",
+            "school_type_id": 1,
+            "district_id": 1413,
+            "commune_id": "141303",
+            "village_id": "14130305",
+            "name": "Kdei Kandal",
+            "name_km": "ព្រុំសុនក្តីកណ្តាល"
+        }
+    ]
+}

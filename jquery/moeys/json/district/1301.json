@@ -1,0 +1,356 @@
+{
+    "id": 1301,
+    "schools": [
+        {
+            "id": "13010101009",
+            "school_type_id": 2,
+            "district_id": 1301,
+            "commune_id": "130101",
+            "village_id": "13010101",
+            "name": "Sa-ang Ta Sou",
+            "name_km": "បឋមសិក្សាស្អាង"
+        },
+        {
+            "id": "13010101501",
+            "school_type_id": 1,
+            "district_id": 1301,
+            "commune_id": "130101",
+            "village_id": "13010101",
+            "name": "Sa-ang Ta Sou",
+            "name_km": "បឋមសិក្សាស្អាង"
+        },
+        {
+            "id": "13010101701",
+            "school_type_id": 3,
+            "district_id": 1301,
+            "commune_id": "130101",
+            "village_id": "13010101",
+            "name": "Srok Chey Sen",
+            "name_km": "អនុវិទ្យាល័យជ័យសែន"
+        },
+        {
+            "id": "13010101901",
+            "school_type_id": 4,
+            "district_id": 1301,
+            "commune_id": "130101",
+            "village_id": "13010101",
+            "name": "Chey Sen",
+            "name_km": "វិទ្យាល័យជ័យសែន"
+        },
+        {
+            "id": "13010104017",
+            "school_type_id": 2,
+            "district_id": 1301,
+            "commune_id": "130101",
+            "village_id": "13010104",
+            "name": "Kravann Stung Sen",
+            "name_km": "បឋមសិក្សាក្រវាន់"
+        },
+        {
+            "id": "13010201018",
+            "school_type_id": 2,
+            "district_id": 1301,
+            "commune_id": "130102",
+            "village_id": "13010201",
+            "name": "Toul Sre Chhouk",
+            "name_km": "បឋមសិក្សាទួលស្រែឈូក"
+        },
+        {
+            "id": "13010201502",
+            "school_type_id": 1,
+            "district_id": 1301,
+            "commune_id": "130102",
+            "village_id": "13010201",
+            "name": "Tuol Sre Chhouk",
+            "name_km": "ទួលស្រែឈូក"
+        },
+        {
+            "id": "13010201705",
+            "school_type_id": 3,
+            "district_id": 1301,
+            "commune_id": "130102",
+            "village_id": "13010201",
+            "name": "Tuol Sre Chhouk",
+            "name_km": "អនុវិទ្យាល័យទួលស្រែឈូក"
+        },
+        {
+            "id": "13010203011",
+            "school_type_id": 2,
+            "district_id": 1301,
+            "commune_id": "130102",
+            "village_id": "13010203",
+            "name": "Samrong",
+            "name_km": "បឋមសិក្សាសំរោង"
+        },
+        {
+            "id": "13010204019",
+            "school_type_id": 2,
+            "district_id": 1301,
+            "commune_id": "130102",
+            "village_id": "13010204",
+            "name": "O Lo-meat",
+            "name_km": "បឋមសិក្សាអូរស្នៀត"
+        },
+        {
+            "id": "13010301021",
+            "school_type_id": 2,
+            "district_id": 1301,
+            "commune_id": "130103",
+            "village_id": "13010301",
+            "name": "Khyang",
+            "name_km": "បឋមសិក្សាក្នុងអនុវិ.ខ្យង"
+        },
+        {
+            "id": "13010301505",
+            "school_type_id": 1,
+            "district_id": 1301,
+            "commune_id": "130103",
+            "village_id": "13010301",
+            "name": "Khsang",
+            "name_km": "បឋមសិក្សាខ្យង"
+        },
+        {
+            "id": "13010301702",
+            "school_type_id": 3,
+            "district_id": 1301,
+            "commune_id": "130103",
+            "village_id": "13010301",
+            "name": "Khyang",
+            "name_km": "អនុវិទ្យាល័យខ្យង"
+        },
+        {
+            "id": "13010302004",
+            "school_type_id": 2,
+            "district_id": 1301,
+            "commune_id": "130103",
+            "village_id": "13010302",
+            "name": "Meun Reach",
+            "name_km": "បឋមសិក្សាម៉ឺនរាជ"
+        },
+        {
+            "id": "13010303005",
+            "school_type_id": 2,
+            "district_id": 1301,
+            "commune_id": "130103",
+            "village_id": "13010303",
+            "name": "Ksang",
+            "name_km": "បឋមសិក្សាខ្យង"
+        },
+        {
+            "id": "13010401001",
+            "school_type_id": 2,
+            "district_id": 1301,
+            "commune_id": "130104",
+            "village_id": "13010401",
+            "name": "Pakdewat",
+            "name_km": "បឋមសិក្សាបដិវត្ត"
+        },
+        {
+            "id": "13010401506",
+            "school_type_id": 1,
+            "district_id": 1301,
+            "commune_id": "130104",
+            "village_id": "13010401",
+            "name": "Pakdewat",
+            "name_km": "បដិវត្ត"
+        },
+        {
+            "id": "13010401902",
+            "school_type_id": 5,
+            "district_id": 1301,
+            "commune_id": "130104",
+            "village_id": "13010401",
+            "name": "Pakdewat",
+            "name_km": "វិទ្យាល័យបដិវត្ត"
+        },
+        {
+            "id": "13010402002",
+            "school_type_id": 2,
+            "district_id": 1301,
+            "commune_id": "130104",
+            "village_id": "13010402",
+            "name": "Chrach",
+            "name_km": "បឋមសិក្សាច្រាច់"
+        },
+        {
+            "id": "13010402507",
+            "school_type_id": 1,
+            "district_id": 1301,
+            "commune_id": "130104",
+            "village_id": "13010402",
+            "name": "Chrach",
+            "name_km": "ច្រាច់"
+        },
+        {
+            "id": "13010403003",
+            "school_type_id": 2,
+            "district_id": 1301,
+            "commune_id": "130104",
+            "village_id": "13010403",
+            "name": "Chamroeun",
+            "name_km": "បឋមសិក្សាចំរើន"
+        },
+        {
+            "id": "13010403504",
+            "school_type_id": 1,
+            "district_id": 1301,
+            "commune_id": "130104",
+            "village_id": "13010403",
+            "name": "Chamroeun",
+            "name_km": "ចំរើន"
+        },
+        {
+            "id": "13010404012",
+            "school_type_id": 2,
+            "district_id": 1301,
+            "commune_id": "130104",
+            "village_id": "13010404",
+            "name": "Phloach",
+            "name_km": "បឋមសិក្សាផ្លោច"
+        },
+        {
+            "id": "13010405013",
+            "school_type_id": 2,
+            "district_id": 1301,
+            "commune_id": "130104",
+            "village_id": "13010405",
+            "name": "Pramol Phdom",
+            "name_km": "បឋមសិក្សាប្រមូលផ្ដុំ"
+        },
+        {
+            "id": "13010405503",
+            "school_type_id": 1,
+            "district_id": 1301,
+            "commune_id": "130104",
+            "village_id": "13010405",
+            "name": "Pramol Phdom",
+            "name_km": "ប្រមូលផ្តុំ"
+        },
+        {
+            "id": "13010406014",
+            "school_type_id": 2,
+            "district_id": 1301,
+            "commune_id": "130104",
+            "village_id": "13010406",
+            "name": "Damnak Trach",
+            "name_km": "បឋមសិក្សាដំណាក់ត្រាច"
+        },
+        {
+            "id": "13010501010",
+            "school_type_id": 2,
+            "district_id": 1301,
+            "commune_id": "130105",
+            "village_id": "13010501",
+            "name": "Thmear",
+            "name_km": "បឋមសិក្សាធ្មា"
+        },
+        {
+            "id": "13010501707",
+            "school_type_id": 3,
+            "district_id": 1301,
+            "commune_id": "130105",
+            "village_id": "13010501",
+            "name": "Thmear",
+            "name_km": "អនុវិទ្យាល័យធ្មា"
+        },
+        {
+            "id": "13010502015",
+            "school_type_id": 2,
+            "district_id": 1301,
+            "commune_id": "130105",
+            "village_id": "13010502",
+            "name": "Sre Veal",
+            "name_km": "បឋមសិក្សាស្រែវាល"
+        },
+        {
+            "id": "13010503016",
+            "school_type_id": 2,
+            "district_id": 1301,
+            "commune_id": "130105",
+            "village_id": "13010503",
+            "name": "Phnheak Roleuk",
+            "name_km": "បឋមសិក្សាភ្ញាក់រលឹក"
+        },
+        {
+            "id": "13010601006",
+            "school_type_id": 2,
+            "district_id": 1301,
+            "commune_id": "130106",
+            "village_id": "13010601",
+            "name": "Putrea",
+            "name_km": "បឋមសិក្សាពុទ្រា"
+        },
+        {
+            "id": "13010601508",
+            "school_type_id": 1,
+            "district_id": 1301,
+            "commune_id": "130106",
+            "village_id": "13010601",
+            "name": "Putrea",
+            "name_km": "បឋមសិក្សាពុទ្រា"
+        },
+        {
+            "id": "13010601704",
+            "school_type_id": 3,
+            "district_id": 1301,
+            "commune_id": "130106",
+            "village_id": "13010601",
+            "name": "Putrea",
+            "name_km": "អនុវិទ្យាល័យពុទ្រា"
+        },
+        {
+            "id": "13010602007",
+            "school_type_id": 2,
+            "district_id": 1301,
+            "commune_id": "130106",
+            "village_id": "13010602",
+            "name": "Peuk",
+            "name_km": "បឋមសិក្សាពើក"
+        },
+        {
+            "id": "13010602020",
+            "school_type_id": 2,
+            "district_id": 1301,
+            "commune_id": "130106",
+            "village_id": "13010602",
+            "name": "Tara Rithy Tuol Phkorng",
+            "name_km": "បឋមសិក្សាតារាឫទ្ធីទួលផ្ដង"
+        },
+        {
+            "id": "13010602022",
+            "school_type_id": 2,
+            "district_id": 1301,
+            "commune_id": "130106",
+            "village_id": "13010602",
+            "name": "Tourl Chres",
+            "name_km": "ទួលជ្រេស"
+        },
+        {
+            "id": "13010602509",
+            "school_type_id": 1,
+            "district_id": 1301,
+            "commune_id": "130106",
+            "village_id": "13010602",
+            "name": "Peuk",
+            "name_km": "សាលាបឋមសិក្សាពើក"
+        },
+        {
+            "id": "13010602706",
+            "school_type_id": 3,
+            "district_id": 1301,
+            "commune_id": "130106",
+            "village_id": "13010602",
+            "name": "Tara Rithy Tuol Phkorng",
+            "name_km": "អនុវិទ្យាល័ឫទ្ធីទួលផ្ដង"
+        },
+        {
+            "id": "13010603008",
+            "school_type_id": 2,
+            "district_id": 1301,
+            "commune_id": "130106",
+            "village_id": "13010603",
+            "name": "Bar",
+            "name_km": "បឋមសិក្សាបរ"
+        }
+    ]
+}

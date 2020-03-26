@@ -1,0 +1,158 @@
+{
+    "id": 403,
+    "schools": [
+        {
+            "id": "04030104001",
+            "school_type_id": 2,
+            "district_id": 403,
+            "commune_id": "040301",
+            "village_id": "04030104",
+            "name": "Samrong",
+            "name_km": "សំរោង"
+        },
+        {
+            "id": "04030104505",
+            "school_type_id": 1,
+            "district_id": 403,
+            "commune_id": "040301",
+            "village_id": "04030104",
+            "name": "Samrong",
+            "name_km": "បឋមសិក្សាសំរោង"
+        },
+        {
+            "id": "04030105007",
+            "school_type_id": 2,
+            "district_id": 403,
+            "commune_id": "040301",
+            "village_id": "04030105",
+            "name": "Koh Krabei",
+            "name_km": "កោះក្របី"
+        },
+        {
+            "id": "04030107008",
+            "school_type_id": 2,
+            "district_id": 403,
+            "commune_id": "040301",
+            "village_id": "04030107",
+            "name": "SAmaky Phumkandal",
+            "name_km": "សាមគ្គី"
+        },
+        {
+            "id": "04030201002",
+            "school_type_id": 2,
+            "district_id": 403,
+            "commune_id": "040302",
+            "village_id": "04030201",
+            "name": "Aranh",
+            "name_km": "អារញ្ញ"
+        },
+        {
+            "id": "04030201006",
+            "school_type_id": 2,
+            "district_id": 403,
+            "commune_id": "040302",
+            "village_id": "04030201",
+            "name": "Aknouwat",
+            "name_km": "អនុវត្ត"
+        },
+        {
+            "id": "04030201508",
+            "school_type_id": 1,
+            "district_id": 403,
+            "commune_id": "040302",
+            "village_id": "04030201",
+            "name": "Aknouwat",
+            "name_km": "បឋមសិក្សាអនុវត្ត"
+        },
+        {
+            "id": "04030201901",
+            "school_type_id": 5,
+            "district_id": 403,
+            "commune_id": "040302",
+            "village_id": "04030201",
+            "name": "Preah Bat Soramarith",
+            "name_km": "វិទ្យាល័យព្រះបាទសុរាម្រឹត"
+        },
+        {
+            "id": "04030203502",
+            "school_type_id": 1,
+            "district_id": 403,
+            "commune_id": "040302",
+            "village_id": "04030203",
+            "name": "Mittapheap",
+            "name_km": "មិត្តភាព"
+        },
+        {
+            "id": "04030301003",
+            "school_type_id": 2,
+            "district_id": 403,
+            "commune_id": "040303",
+            "village_id": "04030301",
+            "name": "Kdei Tnot",
+            "name_km": "ក្តីត្នោត"
+        },
+        {
+            "id": "04030301507",
+            "school_type_id": 1,
+            "district_id": 403,
+            "commune_id": "040303",
+            "village_id": "04030301",
+            "name": "Kdei Tnot",
+            "name_km": "បឋមសិក្សាក្តីត្នោត"
+        },
+        {
+            "id": "04030302004",
+            "school_type_id": 2,
+            "district_id": 403,
+            "commune_id": "040303",
+            "village_id": "04030302",
+            "name": "Komrou Krong",
+            "name_km": "គំរូក្រុង"
+        },
+        {
+            "id": "04030302501",
+            "school_type_id": 1,
+            "district_id": 403,
+            "commune_id": "040303",
+            "village_id": "04030302",
+            "name": "Tiruom Khet Kampong Chhnang",
+            "name_km": "មត្តេយ្យទីរួមខេត្ត"
+        },
+        {
+            "id": "04030401503",
+            "school_type_id": 1,
+            "district_id": 403,
+            "commune_id": "040304",
+            "village_id": "04030401",
+            "name": "12 Makara",
+            "name_km": "12មករា"
+        },
+        {
+            "id": "04030407005",
+            "school_type_id": 2,
+            "district_id": 403,
+            "commune_id": "040304",
+            "village_id": "04030407",
+            "name": "Khsam Masa Chann Leap",
+            "name_km": "ខ្សាមមា្សច័ន្ទលាភ"
+        },
+        {
+            "id": "04030407504",
+            "school_type_id": 1,
+            "district_id": 403,
+            "commune_id": "040304",
+            "village_id": "04030407",
+            "name": "Khsam Masa Chann Leap",
+            "name_km": "ខ្សាមហ្សាច័ន្ទលាភ"
+        },
+        {
+            "id": "04030408902",
+            "school_type_id": 5,
+            "district_id": 403,
+            "commune_id": "040304",
+            "village_id": "04030408",
+            "name": "Tiruom Khet Kampong Chhnang",
+            "name_km": "វិទ្យាល័យក្រុងកំពង់ឆ្នាំង"
+        }
+    ]
+}

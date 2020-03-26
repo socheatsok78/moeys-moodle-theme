@@ -1,0 +1,320 @@
+{
+    "id": 212,
+    "schools": [
+        {
+            "id": "02120103001",
+            "school_type_id": 2,
+            "district_id": 212,
+            "commune_id": "021201",
+            "village_id": "02120103",
+            "name": "Angkor Ban",
+            "name_km": "អង្គបាន"
+        },
+        {
+            "id": "02120201002",
+            "school_type_id": 2,
+            "district_id": 212,
+            "commune_id": "021202",
+            "village_id": "02120201",
+            "name": "Hun Sen Chrey Seima",
+            "name_km": "ហ៊ុនសែនជ្រៃសីមា"
+        },
+        {
+            "id": "02120205008",
+            "school_type_id": 2,
+            "district_id": 212,
+            "commune_id": "021202",
+            "village_id": "02120205",
+            "name": "Chambak",
+            "name_km": "ចំបក់"
+        },
+        {
+            "id": "02120205705",
+            "school_type_id": 3,
+            "district_id": 212,
+            "commune_id": "021202",
+            "village_id": "02120205",
+            "name": "Chambak",
+            "name_km": "ចំបក់"
+        },
+        {
+            "id": "02120206017",
+            "school_type_id": 2,
+            "district_id": 212,
+            "commune_id": "021202",
+            "village_id": null,
+            "name": "O Rumkel",
+            "name_km": "អូរទឹកវិល"
+        },
+        {
+            "id": "02120207016",
+            "school_type_id": 2,
+            "district_id": 212,
+            "commune_id": "021202",
+            "village_id": null,
+            "name": "Sralao Chrum",
+            "name_km": "ស្រឡៅជ្រុំ"
+        },
+        {
+            "id": "02120208018",
+            "school_type_id": 2,
+            "district_id": 212,
+            "commune_id": "021202",
+            "village_id": null,
+            "name": "Chamkar Ta Bun",
+            "name_km": "ចំការតាប៊ុន"
+        },
+        {
+            "id": "02120301003",
+            "school_type_id": 2,
+            "district_id": 212,
+            "commune_id": "021203",
+            "village_id": "02120301",
+            "name": "Hun Sen Sampeuv Loun",
+            "name_km": "ហ៊ុនសែនសំពៅលូន"
+        },
+        {
+            "id": "02120402011",
+            "school_type_id": 2,
+            "district_id": 212,
+            "commune_id": "021204",
+            "village_id": "02120402",
+            "name": "Kandoal",
+            "name_km": "កណ្តោល"
+        },
+        {
+            "id": "02120402503",
+            "school_type_id": 1,
+            "district_id": 212,
+            "commune_id": "021204",
+            "village_id": "02120402",
+            "name": "Kandoal",
+            "name_km": "កណ្តោល"
+        },
+        {
+            "id": "02120403005",
+            "school_type_id": 2,
+            "district_id": 212,
+            "commune_id": "021204",
+            "village_id": "02120403",
+            "name": "Hun Sen Santepheap",
+            "name_km": "ហ៊ុនសែនសន្តិភាព"
+        },
+        {
+            "id": "02120403019",
+            "school_type_id": 2,
+            "district_id": 212,
+            "commune_id": "021204",
+            "village_id": "02120403",
+            "name": "O Thmar",
+            "name_km": "អូរថ្ម"
+        },
+        {
+            "id": "02120403507",
+            "school_type_id": 1,
+            "district_id": 212,
+            "commune_id": "021204",
+            "village_id": "02120403",
+            "name": "Santepheap",
+            "name_km": "សន្តិភាព"
+        },
+        {
+            "id": "02120404704",
+            "school_type_id": 3,
+            "district_id": 212,
+            "commune_id": "021204",
+            "village_id": "02120404",
+            "name": "Santepheap",
+            "name_km": "សន្តិភាព"
+        },
+        {
+            "id": "02120501006",
+            "school_type_id": 2,
+            "district_id": 212,
+            "commune_id": "021205",
+            "village_id": "02120501",
+            "name": "Serei Meanchey",
+            "name_km": "សិរីមានជ័យ"
+        },
+        {
+            "id": "02120501504",
+            "school_type_id": 1,
+            "district_id": 212,
+            "commune_id": "021205",
+            "village_id": "02120501",
+            "name": "Serei Meanchey",
+            "name_km": "សិរីមានជ័យ"
+        },
+        {
+            "id": "02120502702",
+            "school_type_id": 3,
+            "district_id": 212,
+            "commune_id": "021205",
+            "village_id": "02120502",
+            "name": "Kaun Phnom Mittapheap",
+            "name_km": "កូនភ្នំមិត្តភាព"
+        },
+        {
+            "id": "02120504009",
+            "school_type_id": 2,
+            "district_id": 212,
+            "commune_id": "021205",
+            "village_id": "02120504",
+            "name": "Trav Chour",
+            "name_km": "ត្រាវជូរ"
+        },
+        {
+            "id": "02120504013",
+            "school_type_id": 2,
+            "district_id": 212,
+            "commune_id": "021205",
+            "village_id": "02120504",
+            "name": "Tlok Sangker",
+            "name_km": "ថ្លុកសង្កែ"
+        },
+        {
+            "id": "02120504505",
+            "school_type_id": 1,
+            "district_id": 212,
+            "commune_id": "021205",
+            "village_id": "02120504",
+            "name": "Trav Chour",
+            "name_km": "ត្រាជូរ"
+        },
+        {
+            "id": "02120504506",
+            "school_type_id": 1,
+            "district_id": 212,
+            "commune_id": "021205",
+            "village_id": "02120504",
+            "name": "Thlok Sangker",
+            "name_km": "ទួលសង្កែរ"
+        },
+        {
+            "id": "02120504706",
+            "school_type_id": 3,
+            "district_id": 212,
+            "commune_id": "021205",
+            "village_id": "02120504",
+            "name": "Donsom",
+            "name_km": "ដូនសំ"
+        },
+        {
+            "id": "02120505012",
+            "school_type_id": 2,
+            "district_id": 212,
+            "commune_id": "021205",
+            "village_id": "02120505",
+            "name": "Prasat Andet",
+            "name_km": "ប្រាសាទអណ្តែត"
+        },
+        {
+            "id": "02120506014",
+            "school_type_id": 2,
+            "district_id": 212,
+            "commune_id": "021205",
+            "village_id": "02120506",
+            "name": "BoeungTrakuon",
+            "name_km": "បឹងត្រកួន"
+        },
+        {
+            "id": "02120506021",
+            "school_type_id": 2,
+            "district_id": 212,
+            "commune_id": "021205",
+            "village_id": "02120506",
+            "name": "KHVAV THOM",
+            "name_km": "ខ្វាវធំ"
+        },
+        {
+            "id": "02120507020",
+            "school_type_id": 2,
+            "district_id": 212,
+            "commune_id": "021205",
+            "village_id": "02120507",
+            "name": "TUOL KRASAING",
+            "name_km": "ទួលក្រសាំង"
+        },
+        {
+            "id": "02120508015",
+            "school_type_id": 2,
+            "district_id": 212,
+            "commune_id": "021205",
+            "village_id": null,
+            "name": "O Koki",
+            "name_km": "អូរគគី"
+        },
+        {
+            "id": "02120601007",
+            "school_type_id": 2,
+            "district_id": 212,
+            "commune_id": "021206",
+            "village_id": "02120601",
+            "name": "Kaun Phnom​ 32",
+            "name_km": "កូនភ្នំ៣២"
+        },
+        {
+            "id": "02120601501",
+            "school_type_id": 1,
+            "district_id": 212,
+            "commune_id": "021206",
+            "village_id": "02120601",
+            "name": "Kaun Phnom 32",
+            "name_km": "កូនភ្នំ៣២"
+        },
+        {
+            "id": "02120601701",
+            "school_type_id": 3,
+            "district_id": 212,
+            "commune_id": "021206",
+            "village_id": "02120601",
+            "name": "Kaun Phnom 32",
+            "name_km": "កូនភ្នំ៣២"
+        },
+        {
+            "id": "02120603010",
+            "school_type_id": 2,
+            "district_id": 212,
+            "commune_id": "021206",
+            "village_id": "02120603",
+            "name": "Beng Tret",
+            "name_km": "បេងត្រេត"
+        },
+        {
+            "id": "02120603502",
+            "school_type_id": 1,
+            "district_id": 212,
+            "commune_id": "021206",
+            "village_id": "02120603",
+            "name": "Beng Tret",
+            "name_km": "បេងត្រេត"
+        },
+        {
+            "id": "02120603703",
+            "school_type_id": 3,
+            "district_id": 212,
+            "commune_id": "021206",
+            "village_id": "02120603",
+            "name": "O Chamneb",
+            "name_km": "អូរចំណាប់"
+        },
+        {
+            "id": "02120603901",
+            "school_type_id": 5,
+            "district_id": 212,
+            "commune_id": "021206",
+            "village_id": "02120603",
+            "name": "Sampeuv Loun",
+            "name_km": "សំពៅលូន"
+        },
+        {
+            "id": "02120604004",
+            "school_type_id": 2,
+            "district_id": 212,
+            "commune_id": "021206",
+            "village_id": "02120604",
+            "name": "Hun Sen Ta Sda",
+            "name_km": "ហ៊ុនសែនតាស្តា"
+        }
+    ]
+}

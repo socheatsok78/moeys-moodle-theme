@@ -1,0 +1,275 @@
+{
+    "id": 2006,
+    "schools": [
+        {
+            "id": "20060101006",
+            "school_type_id": 2,
+            "district_id": 2006,
+            "commune_id": "200601",
+            "village_id": "20060101",
+            "name": "Aknouwat",
+            "name_km": "អនុវត្ត"
+        },
+        {
+            "id": "20060103505",
+            "school_type_id": 1,
+            "district_id": 2006,
+            "commune_id": "200601",
+            "village_id": "20060103",
+            "name": "Komar Thmei",
+            "name_km": "កុមារថ្មី"
+        },
+        {
+            "id": "20060104001",
+            "school_type_id": 2,
+            "district_id": 2006,
+            "commune_id": "200601",
+            "village_id": "20060104",
+            "name": "Preah Sihanouk",
+            "name_km": "ព្រះសីហនុ"
+        },
+        {
+            "id": "20060104501",
+            "school_type_id": 1,
+            "district_id": 2006,
+            "commune_id": "200601",
+            "village_id": "20060104",
+            "name": "Preah Sihanouk",
+            "name_km": "ព្រះសីហនុ"
+        },
+        {
+            "id": "20060105901",
+            "school_type_id": 5,
+            "district_id": 2006,
+            "commune_id": "200601",
+            "village_id": "20060105",
+            "name": "Svay Rieng",
+            "name_km": "វិទ្យាល័យស្វាយរៀង"
+        },
+        {
+            "id": "20060107002",
+            "school_type_id": 2,
+            "district_id": 2006,
+            "commune_id": "200601",
+            "village_id": "20060107",
+            "name": "Chong Prek",
+            "name_km": "ចុងព្រែក"
+        },
+        {
+            "id": "20060107502",
+            "school_type_id": 1,
+            "district_id": 2006,
+            "commune_id": "200601",
+            "village_id": "20060107",
+            "name": "Chong Prek",
+            "name_km": "ចុងព្រែក"
+        },
+        {
+            "id": "20060203003",
+            "school_type_id": 2,
+            "district_id": 2006,
+            "commune_id": "200602",
+            "village_id": "20060203",
+            "name": "2 Thnou",
+            "name_km": "២ធ្នូ"
+        },
+        {
+            "id": "20060203503",
+            "school_type_id": 1,
+            "district_id": 2006,
+            "commune_id": "200602",
+            "village_id": "20060203",
+            "name": "2 Thnou",
+            "name_km": "២ធ្នូ"
+        },
+        {
+            "id": "20060301004",
+            "school_type_id": 2,
+            "district_id": 2006,
+            "commune_id": "200603",
+            "village_id": "20060301",
+            "name": "Hun Sen Koy Trabek",
+            "name_km": "ហ៊ុន សែន គយត្របែក"
+        },
+        {
+            "id": "20060301513",
+            "school_type_id": 1,
+            "district_id": 2006,
+            "commune_id": "200603",
+            "village_id": "20060301",
+            "name": "Koy Trabek",
+            "name_km": "គយត្របែក"
+        },
+        {
+            "id": "20060404005",
+            "school_type_id": 2,
+            "district_id": 2006,
+            "commune_id": "200604",
+            "village_id": "20060404",
+            "name": "7 Makara",
+            "name_km": "៧មករា"
+        },
+        {
+            "id": "20060404504",
+            "school_type_id": 1,
+            "district_id": 2006,
+            "commune_id": "200604",
+            "village_id": "20060404",
+            "name": "7 Makara",
+            "name_km": "៧មករា"
+        },
+        {
+            "id": "20060501007",
+            "school_type_id": 2,
+            "district_id": 2006,
+            "commune_id": "200605",
+            "village_id": "20060501",
+            "name": "Chumpou Preuksa",
+            "name_km": "ជម្ពូព្រឹក្សា"
+        },
+        {
+            "id": "20060501506",
+            "school_type_id": 1,
+            "district_id": 2006,
+            "commune_id": "200605",
+            "village_id": "20060501",
+            "name": "Chumpou Preuksa",
+            "name_km": "ជម្ពូព្រឹក្សា"
+        },
+        {
+            "id": "20060502008",
+            "school_type_id": 2,
+            "district_id": 2006,
+            "commune_id": "200605",
+            "village_id": "20060502",
+            "name": "Samaki",
+            "name_km": "សាមគ្គី"
+        },
+        {
+            "id": "20060502507",
+            "school_type_id": 1,
+            "district_id": 2006,
+            "commune_id": "200605",
+            "village_id": "20060502",
+            "name": "Samaki",
+            "name_km": "សាមគ្គី"
+        },
+        {
+            "id": "20060505009",
+            "school_type_id": 2,
+            "district_id": 2006,
+            "commune_id": "200605",
+            "village_id": "20060505",
+            "name": "Krasaing Chrum",
+            "name_km": "ក្រសាំងជ្រំ"
+        },
+        {
+            "id": "20060505508",
+            "school_type_id": 1,
+            "district_id": 2006,
+            "commune_id": "200605",
+            "village_id": "20060505",
+            "name": "Krasaing Chrum",
+            "name_km": "ក្រសាំងជ្រំ"
+        },
+        {
+            "id": "20060506010",
+            "school_type_id": 2,
+            "district_id": 2006,
+            "commune_id": "200605",
+            "village_id": "20060506",
+            "name": "Preah Tonle",
+            "name_km": "ព្រះទន្លេ"
+        },
+        {
+            "id": "20060506509",
+            "school_type_id": 1,
+            "district_id": 2006,
+            "commune_id": "200605",
+            "village_id": "20060506",
+            "name": "Preah Tonle",
+            "name_km": "ព្រះទន្លេ"
+        },
+        {
+            "id": "20060507011",
+            "school_type_id": 2,
+            "district_id": 2006,
+            "commune_id": "200605",
+            "village_id": "20060507",
+            "name": "Pophlea Ark Neak",
+            "name_km": "ពភ្លាអកនាគ"
+        },
+        {
+            "id": "20060507514",
+            "school_type_id": 1,
+            "district_id": 2006,
+            "commune_id": "200605",
+            "village_id": "20060507",
+            "name": "Pophlea Ark Neak",
+            "name_km": "ពភ្លាអកនាគ"
+        },
+        {
+            "id": "20060605701",
+            "school_type_id": 3,
+            "district_id": 2006,
+            "commune_id": "200606",
+            "village_id": "20060605",
+            "name": "Svay Toeu",
+            "name_km": "ស្វាយតឿ"
+        },
+        {
+            "id": "20060607012",
+            "school_type_id": 2,
+            "district_id": 2006,
+            "commune_id": "200606",
+            "village_id": "20060607",
+            "name": "Svay Toeu",
+            "name_km": "ស្វាយតឿ"
+        },
+        {
+            "id": "20060702902",
+            "school_type_id": 5,
+            "district_id": 2006,
+            "commune_id": "200607",
+            "village_id": "20060702",
+            "name": "Hun Sen Chek",
+            "name_km": "វិទ្យាល័យហ៊ុនសែនចេក"
+        },
+        {
+            "id": "20060704013",
+            "school_type_id": 2,
+            "district_id": 2006,
+            "commune_id": "200607",
+            "village_id": "20060704",
+            "name": "Chek",
+            "name_km": "ចេក"
+        },
+        {
+            "id": "20060704511",
+            "school_type_id": 1,
+            "district_id": 2006,
+            "commune_id": "200607",
+            "village_id": "20060704",
+            "name": "Chek",
+            "name_km": "ចេក"
+        },
+        {
+            "id": "20060706014",
+            "school_type_id": 2,
+            "district_id": 2006,
+            "commune_id": "200607",
+            "village_id": "20060706",
+            "name": "Kantuy Vey",
+            "name_km": "កន្ទុយវៃ"
+        },
+        {
+            "id": "20060706512",
+            "school_type_id": 1,
+            "district_id": 2006,
+            "commune_id": "200607",
+            "village_id": "20060706",
+            "name": "Kantuy Vey",
+            "name_km": "កន្ទុយវៃ"
+        }
+    ]
+}

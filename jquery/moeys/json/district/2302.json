@@ -1,0 +1,365 @@
+{
+    "id": 2302,
+    "schools": [
+        {
+            "id": "23020103003",
+            "school_type_id": 2,
+            "district_id": 2302,
+            "commune_id": "230201",
+            "village_id": "23020103",
+            "name": "Sala Krao",
+            "name_km": "បឋមសិក្សាសាលាក្រៅ"
+        },
+        {
+            "id": "23020103503",
+            "school_type_id": 1,
+            "district_id": 2302,
+            "commune_id": "230201",
+            "village_id": "23020103",
+            "name": "Sala Krao",
+            "name_km": "មត្តេយ្យ  សាលាក្រៅ"
+        },
+        {
+            "id": "23020104024",
+            "school_type_id": 2,
+            "district_id": 2302,
+            "commune_id": "230201",
+            "village_id": "23020104",
+            "name": "Kaun Damrei",
+            "name_km": "បឋមសិក្សាកូនដំរី"
+        },
+        {
+            "id": "23020104901",
+            "school_type_id": 5,
+            "district_id": 2302,
+            "commune_id": "230201",
+            "village_id": "23020104",
+            "name": "Sala Krao",
+            "name_km": "វិ ហ ស សាលាក្រៅ"
+        },
+        {
+            "id": "23020106020",
+            "school_type_id": 2,
+            "district_id": 2302,
+            "commune_id": "230201",
+            "village_id": "23020106",
+            "name": "O Chet Pram",
+            "name_km": "បឋមសិក្សាអូរចិតប្រាំ"
+        },
+        {
+            "id": "23020106507",
+            "school_type_id": 1,
+            "district_id": 2302,
+            "commune_id": "230201",
+            "village_id": "23020106",
+            "name": "O Chet Pram",
+            "name_km": "មត្តេយ្យ អូរចិតប្រាំ"
+        },
+        {
+            "id": "23020107021",
+            "school_type_id": 2,
+            "district_id": 2302,
+            "commune_id": "230201",
+            "village_id": "23020107",
+            "name": "O Theuk Phleav",
+            "name_km": "បឋមសិក្សាអូរទឹកភ្លាវ"
+        },
+        {
+            "id": "23020108026",
+            "school_type_id": 2,
+            "district_id": 2302,
+            "commune_id": "230201",
+            "village_id": "23020108",
+            "name": "Veal Cheng Thom",
+            "name_km": "បឋមសិក្សាចែងធំ"
+        },
+        {
+            "id": "23020202004",
+            "school_type_id": 2,
+            "district_id": 2302,
+            "commune_id": "230202",
+            "village_id": "23020202",
+            "name": "Boeng Prolit",
+            "name_km": "បឋមសិក្សាបឹងព្រលិត"
+        },
+        {
+            "id": "23020203027",
+            "school_type_id": 2,
+            "district_id": 2302,
+            "commune_id": "230202",
+            "village_id": "23020203",
+            "name": "Bos Sa-om",
+            "name_km": "បឋមសិក្សាបុស្អំ"
+        },
+        {
+            "id": "23020206016",
+            "school_type_id": 2,
+            "district_id": 2302,
+            "commune_id": "230202",
+            "village_id": "23020206",
+            "name": "Kangaok",
+            "name_km": "បឋមសិក្សាក្ងោក"
+        },
+        {
+            "id": "23020206017",
+            "school_type_id": 2,
+            "district_id": 2302,
+            "commune_id": "230202",
+            "village_id": "23020206",
+            "name": "Phnom Srong",
+            "name_km": "បឋមសិក្សាភ្នំស្រង់"
+        },
+        {
+            "id": "23020206022",
+            "school_type_id": 2,
+            "district_id": 2302,
+            "commune_id": "230202",
+            "village_id": "23020206",
+            "name": "Andong tmor",
+            "name_km": "បឋមសិក្សាអណ្តូងថ្ម"
+        },
+        {
+            "id": "23020206504",
+            "school_type_id": 1,
+            "district_id": 2302,
+            "commune_id": "230202",
+            "village_id": "23020206",
+            "name": "Kangaok",
+            "name_km": "មត្តេយ្យ  ក្ងោក"
+        },
+        {
+            "id": "23020207001",
+            "school_type_id": 2,
+            "district_id": 2302,
+            "commune_id": "230202",
+            "village_id": "23020207",
+            "name": "Sen Ti Pheap",
+            "name_km": "បឋមសិក្សាសន្តិភាព"
+        },
+        {
+            "id": "23020207502",
+            "school_type_id": 1,
+            "district_id": 2302,
+            "commune_id": "230202",
+            "village_id": "23020207",
+            "name": "Stung Kach",
+            "name_km": "មត្តេយ្យ សន្ដិភាព"
+        },
+        {
+            "id": "23020207704",
+            "school_type_id": 3,
+            "district_id": 2302,
+            "commune_id": "230202",
+            "village_id": "23020207",
+            "name": "Santepheap",
+            "name_km": "អនុវិ សន្តិភាព "
+        },
+        {
+            "id": "23020211501",
+            "school_type_id": 1,
+            "district_id": 2302,
+            "commune_id": "230202",
+            "village_id": "23020211",
+            "name": "Boeung Prolit",
+            "name_km": "មត្តេយ្យ  បឹងព្រលិត"
+        },
+        {
+            "id": "23020213006",
+            "school_type_id": 2,
+            "district_id": 2302,
+            "commune_id": "230202",
+            "village_id": "23020213",
+            "name": "Phsar Prum",
+            "name_km": "បឋមសិក្សាផ្សារព្រំ"
+        },
+        {
+            "id": "23020213702",
+            "school_type_id": 3,
+            "district_id": 2302,
+            "commune_id": "230202",
+            "village_id": "23020213",
+            "name": "Phsar Prum",
+            "name_km": "ផ្សារព្រំ"
+        },
+        {
+            "id": "23020214007",
+            "school_type_id": 2,
+            "district_id": 2302,
+            "commune_id": "230202",
+            "village_id": "23020214",
+            "name": "O Chheu Krom",
+            "name_km": "បឋមសិក្សាអូរឈើក្រម"
+        },
+        {
+            "id": "23020215008",
+            "school_type_id": 2,
+            "district_id": 2302,
+            "commune_id": "230202",
+            "village_id": "23020215",
+            "name": "O Ro-el",
+            "name_km": "បឋមសិក្សាអូររអិល"
+        },
+        {
+            "id": "23020215509",
+            "school_type_id": 1,
+            "district_id": 2302,
+            "commune_id": "230202",
+            "village_id": "23020215",
+            "name": "O Ro-el",
+            "name_km": "មត្តេយ្យ អូរអិល"
+        },
+        {
+            "id": "23020301005",
+            "school_type_id": 2,
+            "district_id": 2302,
+            "commune_id": "230203",
+            "village_id": "23020301",
+            "name": "Phnom Koy",
+            "name_km": "បឋមសិក្សាភ្នំកុយ"
+        },
+        {
+            "id": "23020301018",
+            "school_type_id": 2,
+            "district_id": 2302,
+            "commune_id": "230203",
+            "village_id": "23020301",
+            "name": "Sambo",
+            "name_km": "បឋមសិក្សាហ៊ុន សែនសំបូរ"
+        },
+        {
+            "id": "23020301505",
+            "school_type_id": 1,
+            "district_id": 2302,
+            "commune_id": "230203",
+            "village_id": "23020301",
+            "name": "Phnom Koy",
+            "name_km": "មត្តេយ្យ ភ្នំកុយ"
+        },
+        {
+            "id": "23020301705",
+            "school_type_id": 3,
+            "district_id": 2302,
+            "commune_id": "230203",
+            "village_id": "23020301",
+            "name": "PHNOM KOY",
+            "name_km": "អនុវិទ្យាល័យភ្នំកុយ"
+        },
+        {
+            "id": "23020303019",
+            "school_type_id": 2,
+            "district_id": 2302,
+            "commune_id": "230203",
+            "village_id": "23020303",
+            "name": "Kbal Lan",
+            "name_km": "បឋមសិក្សាក្បាលឡាន"
+        },
+        {
+            "id": "23020307009",
+            "school_type_id": 2,
+            "district_id": 2302,
+            "commune_id": "230203",
+            "village_id": "23020307",
+            "name": "Sre Anteak",
+            "name_km": "បឋមសិក្សាស្រែអន្ទាក់"
+        },
+        {
+            "id": "23020308010",
+            "school_type_id": 2,
+            "district_id": 2302,
+            "commune_id": "230203",
+            "village_id": "23020308",
+            "name": "Koh Keo",
+            "name_km": "បឋមសិក្សាកោះកែវ"
+        },
+        {
+            "id": "23020406011",
+            "school_type_id": 2,
+            "district_id": 2302,
+            "commune_id": "230204",
+            "village_id": "23020406",
+            "name": "Phnom Krinh",
+            "name_km": "បឋមសិក្សាភ្នំក្រិញ"
+        },
+        {
+            "id": "23020407012",
+            "school_type_id": 2,
+            "district_id": 2302,
+            "commune_id": "230204",
+            "village_id": "23020407",
+            "name": "Prey Santeah",
+            "name_km": "បឋមសិក្សាព្រៃសន្ទះ"
+        },
+        {
+            "id": "23020408013",
+            "school_type_id": 2,
+            "district_id": 2302,
+            "commune_id": "230204",
+            "village_id": "23020408",
+            "name": "Phnom Preal",
+            "name_km": "បឋមសិក្សាភ្នំព្រាល"
+        },
+        {
+            "id": "23020409014",
+            "school_type_id": 2,
+            "district_id": 2302,
+            "commune_id": "230204",
+            "village_id": "23020409",
+            "name": "Dei Sar",
+            "name_km": "បឋមសិក្សាដីស"
+        },
+        {
+            "id": "23020409506",
+            "school_type_id": 1,
+            "district_id": 2302,
+            "commune_id": "230204",
+            "village_id": "23020409",
+            "name": "Dei Sar",
+            "name_km": "មត្តេយ្យ  ដីស"
+        },
+        {
+            "id": "23020410015",
+            "school_type_id": 2,
+            "district_id": 2302,
+            "commune_id": "230204",
+            "village_id": "23020410",
+            "name": "Thearea Sas",
+            "name_km": "បឋមសិក្សាធារាសាស្ត្រ"
+        },
+        {
+            "id": "23020410025",
+            "school_type_id": 2,
+            "district_id": 2302,
+            "commune_id": "230204",
+            "village_id": "23020410",
+            "name": "Sras Pi Ta Chhen",
+            "name_km": "បឋមសិក្សាស្រះពីរតាឈាន"
+        },
+        {
+            "id": "23020410029",
+            "school_type_id": 2,
+            "district_id": 2302,
+            "commune_id": "230204",
+            "village_id": "23020410",
+            "name": "Tumnup",
+            "name_km": "បឋមសិក្សាទំបន់"
+        },
+        {
+            "id": "23020410508",
+            "school_type_id": 1,
+            "district_id": 2302,
+            "commune_id": "230204",
+            "village_id": "23020410",
+            "name": "Thearea Sas",
+            "name_km": "មត្តេយ្យ  ធារាសាស្រ្ដ"
+        },
+        {
+            "id": "23020411703",
+            "school_type_id": 3,
+            "district_id": 2302,
+            "commune_id": "230204",
+            "village_id": "23020411",
+            "name": "O Dei Sa-eth",
+            "name_km": "អនុវិ​​ហស​​អូរដូនតា"
+        }
+    ]
+}

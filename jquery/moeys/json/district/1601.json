@@ -1,0 +1,221 @@
+{
+    "id": 1601,
+    "schools": [
+        {
+            "id": "16010101001",
+            "school_type_id": 2,
+            "district_id": 1601,
+            "commune_id": "160101",
+            "village_id": "16010101",
+            "name": "Akphewat",
+            "name_km": "បឋមសិក្សាអភិវឌ្ឍន៏"
+        },
+        {
+            "id": "16010102002",
+            "school_type_id": 2,
+            "district_id": 1601,
+            "commune_id": "160101",
+            "village_id": "16010102",
+            "name": "Kate",
+            "name_km": "សាលាបឋមសិក្សាកាតែ"
+        },
+        {
+            "id": "16010102503",
+            "school_type_id": 1,
+            "district_id": 1601,
+            "commune_id": "160101",
+            "village_id": "16010102",
+            "name": "Kate Pre-School",
+            "name_km": "សាលាបឋមសិក្សាកាតែ"
+        },
+        {
+            "id": "16010104004",
+            "school_type_id": 2,
+            "district_id": 1601,
+            "commune_id": "160101",
+            "village_id": "16010104",
+            "name": "O Kap",
+            "name_km": "បឋមសិក្សាអូរកប"
+        },
+        {
+            "id": "16010105003",
+            "school_type_id": 2,
+            "district_id": 1601,
+            "commune_id": "160101",
+            "village_id": "16010105",
+            "name": "Andaung Meas",
+            "name_km": "បឋមសិក្សាអណ្តូងមាស"
+        },
+        {
+            "id": "16010105501",
+            "school_type_id": 1,
+            "district_id": 1601,
+            "commune_id": "160101",
+            "village_id": "16010105",
+            "name": "Andaung Meas",
+            "name_km": "សាលាបឋមសិក្សាអណ្ដូងមាស"
+        },
+        {
+            "id": "16010105901",
+            "school_type_id": 5,
+            "district_id": 1601,
+            "commune_id": "160101",
+            "village_id": "16010105",
+            "name": "Andong Meas High School",
+            "name_km": "វិទ្យាល័យអណ្តូងមាស"
+        },
+        {
+            "id": "16010201009",
+            "school_type_id": 2,
+            "district_id": 1601,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Kachout",
+            "name_km": "សាលាបឋមសិក្សាកាជូតណាយ"
+        },
+        {
+            "id": "16010204013",
+            "school_type_id": 2,
+            "district_id": 1601,
+            "commune_id": null,
+            "village_id": null,
+            "name": "1 Thmar Da",
+            "name_km": "បឋមសិក្សាថ្មដា"
+        },
+        {
+            "id": "16010205012",
+            "school_type_id": 2,
+            "district_id": 1601,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Chang",
+            "name_km": "សាលាបឋមសិក្សាចង"
+        },
+        {
+            "id": "16010206017",
+            "school_type_id": 2,
+            "district_id": 1601,
+            "commune_id": "160103",
+            "village_id": "16010306",
+            "name": "Ta Nga_Pri School",
+            "name_km": "សាលាបឋមសិក្សាតាង៉ា"
+        },
+        {
+            "id": "16010207010",
+            "school_type_id": 2,
+            "district_id": 1601,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Chay",
+            "name_km": "សាលាបឋមសិក្សាចាយ"
+        },
+        {
+            "id": "16010208006",
+            "school_type_id": 2,
+            "district_id": 1601,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Nhang",
+            "name_km": "សាលាបឋមសិក្សាញ៉ាង"
+        },
+        {
+            "id": "16010208502",
+            "school_type_id": 1,
+            "district_id": 1601,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Ket",
+            "name_km": "បឋមសិក្សាញ៉ាង"
+        },
+        {
+            "id": "16010209018",
+            "school_type_id": 2,
+            "district_id": 1601,
+            "commune_id": "160103",
+            "village_id": "16010312",
+            "name": "Tang Chi_Pri School",
+            "name_km": "សាលាបឋមសិក្សាតាំងជិ"
+        },
+        {
+            "id": "16010210008",
+            "school_type_id": 2,
+            "district_id": 1601,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Samaki",
+            "name_km": "សាលាបឋមសិក្សាសាមគ្គី"
+        },
+        {
+            "id": "16010211019",
+            "school_type_id": 2,
+            "district_id": 1601,
+            "commune_id": "160103",
+            "village_id": "16010311",
+            "name": "Tang Lom_Pri School",
+            "name_km": "សាលាបឋមសិក្សាភូមិតាំងលោម"
+        },
+        {
+            "id": "16010212011",
+            "school_type_id": 2,
+            "district_id": 1601,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Taing Se",
+            "name_km": "សាលាបឋមសិក្សាតាំងសេ"
+        },
+        {
+            "id": "16010301005",
+            "school_type_id": 2,
+            "district_id": 1601,
+            "commune_id": "160103",
+            "village_id": "16010301",
+            "name": "Ta Lao",
+            "name_km": "សាលាបឋមសិក្សាតាឡាវ"
+        },
+        {
+            "id": "16010301015",
+            "school_type_id": 2,
+            "district_id": 1601,
+            "commune_id": "160103",
+            "village_id": "16010301",
+            "name": "Inn",
+            "name_km": "សាលាបឋមសិក្សាអីុន"
+        },
+        {
+            "id": "16010301504",
+            "school_type_id": 1,
+            "district_id": 1601,
+            "commune_id": "160104",
+            "village_id": "16010401",
+            "name": "Ta Lao Pre-School",
+            "name_km": "សាលាបឋមសិក្សាតាឡាវ"
+        },
+        {
+            "id": "16010303007",
+            "school_type_id": 2,
+            "district_id": 1601,
+            "commune_id": "160103",
+            "village_id": "16010303",
+            "name": "Kanat",
+            "name_km": "ហ៊ុនសែនកាណាត"
+        },
+        {
+            "id": "16010304014",
+            "school_type_id": 2,
+            "district_id": 1601,
+            "commune_id": "160103",
+            "village_id": "16010304",
+            "name": "Kak",
+            "name_km": "សាលាបឋមសិក្សាកាក់"
+        },
+        {
+            "id": "16010304016",
+            "school_type_id": 2,
+            "district_id": 1601,
+            "commune_id": "160103",
+            "village_id": "16010304",
+            "name": "Ta Nang",
+            "name_km": "សាលាបឋមសិក្សាតាណង"
+        }
+    ]
+}

@@ -1,0 +1,221 @@
+{
+    "id": 1208,
+    "schools": [
+        {
+            "id": "12080102001",
+            "school_type_id": 2,
+            "district_id": 1208,
+            "commune_id": "120801",
+            "village_id": "12080102",
+            "name": "Mittapheap Kampuchea China Khmuonh",
+            "name_km": "បឋមសិក្សាមិត្តភាពកម្ពុជាចិនឃ្មួញ"
+        },
+        {
+            "id": "12080102511",
+            "school_type_id": 1,
+            "district_id": 1208,
+            "commune_id": "120801",
+            "village_id": "12080102",
+            "name": "Mittapheap Kampuchea China Khmuonh",
+            "name_km": "មិត្តភាពកម្ពុជា ចិនឃ្មួញ"
+        },
+        {
+            "id": "12080103002",
+            "school_type_id": 2,
+            "district_id": 1208,
+            "commune_id": "120801",
+            "village_id": "12080103",
+            "name": "Tuol Prasat Sen Sok",
+            "name_km": "បឋមសិក្សាសែនសុខ"
+        },
+        {
+            "id": "12080103501",
+            "school_type_id": 1,
+            "district_id": 1208,
+            "commune_id": "120801",
+            "village_id": "12080103",
+            "name": "Tuol Prasat Sen Sok",
+            "name_km": "សែនសុខ"
+        },
+        {
+            "id": "12080104901",
+            "school_type_id": 5,
+            "district_id": 1208,
+            "commune_id": "120801",
+            "village_id": "12080104",
+            "name": "Tuol Prasat Sen Sok",
+            "name_km": "វិទ្យាល័យទួលប្រាសាទសែនសុខ"
+        },
+        {
+            "id": "12080105003",
+            "school_type_id": 2,
+            "district_id": 1208,
+            "commune_id": "120801",
+            "village_id": "12080105",
+            "name": "Trapaing Raing",
+            "name_km": "បឋមតេជោហ៊ុនសែនត្រពាំងរាំង"
+        },
+        {
+            "id": "12080105513",
+            "school_type_id": 1,
+            "district_id": 1208,
+            "commune_id": "120801",
+            "village_id": "12080105",
+            "name": "Trapaing Raing",
+            "name_km": "ហ៊ុន សែន ត្រពាំងរាំង"
+        },
+        {
+            "id": "12080106004",
+            "school_type_id": 2,
+            "district_id": 1208,
+            "commune_id": "120801",
+            "village_id": "12080106",
+            "name": "Anlung Kangan",
+            "name_km": "អ្នកឧកញ៉ាមហាភក្តីហ៊ុននាងអន្លង់ក្ងាន"
+        },
+        {
+            "id": "12080106514",
+            "school_type_id": 1,
+            "district_id": 1208,
+            "commune_id": "120801",
+            "village_id": "12080106",
+            "name": "Anlung Kangan",
+            "name_km": "ហ៊ុននាងអន្លង់ក្ងាន"
+        },
+        {
+            "id": "12080201902",
+            "school_type_id": 5,
+            "district_id": 1208,
+            "commune_id": "120802",
+            "village_id": "12080201",
+            "name": "Samdech Hun Sen Phnom Penh",
+            "name_km": "វិទ្យាល័យសម្ដេចហ៊ុនសែនភ្នំពេញថ្មី"
+        },
+        {
+            "id": "12080203005",
+            "school_type_id": 2,
+            "district_id": 1208,
+            "commune_id": "120802",
+            "village_id": "12080203",
+            "name": "Samaki",
+            "name_km": "បឋមប៊ុនរ៉ានី ហ៊ុនសែនសាមគ្គី"
+        },
+        {
+            "id": "12080203517",
+            "school_type_id": 1,
+            "district_id": 1208,
+            "commune_id": "120802",
+            "village_id": "12080203",
+            "name": "Bun Rany Hun Sen Samaki",
+            "name_km": "ប៊ុនរ៉ានី ហ៊ុន សែន សាមគ្គី"
+        },
+        {
+            "id": "12080205006",
+            "school_type_id": 2,
+            "district_id": 1208,
+            "commune_id": "120802",
+            "village_id": null,
+            "name": "Phnom Penh Thmey",
+            "name_km": "បឋមសិក្សាភ្នំពេញថ្មី"
+        },
+        {
+            "id": "12080205502",
+            "school_type_id": 1,
+            "district_id": 1208,
+            "commune_id": "120802",
+            "village_id": null,
+            "name": "Phnom Penh Thmey",
+            "name_km": "ភ្នំពេញថ្មី"
+        },
+        {
+            "id": "12080210007",
+            "school_type_id": 2,
+            "district_id": 1208,
+            "commune_id": "120802",
+            "village_id": null,
+            "name": "Trapaing Svay",
+            "name_km": "បឋមសិក្សាត្រពាំងស្វាយ"
+        },
+        {
+            "id": "12080210503",
+            "school_type_id": 1,
+            "district_id": 1208,
+            "commune_id": "120802",
+            "village_id": null,
+            "name": "Trapaing Svay",
+            "name_km": "ត្រពាំងស្វាយ"
+        },
+        {
+            "id": "12080303008",
+            "school_type_id": 2,
+            "district_id": 1208,
+            "commune_id": null,
+            "village_id": null,
+            "name": "YAMABIKO",
+            "name_km": "អ្នកឧកញ៉ាមហាភក្តីហ៊ុននាងយ៉ាម៉ាប៊ីកូ"
+        },
+        {
+            "id": "12080303510",
+            "school_type_id": 1,
+            "district_id": 1208,
+            "commune_id": null,
+            "village_id": null,
+            "name": "YAMABIKO",
+            "name_km": "ហ៊ុននាង យ៉ាម៉ាប៊ីកូ"
+        },
+        {
+            "id": "12080306504",
+            "school_type_id": 1,
+            "district_id": 1208,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Borei 100 Khnang",
+            "name_km": "មត្តេយ្យបូរី១០០ខ្នង"
+        },
+        {
+            "id": "12080308009",
+            "school_type_id": 2,
+            "district_id": 1208,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Santepheap",
+            "name_km": "បឋមសិក្សាសន្តិភាព"
+        },
+        {
+            "id": "12080308516",
+            "school_type_id": 1,
+            "district_id": 1208,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Santepheap",
+            "name_km": "បឋមសិក្សា សន្តិភាព"
+        },
+        {
+            "id": "12080309903",
+            "school_type_id": 5,
+            "district_id": 1208,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Hun Sen Borei 100 Khnang",
+            "name_km": "វិទ្យាល័យ ហ៊ុនសែនបូរី១០០ខ្នង"
+        },
+        {
+            "id": "12081104015",
+            "school_type_id": 2,
+            "district_id": 1208,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Kraing Thnung",
+            "name_km": "បឋមសិក្សាក្រាំងធ្នង់"
+        },
+        {
+            "id": "12081104523",
+            "school_type_id": 1,
+            "district_id": 1208,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Kraing Thnung",
+            "name_km": "ក្រាំងធ្នង់"
+        }
+    ]
+}

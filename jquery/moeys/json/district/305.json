@@ -1,0 +1,239 @@
+{
+    "id": 305,
+    "schools": [
+        {
+            "id": "03050102001",
+            "school_type_id": 2,
+            "district_id": 305,
+            "commune_id": "030501",
+            "village_id": "03050102",
+            "name": "Boeung Kok",
+            "name_km": "បឹងកុក"
+        },
+        {
+            "id": "03050102508",
+            "school_type_id": 1,
+            "district_id": 305,
+            "commune_id": "030501",
+            "village_id": "03050102",
+            "name": "Boeung Kok",
+            "name_km": "បឹងកុក"
+        },
+        {
+            "id": "03050208002",
+            "school_type_id": 2,
+            "district_id": 305,
+            "commune_id": "030502",
+            "village_id": "03050208",
+            "name": "Teaksen",
+            "name_km": "ទក្សិណ"
+        },
+        {
+            "id": "03050208501",
+            "school_type_id": 1,
+            "district_id": 305,
+            "commune_id": "030502",
+            "village_id": "03050208",
+            "name": "Teaksen",
+            "name_km": "ទក្សិណ"
+        },
+        {
+            "id": "03050208905",
+            "school_type_id": 5,
+            "district_id": 305,
+            "commune_id": "030502",
+            "village_id": "03050208",
+            "name": "Boeung Kok",
+            "name_km": "តេជោ ហ.ស.បឹងកុក"
+        },
+        {
+            "id": "03050209010",
+            "school_type_id": 2,
+            "district_id": 305,
+            "commune_id": "030502",
+            "village_id": "03050209",
+            "name": "Otdar",
+            "name_km": "ឧត្តរ"
+        },
+        {
+            "id": "03050209506",
+            "school_type_id": 1,
+            "district_id": 305,
+            "commune_id": "030502",
+            "village_id": "03050209",
+            "name": "Otdar",
+            "name_km": "ឧត្តរ"
+        },
+        {
+            "id": "03050209901",
+            "school_type_id": 5,
+            "district_id": 305,
+            "commune_id": "030502",
+            "village_id": "03050209",
+            "name": "Preah Sihanouk",
+            "name_km": "ព្រះសីហនុ"
+        },
+        {
+            "id": "03050304003",
+            "school_type_id": 2,
+            "district_id": 305,
+            "commune_id": "030503",
+            "village_id": "03050304",
+            "name": "Boeung Bassac",
+            "name_km": "បឹងបាសាក់"
+        },
+        {
+            "id": "03050304507",
+            "school_type_id": 1,
+            "district_id": 305,
+            "commune_id": "030503",
+            "village_id": "03050304",
+            "name": "Boeung Bassac",
+            "name_km": "បឹង​​បាសាក់"
+        },
+        {
+            "id": "03050307004",
+            "school_type_id": 2,
+            "district_id": 305,
+            "commune_id": "030503",
+            "village_id": "03050307",
+            "name": "Sambour Meas",
+            "name_km": "សំបួរមាស"
+        },
+        {
+            "id": "03050307502",
+            "school_type_id": 1,
+            "district_id": 305,
+            "commune_id": "030503",
+            "village_id": "03050307",
+            "name": "Sambour Meas",
+            "name_km": "សំបួរមាស"
+        },
+        {
+            "id": "03050307902",
+            "school_type_id": 5,
+            "district_id": 305,
+            "commune_id": "030503",
+            "village_id": "03050307",
+            "name": "Sambour Meas",
+            "name_km": "វិ សំបួរមាស"
+        },
+        {
+            "id": "03050309008",
+            "school_type_id": 2,
+            "district_id": 305,
+            "commune_id": "030503",
+            "village_id": "03050309",
+            "name": "Kampong Roling",
+            "name_km": "កំពង់រលីង"
+        },
+        {
+            "id": "03050310011",
+            "school_type_id": 2,
+            "district_id": 305,
+            "commune_id": "030503",
+            "village_id": "03050310",
+            "name": "Hun Neng Boeung Snay",
+            "name_km": "ហ៊ុនណេងបឹងស្នាយ"
+        },
+        {
+            "id": "03050310509",
+            "school_type_id": 1,
+            "district_id": 305,
+            "commune_id": "030503",
+            "village_id": "03050310",
+            "name": "Hun Neng Boeung Snay",
+            "name_km": "ហ៊ុនណេងបឹងស្នាយ"
+        },
+        {
+            "id": "03050401006",
+            "school_type_id": 2,
+            "district_id": 305,
+            "commune_id": "030504",
+            "village_id": "03050401",
+            "name": "Veal Vong",
+            "name_km": "វាលវង់"
+        },
+        {
+            "id": "03050401504",
+            "school_type_id": 1,
+            "district_id": 305,
+            "commune_id": "030504",
+            "village_id": "03050401",
+            "name": "Veal Vong",
+            "name_km": "វាលវង់"
+        },
+        {
+            "id": "03050403005",
+            "school_type_id": 2,
+            "district_id": 305,
+            "commune_id": "030504",
+            "village_id": "03050403",
+            "name": "Dei Dos",
+            "name_km": "ដីដុះ"
+        },
+        {
+            "id": "03050403503",
+            "school_type_id": 1,
+            "district_id": 305,
+            "commune_id": "030504",
+            "village_id": "03050403",
+            "name": "Dei Dos",
+            "name_km": "ដីដុះ"
+        },
+        {
+            "id": "03050403903",
+            "school_type_id": 5,
+            "district_id": 305,
+            "commune_id": "030504",
+            "village_id": "03050403",
+            "name": "Dei Dos",
+            "name_km": "ដីដុះ"
+        },
+        {
+            "id": "03050406007",
+            "school_type_id": 2,
+            "district_id": 305,
+            "commune_id": "030504",
+            "village_id": "03050406",
+            "name": "Tuol Thmar",
+            "name_km": "ទួលថ្ម"
+        },
+        {
+            "id": "03050406009",
+            "school_type_id": 2,
+            "district_id": 305,
+            "commune_id": "030504",
+            "village_id": "03050406",
+            "name": "Aknouwat",
+            "name_km": "អនុវត្តហ៊ុនសែន"
+        },
+        {
+            "id": "03050406505",
+            "school_type_id": 1,
+            "district_id": 305,
+            "commune_id": "030504",
+            "village_id": "03050406",
+            "name": "Tuol Thmar",
+            "name_km": "ទួលថ្ម"
+        },
+        {
+            "id": "03050406702",
+            "school_type_id": 3,
+            "district_id": 305,
+            "commune_id": "030504",
+            "village_id": "03050406",
+            "name": "Tuol Thmar",
+            "name_km": "អនុ ទួលថ្ម"
+        },
+        {
+            "id": "03050406904",
+            "school_type_id": 5,
+            "district_id": 305,
+            "commune_id": "030504",
+            "village_id": "03050406",
+            "name": "H.S.Anoukwat",
+            "name_km": "វិ អនុវត្តហស កំពង់ចាម"
+        }
+    ]
+}

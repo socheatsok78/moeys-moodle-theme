@@ -1,0 +1,347 @@
+{
+    "id": 2403,
+    "schools": [
+        {
+            "id": "24030101001",
+            "school_type_id": 2,
+            "district_id": 2403,
+            "commune_id": "240301",
+            "village_id": "24030101",
+            "name": "Cheung Tien",
+            "name_km": "ជើងទៀន"
+        },
+        {
+            "id": "24030101505",
+            "school_type_id": 1,
+            "district_id": 2403,
+            "commune_id": "240301",
+            "village_id": "24030101",
+            "name": "Cheung Tien",
+            "name_km": "ជើងទៀន"
+        },
+        {
+            "id": "24030102002",
+            "school_type_id": 2,
+            "district_id": 2403,
+            "commune_id": "240301",
+            "village_id": "24030102",
+            "name": "Sre Praing",
+            "name_km": "ស្រែប្រាំង"
+        },
+        {
+            "id": "24030102703",
+            "school_type_id": 3,
+            "district_id": 2403,
+            "commune_id": "240301",
+            "village_id": "24030102",
+            "name": "Cheung Tien",
+            "name_km": "ជើងទៀន"
+        },
+        {
+            "id": "24030104014",
+            "school_type_id": 2,
+            "district_id": 2403,
+            "commune_id": "240301",
+            "village_id": "24030104",
+            "name": "Ta  Nauk",
+            "name_km": "តាណូក"
+        },
+        {
+            "id": "24030105008",
+            "school_type_id": 2,
+            "district_id": 2403,
+            "commune_id": "240301",
+            "village_id": "24030105",
+            "name": "Kauk Trang",
+            "name_km": "គោកត្រាង"
+        },
+        {
+            "id": "24030106017",
+            "school_type_id": 2,
+            "district_id": 2403,
+            "commune_id": "240301",
+            "village_id": "24030106",
+            "name": "Kauk Raing",
+            "name_km": "គោករាំង"
+        },
+        {
+            "id": "24030107023",
+            "school_type_id": 2,
+            "district_id": 2403,
+            "commune_id": "240301",
+            "village_id": "24030107",
+            "name": "Chhke Sreng",
+            "name_km": "ឆ្កែស្រែង"
+        },
+        {
+            "id": "24030201003",
+            "school_type_id": 2,
+            "district_id": 2403,
+            "commune_id": "240302",
+            "village_id": "24030201",
+            "name": "Chong Kal",
+            "name_km": "ចុងកាល់"
+        },
+        {
+            "id": "24030201024",
+            "school_type_id": 2,
+            "district_id": 2403,
+            "commune_id": "240302",
+            "village_id": "24030201",
+            "name": "Bak Vek",
+            "name_km": "បាក់វែក"
+        },
+        {
+            "id": "24030201501",
+            "school_type_id": 1,
+            "district_id": 2403,
+            "commune_id": "240302",
+            "village_id": "24030201",
+            "name": "Chong Kal",
+            "name_km": "ចុងកាល់"
+        },
+        {
+            "id": "24030201705",
+            "school_type_id": 3,
+            "district_id": 2403,
+            "commune_id": "240302",
+            "village_id": "24030201",
+            "name": "SAMDACHTECHOR HUN SEN CHONGKAL",
+            "name_km": "សម្ដេចតេជោហ៊ុន សែន ចុងកាល់"
+        },
+        {
+            "id": "24030201901",
+            "school_type_id": 5,
+            "district_id": 2403,
+            "commune_id": "240302",
+            "village_id": "24030201",
+            "name": "Chong Kal",
+            "name_km": "ចុងកាល់"
+        },
+        {
+            "id": "24030204004",
+            "school_type_id": 2,
+            "district_id": 2403,
+            "commune_id": "240302",
+            "village_id": "24030204",
+            "name": "Hun Sen Prey Thom",
+            "name_km": "ហ៊ុន សែនព្រៃធំ"
+        },
+        {
+            "id": "24030204502",
+            "school_type_id": 1,
+            "district_id": 2403,
+            "commune_id": "240302",
+            "village_id": "24030204",
+            "name": "Hun Sen Prey Thom",
+            "name_km": "ហ៊ុន សែនព្រៃធំ"
+        },
+        {
+            "id": "24030205005",
+            "school_type_id": 2,
+            "district_id": 2403,
+            "commune_id": "240302",
+            "village_id": "24030205",
+            "name": "Chhouk",
+            "name_km": "ឈក"
+        },
+        {
+            "id": "24030205026",
+            "school_type_id": 2,
+            "district_id": 2403,
+            "commune_id": "240302",
+            "village_id": "24030205",
+            "name": "PHRAH KUNLONG",
+            "name_km": "ព្រះគន្លង"
+        },
+        {
+            "id": "24030205508",
+            "school_type_id": 1,
+            "district_id": 2403,
+            "commune_id": "240302",
+            "village_id": "24030205",
+            "name": "CHHOUK",
+            "name_km": "មត្តេយ្យឈក"
+        },
+        {
+            "id": "24030207015",
+            "school_type_id": 2,
+            "district_id": 2403,
+            "commune_id": "240302",
+            "village_id": "24030207",
+            "name": "Kauk Thnung",
+            "name_km": "គោកធ្នង់"
+        },
+        {
+            "id": "24030208019",
+            "school_type_id": 2,
+            "district_id": 2403,
+            "commune_id": "240302",
+            "village_id": "24030208",
+            "name": "A Tor",
+            "name_km": "អាតោ"
+        },
+        {
+            "id": "24030209020",
+            "school_type_id": 2,
+            "district_id": 2403,
+            "commune_id": "240302",
+            "village_id": "24030209",
+            "name": "Bat Phdao",
+            "name_km": "បាត់ថ្កៅ"
+        },
+        {
+            "id": "24030211025",
+            "school_type_id": 2,
+            "district_id": 2403,
+            "commune_id": "240302",
+            "village_id": null,
+            "name": "Banteay Thmey",
+            "name_km": "បន្ទាយថ្មី"
+        },
+        {
+            "id": "24030211507",
+            "school_type_id": 1,
+            "district_id": 2403,
+            "commune_id": "240302",
+            "village_id": null,
+            "name": "BANTEAY THMEY",
+            "name_km": "បន្ទាយថ្មី"
+        },
+        {
+            "id": "24030301009",
+            "school_type_id": 2,
+            "district_id": 2403,
+            "commune_id": "240303",
+            "village_id": "24030301",
+            "name": "Khnar",
+            "name_km": "ខ្នារ"
+        },
+        {
+            "id": "24030302010",
+            "school_type_id": 2,
+            "district_id": 2403,
+            "commune_id": "240303",
+            "village_id": "24030302",
+            "name": "Chhouk",
+            "name_km": "ឈូក"
+        },
+        {
+            "id": "24030303011",
+            "school_type_id": 2,
+            "district_id": 2403,
+            "commune_id": "240303",
+            "village_id": "24030303",
+            "name": "Kauk Spean",
+            "name_km": "គោកស្ពាន"
+        },
+        {
+            "id": "24030303506",
+            "school_type_id": 1,
+            "district_id": 2403,
+            "commune_id": "240303",
+            "village_id": "24030303",
+            "name": "KOUK SPEAN",
+            "name_km": "គោកស្ពាន"
+        },
+        {
+            "id": "24030303702",
+            "school_type_id": 3,
+            "district_id": 2403,
+            "commune_id": "240303",
+            "village_id": "24030303",
+            "name": "Kauk Spean",
+            "name_km": "គោកស្ពាន"
+        },
+        {
+            "id": "24030304012",
+            "school_type_id": 2,
+            "district_id": 2403,
+            "commune_id": "240303",
+            "village_id": "24030304",
+            "name": "Kaul",
+            "name_km": "គោល"
+        },
+        {
+            "id": "24030305013",
+            "school_type_id": 2,
+            "district_id": 2403,
+            "commune_id": "240303",
+            "village_id": "24030305",
+            "name": "Rolam Veng",
+            "name_km": "រលំវែង"
+        },
+        {
+            "id": "24030401006",
+            "school_type_id": 2,
+            "district_id": 2403,
+            "commune_id": "240304",
+            "village_id": "24030401",
+            "name": "Pongror",
+            "name_km": "ពង្រ"
+        },
+        {
+            "id": "24030401503",
+            "school_type_id": 1,
+            "district_id": 2403,
+            "commune_id": "240304",
+            "village_id": "24030401",
+            "name": "Pongror",
+            "name_km": "ពង្រ"
+        },
+        {
+            "id": "24030401902",
+            "school_type_id": 5,
+            "district_id": 2403,
+            "commune_id": "240304",
+            "village_id": "24030401",
+            "name": "Hun Sen Pong Ro",
+            "name_km": "ហ៊ុន សែន ពង្រ"
+        },
+        {
+            "id": "24030402007",
+            "school_type_id": 2,
+            "district_id": 2403,
+            "commune_id": "240304",
+            "village_id": "24030402",
+            "name": "Ampil",
+            "name_km": "អំពិល"
+        },
+        {
+            "id": "24030404016",
+            "school_type_id": 2,
+            "district_id": 2403,
+            "commune_id": "240304",
+            "village_id": "24030404",
+            "name": "Kauk Sangker",
+            "name_km": "គោកសង្កែ"
+        },
+        {
+            "id": "24030405018",
+            "school_type_id": 2,
+            "district_id": 2403,
+            "commune_id": "240304",
+            "village_id": "24030405",
+            "name": "Prey Nokor",
+            "name_km": "ព្រៃនគរ"
+        },
+        {
+            "id": "24030406021",
+            "school_type_id": 2,
+            "district_id": 2403,
+            "commune_id": "240304",
+            "village_id": "24030406",
+            "name": "Sras Keo",
+            "name_km": "ស្រះកែវ"
+        },
+        {
+            "id": "24030407022",
+            "school_type_id": 2,
+            "district_id": 2403,
+            "commune_id": "240304",
+            "village_id": "24030407",
+            "name": "Banteay Chor",
+            "name_km": "បន្ទាយជ័រ"
+        }
+    ]
+}

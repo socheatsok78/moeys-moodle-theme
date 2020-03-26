@@ -1,0 +1,437 @@
+{
+    "id": 504,
+    "schools": [
+        {
+            "id": "05040101001",
+            "school_type_id": 2,
+            "district_id": 504,
+            "commune_id": "050401",
+            "village_id": "05040101",
+            "name": "Taing Robang",
+            "name_km": "តាំងរបង"
+        },
+        {
+            "id": "05040101703",
+            "school_type_id": 3,
+            "district_id": 504,
+            "commune_id": "050401",
+            "village_id": "05040101",
+            "name": "Taing Robang",
+            "name_km": "អនុវិទ្យាល័យតាំងរបង"
+        },
+        {
+            "id": "05040103020",
+            "school_type_id": 2,
+            "district_id": 504,
+            "commune_id": "050401",
+            "village_id": "05040103",
+            "name": "Kraing Koki",
+            "name_km": "ក្រាំងគគីរ"
+        },
+        {
+            "id": "05040205017",
+            "school_type_id": 2,
+            "district_id": 504,
+            "commune_id": "050402",
+            "village_id": "05040205",
+            "name": "Rasmey ROTARY",
+            "name_km": "រ៉ូតារី"
+        },
+        {
+            "id": "05040205027",
+            "school_type_id": 2,
+            "district_id": 504,
+            "commune_id": "050402",
+            "village_id": "05040205",
+            "name": "Sangker Chrum (Peam Ros 2)",
+            "name_km": "សង្កែជ្រំ"
+        },
+        {
+            "id": "05040205028",
+            "school_type_id": 2,
+            "district_id": 504,
+            "commune_id": "050402",
+            "village_id": "05040205",
+            "name": "Prey Thom",
+            "name_km": "ព្រៃធំ"
+        },
+        {
+            "id": "05040205505",
+            "school_type_id": 1,
+            "district_id": 504,
+            "commune_id": "050402",
+            "village_id": "05040205",
+            "name": "Rotary",
+            "name_km": "រ៉ូតារី"
+        },
+        {
+            "id": "05040205514",
+            "school_type_id": 1,
+            "district_id": 504,
+            "commune_id": "050402",
+            "village_id": "05040205",
+            "name": "PREY THOM",
+            "name_km": "ព្រៃធំ"
+        },
+        {
+            "id": "05040205515",
+            "school_type_id": 1,
+            "district_id": 504,
+            "commune_id": "050402",
+            "village_id": "05040205",
+            "name": "Sangke Chhrum",
+            "name_km": "សង្កែ​ជ្រុំ"
+        },
+        {
+            "id": "05040205707",
+            "school_type_id": 3,
+            "district_id": 504,
+            "commune_id": "050402",
+            "village_id": "05040205",
+            "name": "Rasmey ROTARY",
+            "name_km": "អនុវិទ្យាល័យរ៉ូតារី"
+        },
+        {
+            "id": "05040206018",
+            "school_type_id": 2,
+            "district_id": 504,
+            "commune_id": "050402",
+            "village_id": "05040206",
+            "name": "Hun Sen Rasmey",
+            "name_km": "ហ៊ុន​ សែនរស្មី"
+        },
+        {
+            "id": "05040303007",
+            "school_type_id": 2,
+            "district_id": 504,
+            "commune_id": "050403",
+            "village_id": "05040303",
+            "name": "Chrak Teak",
+            "name_km": "ច្រកទៀក"
+        },
+        {
+            "id": "05040303502",
+            "school_type_id": 1,
+            "district_id": 504,
+            "commune_id": "050403",
+            "village_id": "05040303",
+            "name": "Chrak Teak",
+            "name_km": "ច្រកទៀក"
+        },
+        {
+            "id": "05040310004",
+            "school_type_id": 2,
+            "district_id": 504,
+            "commune_id": "050403",
+            "village_id": "05040310",
+            "name": "Banteay Pranak",
+            "name_km": "បន្ទាយប្រណាក"
+        },
+        {
+            "id": "05040310512",
+            "school_type_id": 1,
+            "district_id": 504,
+            "commune_id": "050403",
+            "village_id": "05040310",
+            "name": "BON TEAY BRO NAK",
+            "name_km": "បឋមបន្ទាយប្រណាក"
+        },
+        {
+            "id": "05040311012",
+            "school_type_id": 2,
+            "district_id": 504,
+            "commune_id": "050403",
+            "village_id": "05040311",
+            "name": "Longeum",
+            "name_km": "ល្ងឹម"
+        },
+        {
+            "id": "05040311510",
+            "school_type_id": 1,
+            "district_id": 504,
+            "commune_id": "050403",
+            "village_id": "05040311",
+            "name": "LNGIM",
+            "name_km": "បឋមសិក្សាល្ងឹម"
+        },
+        {
+            "id": "05040312013",
+            "school_type_id": 2,
+            "district_id": 504,
+            "commune_id": "050403",
+            "village_id": "05040312",
+            "name": "Kraing Tbeng",
+            "name_km": "ក្រាំងត្បែង"
+        },
+        {
+            "id": "05040312511",
+            "school_type_id": 1,
+            "district_id": 504,
+            "commune_id": "050403",
+            "village_id": "05040308",
+            "name": "KRAING TBEING",
+            "name_km": "បឋមសិក្សាក្រាំងត្បែង"
+        },
+        {
+            "id": "05040313702",
+            "school_type_id": 3,
+            "district_id": 504,
+            "commune_id": "050403",
+            "village_id": "05040313",
+            "name": "Banteay Pranak",
+            "name_km": "អនុវិទ្យាល័យបន្ទាយប្រណាក"
+        },
+        {
+            "id": "05040316025",
+            "school_type_id": 2,
+            "district_id": 504,
+            "commune_id": "050403",
+            "village_id": "05040316",
+            "name": "Chambak",
+            "name_km": "ចំបក់"
+        },
+        {
+            "id": "05040316504",
+            "school_type_id": 1,
+            "district_id": 504,
+            "commune_id": "050403",
+            "village_id": "05040316",
+            "name": "Chambak",
+            "name_km": "ចំបក់"
+        },
+        {
+            "id": "05040318016",
+            "school_type_id": 2,
+            "district_id": 504,
+            "commune_id": "050403",
+            "village_id": "05040318",
+            "name": "Samrong",
+            "name_km": "សំរោង"
+        },
+        {
+            "id": "05040321010",
+            "school_type_id": 2,
+            "district_id": 504,
+            "commune_id": "050403",
+            "village_id": "05040321",
+            "name": "Chha-en",
+            "name_km": "ឆ្អិន"
+        },
+        {
+            "id": "05040321506",
+            "school_type_id": 1,
+            "district_id": 504,
+            "commune_id": "050403",
+            "village_id": "05040315",
+            "name": "Chhngen",
+            "name_km": "ឆ្អិន"
+        },
+        {
+            "id": "05040321704",
+            "school_type_id": 3,
+            "district_id": 504,
+            "commune_id": "050403",
+            "village_id": "05040321",
+            "name": "Chha-en",
+            "name_km": "អនុវិទ្យាល័យឆ្អិន"
+        },
+        {
+            "id": "05040322026",
+            "school_type_id": 2,
+            "district_id": 504,
+            "commune_id": "050403",
+            "village_id": "05040322",
+            "name": "Kraveak",
+            "name_km": "ក្រវៀក"
+        },
+        {
+            "id": "05040325019",
+            "school_type_id": 2,
+            "district_id": 504,
+            "commune_id": "050403",
+            "village_id": "05040325",
+            "name": "Sre Ken",
+            "name_km": "ស្រែកិន"
+        },
+        {
+            "id": "05040325022",
+            "school_type_id": 2,
+            "district_id": 504,
+            "commune_id": "050403",
+            "village_id": "05040325",
+            "name": "Sre Chrab",
+            "name_km": "ស្រែច្រាប"
+        },
+        {
+            "id": "05040325513",
+            "school_type_id": 1,
+            "district_id": 504,
+            "commune_id": "050403",
+            "village_id": "05040325",
+            "name": "SREI CHRAB",
+            "name_km": "បឋមសិក្សាស្រែច្រាប"
+        },
+        {
+            "id": "05040326023",
+            "school_type_id": 2,
+            "district_id": 504,
+            "commune_id": "050403",
+            "village_id": "05040326",
+            "name": "Chrak Char",
+            "name_km": "ច្រកចារ"
+        },
+        {
+            "id": "05040327024",
+            "school_type_id": 2,
+            "district_id": 504,
+            "commune_id": "050403",
+            "village_id": "05040327",
+            "name": "Banteay Sva",
+            "name_km": "បន្ទាយស្វា"
+        },
+        {
+            "id": "05040327507",
+            "school_type_id": 1,
+            "district_id": 504,
+            "commune_id": "050403",
+            "village_id": "05040327",
+            "name": "Banteay Sva",
+            "name_km": "បន្ទាយស្វា"
+        },
+        {
+            "id": "05040404009",
+            "school_type_id": 2,
+            "district_id": 504,
+            "commune_id": "050404",
+            "village_id": "05040404",
+            "name": "Stung Kheach",
+            "name_km": "ស្ទឹងឃ្លៀច"
+        },
+        {
+            "id": "05040404706",
+            "school_type_id": 3,
+            "district_id": 504,
+            "commune_id": "050404",
+            "village_id": "05040404",
+            "name": "Stung Kheach",
+            "name_km": "អនុវិទ្យាល័យស្ទឹងឃ្លៀច"
+        },
+        {
+            "id": "05040406006",
+            "school_type_id": 2,
+            "district_id": 504,
+            "commune_id": "050404",
+            "village_id": "05040406",
+            "name": "Ta Sal",
+            "name_km": "តាសាល"
+        },
+        {
+            "id": "05040406508",
+            "school_type_id": 1,
+            "district_id": 504,
+            "commune_id": "050405",
+            "village_id": "05040501",
+            "name": "Ta Sal",
+            "name_km": "តា​សាល"
+        },
+        {
+            "id": "05040409011",
+            "school_type_id": 2,
+            "district_id": 504,
+            "commune_id": "050404",
+            "village_id": "05040409",
+            "name": "Roleak Kang Cheung",
+            "name_km": "រលាក់កងជើង"
+        },
+        {
+            "id": "05040409705",
+            "school_type_id": 3,
+            "district_id": 504,
+            "commune_id": "050404",
+            "village_id": "05040409",
+            "name": "Roleak Kang Cheung",
+            "name_km": "អនុវិទ្យាល័យរលាក់កងជើង"
+        },
+        {
+            "id": "05040414015",
+            "school_type_id": 2,
+            "district_id": 504,
+            "commune_id": "050404",
+            "village_id": "05040414",
+            "name": "Taing Bompong",
+            "name_km": "តាំងបំពង់"
+        },
+        {
+            "id": "05040503014",
+            "school_type_id": 2,
+            "district_id": 504,
+            "commune_id": "050405",
+            "village_id": "05040503",
+            "name": "Pring Koang",
+            "name_km": "ព្រីងកោង"
+        },
+        {
+            "id": "05040503503",
+            "school_type_id": 1,
+            "district_id": 504,
+            "commune_id": "050405",
+            "village_id": "05040503",
+            "name": "Pring Koang",
+            "name_km": "ព្រីង កោង"
+        },
+        {
+            "id": "05040506002",
+            "school_type_id": 2,
+            "district_id": 504,
+            "commune_id": "050405",
+            "village_id": "05040506",
+            "name": "Samdech Chea Sim",
+            "name_km": "សម្តេចជាស៊ីម"
+        },
+        {
+            "id": "05040506501",
+            "school_type_id": 1,
+            "district_id": 504,
+            "commune_id": "050405",
+            "village_id": "05040506",
+            "name": "Samdech Chea Sim",
+            "name_km": "សម្ដេចជាសិុំម"
+        },
+        {
+            "id": "05040506901",
+            "school_type_id": 5,
+            "district_id": 504,
+            "commune_id": "050405",
+            "village_id": "05040506",
+            "name": "Oral",
+            "name_km": "វិទ្យាល័យឳរ៉ាល់"
+        },
+        {
+            "id": "05040507005",
+            "school_type_id": 2,
+            "district_id": 504,
+            "commune_id": "050405",
+            "village_id": "05040507",
+            "name": "Sangker Satorp",
+            "name_km": "សង្កែសាទប"
+        },
+        {
+            "id": "05040516021",
+            "school_type_id": 2,
+            "district_id": 504,
+            "commune_id": "050405",
+            "village_id": "05040516",
+            "name": "Dambang Vinh",
+            "name_km": "ដំបងវេញ"
+        },
+        {
+            "id": "05040516509",
+            "school_type_id": 1,
+            "district_id": 504,
+            "commune_id": "050404",
+            "village_id": "05040516",
+            "name": "Dambang Vinh",
+            "name_km": "ដំបងវេញ"
+        }
+    ]
+}

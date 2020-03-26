@@ -1,0 +1,644 @@
+{
+    "id": 2404,
+    "schools": [
+        {
+            "id": "24040101011",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240401",
+            "village_id": "24040101",
+            "name": "Bansay Reak",
+            "name_km": "បន្សាយរាក់"
+        },
+        {
+            "id": "24040101514",
+            "school_type_id": 1,
+            "district_id": 2404,
+            "commune_id": "240401",
+            "village_id": "24040101",
+            "name": "Bansay Reak",
+            "name_km": "បន្សាយរាក់"
+        },
+        {
+            "id": "24040101705",
+            "school_type_id": 3,
+            "district_id": 2404,
+            "commune_id": "240401",
+            "village_id": "24040101",
+            "name": "Bansay Reak",
+            "name_km": "បន្សាយរាក់"
+        },
+        {
+            "id": "24040102012",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240401",
+            "village_id": "24040102",
+            "name": "Tnot",
+            "name_km": "ត្នោត"
+        },
+        {
+            "id": "24040103013",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240401",
+            "village_id": "24040103",
+            "name": "Sambour Meas",
+            "name_km": "សំបួរមាស"
+        },
+        {
+            "id": "24040104018",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240401",
+            "village_id": "24040104",
+            "name": "Rumduol Veasna",
+            "name_km": "រំដួលវាសនា"
+        },
+        {
+            "id": "24040106034",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240401",
+            "village_id": "24040106",
+            "name": "Po Vong",
+            "name_km": "ពោធិវង្ស"
+        },
+        {
+            "id": "24040106037",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240401",
+            "village_id": "24040106",
+            "name": "O Bat Dav",
+            "name_km": "អូរបាតដាវ"
+        },
+        {
+            "id": "24040106512",
+            "school_type_id": 1,
+            "district_id": 2404,
+            "commune_id": "240401",
+            "village_id": "24040106",
+            "name": "Po Vong",
+            "name_km": "មត្តេយ្យពោធិ៍វង្ស"
+        },
+        {
+            "id": "24040106709",
+            "school_type_id": 3,
+            "district_id": 2404,
+            "commune_id": "240401",
+            "village_id": "24040106",
+            "name": "SOREKUN Po Vong",
+            "name_km": "ស៊ូរ៉ែកគុណពោធិវង្ស"
+        },
+        {
+            "id": "24040107046",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240401",
+            "village_id": "24040107",
+            "name": "Trapaing Trav",
+            "name_km": "ត្រពាំងត្រាវ"
+        },
+        {
+            "id": "24040201001",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240402",
+            "village_id": "24040201",
+            "name": "Bosbov",
+            "name_km": "បុស្បូវ"
+        },
+        {
+            "id": "24040201504",
+            "school_type_id": 1,
+            "district_id": 2404,
+            "commune_id": "240402",
+            "village_id": "24040201",
+            "name": "Bosbov",
+            "name_km": "មត្តេយ្យបុស្បូវ"
+        },
+        {
+            "id": "24040201706",
+            "school_type_id": 3,
+            "district_id": 2404,
+            "commune_id": "240402",
+            "village_id": "24040201",
+            "name": "Bosbov",
+            "name_km": "បុស្បូវ"
+        },
+        {
+            "id": "24040202009",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240402",
+            "village_id": "24040202",
+            "name": "Krasaing",
+            "name_km": "ក្រសាំង"
+        },
+        {
+            "id": "24040204020",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240402",
+            "village_id": "24040204",
+            "name": "O Preal",
+            "name_km": "អូរព្រាល"
+        },
+        {
+            "id": "24040205002",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240402",
+            "village_id": "24040205",
+            "name": "Trabek",
+            "name_km": "ត្របែក"
+        },
+        {
+            "id": "24040205515",
+            "school_type_id": 1,
+            "district_id": 2404,
+            "commune_id": "240402",
+            "village_id": "24040201",
+            "name": "Trabek",
+            "name_km": "ត្របែក"
+        },
+        {
+            "id": "24040206014",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240402",
+            "village_id": "24040206",
+            "name": "Prasat",
+            "name_km": "ប្រាសាទ"
+        },
+        {
+            "id": "24040207024",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240402",
+            "village_id": "24040207",
+            "name": "Porng Teuk",
+            "name_km": "ពងទឹក"
+        },
+        {
+            "id": "24040207507",
+            "school_type_id": 1,
+            "district_id": 2404,
+            "commune_id": "240402",
+            "village_id": "24040207",
+            "name": "Porng Teuk",
+            "name_km": "មត្តេយ្យពងទឹក"
+        },
+        {
+            "id": "24040302042",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240403",
+            "village_id": "24040302",
+            "name": "Sras Prech",
+            "name_km": "ស្រះព្រិច"
+        },
+        {
+            "id": "24040303003",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240403",
+            "village_id": "24040303",
+            "name": "Thnal Bot",
+            "name_km": "ថ្នល់បត់"
+        },
+        {
+            "id": "24040303509",
+            "school_type_id": 1,
+            "district_id": 2404,
+            "commune_id": "240403",
+            "village_id": "24040303",
+            "name": "Thnal Bot",
+            "name_km": "ថ្នល់បត់"
+        },
+        {
+            "id": "24040305022",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240403",
+            "village_id": "24040305",
+            "name": "Trapaing Veng",
+            "name_km": "ត្រពាំងវែង"
+        },
+        {
+            "id": "24040307029",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240403",
+            "village_id": "24040307",
+            "name": "Kaun Kreal",
+            "name_km": "កូនក្រៀល"
+        },
+        {
+            "id": "24040308015",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240403",
+            "village_id": "24040308",
+            "name": "Kiri Voan",
+            "name_km": "គីរីវ័ន្ត"
+        },
+        {
+            "id": "24040308031",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240403",
+            "village_id": "24040308",
+            "name": "Kauk Phlouk",
+            "name_km": "គោកភ្លុក"
+        },
+        {
+            "id": "24040308508",
+            "school_type_id": 1,
+            "district_id": 2404,
+            "commune_id": "240403",
+            "village_id": "24040308",
+            "name": "Thnal Bot",
+            "name_km": "គីរីវ័ន្ត"
+        },
+        {
+            "id": "24040309016",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240403",
+            "village_id": "24040309",
+            "name": "Kauk Prasat",
+            "name_km": "គោកប្រាសាទ"
+        },
+        {
+            "id": "24040310017",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240403",
+            "village_id": "24040310",
+            "name": "O Pork",
+            "name_km": "អូរពក"
+        },
+        {
+            "id": "24040311021",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240403",
+            "village_id": "24040311",
+            "name": "Champa Sok",
+            "name_km": "ចំប៉ាសុខ"
+        },
+        {
+            "id": "24040312025",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240403",
+            "village_id": "24040312",
+            "name": "Kdol",
+            "name_km": "ក្ដុល"
+        },
+        {
+            "id": "24040313026",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240403",
+            "village_id": "24040313",
+            "name": "Bos",
+            "name_km": "បុស្ស"
+        },
+        {
+            "id": "24040313510",
+            "school_type_id": 1,
+            "district_id": 2404,
+            "commune_id": "240403",
+            "village_id": "24040313",
+            "name": "Bos Thom",
+            "name_km": "មត្តេយ្យបុស្ស"
+        },
+        {
+            "id": "24040313707",
+            "school_type_id": 3,
+            "district_id": 2404,
+            "commune_id": "240403",
+            "village_id": "24040313",
+            "name": "Bos",
+            "name_km": "គោកភ្លុក"
+        },
+        {
+            "id": "24040314030",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240403",
+            "village_id": "24040314",
+            "name": "Chhouk Meas",
+            "name_km": "ឈូកមាស"
+        },
+        {
+            "id": "24040315703",
+            "school_type_id": 3,
+            "district_id": 2404,
+            "commune_id": "240403",
+            "village_id": "24040315",
+            "name": "Kaun Kreal",
+            "name_km": "កូនក្រៀល"
+        },
+        {
+            "id": "24040316036",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240403",
+            "village_id": "24040316",
+            "name": "Rumduol Cheung Phnom",
+            "name_km": " រំដួលជើងភ្នំ"
+        },
+        {
+            "id": "24040317039",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240403",
+            "village_id": "24040317",
+            "name": "O Russey",
+            "name_km": "អូរឫស្សីថ្មី"
+        },
+        {
+            "id": "24040317045",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240403",
+            "village_id": "24040317",
+            "name": "Kauk Chan Rey  - Khnach Ruesey",
+            "name_km": "គោកច័នរីខ្នាចឫស្សី"
+        },
+        {
+            "id": "24040318040",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240403",
+            "village_id": "24040318",
+            "name": "Chroeung Khang Keut",
+            "name_km": "ជ្រឹងខាងកើត"
+        },
+        {
+            "id": "24040318511",
+            "school_type_id": 1,
+            "district_id": 2404,
+            "commune_id": "240403",
+            "village_id": "24040318",
+            "name": "Kauk Phlouk",
+            "name_km": "មត្តេយ្យគោកភ្លុក"
+        },
+        {
+            "id": "24040319038",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240403",
+            "village_id": "24040319",
+            "name": "Dang Tung",
+            "name_km": "ដងទង់"
+        },
+        {
+            "id": "24040319041",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240403",
+            "village_id": "24040319",
+            "name": "Chroeung Khang Lech",
+            "name_km": "ជ្រឹងខាងលិច"
+        },
+        {
+            "id": "24040320047",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240403",
+            "village_id": null,
+            "name": "Kauk Ampil",
+            "name_km": "គោកអំពិល"
+        },
+        {
+            "id": "24040321048",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240403",
+            "village_id": "24040321",
+            "name": "Prasat Roveang",
+            "name_km": "ប្រាសាទរវៀង"
+        },
+        {
+            "id": "24040321516",
+            "school_type_id": 1,
+            "district_id": 2404,
+            "commune_id": "240403",
+            "village_id": "24040321",
+            "name": "Prasat Roveang",
+            "name_km": "ប្រាសាទរវៀង"
+        },
+        {
+            "id": "24040322049",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240403",
+            "village_id": "24040322",
+            "name": "Sokdom Romanear",
+            "name_km": "សុខដុមរមនា"
+        },
+        {
+            "id": "24040401502",
+            "school_type_id": 1,
+            "district_id": 2404,
+            "commune_id": "240404",
+            "village_id": null,
+            "name": "Thmiet Daun Kes",
+            "name_km": "ដូនកែនភ្នៀត"
+        },
+        {
+            "id": "24040402004",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240404",
+            "village_id": "24040402",
+            "name": "O Russey",
+            "name_km": "អូរឫស្សី"
+        },
+        {
+            "id": "24040404033",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240404",
+            "village_id": "24040404",
+            "name": "Hun Sen Chhouk",
+            "name_km": "ហ៊ុន សែនឈូក"
+        },
+        {
+            "id": "24040404514",
+            "school_type_id": 1,
+            "district_id": 2404,
+            "commune_id": "240404",
+            "village_id": "24040404",
+            "name": "Hun Sen Chhouk",
+            "name_km": "ហ៊ុនសែន ឈូក"
+        },
+        {
+            "id": "24040404901",
+            "school_type_id": 4,
+            "district_id": 2404,
+            "commune_id": "240404",
+            "village_id": "24040404",
+            "name": "Hun Sen Otdar Meanchey",
+            "name_km": "វិ.ហ៊ុន សែន ឧត្តរមានជ័យ"
+        },
+        {
+            "id": "24040404902",
+            "school_type_id": 5,
+            "district_id": 2404,
+            "commune_id": "240404",
+            "village_id": "24040412",
+            "name": "Techo Sen Sam Rong",
+            "name_km": "តេជោសែន សំរោង"
+        },
+        {
+            "id": "24040406008",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240404",
+            "village_id": "24040406",
+            "name": "DOUN KEN  PHNEATH",
+            "name_km": "ដូនកែន-ភ្នៀត"
+        },
+        {
+            "id": "24040407005",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240404",
+            "village_id": "24040407",
+            "name": "Samrong",
+            "name_km": "សំរោង"
+        },
+        {
+            "id": "24040407010",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240404",
+            "village_id": "24040407",
+            "name": "Kauk Kor",
+            "name_km": "គោកគ"
+        },
+        {
+            "id": "24040407501",
+            "school_type_id": 1,
+            "district_id": 2404,
+            "commune_id": "240404",
+            "village_id": "24040407",
+            "name": "Samrong",
+            "name_km": "សំរោង"
+        },
+        {
+            "id": "24040407503",
+            "school_type_id": 1,
+            "district_id": 2404,
+            "commune_id": "240404",
+            "village_id": "24040407",
+            "name": "Kauk Kor",
+            "name_km": "គោកគ"
+        },
+        {
+            "id": "24040409007",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240404",
+            "village_id": "24040409",
+            "name": "Akphewat",
+            "name_km": "អភិវឌ្ឍន៍"
+        },
+        {
+            "id": "24040410019",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240404",
+            "village_id": "24040410",
+            "name": "Chha-eub",
+            "name_km": "ហ៊ុន សែនឆ្អើប"
+        },
+        {
+            "id": "24040411028",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240404",
+            "village_id": "24040411",
+            "name": "Bak Nim",
+            "name_km": "បាក់នឹម"
+        },
+        {
+            "id": "24040412035",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240404",
+            "village_id": "24040412",
+            "name": "Kauk Chres",
+            "name_km": "គោកច្រេស"
+        },
+        {
+            "id": "24040412043",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240404",
+            "village_id": "24040412",
+            "name": "Kaun Damrey",
+            "name_km": "កូនដំរី"
+        },
+        {
+            "id": "24040501032",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240405",
+            "village_id": "24040501",
+            "name": "Hun Sen O Smach",
+            "name_km": "ហ៊ុន សែន អូរស្មាច់"
+        },
+        {
+            "id": "24040502023",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240405",
+            "village_id": "24040502",
+            "name": "O Smach 2",
+            "name_km": "អូរស្មាច់ ២"
+        },
+        {
+            "id": "24040504701",
+            "school_type_id": 3,
+            "district_id": 2404,
+            "commune_id": "240405",
+            "village_id": "24040504",
+            "name": "O Smach",
+            "name_km": "ហ៊ុន សែន​ រួតចំប៉ី"
+        },
+        {
+            "id": "24040505006",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240405",
+            "village_id": "24040505",
+            "name": "O Smach 1",
+            "name_km": "អូរស្មាច់ ១"
+        },
+        {
+            "id": "24040505513",
+            "school_type_id": 1,
+            "district_id": 2404,
+            "commune_id": "240405",
+            "village_id": "24040505",
+            "name": "O Smach 1",
+            "name_km": "មត្តេយ្យអូរស្មាច់​១"
+        },
+        {
+            "id": "24040508044",
+            "school_type_id": 2,
+            "district_id": 2404,
+            "commune_id": "240405",
+            "village_id": null,
+            "name": "Hun Sen Sras Teuk",
+            "name_km": "ហ៊ុនសែនស្រះទឹក"
+        }
+    ]
+}

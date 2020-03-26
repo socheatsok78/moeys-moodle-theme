@@ -1,0 +1,275 @@
+{
+    "id": 1606,
+    "schools": [
+        {
+            "id": "16060101001",
+            "school_type_id": 2,
+            "district_id": 1606,
+            "commune_id": "160601",
+            "village_id": "16060101",
+            "name": "Cha-ung",
+            "name_km": "ចាអ៊ុង"
+        },
+        {
+            "id": "16060103007",
+            "school_type_id": 2,
+            "district_id": 1606,
+            "commune_id": "160601",
+            "village_id": "16060103",
+            "name": "Thuoy Ampil",
+            "name_km": "ធួយអំពិល"
+        },
+        {
+            "id": "16060104025",
+            "school_type_id": 2,
+            "district_id": 1606,
+            "commune_id": "160601",
+            "village_id": "16060104",
+            "name": "Thuoy Tum",
+            "name_km": "Thuoy Tum"
+        },
+        {
+            "id": "16060201002",
+            "school_type_id": 2,
+            "district_id": 1606,
+            "commune_id": "160602",
+            "village_id": "16060201",
+            "name": "Samdech Euv Samdech Me Yak Pouy",
+            "name_km": "សម្ដេចឪសម្ដេចម៉ែ"
+        },
+        {
+            "id": "16060202011",
+            "school_type_id": 2,
+            "district_id": 1606,
+            "commune_id": "160602",
+            "village_id": "16060202",
+            "name": "Kan Chheung",
+            "name_km": "កាន់ឈើង"
+        },
+        {
+            "id": "16060203022",
+            "school_type_id": 2,
+            "district_id": 1606,
+            "commune_id": "160602",
+            "village_id": "16060203",
+            "name": "Kres",
+            "name_km": "ភូមិក្រេះ"
+        },
+        {
+            "id": "16060205026",
+            "school_type_id": 2,
+            "district_id": 1606,
+            "commune_id": "160602",
+            "village_id": "16060205",
+            "name": "Svay Pri-Shcool",
+            "name_km": "សាលាបឋមសិក្សាស្វាយ"
+        },
+        {
+            "id": "16060206027",
+            "school_type_id": 2,
+            "district_id": 1606,
+            "commune_id": "160602",
+            "village_id": "16060206",
+            "name": "Khmeng Pri-School",
+            "name_km": "សាលាបឋមសិក្សាខ្មែង"
+        },
+        {
+            "id": "16060207016",
+            "school_type_id": 2,
+            "district_id": 1606,
+            "commune_id": "160602",
+            "village_id": "16060207",
+            "name": "Krala",
+            "name_km": "ក្រឡា"
+        },
+        {
+            "id": "16060208015",
+            "school_type_id": 2,
+            "district_id": 1606,
+            "commune_id": "160602",
+            "village_id": "16060208",
+            "name": "Mas",
+            "name_km": "ម៉ាស់"
+        },
+        {
+            "id": "16060301003",
+            "school_type_id": 2,
+            "district_id": 1606,
+            "commune_id": "160603",
+            "village_id": "16060301",
+            "name": "Ekpheap",
+            "name_km": "ឯកភាព"
+        },
+        {
+            "id": "16060301502",
+            "school_type_id": 1,
+            "district_id": 1606,
+            "commune_id": "160603",
+            "village_id": "16060301",
+            "name": "Ekpheap Pre-School",
+            "name_km": "សាលាបឋមសិក្សាឯកភាព"
+        },
+        {
+            "id": "16060305014",
+            "school_type_id": 2,
+            "district_id": 1606,
+            "commune_id": "160603",
+            "village_id": "16060305",
+            "name": "Krauch",
+            "name_km": "ក្រូច"
+        },
+        {
+            "id": "16060402004",
+            "school_type_id": 2,
+            "district_id": 1606,
+            "commune_id": "160604",
+            "village_id": "16060402",
+            "name": "Kalay",
+            "name_km": "កាឡៃ"
+        },
+        {
+            "id": "16060501006",
+            "school_type_id": 2,
+            "district_id": 1606,
+            "commune_id": "160605",
+            "village_id": "16060501",
+            "name": "O Chum",
+            "name_km": "អូរជុំ"
+        },
+        {
+            "id": "16060501501",
+            "school_type_id": 1,
+            "district_id": 1606,
+            "commune_id": "160605",
+            "village_id": "16060501",
+            "name": "O Chum",
+            "name_km": "សាលាមត្តេយ្យធនធានអូរជុំ"
+        },
+        {
+            "id": "16060501701",
+            "school_type_id": 3,
+            "district_id": 1606,
+            "commune_id": "160605",
+            "village_id": "16060501",
+            "name": "O Chum",
+            "name_km": "អនុវិទ្យាល័យអូរជុំ"
+        },
+        {
+            "id": "16060504009",
+            "school_type_id": 2,
+            "district_id": 1606,
+            "commune_id": "160605",
+            "village_id": "16060504",
+            "name": "La-eun Kreng",
+            "name_km": "ល្អឺនក្រែន"
+        },
+        {
+            "id": "16060505010",
+            "school_type_id": 2,
+            "district_id": 1606,
+            "commune_id": "160605",
+            "village_id": "16060505",
+            "name": "La-eun Chorng",
+            "name_km": "ល្អឺនជង"
+        },
+        {
+            "id": "16060506024",
+            "school_type_id": 2,
+            "district_id": 1606,
+            "commune_id": "160605",
+            "village_id": "16060506",
+            "name": "La-eun Kaing Mis",
+            "name_km": "ល្អឺនកាំងមីស"
+        },
+        {
+            "id": "16060509012",
+            "school_type_id": 2,
+            "district_id": 1606,
+            "commune_id": "160605",
+            "village_id": "16060509",
+            "name": "Nang Le",
+            "name_km": "តងណងឡិះ"
+        },
+        {
+            "id": "16060510017",
+            "school_type_id": 2,
+            "district_id": 1606,
+            "commune_id": "160605",
+            "village_id": "16060510",
+            "name": "Tang Krapou",
+            "name_km": "តងក្រពូ"
+        },
+        {
+            "id": "16060601020",
+            "school_type_id": 2,
+            "district_id": 1606,
+            "commune_id": "160606",
+            "village_id": "16060601",
+            "name": "Kameng Thom",
+            "name_km": "កាមែនធំ"
+        },
+        {
+            "id": "16060602021",
+            "school_type_id": 2,
+            "district_id": 1606,
+            "commune_id": "160606",
+            "village_id": "16060602",
+            "name": "Prak",
+            "name_km": "ភូមិប្រាក់"
+        },
+        {
+            "id": "16060603008",
+            "school_type_id": 2,
+            "district_id": 1606,
+            "commune_id": "160606",
+            "village_id": "16060603",
+            "name": "Samaki",
+            "name_km": "សាមគ្គី"
+        },
+        {
+            "id": "16060701013",
+            "school_type_id": 2,
+            "district_id": 1606,
+            "commune_id": "160607",
+            "village_id": "16060701",
+            "name": "La-ak 2",
+            "name_km": "ល្អក់ពីរ"
+        },
+        {
+            "id": "16060702023",
+            "school_type_id": 2,
+            "district_id": 1606,
+            "commune_id": "160607",
+            "village_id": "16060702",
+            "name": "Kralorng",
+            "name_km": "ក្រលង"
+        },
+        {
+            "id": "16060703005",
+            "school_type_id": 2,
+            "district_id": 1606,
+            "commune_id": "160607",
+            "village_id": "16060703",
+            "name": "La-ak",
+            "name_km": "ល្អក់"
+        },
+        {
+            "id": "16060704019",
+            "school_type_id": 2,
+            "district_id": 1606,
+            "commune_id": "160607",
+            "village_id": "16060704",
+            "name": "Kam",
+            "name_km": "ភូមិកាំ"
+        },
+        {
+            "id": "16060705018",
+            "school_type_id": 2,
+            "district_id": 1606,
+            "commune_id": "160607",
+            "village_id": "16060705",
+            "name": "Phoum 2",
+            "name_km": "ភូមិពីរ"
+        }
+    ]
+}

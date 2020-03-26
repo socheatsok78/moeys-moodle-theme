@@ -1,0 +1,293 @@
+{
+    "id": 1901,
+    "schools": [
+        {
+            "id": "19010101001",
+            "school_type_id": 2,
+            "district_id": 1901,
+            "commune_id": "190101",
+            "village_id": "19010101",
+            "name": "Kamphun",
+            "name_km": "សាលាបឋមសិក្សាកំភុន"
+        },
+        {
+            "id": "19010101501",
+            "school_type_id": 1,
+            "district_id": 1901,
+            "commune_id": "190101",
+            "village_id": "19010101",
+            "name": "Kamphun",
+            "name_km": "សាលាបឋមសិក្សាកំភុន"
+        },
+        {
+            "id": "19010101701",
+            "school_type_id": 3,
+            "district_id": 1901,
+            "commune_id": "190101",
+            "village_id": "19010101",
+            "name": "Sesan",
+            "name_km": "អនុវិទ្យាល័យសេសាន"
+        },
+        {
+            "id": "19010101901",
+            "school_type_id": 4,
+            "district_id": 1901,
+            "commune_id": "190101",
+            "village_id": "19010101",
+            "name": "sesan Sovathpheap",
+            "name_km": "វិទ្យាល័យសេសានសុវត្ថិភាព"
+        },
+        {
+            "id": "19010103002",
+            "school_type_id": 2,
+            "district_id": 1901,
+            "commune_id": "190101",
+            "village_id": "19010103",
+            "name": "Katot",
+            "name_km": "សាលាបឋមសិក្សាកាតូត"
+        },
+        {
+            "id": "19010201003",
+            "school_type_id": 2,
+            "district_id": 1901,
+            "commune_id": "190102",
+            "village_id": "19010201",
+            "name": "Kbal Romeas",
+            "name_km": "សាលាបឋមសិក្សាក្បាលរមាស"
+        },
+        {
+            "id": "19010202017",
+            "school_type_id": 2,
+            "district_id": 1901,
+            "commune_id": "190102",
+            "village_id": "19010202",
+            "name": "Sre Sranok",
+            "name_km": "សាលាបឋមសិក្សាស្រែស្រណុក"
+        },
+        {
+            "id": "19010203004",
+            "school_type_id": 2,
+            "district_id": 1901,
+            "commune_id": "190102",
+            "village_id": "19010203",
+            "name": "Krabei Chrum",
+            "name_km": "សាលាបឋមសិក្សាក្របីជ្រុំ"
+        },
+        {
+            "id": "19010204005",
+            "school_type_id": 2,
+            "district_id": 1901,
+            "commune_id": "190102",
+            "village_id": "19010204",
+            "name": "Phoum Chrap",
+            "name_km": "សាលាបឋមសិក្សាច្រប់"
+        },
+        {
+            "id": "19010204022",
+            "school_type_id": 2,
+            "district_id": 1901,
+            "commune_id": "190102",
+            "village_id": "19010204",
+            "name": "O Leang Kruos",
+            "name_km": "សាលាបឋមសិក្សាអូរលាងគ្រួស"
+        },
+        {
+            "id": "19010204504",
+            "school_type_id": 1,
+            "district_id": 1901,
+            "commune_id": "190102",
+            "village_id": "19010204",
+            "name": "Phoum Chrap",
+            "name_km": "ភូមិច្រប់"
+        },
+        {
+            "id": "19010301006",
+            "school_type_id": 2,
+            "district_id": 1901,
+            "commune_id": "190103",
+            "village_id": "19010301",
+            "name": "Phluk",
+            "name_km": "សាលាបឋមសិក្សាភ្លុក"
+        },
+        {
+            "id": "19010301503",
+            "school_type_id": 1,
+            "district_id": 1901,
+            "commune_id": "190103",
+            "village_id": "19010301",
+            "name": "Phluk",
+            "name_km": "សាលាបឋមសិក្សាភ្លុក"
+        },
+        {
+            "id": "19010301704",
+            "school_type_id": 3,
+            "district_id": 1901,
+            "commune_id": "190103",
+            "village_id": "19010301",
+            "name": "Phluk",
+            "name_km": "អនុវិទ្យាល័យភ្លុក"
+        },
+        {
+            "id": "19010302007",
+            "school_type_id": 2,
+            "district_id": 1901,
+            "commune_id": "190103",
+            "village_id": "19010302",
+            "name": "Banbung",
+            "name_km": "សាលាបឋមសិក្សាបានប៊ុង"
+        },
+        {
+            "id": "19010401502",
+            "school_type_id": 1,
+            "district_id": 1901,
+            "commune_id": "190104",
+            "village_id": "19010401",
+            "name": "Sam Khuoy",
+            "name_km": "សាលាបឋមសិក្សាសាមឃួយ"
+        },
+        {
+            "id": "19010402008",
+            "school_type_id": 2,
+            "district_id": 1901,
+            "commune_id": "190104",
+            "village_id": "19010402",
+            "name": "Sam Khuoy",
+            "name_km": "សាលាបឋមសិក្សាសាមឃួយ"
+        },
+        {
+            "id": "19010402702",
+            "school_type_id": 3,
+            "district_id": 1901,
+            "commune_id": "190104",
+            "village_id": "19010402",
+            "name": "Sam Khuoy",
+            "name_km": "អនុវិទ្យាល័យសាមឃួយ"
+        },
+        {
+            "id": "19010403009",
+            "school_type_id": 2,
+            "district_id": 1901,
+            "commune_id": "190104",
+            "village_id": "19010403",
+            "name": "Phoum Sre Ta Pan",
+            "name_km": "សាលាបឋមសិក្សាស្រែតាប៉ាន"
+        },
+        {
+            "id": "19010404010",
+            "school_type_id": 2,
+            "district_id": 1901,
+            "commune_id": "190104",
+            "village_id": "19010404",
+            "name": "Hang Savat",
+            "name_km": "សាលាបឋមសិក្សាហាងសាវ៉ាត"
+        },
+        {
+            "id": "19010404505",
+            "school_type_id": 1,
+            "district_id": 1901,
+            "commune_id": "190104",
+            "village_id": "19010404",
+            "name": "Hang Savat",
+            "name_km": "សាលាបឋមសិក្សាហាងសាវ៉ាត"
+        },
+        {
+            "id": "19010501011",
+            "school_type_id": 2,
+            "district_id": 1901,
+            "commune_id": "190105",
+            "village_id": "19010501",
+            "name": "Sdao",
+            "name_km": "សាលាបឋមសិក្សាស្តៅ"
+        },
+        {
+            "id": "19010501018",
+            "school_type_id": 2,
+            "district_id": 1901,
+            "commune_id": "190105",
+            "village_id": "19010501",
+            "name": "Ibo",
+            "name_km": "សាលាបឋមសិក្សាអ៊ីបុ"
+        },
+        {
+            "id": "19010503019",
+            "school_type_id": 2,
+            "district_id": 1901,
+            "commune_id": "190105",
+            "village_id": "19010503",
+            "name": "Nheun",
+            "name_km": "សាលាបឋមសិក្សាញើន"
+        },
+        {
+            "id": "19010602012",
+            "school_type_id": 2,
+            "district_id": 1901,
+            "commune_id": "190106",
+            "village_id": "19010602",
+            "name": "Sre Kor",
+            "name_km": "សាលាបឋមសិក្សាស្រែគរ"
+        },
+        {
+            "id": "19010701013",
+            "school_type_id": 2,
+            "district_id": 1901,
+            "commune_id": "190107",
+            "village_id": "19010701",
+            "name": "Phoum Svay Rieng",
+            "name_km": "សាលាបឋមសិក្សាស្វាយរៀង"
+        },
+        {
+            "id": "19010702014",
+            "school_type_id": 2,
+            "district_id": 1901,
+            "commune_id": "190107",
+            "village_id": "19010702",
+            "name": "Khsach Thmey Thom",
+            "name_km": "សាលាបឋមសិក្សាខ្សាច់ថ្មីធំ"
+        },
+        {
+            "id": "19010703020",
+            "school_type_id": 2,
+            "district_id": 1901,
+            "commune_id": "190107",
+            "village_id": "19010703",
+            "name": "Rumpoat",
+            "name_km": "សាលាបឋមសិក្សារំពាត់"
+        },
+        {
+            "id": "19010704021",
+            "school_type_id": 2,
+            "district_id": 1901,
+            "commune_id": "190107",
+            "village_id": "19010704",
+            "name": "Ta Lat",
+            "name_km": "សាលាបឋមសិក្សាតាឡាត"
+        },
+        {
+            "id": "19010705016",
+            "school_type_id": 2,
+            "district_id": 1901,
+            "commune_id": "190107",
+            "village_id": "19010705",
+            "name": "Krala Puos",
+            "name_km": "សាលាបឋមសិក្សាក្រឡាពុះ"
+        },
+        {
+            "id": "19010706015",
+            "school_type_id": 2,
+            "district_id": 1901,
+            "commune_id": "190107",
+            "village_id": "19010706",
+            "name": "Khsach Thmey Tauch",
+            "name_km": "សាលាបឋមសិក្សាខ្សាច់ថ្មីតូច"
+        },
+        {
+            "id": "19010706703",
+            "school_type_id": 3,
+            "district_id": 1901,
+            "commune_id": "190107",
+            "village_id": "19010706",
+            "name": "Ta Lat",
+            "name_km": "អនុវិទ្យាល័យតាឡាត"
+        }
+    ]
+}

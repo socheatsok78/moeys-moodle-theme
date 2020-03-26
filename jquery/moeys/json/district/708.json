@@ -1,0 +1,230 @@
+{
+    "id": 708,
+    "schools": [
+        {
+            "id": "07080101001",
+            "school_type_id": 2,
+            "district_id": 708,
+            "commune_id": "070801",
+            "village_id": "07080101",
+            "name": "Kampot Krong",
+            "name_km": "កំពតក្រុង"
+        },
+        {
+            "id": "07080101003",
+            "school_type_id": 2,
+            "district_id": 708,
+            "commune_id": "070801",
+            "village_id": "07080101",
+            "name": "Sovann Sakor",
+            "name_km": "សុវណ្ណសាគរ"
+        },
+        {
+            "id": "07080101012",
+            "school_type_id": 2,
+            "district_id": 708,
+            "commune_id": "070801",
+            "village_id": "07080101",
+            "name": "Aknouwat",
+            "name_km": "អនុវត្ត"
+        },
+        {
+            "id": "07080101504",
+            "school_type_id": 1,
+            "district_id": 708,
+            "commune_id": "070801",
+            "village_id": "07080101",
+            "name": "Kampot Krong",
+            "name_km": "បឋមសិក្សាកំពតក្រុង"
+        },
+        {
+            "id": "07080101510",
+            "school_type_id": 1,
+            "district_id": 708,
+            "commune_id": "070801",
+            "village_id": "07080101",
+            "name": "Sovann Sakor",
+            "name_km": "សុវណ្ណសាគរ"
+        },
+        {
+            "id": "07080101902",
+            "school_type_id": 5,
+            "district_id": 708,
+            "commune_id": "070801",
+            "village_id": "07080101",
+            "name": "Kampot Krong",
+            "name_km": "វិទ្យាល័យមិត្តភាពកម្ពុជាជប៉ុន កំពតក្រុង"
+        },
+        {
+            "id": "07080102002",
+            "school_type_id": 2,
+            "district_id": 708,
+            "commune_id": "070801",
+            "village_id": "07080102",
+            "name": "Samdech Ta",
+            "name_km": "សម្តេចតា"
+        },
+        {
+            "id": "07080102501",
+            "school_type_id": 1,
+            "district_id": 708,
+            "commune_id": "070801",
+            "village_id": "07080102",
+            "name": "Kampot",
+            "name_km": "កំពត"
+        },
+        {
+            "id": "07080102505",
+            "school_type_id": 1,
+            "district_id": 708,
+            "commune_id": "070801",
+            "village_id": "07080102",
+            "name": "Samdech Ta",
+            "name_km": "សម្តេចតា"
+        },
+        {
+            "id": "07080201004",
+            "school_type_id": 2,
+            "district_id": 708,
+            "commune_id": "070802",
+            "village_id": "07080201",
+            "name": "Pichey Oudong",
+            "name_km": "ពិជ័យឧត្តុង្គ"
+        },
+        {
+            "id": "07080201702",
+            "school_type_id": 3,
+            "district_id": 708,
+            "commune_id": "070802",
+            "village_id": "07080201",
+            "name": "Pichey Oudong",
+            "name_km": "ពិជ័យឧត្តុង្គ"
+        },
+        {
+            "id": "07080202005",
+            "school_type_id": 2,
+            "district_id": 708,
+            "commune_id": "070802",
+            "village_id": "07080202",
+            "name": "Rasmey Sangkruos",
+            "name_km": "រស្មីសង្គ្រោះ"
+        },
+        {
+            "id": "07080302006",
+            "school_type_id": 2,
+            "district_id": 708,
+            "commune_id": "070803",
+            "village_id": "07080302",
+            "name": "Moha Samaki",
+            "name_km": "មហាសាមគ្គី"
+        },
+        {
+            "id": "07080302506",
+            "school_type_id": 1,
+            "district_id": 708,
+            "commune_id": "070803",
+            "village_id": "07080302",
+            "name": "Moha Samaki Dy Pok",
+            "name_km": "មហាសាមគ្គីឌីប៉ុក"
+        },
+        {
+            "id": "07080302703",
+            "school_type_id": 3,
+            "district_id": 708,
+            "commune_id": "070803",
+            "village_id": "07080302",
+            "name": "Dy Pok Moha Samaki",
+            "name_km": "ឌីប៉ុកមហាសាមគ្គី"
+        },
+        {
+            "id": "07080401007",
+            "school_type_id": 2,
+            "district_id": 708,
+            "commune_id": "070804",
+            "village_id": "07080401",
+            "name": "Hun Sen 1 Makara",
+            "name_km": "ហ៊ុនសែន ១មករា"
+        },
+        {
+            "id": "07080401503",
+            "school_type_id": 1,
+            "district_id": 708,
+            "commune_id": "070804",
+            "village_id": "07080401",
+            "name": "Hun Sen 1 Makara",
+            "name_km": "ហ៊ុនសែន ១មករា"
+        },
+        {
+            "id": "07080403008",
+            "school_type_id": 2,
+            "district_id": 708,
+            "commune_id": "070804",
+            "village_id": "07080403",
+            "name": "O Tauch",
+            "name_km": "អូរតូច"
+        },
+        {
+            "id": "07080403901",
+            "school_type_id": 5,
+            "district_id": 708,
+            "commune_id": "070804",
+            "village_id": "07080403",
+            "name": "Preah Reach Samphear",
+            "name_km": "ព្រះរាជសម្ភារ"
+        },
+        {
+            "id": "07080404009",
+            "school_type_id": 2,
+            "district_id": 708,
+            "commune_id": "070804",
+            "village_id": "07080404",
+            "name": "Hun Sen Wat Kampot",
+            "name_km": "ហ៊ុនសែនវត្តកំពត"
+        },
+        {
+            "id": "07080404508",
+            "school_type_id": 1,
+            "district_id": 708,
+            "commune_id": "070804",
+            "village_id": "07080404",
+            "name": "Hun Sen Wat Kampot",
+            "name_km": "ហ៊ុនសែនវត្តកំពត"
+        },
+        {
+            "id": "07080502010",
+            "school_type_id": 2,
+            "district_id": 708,
+            "commune_id": "070805",
+            "village_id": "07080502",
+            "name": "Hun Sen Treuy Koh",
+            "name_km": "ហ៊ុនសែនត្រើយកោះ"
+        },
+        {
+            "id": "07080502509",
+            "school_type_id": 1,
+            "district_id": 708,
+            "commune_id": "070805",
+            "village_id": "07080502",
+            "name": "Hun Sen Treuy Koh",
+            "name_km": "បឋមសិក្សាហ៊ុនសែនត្រើយកោះ"
+        },
+        {
+            "id": "07080502704",
+            "school_type_id": 3,
+            "district_id": 708,
+            "commune_id": "070805",
+            "village_id": "07080502",
+            "name": "Hun Sen Treuy Koh",
+            "name_km": "ហ៊ុនសែនត្រើយកោះ"
+        },
+        {
+            "id": "07080503011",
+            "school_type_id": 2,
+            "district_id": 708,
+            "commune_id": "070805",
+            "village_id": "07080503",
+            "name": "Boeung Ta Pream",
+            "name_km": "បឹងតាព្រាម"
+        }
+    ]
+}

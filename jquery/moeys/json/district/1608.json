@@ -1,0 +1,131 @@
+{
+    "id": 1608,
+    "schools": [
+        {
+            "id": "16080101011",
+            "school_type_id": 2,
+            "district_id": 1608,
+            "commune_id": "160801",
+            "village_id": null,
+            "name": "Akphewat Caosou Taveng",
+            "name_km": "ក្រុងប៊ុកតាវែង"
+        },
+        {
+            "id": "16080101701",
+            "school_type_id": 3,
+            "district_id": 1608,
+            "commune_id": "160801",
+            "village_id": null,
+            "name": "Ta Veng",
+            "name_km": "អនុវិទ្យាល័យហ៊ុនសែនតាវែង"
+        },
+        {
+            "id": "16080102008",
+            "school_type_id": 2,
+            "district_id": 1608,
+            "commune_id": "160801",
+            "village_id": "16080102",
+            "name": "Tunn",
+            "name_km": "ទុន"
+        },
+        {
+            "id": "16080103005",
+            "school_type_id": 2,
+            "district_id": 1608,
+            "commune_id": "160801",
+            "village_id": "16080103",
+            "name": "Chann",
+            "name_km": "ចាន់"
+        },
+        {
+            "id": "16080104006",
+            "school_type_id": 2,
+            "district_id": 1608,
+            "commune_id": "160801",
+            "village_id": "16080104",
+            "name": "Choy",
+            "name_km": "ជួយ"
+        },
+        {
+            "id": "16080105007",
+            "school_type_id": 2,
+            "district_id": 1608,
+            "commune_id": "160801",
+            "village_id": "16080105",
+            "name": "O Ta Bauk",
+            "name_km": "អូរតាបូក"
+        },
+        {
+            "id": "16080110001",
+            "school_type_id": 2,
+            "district_id": 1608,
+            "commune_id": "160801",
+            "village_id": "16080110",
+            "name": "Taveng Leu",
+            "name_km": "តាវែងលើ"
+        },
+        {
+            "id": "16080112002",
+            "school_type_id": 2,
+            "district_id": 1608,
+            "commune_id": "160801",
+            "village_id": "16080112",
+            "name": "Hun Sen Taveng",
+            "name_km": "ហ៊ុនសែនតាវែង"
+        },
+        {
+            "id": "16080112501",
+            "school_type_id": 1,
+            "district_id": 1608,
+            "commune_id": "160801",
+            "village_id": "16080112",
+            "name": "Hun Sen Taveng",
+            "name_km": "មត្តេយ្យហ៊ុនសែនតាវែង"
+        },
+        {
+            "id": "16080201003",
+            "school_type_id": 2,
+            "district_id": 1608,
+            "commune_id": "160802",
+            "village_id": "16080201",
+            "name": "Taveng Krom",
+            "name_km": "តាវែងក្រោម"
+        },
+        {
+            "id": "16080202009",
+            "school_type_id": 2,
+            "district_id": 1608,
+            "commune_id": "160802",
+            "village_id": null,
+            "name": "Vieng Chan",
+            "name_km": "វៀងចាន់"
+        },
+        {
+            "id": "16080205012",
+            "school_type_id": 2,
+            "district_id": 1608,
+            "commune_id": "160802",
+            "village_id": "16080205",
+            "name": "Sahaka_Pri School",
+            "name_km": "សាលាបឋមសិក្សាភូមិសហការ"
+        },
+        {
+            "id": "16080207010",
+            "school_type_id": 2,
+            "district_id": 1608,
+            "commune_id": "160802",
+            "village_id": "16080207",
+            "name": "Ta Ngach",
+            "name_km": "តាង៉ាច"
+        },
+        {
+            "id": "16080208004",
+            "school_type_id": 2,
+            "district_id": 1608,
+            "commune_id": "160802",
+            "village_id": "16080208",
+            "name": "Phav",
+            "name_km": "ផាវ"
+        }
+    ]
+}

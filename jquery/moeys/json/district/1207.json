@@ -1,0 +1,239 @@
+{
+    "id": 1207,
+    "schools": [
+        {
+            "id": "12070101502",
+            "school_type_id": 1,
+            "district_id": 1207,
+            "commune_id": "120701",
+            "village_id": "12070101",
+            "name": "Samaki",
+            "name_km": "មត្តេយ្យសាមគ្គី"
+        },
+        {
+            "id": "12070401006",
+            "school_type_id": 2,
+            "district_id": 1207,
+            "commune_id": "120704",
+            "village_id": "12070401",
+            "name": "Santhor Muk",
+            "name_km": "សន្ធរម៉ុក"
+        },
+        {
+            "id": "12070401511",
+            "school_type_id": 1,
+            "district_id": 1207,
+            "commune_id": "120704",
+            "village_id": "12070401",
+            "name": "Santhor Muk",
+            "name_km": "សន្ធរម៉ុក"
+        },
+        {
+            "id": "12070401901",
+            "school_type_id": 5,
+            "district_id": 1207,
+            "commune_id": "120704",
+            "village_id": "12070401",
+            "name": "Chea Sim Santhor Muk",
+            "name_km": "វិទ្យាល័យ  ជាស៊ីមសន្ធរម៉ុក"
+        },
+        {
+            "id": "12070513503",
+            "school_type_id": 1,
+            "district_id": 1207,
+            "commune_id": "120705",
+            "village_id": "12070513",
+            "name": "Teuk La-ak",
+            "name_km": "មត្តេយ្យទឹកល្អក់"
+        },
+        {
+            "id": "12070606007",
+            "school_type_id": 2,
+            "district_id": 1207,
+            "commune_id": "120706",
+            "village_id": "12070606",
+            "name": "Teuk La-ak",
+            "name_km": "បឋមទឹកល្អក់"
+        },
+        {
+            "id": "12070606512",
+            "school_type_id": 1,
+            "district_id": 1207,
+            "commune_id": "120706",
+            "village_id": "12070606",
+            "name": "Teuk La-ak",
+            "name_km": "ទឹកល្អក់"
+        },
+        {
+            "id": "12070606902",
+            "school_type_id": 5,
+            "district_id": 1207,
+            "commune_id": "120706",
+            "village_id": "12070606",
+            "name": "Teuk-la-ak",
+            "name_km": "វិទ្យាល័យ  ទឹកល្អក់"
+        },
+        {
+            "id": "12070611008",
+            "school_type_id": 2,
+            "district_id": 1207,
+            "commune_id": "120706",
+            "village_id": "12070611",
+            "name": "Aknouwat Reach Theany",
+            "name_km": "អនុវត្តរាជធានី"
+        },
+        {
+            "id": "12070611509",
+            "school_type_id": 1,
+            "district_id": 1207,
+            "commune_id": "120706",
+            "village_id": "12070611",
+            "name": "Aknouwat Reach Theany",
+            "name_km": "អនុវត្តរាជធានី"
+        },
+        {
+            "id": "12070611703",
+            "school_type_id": 3,
+            "district_id": 1207,
+            "commune_id": "120706",
+            "village_id": "12070611",
+            "name": "O Bek Ka-am",
+            "name_km": "អនុវិទ្យាល័យ អូរបែកក្អម"
+        },
+        {
+            "id": "12070710002",
+            "school_type_id": 2,
+            "district_id": 1207,
+            "commune_id": "120707",
+            "village_id": "12070710",
+            "name": "Tuol Kauk",
+            "name_km": "ទួលគោក"
+        },
+        {
+            "id": "12070710507",
+            "school_type_id": 1,
+            "district_id": 1207,
+            "commune_id": "120707",
+            "village_id": "12070710",
+            "name": "Tuol Kauk",
+            "name_km": "ទួលគោក"
+        },
+        {
+            "id": "12070801003",
+            "school_type_id": 2,
+            "district_id": 1207,
+            "commune_id": "120708",
+            "village_id": "12070801",
+            "name": "Wat Neak Voan",
+            "name_km": "វត្តនាគវ័ន"
+        },
+        {
+            "id": "12070801508",
+            "school_type_id": 1,
+            "district_id": 1207,
+            "commune_id": "120708",
+            "village_id": "12070801",
+            "name": "Wat Neak Voan",
+            "name_km": "វត្តនាគវ័ន"
+        },
+        {
+            "id": "12070801704",
+            "school_type_id": 3,
+            "district_id": 1207,
+            "commune_id": "120708",
+            "village_id": "12070801",
+            "name": "Wat Neak Voan",
+            "name_km": "អនុវិទ្យាល័យ វត្តនាគវ័ន"
+        },
+        {
+            "id": "12070804902",
+            "school_type_id": 5,
+            "district_id": 1207,
+            "commune_id": "120708",
+            "village_id": "12070804",
+            "name": "Indraktevy",
+            "name_km": "វិទ្យាល័យឥន្រ្ទទេវី"
+        },
+        {
+            "id": "12070808501",
+            "school_type_id": 1,
+            "district_id": 1207,
+            "commune_id": "120708",
+            "village_id": "12070808",
+            "name": "Tuol Kauk",
+            "name_km": "មត្តេយ្យទួលគោក"
+        },
+        {
+            "id": "12070901505",
+            "school_type_id": 1,
+            "district_id": 1207,
+            "commune_id": "120709",
+            "village_id": "12070901",
+            "name": "Ekpheap",
+            "name_km": "ឯកភាព"
+        },
+        {
+            "id": "12070903004",
+            "school_type_id": 2,
+            "district_id": 1207,
+            "commune_id": "120709",
+            "village_id": "12070903",
+            "name": "Ekpheap",
+            "name_km": "បឋមសិក្សាឯកភាព"
+        },
+        {
+            "id": "12070905504",
+            "school_type_id": 1,
+            "district_id": 1207,
+            "commune_id": "120709",
+            "village_id": "12070905",
+            "name": "Sampoan Polkar",
+            "name_km": "មត្តេយ្យសម្ព័ន្ធពលករ"
+        },
+        {
+            "id": "12070909005",
+            "school_type_id": 2,
+            "district_id": 1207,
+            "commune_id": "120709",
+            "village_id": "12070909",
+            "name": "Mittapheap",
+            "name_km": "បឋមមិត្តភាព"
+        },
+        {
+            "id": "12070909510",
+            "school_type_id": 1,
+            "district_id": 1207,
+            "commune_id": "120709",
+            "village_id": "12070909",
+            "name": "Mittapheap",
+            "name_km": "មិត្តភាព"
+        },
+        {
+            "id": "12071005001",
+            "school_type_id": 2,
+            "district_id": 1207,
+            "commune_id": "120710",
+            "village_id": "12071005",
+            "name": "Boeung Salang",
+            "name_km": "បឋមសិក្សាបឹងសាឡាង"
+        },
+        {
+            "id": "12071005506",
+            "school_type_id": 1,
+            "district_id": 1207,
+            "commune_id": "120710",
+            "village_id": "12071005",
+            "name": "Boeung Salang",
+            "name_km": "បឹងសាឡាង"
+        },
+        {
+            "id": "12071010903",
+            "school_type_id": 5,
+            "district_id": 1207,
+            "commune_id": "120710",
+            "village_id": "12071010",
+            "name": "Chea Sim Samaki",
+            "name_km": "វិទ្យាល័យជាស៊ីមសាមគ្គី"
+        }
+    ]
+}

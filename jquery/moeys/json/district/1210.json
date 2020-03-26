@@ -1,0 +1,356 @@
+{
+    "id": 1210,
+    "schools": [
+        {
+            "id": "12100802014",
+            "school_type_id": 2,
+            "district_id": 1210,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Prek Leap",
+            "name_km": "សាលាបឋមសិក្សាព្រែកលៀប"
+        },
+        {
+            "id": "12100802530",
+            "school_type_id": 1,
+            "district_id": 1210,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Prek Leap",
+            "name_km": "ព្រែកលៀប"
+        },
+        {
+            "id": "12100802905",
+            "school_type_id": 5,
+            "district_id": 1210,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Prek Leap",
+            "name_km": "វិទ្យាល័យព្រែកលៀប"
+        },
+        {
+            "id": "12100803015",
+            "school_type_id": 2,
+            "district_id": 1210,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Hun Neang Bak Kheng",
+            "name_km": "សាលាបឋមសិក្សាអ្នកឧកញ្ញ៉ាមហាភក្ដីហ៊ុននាងបាក់ខែង"
+        },
+        {
+            "id": "12100803504",
+            "school_type_id": 1,
+            "district_id": 1210,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Hun Neang Bak Kheng",
+            "name_km": "ហ៊ុន នាងបាក់ខែង"
+        },
+        {
+            "id": "12100803708",
+            "school_type_id": 3,
+            "district_id": 1210,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Bak Kheng",
+            "name_km": "អនុវិទ្យាល័យ  បាក់ខែង"
+        },
+        {
+            "id": "12100804016",
+            "school_type_id": 2,
+            "district_id": 1210,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Khtor",
+            "name_km": "សាលាបឋមសិក្សាខ្ទរ"
+        },
+        {
+            "id": "12100804537",
+            "school_type_id": 1,
+            "district_id": 1210,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Khtor",
+            "name_km": "ខ្ទរ"
+        },
+        {
+            "id": "12100901019",
+            "school_type_id": 2,
+            "district_id": 1210,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Prek Ta Rath",
+            "name_km": "សាលាបឋមសិក្សាព្រែកតារាត់"
+        },
+        {
+            "id": "12100901529",
+            "school_type_id": 1,
+            "district_id": 1210,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Prek Ta Rath",
+            "name_km": "ព្រែកតារាត់"
+        },
+        {
+            "id": "12100902017",
+            "school_type_id": 2,
+            "district_id": 1210,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Mongkol Sathavoan",
+            "name_km": "សាលាបឋមសិក្សាមង្គលសត្ថាវ័ន"
+        },
+        {
+            "id": "12100902523",
+            "school_type_id": 1,
+            "district_id": 1210,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Mongkol Sathavoan",
+            "name_km": "មង្គលសត្ថាវ័ន"
+        },
+        {
+            "id": "12100903018",
+            "school_type_id": 2,
+            "district_id": 1210,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Chea Sim Prek Raing",
+            "name_km": "សាលាបឋមសិក្សាព្រែករាំង"
+        },
+        {
+            "id": "12100903706",
+            "school_type_id": 3,
+            "district_id": 1210,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Chea Sim Prek Raing",
+            "name_km": "អនុវិទ្យាល័យព្រែករាំង"
+        },
+        {
+            "id": "12101001026",
+            "school_type_id": 2,
+            "district_id": 1210,
+            "commune_id": null,
+            "village_id": null,
+            "name": "SAKURA Kbal Chroy",
+            "name_km": "សាលាបឋមសិក្សាក្បាលជ្រោយសាគូរ៉ា"
+        },
+        {
+            "id": "12101001501",
+            "school_type_id": 1,
+            "district_id": 1210,
+            "commune_id": null,
+            "village_id": null,
+            "name": "SAKURA Kbal Chroy",
+            "name_km": "ក្បាលជ្រោយសាគូរ៉ា"
+        },
+        {
+            "id": "12101002004",
+            "school_type_id": 2,
+            "district_id": 1210,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Chroy Changvar",
+            "name_km": "សាលាបឋមសិក្សាជ្រោយចង្វារ"
+        },
+        {
+            "id": "12101002515",
+            "school_type_id": 1,
+            "district_id": 1210,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Chroy Changvar",
+            "name_km": "ជ្រោយចង្វារ"
+        },
+        {
+            "id": "12101003902",
+            "school_type_id": 5,
+            "district_id": 1210,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Chroy Changvar",
+            "name_km": "វិទ្យាល័យជាស៊ីមជ្រោយចង្វារ"
+        },
+        {
+            "id": "12101004005",
+            "school_type_id": 2,
+            "district_id": 1210,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Deum Kor",
+            "name_km": "ដើមគរ"
+        },
+        {
+            "id": "12101004535",
+            "school_type_id": 1,
+            "district_id": 1210,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Deum Kor",
+            "name_km": "ដើមគរ"
+        },
+        {
+            "id": "12101005006",
+            "school_type_id": 2,
+            "district_id": 1210,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Kean Khlaing",
+            "name_km": "សាលាបឋមសិក្សាគៀនឃ្លាំង"
+        },
+        {
+            "id": "12101005532",
+            "school_type_id": 1,
+            "district_id": 1210,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Kean Khlaing",
+            "name_km": "វត្តមង្គលសិរីគៀនឃ្លាំង"
+        },
+        {
+            "id": "12101302028",
+            "school_type_id": 2,
+            "district_id": 1210,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Kdei Chas",
+            "name_km": "សាលាបឋមសិក្សាក្ដីចាស់"
+        },
+        {
+            "id": "12101302524",
+            "school_type_id": 1,
+            "district_id": 1210,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Kdei Chas",
+            "name_km": "ក្តីចាស់"
+        },
+        {
+            "id": "12101303027",
+            "school_type_id": 2,
+            "district_id": 1210,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Chambak Meas",
+            "name_km": "សាលាបឋមសិក្សាចំបក់មាស"
+        },
+        {
+            "id": "12101303534",
+            "school_type_id": 1,
+            "district_id": 1210,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Chambak Meas",
+            "name_km": "ចំបក់មាស"
+        },
+        {
+            "id": "12101303709",
+            "school_type_id": 3,
+            "district_id": 1210,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Chambak Meas",
+            "name_km": "អនុវិទ្យាល័យ ស.អហសចំបក់មាស"
+        },
+        {
+            "id": "12101401029",
+            "school_type_id": 2,
+            "district_id": 1210,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Chong Koh",
+            "name_km": "បឋមសិក្សាចុងកោះ"
+        },
+        {
+            "id": "12101401525",
+            "school_type_id": 1,
+            "district_id": 1210,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Chong Koh",
+            "name_km": "ចុងកោះ"
+        },
+        {
+            "id": "12101402032",
+            "school_type_id": 2,
+            "district_id": 1210,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Hun Neang Lovea",
+            "name_km": "សាលាបឋមសិក្សាអ,ឧមភហ៊ុននាងល្វា"
+        },
+        {
+            "id": "12101402528",
+            "school_type_id": 1,
+            "district_id": 1210,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Hun Neang Lovea",
+            "name_km": "ហ៊ុន នាង ល្វា"
+        },
+        {
+            "id": "12101402907",
+            "school_type_id": 5,
+            "district_id": 1210,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Bun Rany Hun Sen Koh Dach",
+            "name_km": "វិទ្យាល័យប៊ុនរ៉ានីហ៊ុនសែនកោះដាច់"
+        },
+        {
+            "id": "12101403030",
+            "school_type_id": 2,
+            "district_id": 1210,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Samdech Euv",
+            "name_km": "សាលាបឋមសិក្សាសម្ដេចឪ"
+        },
+        {
+            "id": "12101403526",
+            "school_type_id": 1,
+            "district_id": 1210,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Samdech Euv",
+            "name_km": "សម្តេចឳ"
+        },
+        {
+            "id": "12101404031",
+            "school_type_id": 2,
+            "district_id": 1210,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Koh Dach",
+            "name_km": "សាលាបឋមសិក្សាកោះដាច់"
+        },
+        {
+            "id": "12101404527",
+            "school_type_id": 1,
+            "district_id": 1210,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Koh Dach",
+            "name_km": "កោះដាច់"
+        },
+        {
+            "id": "12101405033",
+            "school_type_id": 2,
+            "district_id": 1210,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Roneas",
+            "name_km": "សាលាបឋមសិក្សារនះ"
+        },
+        {
+            "id": "12101405533",
+            "school_type_id": 1,
+            "district_id": 1210,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Roneas",
+            "name_km": "រនះ"
+        }
+    ]
+}

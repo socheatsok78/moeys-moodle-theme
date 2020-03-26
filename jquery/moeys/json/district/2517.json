@@ -1,0 +1,194 @@
+{
+    "id": 2517,
+    "schools": [
+        {
+            "id": "25170102001",
+            "school_type_id": 2,
+            "district_id": 2517,
+            "commune_id": "251701",
+            "village_id": "25170102",
+            "name": "Rasmey Samaki Thlork",
+            "name_km": "រស្មីសាមគ្គីធ្លក"
+        },
+        {
+            "id": "25170102508",
+            "school_type_id": 1,
+            "district_id": 2517,
+            "commune_id": "251701",
+            "village_id": "25170102",
+            "name": "Samaki Thlork",
+            "name_km": "សាមគ្គីធ្លក"
+        },
+        {
+            "id": "25170105002",
+            "school_type_id": 2,
+            "district_id": 2517,
+            "commune_id": "251701",
+            "village_id": null,
+            "name": "Rasmey Komar",
+            "name_km": "រស្មីកុមារ"
+        },
+        {
+            "id": "25170105501",
+            "school_type_id": 1,
+            "district_id": 2517,
+            "commune_id": "251701",
+            "village_id": null,
+            "name": "Rasmey Komar",
+            "name_km": "រស្មីកុមារ"
+        },
+        {
+            "id": "25170105702",
+            "school_type_id": 3,
+            "district_id": 2517,
+            "commune_id": "251701",
+            "village_id": null,
+            "name": "Raksmei Komar",
+            "name_km": "រស្មីកុមារ"
+        },
+        {
+            "id": "25170110003",
+            "school_type_id": 2,
+            "district_id": 2517,
+            "commune_id": "251701",
+            "village_id": null,
+            "name": "Punnareay",
+            "name_km": "ពណ្ណរាយ"
+        },
+        {
+            "id": "25170110505",
+            "school_type_id": 1,
+            "district_id": 2517,
+            "commune_id": "251701",
+            "village_id": null,
+            "name": "Pun Reay",
+            "name_km": "មត្តេយ្យសិក្សាពណ្ណរាយ"
+        },
+        {
+            "id": "25170112004",
+            "school_type_id": 2,
+            "district_id": 2517,
+            "commune_id": "251701",
+            "village_id": null,
+            "name": "Prachea Komar Suong",
+            "name_km": "ប្រជាកុមារសួង"
+        },
+        {
+            "id": "25170112506",
+            "school_type_id": 1,
+            "district_id": 2517,
+            "commune_id": "251701",
+            "village_id": null,
+            "name": "Bror Chhea Ko Ma",
+            "name_km": "មត្តេយ្យសិក្សាប្រជាកុមារ"
+        },
+        {
+            "id": "25170112901",
+            "school_type_id": 5,
+            "district_id": 2517,
+            "commune_id": "251701",
+            "village_id": null,
+            "name": "Tbaung Khmum",
+            "name_km": "វិទ្យាល័យ សតជហស សួង"
+        },
+        {
+            "id": "25170113005",
+            "school_type_id": 2,
+            "district_id": 2517,
+            "commune_id": "251701",
+            "village_id": null,
+            "name": "Chup",
+            "name_km": "ជុបចំការកៅស៊ូ"
+        },
+        {
+            "id": "25170114006",
+            "school_type_id": 2,
+            "district_id": 2517,
+            "commune_id": "251701",
+            "village_id": null,
+            "name": "Phoum 3.10",
+            "name_km": "ភូមិ 3.10"
+        },
+        {
+            "id": "25170115010",
+            "school_type_id": 2,
+            "district_id": 2517,
+            "commune_id": "251701",
+            "village_id": null,
+            "name": "Phoum 48",
+            "name_km": "ភូមិ​៤៨"
+        },
+        {
+            "id": "25170201007",
+            "school_type_id": 2,
+            "district_id": 2517,
+            "commune_id": "251702",
+            "village_id": null,
+            "name": "Chrey Bet Meas",
+            "name_km": "ជ្រៃបិទមាស"
+        },
+        {
+            "id": "25170202008",
+            "school_type_id": 2,
+            "district_id": 2517,
+            "commune_id": "251702",
+            "village_id": null,
+            "name": "Tuol Kdei",
+            "name_km": "ទួលក្តី"
+        },
+        {
+            "id": "25170202701",
+            "school_type_id": 3,
+            "district_id": 2517,
+            "commune_id": "251702",
+            "village_id": null,
+            "name": "Tuol Kdei",
+            "name_km": "អនុវិទ្យាល័យ ទួលក្តី"
+        },
+        {
+            "id": "25170207009",
+            "school_type_id": 2,
+            "district_id": 2517,
+            "commune_id": "251702",
+            "village_id": null,
+            "name": "Prasre Krom",
+            "name_km": "ប្រស្រែក្រោម"
+        },
+        {
+            "id": "25170207504",
+            "school_type_id": 1,
+            "district_id": 2517,
+            "commune_id": "251702",
+            "village_id": null,
+            "name": "Bror Sreo Krom",
+            "name_km": "មត្តេយ្យសិក្សាប្រស្រែក្រោម"
+        },
+        {
+            "id": "25170211011",
+            "school_type_id": 2,
+            "district_id": 2517,
+            "commune_id": "251702",
+            "village_id": "25170211",
+            "name": "Thmar Pich",
+            "name_km": "ថ្មពេជ្រចមការកៅស៊ូ"
+        },
+        {
+            "id": "25170211503",
+            "school_type_id": 1,
+            "district_id": 2517,
+            "commune_id": "251702",
+            "village_id": "25170211",
+            "name": "Thmar Pich",
+            "name_km": "ថ្មពេជ្រចំការកៅស៊ូ"
+        },
+        {
+            "id": "25170212012",
+            "school_type_id": 2,
+            "district_id": 2517,
+            "commune_id": "251702",
+            "village_id": null,
+            "name": "Phoum 6.12",
+            "name_km": "ភូមិ 6.12"
+        }
+    ]
+}

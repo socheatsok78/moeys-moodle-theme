@@ -1,0 +1,104 @@
+{
+    "id": 904,
+    "schools": [
+        {
+            "id": "09040101001",
+            "school_type_id": 2,
+            "district_id": 904,
+            "commune_id": "090401",
+            "village_id": "09040101",
+            "name": "Tiruom Khet",
+            "name_km": "សាលាបឋមសិក្សាទីរួមខេត្ត"
+        },
+        {
+            "id": "09040101501",
+            "school_type_id": 1,
+            "district_id": 904,
+            "commune_id": "090401",
+            "village_id": "09040101",
+            "name": "Tiruom Khet",
+            "name_km": "សាលាបឋមសិក្សាទីរួមខេត្ត"
+        },
+        {
+            "id": "09040103003",
+            "school_type_id": 2,
+            "district_id": 904,
+            "commune_id": "090401",
+            "village_id": "09040103",
+            "name": "Samdech Chea Sim",
+            "name_km": "សាលាបឋមសិក្សាសម្ដេចជាស៊ីម"
+        },
+        {
+            "id": "09040103502",
+            "school_type_id": 1,
+            "district_id": 904,
+            "commune_id": "090401",
+            "village_id": "09040103",
+            "name": "Samdech Chea Sim",
+            "name_km": "សាលាបឋមសិក្សាសម្ដេចជាស៊ីម"
+        },
+        {
+            "id": "09040103701",
+            "school_type_id": 3,
+            "district_id": 904,
+            "commune_id": "090401",
+            "village_id": "09040103",
+            "name": "Chea Sim Smach Meanchey",
+            "name_km": "អនុវិទ្យាល័យជាស៊ីមស្មាច់មានជ័យ"
+        },
+        {
+            "id": "09040104002",
+            "school_type_id": 2,
+            "district_id": 904,
+            "commune_id": "090401",
+            "village_id": "09040104",
+            "name": "Boeung Khun Chhang",
+            "name_km": "សាលាបឋមសិក្សាបឹង ឈុនឆាង"
+        },
+        {
+            "id": "09040105006",
+            "school_type_id": 2,
+            "district_id": 904,
+            "commune_id": "090401",
+            "village_id": "09040105",
+            "name": "Smach Meanchey",
+            "name_km": "សាលាបឋមសិក្សាស្មាច់មានជ័យ"
+        },
+        {
+            "id": "09040105901",
+            "school_type_id": 5,
+            "district_id": 904,
+            "commune_id": "090401",
+            "village_id": "09040105",
+            "name": "Koh Kong",
+            "name_km": "វិទ្យាល័យកោះកុង"
+        },
+        {
+            "id": "09040204004",
+            "school_type_id": 2,
+            "district_id": 904,
+            "commune_id": "090402",
+            "village_id": "09040204",
+            "name": "Rasmey Samaki",
+            "name_km": "សាលាបឋមសិក្សារស្មីសាមគ្គី"
+        },
+        {
+            "id": "09040204702",
+            "school_type_id": 3,
+            "district_id": 904,
+            "commune_id": "090402",
+            "village_id": "09040204",
+            "name": "Dang Tung",
+            "name_km": "អនុវិទ្យាល័យដងទង់"
+        },
+        {
+            "id": "09040302005",
+            "school_type_id": 2,
+            "district_id": 904,
+            "commune_id": "090403",
+            "village_id": "09040302",
+            "name": "Prek Svay",
+            "name_km": "សាលាបឋមសិក្សាយុទ្ធភូថងព្រែកស្វាយ"
+        }
+    ]
+}

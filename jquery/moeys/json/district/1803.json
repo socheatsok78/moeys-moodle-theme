@@ -1,0 +1,140 @@
+{
+    "id": 1803,
+    "schools": [
+        {
+            "id": "18030101001",
+            "school_type_id": 2,
+            "district_id": 1803,
+            "commune_id": "180301",
+            "village_id": "18030101",
+            "name": "Kampenh",
+            "name_km": "បឋមសិក្សាកំពេញថ្មី"
+        },
+        {
+            "id": "18030102503",
+            "school_type_id": 1,
+            "district_id": 1803,
+            "commune_id": "180301",
+            "village_id": "18030102",
+            "name": "Kampenh Thmey",
+            "name_km": "កំពេញថ្មី"
+        },
+        {
+            "id": "18030201002",
+            "school_type_id": 2,
+            "district_id": 1803,
+            "commune_id": "180302",
+            "village_id": "18030201",
+            "name": "O Tres",
+            "name_km": "បឋមសិក្សាអូរត្រះថ្មី"
+        },
+        {
+            "id": "18030201502",
+            "school_type_id": 1,
+            "district_id": 1803,
+            "commune_id": "180302",
+            "village_id": "18030201",
+            "name": "O Tres Thmey",
+            "name_km": "អូរត្រេះថ្មី"
+        },
+        {
+            "id": "18030203901",
+            "school_type_id": 5,
+            "district_id": 1803,
+            "commune_id": "180302",
+            "village_id": "18030203",
+            "name": "Stung Hav",
+            "name_km": "វិទ្យាល័យស្ទឹងហាវ"
+        },
+        {
+            "id": "18030304004",
+            "school_type_id": 2,
+            "district_id": 1803,
+            "commune_id": "180303",
+            "village_id": "18030304",
+            "name": "Tumnup Rolork Thmey",
+            "name_km": "បឋមទំនប់រលកថ្មី"
+        },
+        {
+            "id": "18030304501",
+            "school_type_id": 1,
+            "district_id": 1803,
+            "commune_id": "180303",
+            "village_id": "18030304",
+            "name": "Tumnup Rolork Thmey",
+            "name_km": "ទំនប់រលកថ្មី"
+        },
+        {
+            "id": "18030304701",
+            "school_type_id": 3,
+            "district_id": 1803,
+            "commune_id": "180303",
+            "village_id": "18030304",
+            "name": "Tumnup Rolork Thmey",
+            "name_km": "អនុវិទ្យាល័យទំនប់រលក"
+        },
+        {
+            "id": "18030305005",
+            "school_type_id": 2,
+            "district_id": 1803,
+            "commune_id": "180303",
+            "village_id": "18030305",
+            "name": "Keo Phos",
+            "name_km": "បឋមសិក្សាកែវផុស"
+        },
+        {
+            "id": "18030305006",
+            "school_type_id": 2,
+            "district_id": 1803,
+            "commune_id": "180303",
+            "village_id": "18030305",
+            "name": "Hun Sen Thmar Rieng",
+            "name_km": "បឋមសិក្សា.ហស.ថ្មរៀង"
+        },
+        {
+            "id": "18030305007",
+            "school_type_id": 2,
+            "district_id": 1803,
+            "commune_id": "180303",
+            "village_id": "18030305",
+            "name": "Chamraing",
+            "name_km": "បឋមសិក្សាចំរាំង"
+        },
+        {
+            "id": "18030305008",
+            "school_type_id": 2,
+            "district_id": 1803,
+            "commune_id": "180303",
+            "village_id": "18030305",
+            "name": "Chamkar Khnhey",
+            "name_km": "បឋមសិក្សាចម្ការខ្ញី"
+        },
+        {
+            "id": "18030305504",
+            "school_type_id": 1,
+            "district_id": 1803,
+            "commune_id": "180303",
+            "village_id": "18030305",
+            "name": "KEO PHOS",
+            "name_km": "កែវ ផុស"
+        },
+        {
+            "id": "18030305505",
+            "school_type_id": 1,
+            "district_id": 1803,
+            "commune_id": "180303",
+            "village_id": "18030305",
+            "name": "HUN SEN THMOR REANG",
+            "name_km": "ហ៊ុន សែន ថ្មរៀង"
+        },
+        {
+            "id": "18030305902",
+            "school_type_id": 5,
+            "district_id": 1803,
+            "commune_id": "180303",
+            "village_id": "18030309",
+            "name": "HUN SEN KEO PHOS",
+            "name_km": "វិទ្យាល័យហ៊ុនសែនកែវផុស"
+        }
+    ]
+}

@@ -1,0 +1,1058 @@
+{
+    "id": 1710,
+    "schools": [
+        {
+            "id": "17100101001",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171001",
+            "village_id": "17100101",
+            "name": "Po Laingka",
+            "name_km": "ពោធិលង្កា"
+        },
+        {
+            "id": "17100101501",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171001",
+            "village_id": "17100101",
+            "name": "Srok Siemreap",
+            "name_km": "ក្រុងសៀមរាប"
+        },
+        {
+            "id": "17100102701",
+            "school_type_id": 3,
+            "district_id": 1710,
+            "commune_id": "171001",
+            "village_id": "17100102",
+            "name": "Preah En Kosa",
+            "name_km": "ព្រះឥន្ទកោសា"
+        },
+        {
+            "id": "17100103002",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171001",
+            "village_id": "17100103",
+            "name": "Banteay Chas",
+            "name_km": "បន្ទាយចាស់"
+        },
+        {
+            "id": "17100103005",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171001",
+            "village_id": "17100103",
+            "name": "Thlork Andaung",
+            "name_km": "ធ្លកអណ្ដូង"
+        },
+        {
+            "id": "17100103521",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171001",
+            "village_id": "17100103",
+            "name": "Banteay Chas",
+            "name_km": "បន្ទាយចាស់"
+        },
+        {
+            "id": "17100103534",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171001",
+            "village_id": "17100103",
+            "name": "Thlork Andaung",
+            "name_km": "ធ្លកអណ្ដូង"
+        },
+        {
+            "id": "17100103719",
+            "school_type_id": 3,
+            "district_id": 1710,
+            "commune_id": "171001",
+            "village_id": "17100103",
+            "name": "Thlork Andaung",
+            "name_km": "ធ្លកអណ្ដូង"
+        },
+        {
+            "id": "17100106003",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171001",
+            "village_id": "17100106",
+            "name": "Preah En Kosei",
+            "name_km": "ព្រះឥន្ទកោសីយ៍"
+        },
+        {
+            "id": "17100107004",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171001",
+            "village_id": "17100107",
+            "name": "Aknouwat Koroukosal",
+            "name_km": "អនុវត្តគរុកោសល្យ"
+        },
+        {
+            "id": "17100205006",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171002",
+            "village_id": "17100205",
+            "name": "Wat Chak",
+            "name_km": "វត្តចក"
+        },
+        {
+            "id": "17100205519",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171002",
+            "village_id": "17100205",
+            "name": "Wat Chak",
+            "name_km": "វត្តចក"
+        },
+        {
+            "id": "17100205707",
+            "school_type_id": 3,
+            "district_id": 1710,
+            "commune_id": "171002",
+            "village_id": "17100205",
+            "name": "Wat Chak",
+            "name_km": "វត្តចក"
+        },
+        {
+            "id": "17100207007",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171002",
+            "village_id": "17100207",
+            "name": "Svay Dangkum",
+            "name_km": "ស្វាយដង្គំ"
+        },
+        {
+            "id": "17100207547",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171002",
+            "village_id": "17100207",
+            "name": "Svay Dangkum",
+            "name_km": "ស្វាយដង្គំ"
+        },
+        {
+            "id": "17100209008",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171002",
+            "village_id": "17100209",
+            "name": "Kauk Patry",
+            "name_km": "គោកប៉ាទ្រី"
+        },
+        {
+            "id": "17100209009",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171002",
+            "village_id": "17100209",
+            "name": "Hun Sen Kruos",
+            "name_km": "សម្តេចតេជោ ហ៊ុន សែនគ្រួស"
+        },
+        {
+            "id": "17100209531",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171002",
+            "village_id": "17100209",
+            "name": "Hun Sen Kruos",
+            "name_km": "សម្តេចតេជោ ហ៊ុន សែន គ្រួស"
+        },
+        {
+            "id": "17100209708",
+            "school_type_id": 3,
+            "district_id": 1710,
+            "commune_id": "171002",
+            "village_id": "17100209",
+            "name": "Hun Sen Kruos",
+            "name_km": "ហសគ្រួស"
+        },
+        {
+            "id": "17100210010",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171002",
+            "village_id": "17100210",
+            "name": "Chea Sim Komar Angkor",
+            "name_km": "ជាសុីមកុមារអង្គរ"
+        },
+        {
+            "id": "17100210011",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171002",
+            "village_id": "17100210",
+            "name": "Vihear Chen",
+            "name_km": "វិហារចិន"
+        },
+        {
+            "id": "17100210551",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171002",
+            "village_id": "17100210",
+            "name": "Vihear Chen Pre School",
+            "name_km": "វិហារចិន"
+        },
+        {
+            "id": "17100211012",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171002",
+            "village_id": "17100211",
+            "name": "Stung Thmei",
+            "name_km": "ស្ទឹងថ្មី"
+        },
+        {
+            "id": "17100211502",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171002",
+            "village_id": "17100211",
+            "name": "Stung Thmey",
+            "name_km": "ស្ទឹងថ្មី"
+        },
+        {
+            "id": "17100212503",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171002",
+            "village_id": "17100212",
+            "name": "Sahakreas",
+            "name_km": "សម្ដេចតេជោ ហ៊ុន សែន អង្គរ"
+        },
+        {
+            "id": "17100212901",
+            "school_type_id": 5,
+            "district_id": 1710,
+            "commune_id": "171002",
+            "village_id": "17100212",
+            "name": "10 Makara",
+            "name_km": "10មករា1979"
+        },
+        {
+            "id": "17100214014",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171002",
+            "village_id": "17100214",
+            "name": "Kesaram",
+            "name_km": "កេសរារាម"
+        },
+        {
+            "id": "17100214504",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171002",
+            "village_id": "17100214",
+            "name": "Kesaram",
+            "name_km": "កេសរារាម"
+        },
+        {
+            "id": "17100302015",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171003",
+            "village_id": "17100302",
+            "name": "Mouk Neak",
+            "name_km": "មុខនាគ"
+        },
+        {
+            "id": "17100302042",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171003",
+            "village_id": "17100302",
+            "name": "Prasat Kauk Chak",
+            "name_km": "ប្រាសាទគោកចក"
+        },
+        {
+            "id": "17100302513",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171003",
+            "village_id": "17100302",
+            "name": "Mouk Neak",
+            "name_km": "មុខនាគ"
+        },
+        {
+            "id": "17100302522",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171003",
+            "village_id": "17100302",
+            "name": "Prasat Kauk Chak",
+            "name_km": "គោកចក"
+        },
+        {
+            "id": "17100302905",
+            "school_type_id": 5,
+            "district_id": 1710,
+            "commune_id": "171003",
+            "village_id": "17100302",
+            "name": "Hun Sen Siemreap",
+            "name_km": "ហ ស សៀមរាប"
+        },
+        {
+            "id": "17100304040",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171003",
+            "village_id": "17100304",
+            "name": "Hun Sen Kauk Ta Chann",
+            "name_km": "គោកតាចាន់"
+        },
+        {
+            "id": "17100305016",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171003",
+            "village_id": "17100305",
+            "name": "Khvean",
+            "name_km": "ខ្វៀន"
+        },
+        {
+            "id": "17100305548",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171003",
+            "village_id": "17100305",
+            "name": "Khvean",
+            "name_km": "ខ្វៀន"
+        },
+        {
+            "id": "17100305715",
+            "school_type_id": 3,
+            "district_id": 1710,
+            "commune_id": "171003",
+            "village_id": "17100305",
+            "name": "Kjo Se Khvean",
+            "name_km": "ខ្វៀន"
+        },
+        {
+            "id": "17100306039",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171003",
+            "village_id": "17100306",
+            "name": "Kauk Beng",
+            "name_km": "គោកបេង"
+        },
+        {
+            "id": "17100306548",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171003",
+            "village_id": "17100306",
+            "name": "Kork Beng",
+            "name_km": "គោកបេង"
+        },
+        {
+            "id": "17100306717",
+            "school_type_id": 3,
+            "district_id": 1710,
+            "commune_id": "171003",
+            "village_id": "17100306",
+            "name": "Bayon",
+            "name_km": "បាយន័"
+        },
+        {
+            "id": "17100307017",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171003",
+            "village_id": "17100307",
+            "name": "Kauk Tnot",
+            "name_km": "គោកត្នោត"
+        },
+        {
+            "id": "17100307537",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171003",
+            "village_id": "17100307",
+            "name": "Kauk Tnot",
+            "name_km": "គោកត្នោត"
+        },
+        {
+            "id": "17100308018",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171003",
+            "village_id": "17100308",
+            "name": "Nokor Krao",
+            "name_km": "នគរក្រៅ"
+        },
+        {
+            "id": "17100308550",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171003",
+            "village_id": "17100308",
+            "name": "Nokor Krao",
+            "name_km": "នគរក្រៅ"
+        },
+        {
+            "id": "17100401019",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171004",
+            "village_id": "17100401",
+            "name": "Wat Bo",
+            "name_km": "វត្តបូព៏"
+        },
+        {
+            "id": "17100401505",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171004",
+            "village_id": "17100401",
+            "name": "Angkor",
+            "name_km": "មត្តេយ្យអង្គរ"
+        },
+        {
+            "id": "17100401517",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171004",
+            "village_id": "17100401",
+            "name": "Wat Bo",
+            "name_km": "វត្តបូព៏"
+        },
+        {
+            "id": "17100401904",
+            "school_type_id": 5,
+            "district_id": 1710,
+            "commune_id": "171004",
+            "village_id": "17100401",
+            "name": "Angkor",
+            "name_km": "អង្គរ"
+        },
+        {
+            "id": "17100402020",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171004",
+            "village_id": "17100402",
+            "name": "Wat Svay",
+            "name_km": "វត្តស្វាយ"
+        },
+        {
+            "id": "17100402506",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171004",
+            "village_id": "17100402",
+            "name": "Wat Svay",
+            "name_km": "វត្តស្វាយ"
+        },
+        {
+            "id": "17100402903",
+            "school_type_id": 5,
+            "district_id": 1710,
+            "commune_id": "171004",
+            "village_id": "17100402",
+            "name": "Hun Sen Wat Svay",
+            "name_km": "ហ៊ុន សែន វត្តស្វាយ"
+        },
+        {
+            "id": "17100403021",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171004",
+            "village_id": "17100403",
+            "name": "Wat Damnak",
+            "name_km": "វត្តដំណាក់"
+        },
+        {
+            "id": "17100405022",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171004",
+            "village_id": "17100405",
+            "name": "Chunlung",
+            "name_km": "ជន្លង់"
+        },
+        {
+            "id": "17100502023",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171005",
+            "village_id": "17100502",
+            "name": "Hun Sen Sras Srang",
+            "name_km": "ហ៊ុន សែន ស្រះស្រង់"
+        },
+        {
+            "id": "17100502711",
+            "school_type_id": 3,
+            "district_id": 1710,
+            "commune_id": "171005",
+            "village_id": "17100502",
+            "name": "Hun Sen Sras Srang",
+            "name_km": "ហ ស ស្រះស្រង់"
+        },
+        {
+            "id": "17100502908",
+            "school_type_id": 4,
+            "district_id": 1710,
+            "commune_id": "171005",
+            "village_id": "17100503",
+            "name": "Nokor Thum",
+            "name_km": "វិទ្យាល័យនគរធំ"
+        },
+        {
+            "id": "17100504024",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171005",
+            "village_id": "17100504",
+            "name": "Kravann",
+            "name_km": "ក្រវ៉ាន់"
+        },
+        {
+            "id": "17100504547",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171005",
+            "village_id": "17100504",
+            "name": "Krovann",
+            "name_km": "ក្រវ៉ាន់"
+        },
+        {
+            "id": "17100506037",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171005",
+            "village_id": "17100506",
+            "name": "Hun Sen Anhchanh",
+            "name_km": "ហ៊ុន​ សែន អញ្ចាញ"
+        },
+        {
+            "id": "17100506041",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171005",
+            "village_id": "17100506",
+            "name": "Samaki Sahakum",
+            "name_km": "សាមគ្គីសហគមន៍"
+        },
+        {
+            "id": "17100506055",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171005",
+            "village_id": "17100506",
+            "name": "Spithleu Anhchanh Angkor",
+            "name_km": "អញ្ចាញអង្គរ"
+        },
+        {
+            "id": "17100506546",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171005",
+            "village_id": "17100506",
+            "name": "Samaki Sahakom",
+            "name_km": "សាមគ្គីសហគមន៍"
+        },
+        {
+            "id": "17100506552",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171005",
+            "village_id": "17100506",
+            "name": "Spithleu Anhchanh Angkor Pre School",
+            "name_km": "ស្ពីធ្លើនអញ្ចាញអង្គរ"
+        },
+        {
+            "id": "17100506553",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171005",
+            "village_id": "17100506",
+            "name": "Hun Sen Anhjanh",
+            "name_km": "ហ សអញ្ចាញ"
+        },
+        {
+            "id": "17100601025",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171006",
+            "village_id": "17100601",
+            "name": "Chreav",
+            "name_km": "ជ្រាវ"
+        },
+        {
+            "id": "17100601511",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171006",
+            "village_id": "17100601",
+            "name": "Chreav",
+            "name_km": "ជ្រាវ"
+        },
+        {
+            "id": "17100601711",
+            "school_type_id": 3,
+            "district_id": 1710,
+            "commune_id": "171006",
+            "village_id": "17100601",
+            "name": "Chreav",
+            "name_km": "ជ្រាវ"
+        },
+        {
+            "id": "17100602026",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171006",
+            "village_id": "17100602",
+            "name": "Khnar",
+            "name_km": "ខ្នារ"
+        },
+        {
+            "id": "17100602054",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171006",
+            "village_id": "17100602",
+            "name": "Ta Pich",
+            "name_km": "តាពេជ្រ"
+        },
+        {
+            "id": "17100602518",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171006",
+            "village_id": "17100602",
+            "name": "Khnar",
+            "name_km": "ខ្នារ"
+        },
+        {
+            "id": "17100602543",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171006",
+            "village_id": "17100602",
+            "name": "Ta Pich",
+            "name_km": "តាពេជ្រ"
+        },
+        {
+            "id": "17100706027",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171007",
+            "village_id": "17100706",
+            "name": "Chong Khneas",
+            "name_km": "ចុងឃ្នៀស"
+        },
+        {
+            "id": "17100706549",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171007",
+            "village_id": "17100706",
+            "name": "Chong Khneas",
+            "name_km": "ចុងឃ្នៀស"
+        },
+        {
+            "id": "17100706705",
+            "school_type_id": 3,
+            "district_id": 1710,
+            "commune_id": "171007",
+            "village_id": "17100706",
+            "name": "Chong Khneas",
+            "name_km": "ចុងឃ្នាស"
+        },
+        {
+            "id": "17100802028",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171008",
+            "village_id": "17100802",
+            "name": "Sambour",
+            "name_km": "សំបួរ"
+        },
+        {
+            "id": "17100802539",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171008",
+            "village_id": "17100802",
+            "name": "Sambour",
+            "name_km": "សំបួរ"
+        },
+        {
+            "id": "17100802716",
+            "school_type_id": 3,
+            "district_id": 1710,
+            "commune_id": "171008",
+            "village_id": "17100802",
+            "name": "Sambour",
+            "name_km": "សៀងណាំ សំបួរ"
+        },
+        {
+            "id": "17100901029",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171009",
+            "village_id": "17100901",
+            "name": "Po Banteay Chey",
+            "name_km": "ពោធិ៍បន្ទាយជយ៍"
+        },
+        {
+            "id": "17100901516",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171009",
+            "village_id": "17100901",
+            "name": "Po Banteay Chey",
+            "name_km": "បន្ទាយជយ័"
+        },
+        {
+            "id": "17100901706",
+            "school_type_id": 3,
+            "district_id": 1710,
+            "commune_id": "171009",
+            "village_id": "17100901",
+            "name": "Po Banteay Chey",
+            "name_km": "ពោធិ៍បន្ទាយជ័យ"
+        },
+        {
+            "id": "17100902030",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171009",
+            "village_id": "17100902",
+            "name": "Phnom Krom",
+            "name_km": "ភ្នំក្រោមស៊ូវ៉ុន"
+        },
+        {
+            "id": "17100902538",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171009",
+            "village_id": "17100902",
+            "name": "Phnom Krom Sou Von",
+            "name_km": "ភ្នំក្រោមស៊ូវ៉ុន"
+        },
+        {
+            "id": "17100902907",
+            "school_type_id": 5,
+            "district_id": 1710,
+            "commune_id": "171009",
+            "village_id": "17100902",
+            "name": "Phnom Prem Sou Von",
+            "name_km": "ភ្នំក្រោមស៊ូវុន"
+        },
+        {
+            "id": "17100904031",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171009",
+            "village_id": "17100904",
+            "name": "Kong Moch",
+            "name_km": "គង់ម៉ុច"
+        },
+        {
+            "id": "17100904514",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171009",
+            "village_id": "17100904",
+            "name": "Kong Moch",
+            "name_km": "គង់ម៉ុច"
+        },
+        {
+            "id": "17100905032",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171009",
+            "village_id": "17100905",
+            "name": "Krasaing Rolaing",
+            "name_km": "ក្រសាំងរលេីង"
+        },
+        {
+            "id": "17100905545",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171009",
+            "village_id": "17100905",
+            "name": "Krasaing Rolaing",
+            "name_km": "ត្រពាំងរលេីង"
+        },
+        {
+            "id": "17100906038",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171009",
+            "village_id": "17100906",
+            "name": "Spean Chreav AMILO",
+            "name_km": "អាមីល្យូ"
+        },
+        {
+            "id": "17100906509",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171009",
+            "village_id": "17100906",
+            "name": "Wat Pren",
+            "name_km": "វត្តព្រិន"
+        },
+        {
+            "id": "17100906515",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171009",
+            "village_id": "17100906",
+            "name": "Spean Chreav AMILO",
+            "name_km": "អាមីល្យូ"
+        },
+        {
+            "id": "17100907033",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171009",
+            "village_id": "17100907",
+            "name": "Aranh Sakor",
+            "name_km": "អារញសាគរ"
+        },
+        {
+            "id": "17100907523",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171009",
+            "village_id": "17100907",
+            "name": "Aranh Sakor",
+            "name_km": "អារញ្ញាសាគរ"
+        },
+        {
+            "id": "17100907713",
+            "school_type_id": 3,
+            "district_id": 1710,
+            "commune_id": "171009",
+            "village_id": "17100907",
+            "name": "Aranh Sakor Khat Beut",
+            "name_km": "អារញ្ញសាគរខាតបឺត"
+        },
+        {
+            "id": "17100907906",
+            "school_type_id": 4,
+            "district_id": 1710,
+            "commune_id": "171009",
+            "village_id": "17100907",
+            "name": "Aranh Sako CFC",
+            "name_km": "អារញ្ញសាគរសឺអែបាសី"
+        },
+        {
+            "id": "17101002034",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171010",
+            "village_id": "17101002",
+            "name": "Phoum Thnal",
+            "name_km": "ភូមិថ្នល់"
+        },
+        {
+            "id": "17101002524",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171010",
+            "village_id": "17101002",
+            "name": "Phoum Thnal",
+            "name_km": "ភូមិថ្នល់"
+        },
+        {
+            "id": "17101002902",
+            "school_type_id": 5,
+            "district_id": 1710,
+            "commune_id": "171010",
+            "village_id": "17101002",
+            "name": "Samdech Euv",
+            "name_km": "សម្តេចឪ"
+        },
+        {
+            "id": "17101004035",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171010",
+            "village_id": "17101004",
+            "name": "Prey Thom",
+            "name_km": "ព្រៃធំ"
+        },
+        {
+            "id": "17101004544",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171010",
+            "village_id": "17101004",
+            "name": "Prey Thom",
+            "name_km": "ព្រៃធំ"
+        },
+        {
+            "id": "17101006036",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171010",
+            "village_id": "17101006",
+            "name": "Chanloang",
+            "name_km": "ចន្លោង"
+        },
+        {
+            "id": "17101006549",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171010",
+            "village_id": "17101006",
+            "name": "Sranger",
+            "name_km": "ចន្លោង"
+        },
+        {
+            "id": "17101104042",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171011",
+            "village_id": "17101104",
+            "name": "Krabei Real",
+            "name_km": "ក្របីរៀល"
+        },
+        {
+            "id": "17101104526",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171011",
+            "village_id": "17101104",
+            "name": "Krabei Real",
+            "name_km": "ក្របីរៀល"
+        },
+        {
+            "id": "17101104709",
+            "school_type_id": 3,
+            "district_id": 1710,
+            "commune_id": "171011",
+            "village_id": "17101104",
+            "name": "Krabei Real",
+            "name_km": "ក្របីរៀល"
+        },
+        {
+            "id": "17101109043",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171011",
+            "village_id": "17101109",
+            "name": "Prey Toteung",
+            "name_km": "ព្រៃទទឺង"
+        },
+        {
+            "id": "17101110540",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171011",
+            "village_id": "17101110",
+            "name": "Prey Toteung",
+            "name_km": "ព្រៃទទឹង"
+        },
+        {
+            "id": "17101201044",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171012",
+            "village_id": "17101201",
+            "name": "Kauk Daung",
+            "name_km": "គោកដូង"
+        },
+        {
+            "id": "17101201542",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171012",
+            "village_id": "17101201",
+            "name": "Kauk Daung",
+            "name_km": "គោកដូង"
+        },
+        {
+            "id": "17101202045",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171012",
+            "village_id": "17101202",
+            "name": "Sieng Nam Sandann",
+            "name_km": "សៀងណាំសណ្ដាន់"
+        },
+        {
+            "id": "17101202527",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171012",
+            "village_id": "17101202",
+            "name": "Sieng Nam Sandann",
+            "name_km": "សៀងណាំសណ្ដាន់"
+        },
+        {
+            "id": "17101203046",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171012",
+            "village_id": "17101203",
+            "name": "Chey",
+            "name_km": "ជយ័"
+        },
+        {
+            "id": "17101203528",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171012",
+            "village_id": "17101203",
+            "name": "Chey",
+            "name_km": "ជយ័"
+        },
+        {
+            "id": "17101205047",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171012",
+            "village_id": "17101205",
+            "name": "Banteay Chheu",
+            "name_km": "បន្ទាយលើ"
+        },
+        {
+            "id": "17101205529",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171012",
+            "village_id": "17101205",
+            "name": "Banteay Chheu",
+            "name_km": "បន្ទាយឈេី"
+        },
+        {
+            "id": "17101209048",
+            "school_type_id": 2,
+            "district_id": 1710,
+            "commune_id": "171012",
+            "village_id": "17101209",
+            "name": "Thai Syou",
+            "name_km": "ថៃស្យូ"
+        },
+        {
+            "id": "17101209541",
+            "school_type_id": 1,
+            "district_id": 1710,
+            "commune_id": "171012",
+            "village_id": "17101209",
+            "name": "Thai Syou",
+            "name_km": "ថៃស្យូ"
+        },
+        {
+            "id": "17101209718",
+            "school_type_id": 3,
+            "district_id": 1710,
+            "commune_id": "171012",
+            "village_id": "17101209",
+            "name": "Thai Syou",
+            "name_km": "ថៃស្យូ"
+        }
+    ]
+}

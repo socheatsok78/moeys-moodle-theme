@@ -1,0 +1,689 @@
+{
+    "id": 1303,
+    "schools": [
+        {
+            "id": "13030101001",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130301",
+            "village_id": "13030101",
+            "name": "Pramaul Phdom Choam Ksan",
+            "name_km": "សាលាបឋមសិក្សាជាំក្សាន្ត"
+        },
+        {
+            "id": "13030101501",
+            "school_type_id": 1,
+            "district_id": 1303,
+            "commune_id": "130301",
+            "village_id": "13030101",
+            "name": "Choam Ksan",
+            "name_km": "សាលាមត្តេយ្យជាំក្សាន្ត"
+        },
+        {
+            "id": "13030102002",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130301",
+            "village_id": "13030102",
+            "name": "Kauk Sralao",
+            "name_km": "សាលាបឋមសិក្សាគោគស្រឡៅ"
+        },
+        {
+            "id": "13030102502",
+            "school_type_id": 1,
+            "district_id": 1303,
+            "commune_id": "130301",
+            "village_id": "13030102",
+            "name": "Kauk Sralao",
+            "name_km": "គោកស្រឡៅ"
+        },
+        {
+            "id": "13030102701",
+            "school_type_id": 3,
+            "district_id": 1303,
+            "commune_id": "130301",
+            "village_id": "13030102",
+            "name": "Choam Ksan",
+            "name_km": "អនុវិទ្យាល័យជាំក្សាន្ត"
+        },
+        {
+            "id": "13030102901",
+            "school_type_id": 4,
+            "district_id": 1303,
+            "commune_id": "130301",
+            "village_id": "13030102",
+            "name": "Choam Ksan",
+            "name_km": "វិទ្យាល័យជាំក្សាន្ត"
+        },
+        {
+            "id": "13030104003",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130301",
+            "village_id": "13030104",
+            "name": "Phoum Veal Po",
+            "name_km": "សាលាបឋមសិក្សាវាលពោធ៏"
+        },
+        {
+            "id": "13030105004",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130301",
+            "village_id": "13030105",
+            "name": "Phoum Veal Thom",
+            "name_km": "សាលាបឋមសិក្សាវាលធំ"
+        },
+        {
+            "id": "13030105508",
+            "school_type_id": 1,
+            "district_id": 1303,
+            "commune_id": "130301",
+            "village_id": "13030105",
+            "name": "Veal Thom",
+            "name_km": "មត្តេយ្យសិក្សាវាលធំ"
+        },
+        {
+            "id": "13030106024",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130301",
+            "village_id": "13030106",
+            "name": "Bun Rany Hun Sen Trapaing Sangker",
+            "name_km": "ប៊ុនរ៉ានីហ.សត្រពាំងសង្កែ"
+        },
+        {
+            "id": "13030107035",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130301",
+            "village_id": "13030107",
+            "name": "Chheu Teal Korng",
+            "name_km": "ឈើទាលគង"
+        },
+        {
+            "id": "13030107045",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130301",
+            "village_id": "13030107",
+            "name": "O Da",
+            "name_km": "សាលាបឋមសិក្សាអូរដាអានសេះ"
+        },
+        {
+            "id": "13030107516",
+            "school_type_id": 1,
+            "district_id": 1303,
+            "commune_id": "130301",
+            "village_id": "13030107",
+            "name": "Chheu Teal Korng",
+            "name_km": "ឈើទាលគង"
+        },
+        {
+            "id": "13030108036",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130301",
+            "village_id": "13030108",
+            "name": "Chheu Teal Kram",
+            "name_km": "សាលាបឋមសិក្សាទួលឈើក្រម"
+        },
+        {
+            "id": "13030108517",
+            "school_type_id": 1,
+            "district_id": 1303,
+            "commune_id": "130301",
+            "village_id": "13030101",
+            "name": "Tuol Chheurkram",
+            "name_km": "ទួលឈើក្រម"
+        },
+        {
+            "id": "13030201019",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130302",
+            "village_id": "13030201",
+            "name": "Bangkeun Phal",
+            "name_km": "ស្រះម្លិះគាត ឈន់"
+        },
+        {
+            "id": "13030205012",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130302",
+            "village_id": "13030205",
+            "name": "Phoum O Ksan",
+            "name_km": "សាលាបឋមសិក្សាអូរក្សាន្ត"
+        },
+        {
+            "id": "13030206021",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130302",
+            "village_id": "13030206",
+            "name": "Samaki",
+            "name_km": "សាលាបឋមសិក្សាសាមគ្គី"
+        },
+        {
+            "id": "13030207025",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130302",
+            "village_id": "13030207",
+            "name": "O Chunh",
+            "name_km": "សាលាបឋមសិក្សាអូរជុញ"
+        },
+        {
+            "id": "13030207519",
+            "school_type_id": 1,
+            "district_id": 1303,
+            "commune_id": "130302",
+            "village_id": "13030208",
+            "name": "O Jung",
+            "name_km": "អូរជុញ"
+        },
+        {
+            "id": "13030208028",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130302",
+            "village_id": "13030208",
+            "name": "Sen Rungroeung 1",
+            "name_km": "សែនរុងរឿង១"
+        },
+        {
+            "id": "13030208707",
+            "school_type_id": 3,
+            "district_id": 1303,
+            "commune_id": "130302",
+            "village_id": "13030208",
+            "name": "O Chunh Sen Chey",
+            "name_km": "អនុវិទ្យាល័យអូរជុញសែនជ័យ"
+        },
+        {
+            "id": "13030209029",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130302",
+            "village_id": "13030209",
+            "name": "Sen Rungroeung 2",
+            "name_km": "សែនរុងរឿង២"
+        },
+        {
+            "id": "13030210030",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130302",
+            "village_id": "13030210",
+            "name": "Sen Rungroeung 3",
+            "name_km": "សែនរុងរឿង៣"
+        },
+        {
+            "id": "13030211031",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130302",
+            "village_id": "13030211",
+            "name": "Sen Rungroeung 4",
+            "name_km": "សែនរុងរឿង៤"
+        },
+        {
+            "id": "13030212032",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130302",
+            "village_id": "13030212",
+            "name": "Sen Rungroeung 5",
+            "name_km": "សែនរុងរឿង៥"
+        },
+        {
+            "id": "13030213033",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130302",
+            "village_id": "13030213",
+            "name": "Sen Teches",
+            "name_km": "សែនតេជៈ"
+        },
+        {
+            "id": "13030213506",
+            "school_type_id": 1,
+            "district_id": 1303,
+            "commune_id": "130302",
+            "village_id": "13030213",
+            "name": "Sen Teches",
+            "name_km": "បឋមសិក្សាសែនតេជៈ"
+        },
+        {
+            "id": "13030214034",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130302",
+            "village_id": "13030214",
+            "name": "Sen Techo Morokot",
+            "name_km": "តេជោមរកត"
+        },
+        {
+            "id": "13030214507",
+            "school_type_id": 1,
+            "district_id": 1303,
+            "commune_id": "130302",
+            "village_id": "13030214",
+            "name": "Sen Techo Morokot",
+            "name_km": "តេជោមរកត"
+        },
+        {
+            "id": "13030301008",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130303",
+            "village_id": "13030301",
+            "name": "Phoum Krala Peas",
+            "name_km": "សាលាបឋមសិក្សាក្រឡាពាស"
+        },
+        {
+            "id": "13030302009",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130303",
+            "village_id": "13030302",
+            "name": "Tmat Peuy",
+            "name_km": "សាលាបឋមសិក្សាត្មាតប៉ើយ"
+        },
+        {
+            "id": "13030302515",
+            "school_type_id": 1,
+            "district_id": 1303,
+            "commune_id": "130303",
+            "village_id": "13030302",
+            "name": "Tmat Peuy",
+            "name_km": "ត្មាតប៉ើយ"
+        },
+        {
+            "id": "13030302704",
+            "school_type_id": 3,
+            "district_id": 1303,
+            "commune_id": "130303",
+            "village_id": "13030302",
+            "name": "Tmat Peuy",
+            "name_km": "អនុវិទ្យាល័យត្មាតប៉ើយ"
+        },
+        {
+            "id": "13030401010",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130304",
+            "village_id": "13030401",
+            "name": "Rumdoh Sre",
+            "name_km": "សាលាបឋមសិក្សារំដោះស្រែ"
+        },
+        {
+            "id": "13030401503",
+            "school_type_id": 1,
+            "district_id": 1303,
+            "commune_id": "130304",
+            "village_id": "13030401",
+            "name": "Rumdoh Sre",
+            "name_km": "រំដោះស្រែ"
+        },
+        {
+            "id": "13030401702",
+            "school_type_id": 3,
+            "district_id": 1303,
+            "commune_id": "130304",
+            "village_id": "13030401",
+            "name": "Hun Sen Rumdoh Sre",
+            "name_km": "អនុវិទ្យាល័យរំដោះស្រែ"
+        },
+        {
+            "id": "13030403011",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130304",
+            "village_id": "13030403",
+            "name": "Rolum Thmar",
+            "name_km": "សាលាបឋមសិក្សារលំថ្ម"
+        },
+        {
+            "id": "13030405709",
+            "school_type_id": 3,
+            "district_id": 1303,
+            "commune_id": "130304",
+            "village_id": "13030405",
+            "name": "Morokot Techosen Secondary School",
+            "name_km": "មរតកតេជោសែន"
+        },
+        {
+            "id": "13030501013",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130305",
+            "village_id": "13030501",
+            "name": "Yeang",
+            "name_km": "សាលាបឋមសិក្សាយាង"
+        },
+        {
+            "id": "13030502014",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130305",
+            "village_id": "13030502",
+            "name": "Koang Yaung",
+            "name_km": "សាលាបឋមសិក្សាកោងយោង"
+        },
+        {
+            "id": "13030502510",
+            "school_type_id": 1,
+            "district_id": 1303,
+            "commune_id": "130305",
+            "village_id": "13030502",
+            "name": "Koang Yaung",
+            "name_km": "កោងយោង"
+        },
+        {
+            "id": "13030503018",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130305",
+            "village_id": "13030503",
+            "name": "Rasmey",
+            "name_km": "សាលាបឋមសិក្សារស្មី"
+        },
+        {
+            "id": "13030504015",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130305",
+            "village_id": "13030504",
+            "name": "Kampenh",
+            "name_km": "សាលាបឋមសិក្សាកំពេញ"
+        },
+        {
+            "id": "13030505016",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130305",
+            "village_id": "13030505",
+            "name": "Antil",
+            "name_km": "សាលាបឋមសិក្សាអន្ទិល"
+        },
+        {
+            "id": "13030506017",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130305",
+            "village_id": "13030506",
+            "name": "Choam Sre",
+            "name_km": "សាលាបឋមសិក្សាជាំស្រែ"
+        },
+        {
+            "id": "13030506708",
+            "school_type_id": 3,
+            "district_id": 1303,
+            "commune_id": "130305",
+            "village_id": "13030506",
+            "name": "Choam Sre",
+            "name_km": "អនុវិទ្យាល័យជាំស្រែទួលកាច់ផ្កា"
+        },
+        {
+            "id": "13030507026",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130305",
+            "village_id": "13030507",
+            "name": "Chunhchaing",
+            "name_km": "សាលាបឋមសិក្សាជញ្ជាំង"
+        },
+        {
+            "id": "13030508042",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130305",
+            "village_id": "13030508",
+            "name": "Morodok Techo Sen",
+            "name_km": "មរតកតេជោសែន"
+        },
+        {
+            "id": "13030508046",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130305",
+            "village_id": "13030508",
+            "name": "Barmey Techo Sen",
+            "name_km": "បារម៉ីតេជោសែន"
+        },
+        {
+            "id": "13030508518",
+            "school_type_id": 1,
+            "district_id": 1303,
+            "commune_id": "130301",
+            "village_id": "13030101",
+            "name": "Morodak Dechor Sen",
+            "name_km": "មរតកតេជោសែន"
+        },
+        {
+            "id": "13030509043",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130305",
+            "village_id": "13030509",
+            "name": "Komprak",
+            "name_km": "សាលាបឋមសិក្សាកំប្រាក់"
+        },
+        {
+            "id": "13030510044",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130305",
+            "village_id": "13030510",
+            "name": "Sre Krasaiang",
+            "name_km": "សាលាបឋមសិក្សាស្រែក្រសាំង"
+        },
+        {
+            "id": "13030601005",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130306",
+            "village_id": "13030601",
+            "name": "Kantuot",
+            "name_km": "សាលាបឋមសិក្សាកន្ទួត"
+        },
+        {
+            "id": "13030602006",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130306",
+            "village_id": "13030602",
+            "name": "Sra-em",
+            "name_km": "សាលាបឋមសិក្សាហ៊ុនសែនស្រអែម"
+        },
+        {
+            "id": "13030602505",
+            "school_type_id": 1,
+            "district_id": 1303,
+            "commune_id": "130306",
+            "village_id": "13030602",
+            "name": "Hun Sen Sra-em",
+            "name_km": "បឋមសិក្សាហ៊ុនសែនស្រអែម"
+        },
+        {
+            "id": "13030602520",
+            "school_type_id": 1,
+            "district_id": 1303,
+            "commune_id": "130306",
+            "village_id": "13030602",
+            "name": "Techo H.S Promvihear Thor",
+            "name_km": "តេជោហ៊ុនសែនព្រហ្មវិហាធម៌"
+        },
+        {
+            "id": "13030602902",
+            "school_type_id": 5,
+            "district_id": 1303,
+            "commune_id": "130306",
+            "village_id": "13030602",
+            "name": "Sra-em",
+            "name_km": "វិទ្យាល័យស្រអែម"
+        },
+        {
+            "id": "13030603022",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130306",
+            "village_id": "13030603",
+            "name": "Mittapheap",
+            "name_km": "សាលាបឋមសិក្សាមិត្តភាព"
+        },
+        {
+            "id": "13030603511",
+            "school_type_id": 1,
+            "district_id": 1303,
+            "commune_id": "130306",
+            "village_id": "13030603",
+            "name": "Mittapheap",
+            "name_km": "មិត្តភាព"
+        },
+        {
+            "id": "13030604007",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130306",
+            "village_id": "13030604",
+            "name": "Char",
+            "name_km": "សាលាបឋមសិក្សាចារ"
+        },
+        {
+            "id": "13030604512",
+            "school_type_id": 1,
+            "district_id": 1303,
+            "commune_id": "130306",
+            "village_id": "13030604",
+            "name": "Char",
+            "name_km": "បឋមសិក្សាចារ"
+        },
+        {
+            "id": "13030605020",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130306",
+            "village_id": "13030605",
+            "name": "Hun Sen Prasat Preah Vihear",
+            "name_km": "សម្តេចតេជោហ៊ុនសែនស្រះក្តុល"
+        },
+        {
+            "id": "13030605504",
+            "school_type_id": 1,
+            "district_id": 1303,
+            "commune_id": "130306",
+            "village_id": "13030605",
+            "name": "Hun Sen Sre Kdol",
+            "name_km": "សម្តេចតេជោហ៊ុនសែនស្រះក្តុល"
+        },
+        {
+            "id": "13030605706",
+            "school_type_id": 3,
+            "district_id": 1303,
+            "commune_id": "130306",
+            "village_id": "13030605",
+            "name": "Sreah Kdol",
+            "name_km": "អនុវិហ៊ុនសែនស្រះក្តុល"
+        },
+        {
+            "id": "13030607027",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130306",
+            "village_id": "13030607",
+            "name": "Techo Hun Sen Prumvihearthor",
+            "name_km": "តេជោហ៊ុនសែនព្រហ្មវិហារធ៌"
+        },
+        {
+            "id": "13030608037",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130306",
+            "village_id": "13030608",
+            "name": "Khemarak Techo",
+            "name_km": "ខេមរតេជោ"
+        },
+        {
+            "id": "13030608514",
+            "school_type_id": 1,
+            "district_id": 1303,
+            "commune_id": "130306",
+            "village_id": "13030608",
+            "name": "Khemarak Techo",
+            "name_km": "ខេមរតេជោ"
+        },
+        {
+            "id": "13030608705",
+            "school_type_id": 3,
+            "district_id": 1303,
+            "commune_id": "130306",
+            "village_id": "13030608",
+            "name": "Khemarak Techo",
+            "name_km": "អនុវិទ្យាល័យខេមរតេជោ"
+        },
+        {
+            "id": "13030609038",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130306",
+            "village_id": "13030609",
+            "name": "Bun Rany Hun Sen Stung Khiev",
+            "name_km": "ប៊ុនរ៉ានីស្ទឹងខៀវ"
+        },
+        {
+            "id": "13030610039",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130306",
+            "village_id": "13030610",
+            "name": "Senchey",
+            "name_km": "សែនជ័យ"
+        },
+        {
+            "id": "13030610509",
+            "school_type_id": 1,
+            "district_id": 1303,
+            "commune_id": "130306",
+            "village_id": "13030610",
+            "name": "Sen Chey",
+            "name_km": "បឋមសិក្សាសែនជ័យ"
+        },
+        {
+            "id": "13030611040",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130306",
+            "village_id": "13030611",
+            "name": "Techo Bosbov",
+            "name_km": "តេជោបុស្សស្បូវ"
+        },
+        {
+            "id": "13030611513",
+            "school_type_id": 1,
+            "district_id": 1303,
+            "commune_id": "130306",
+            "village_id": "13030611",
+            "name": "Techo Bosbov",
+            "name_km": "បុស្សស្បូវ"
+        },
+        {
+            "id": "13030612041",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": "130306",
+            "village_id": "13030612",
+            "name": "Techo Thaomcheat",
+            "name_km": "តេជោធម្មជាតិ"
+        },
+        {
+            "id": "13030709047",
+            "school_type_id": 2,
+            "district_id": 1303,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Techo Phnom Dang Rek",
+            "name_km": "តេជោភ្នំដងរ៉ែក"
+        }
+    ]
+}

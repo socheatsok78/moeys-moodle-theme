@@ -1,0 +1,914 @@
+{
+    "id": 1408,
+    "schools": [
+        {
+            "id": "14080102001",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140801",
+            "village_id": "14080102",
+            "name": "Kampong Popil",
+            "name_km": "កំពង់ពពិល"
+        },
+        {
+            "id": "14080102506",
+            "school_type_id": 1,
+            "district_id": 1408,
+            "commune_id": "140801",
+            "village_id": "14080102",
+            "name": "Kampong Popil",
+            "name_km": "សាកាម៉ូតូកំពង់ពពិល"
+        },
+        {
+            "id": "14080102902",
+            "school_type_id": 5,
+            "district_id": 1408,
+            "commune_id": "140801",
+            "village_id": "14080102",
+            "name": "Hun Sen Kampong Popil",
+            "name_km": "ហ៊ុនសែន កំពង់ពពិល"
+        },
+        {
+            "id": "14080104005",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140801",
+            "village_id": "14080104",
+            "name": "Tral",
+            "name_km": "ត្រាល"
+        },
+        {
+            "id": "14080104524",
+            "school_type_id": 1,
+            "district_id": 1408,
+            "commune_id": "140801",
+            "village_id": "14080104",
+            "name": "Tral",
+            "name_km": "ត្រាល"
+        },
+        {
+            "id": "14080107003",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140801",
+            "village_id": "14080107",
+            "name": "Khsom Cheung",
+            "name_km": "ខ្សុំជើង"
+        },
+        {
+            "id": "14080107527",
+            "school_type_id": 1,
+            "district_id": 1408,
+            "commune_id": "140801",
+            "village_id": "14080107",
+            "name": "Khsom Cheung",
+            "name_km": "ខ្សុំជើង"
+        },
+        {
+            "id": "14080108002",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140801",
+            "village_id": "14080108",
+            "name": "Khsom Tbaung",
+            "name_km": "ខ្សុំត្បូង"
+        },
+        {
+            "id": "14080110004",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140801",
+            "village_id": "14080110",
+            "name": "Taing Roleang",
+            "name_km": "តាំងរលាង"
+        },
+        {
+            "id": "14080110539",
+            "school_type_id": 1,
+            "district_id": 1408,
+            "commune_id": "140801",
+            "village_id": "14080110",
+            "name": "Taing Roleang",
+            "name_km": "តាំងរលាង"
+        },
+        {
+            "id": "14080201008",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140802",
+            "village_id": "14080201",
+            "name": "Kanhchom",
+            "name_km": "កញ្ចំ"
+        },
+        {
+            "id": "14080201509",
+            "school_type_id": 1,
+            "district_id": 1408,
+            "commune_id": "140802",
+            "village_id": "14080201",
+            "name": "Kanhchom",
+            "name_km": "កញ្ចំ"
+        },
+        {
+            "id": "14080201702",
+            "school_type_id": 3,
+            "district_id": 1408,
+            "commune_id": "140802",
+            "village_id": "14080201",
+            "name": "Kanhchom",
+            "name_km": "ហ៊េវ៉ាក់កញ្ចំ"
+        },
+        {
+            "id": "14080202011",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140802",
+            "village_id": "14080202",
+            "name": "Trea",
+            "name_km": "ទ្រា"
+        },
+        {
+            "id": "14080202513",
+            "school_type_id": 1,
+            "district_id": 1408,
+            "commune_id": "140802",
+            "village_id": "14080202",
+            "name": "Trea",
+            "name_km": "ទ្រា"
+        },
+        {
+            "id": "14080203007",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140802",
+            "village_id": "14080203",
+            "name": "Daung",
+            "name_km": "ដូង"
+        },
+        {
+            "id": "14080203505",
+            "school_type_id": 1,
+            "district_id": 1408,
+            "commune_id": "140802",
+            "village_id": "14080203",
+            "name": "Daung",
+            "name_km": "ដូង"
+        },
+        {
+            "id": "14080204059",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140802",
+            "village_id": "14080204",
+            "name": "Thkov",
+            "name_km": "ថ្កូវ"
+        },
+        {
+            "id": "14080205010",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140802",
+            "village_id": "14080205",
+            "name": "Tonle Chrey",
+            "name_km": "ទន្លេជ្រៃ"
+        },
+        {
+            "id": "14080205510",
+            "school_type_id": 1,
+            "district_id": 1408,
+            "commune_id": "140802",
+            "village_id": "14080205",
+            "name": "Tonle Chrey",
+            "name_km": "ទន្លេជ្រៃ"
+        },
+        {
+            "id": "14080207006",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140802",
+            "village_id": "14080207",
+            "name": "Banteay Teuk",
+            "name_km": "បន្ទាយទឹក"
+        },
+        {
+            "id": "14080207512",
+            "school_type_id": 1,
+            "district_id": 1408,
+            "commune_id": "140802",
+            "village_id": "14080207",
+            "name": "Banteay Teuk",
+            "name_km": "បន្ទាយទឹក"
+        },
+        {
+            "id": "14080208009",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140802",
+            "village_id": "14080208",
+            "name": "Prey Tumpoung",
+            "name_km": "ព្រៃទំពូង"
+        },
+        {
+            "id": "14080208525",
+            "school_type_id": 1,
+            "district_id": 1408,
+            "commune_id": "140802",
+            "village_id": "14080208",
+            "name": "Prey Tumpoung",
+            "name_km": "ព្រៃទំពូង"
+        },
+        {
+            "id": "14080302014",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140803",
+            "village_id": "14080302",
+            "name": "Pich Mony Rath",
+            "name_km": "ពេជ្រមុនីរត្ន"
+        },
+        {
+            "id": "14080303012",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140803",
+            "village_id": "14080303",
+            "name": "Kampong Praing",
+            "name_km": "កំពង់ប្រាំង"
+        },
+        {
+            "id": "14080304015",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140803",
+            "village_id": "14080304",
+            "name": "Sambour",
+            "name_km": "សំបួរ"
+        },
+        {
+            "id": "14080304710",
+            "school_type_id": 3,
+            "district_id": 1408,
+            "commune_id": "140803",
+            "village_id": "14080304",
+            "name": "Kampong Praing",
+            "name_km": "កំពង់ប្រាំង"
+        },
+        {
+            "id": "14080305013",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140803",
+            "village_id": "14080305",
+            "name": "Meanchey",
+            "name_km": "មានជ័យ"
+        },
+        {
+            "id": "14080501019",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140805",
+            "village_id": "14080501",
+            "name": "Andaung",
+            "name_km": "អណ្ដូង"
+        },
+        {
+            "id": "14080501537",
+            "school_type_id": 1,
+            "district_id": 1408,
+            "commune_id": "140805",
+            "village_id": "14080501",
+            "name": "Andaung",
+            "name_km": "អណ្តូង"
+        },
+        {
+            "id": "14080502023",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140805",
+            "village_id": "14080502",
+            "name": "Mesar Prachann Leu",
+            "name_km": "មេសរប្រចាន់លើ"
+        },
+        {
+            "id": "14080502536",
+            "school_type_id": 1,
+            "district_id": 1408,
+            "commune_id": "140805",
+            "village_id": "14080502",
+            "name": "Mesar Prachan Leu",
+            "name_km": "មេសរប្រចាន់លើ"
+        },
+        {
+            "id": "14080503022",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140805",
+            "village_id": "14080503",
+            "name": "Mesar Prachann",
+            "name_km": "មេសរប្រចាន់"
+        },
+        {
+            "id": "14080503535",
+            "school_type_id": 1,
+            "district_id": 1408,
+            "commune_id": "140805",
+            "village_id": "14080503",
+            "name": "Mesar Prachan",
+            "name_km": "មេសរប្រចាន់"
+        },
+        {
+            "id": "14080504020",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140805",
+            "village_id": "14080504",
+            "name": "Kampong Trea",
+            "name_km": "កំពង់ទ្រា"
+        },
+        {
+            "id": "14080504704",
+            "school_type_id": 3,
+            "district_id": 1408,
+            "commune_id": "140805",
+            "village_id": "14080504",
+            "name": "Mesar Prachann",
+            "name_km": "មេសរប្រចាន់"
+        },
+        {
+            "id": "14080505024",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140805",
+            "village_id": "14080505",
+            "name": "Prek Champa",
+            "name_km": "ព្រែកចំប៉ា"
+        },
+        {
+            "id": "14080506021",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140805",
+            "village_id": "14080506",
+            "name": "Memol",
+            "name_km": "មេមល់"
+        },
+        {
+            "id": "14080507025",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140805",
+            "village_id": "14080507",
+            "name": "Yaut",
+            "name_km": "យោត"
+        },
+        {
+            "id": "14080507530",
+            "school_type_id": 1,
+            "district_id": 1408,
+            "commune_id": "140805",
+            "village_id": "14080507",
+            "name": "Yaut",
+            "name_km": "យោត"
+        },
+        {
+            "id": "14080701029",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140807",
+            "village_id": "14080701",
+            "name": "Angkeas Dei",
+            "name_km": "អង្គាសដី"
+        },
+        {
+            "id": "14080701543",
+            "school_type_id": 1,
+            "district_id": 1408,
+            "commune_id": "140807",
+            "village_id": "14080701",
+            "name": "Angkeas Dei",
+            "name_km": "អង្គាសដី"
+        },
+        {
+            "id": "14080702034",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140807",
+            "village_id": "14080702",
+            "name": "Prum",
+            "name_km": "ព្រហ្ម"
+        },
+        {
+            "id": "14080702533",
+            "school_type_id": 1,
+            "district_id": 1408,
+            "commune_id": "140807",
+            "village_id": "14080706",
+            "name": "Prum",
+            "name_km": "ព្រហ្ម"
+        },
+        {
+            "id": "14080703035",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140807",
+            "village_id": "14080703",
+            "name": "Samaki",
+            "name_km": "សាមគ្គី"
+        },
+        {
+            "id": "14080703514",
+            "school_type_id": 1,
+            "district_id": 1408,
+            "commune_id": "140807",
+            "village_id": "14080703",
+            "name": "Samaki",
+            "name_km": "សាមគ្គី"
+        },
+        {
+            "id": "14080705033",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140807",
+            "village_id": "14080705",
+            "name": "Prey Sla",
+            "name_km": "ព្រៃស្លា"
+        },
+        {
+            "id": "14080705521",
+            "school_type_id": 1,
+            "district_id": 1408,
+            "commune_id": "140807",
+            "village_id": "14080705",
+            "name": "Prey Sla",
+            "name_km": "ព្រៃស្លា"
+        },
+        {
+            "id": "14080706032",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140807",
+            "village_id": "14080706",
+            "name": "Prey Pneuv",
+            "name_km": "ព្រៃព្នៅ"
+        },
+        {
+            "id": "14080706523",
+            "school_type_id": 1,
+            "district_id": 1408,
+            "commune_id": "140807",
+            "village_id": "14080706",
+            "name": "Prey Pneuv",
+            "name_km": "ព្រៃព្នៅ"
+        },
+        {
+            "id": "14080706903",
+            "school_type_id": 5,
+            "district_id": 1408,
+            "commune_id": "140807",
+            "village_id": "14080706",
+            "name": "Prey Pneuv",
+            "name_km": "ព្រៃព្នៅ"
+        },
+        {
+            "id": "14080707031",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140807",
+            "village_id": "14080707",
+            "name": "Kruos Samrap",
+            "name_km": "គ្រួស-សំរាប"
+        },
+        {
+            "id": "14080707542",
+            "school_type_id": 1,
+            "district_id": 1408,
+            "commune_id": "140807",
+            "village_id": "14080707",
+            "name": "Kruos Samrap",
+            "name_km": "គ្រួស សំរាប"
+        },
+        {
+            "id": "14080709030",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140807",
+            "village_id": "14080709",
+            "name": "Sramar Kako",
+            "name_km": "ស្រម៉ កគោ"
+        },
+        {
+            "id": "14080709534",
+            "school_type_id": 1,
+            "district_id": 1408,
+            "commune_id": "140807",
+            "village_id": "14080709",
+            "name": "Sramar Kako",
+            "name_km": "ស្រម៉កគោ"
+        },
+        {
+            "id": "14080801037",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140808",
+            "village_id": "14080801",
+            "name": "Prey Sniet",
+            "name_km": "ព្រៃស្នៀត"
+        },
+        {
+            "id": "14080801709",
+            "school_type_id": 3,
+            "district_id": 1408,
+            "commune_id": "140808",
+            "village_id": "14080801",
+            "name": "Prey Sniet",
+            "name_km": "ព្រៃស្នៀត"
+        },
+        {
+            "id": "14080804036",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140808",
+            "village_id": "14080804",
+            "name": "Melaung",
+            "name_km": "មេលោង"
+        },
+        {
+            "id": "14080901044",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140809",
+            "village_id": "14080901",
+            "name": "Svay",
+            "name_km": "ស្វាយ"
+        },
+        {
+            "id": "14080901518",
+            "school_type_id": 1,
+            "district_id": 1408,
+            "commune_id": "140809",
+            "village_id": "14080901",
+            "name": "Svay",
+            "name_km": "ស្វាយ"
+        },
+        {
+            "id": "14080904040",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140809",
+            "village_id": "14080904",
+            "name": "Kraing",
+            "name_km": "ក្រាំង"
+        },
+        {
+            "id": "14080904519",
+            "school_type_id": 1,
+            "district_id": 1408,
+            "commune_id": "140809",
+            "village_id": "14080904",
+            "name": "Kraing",
+            "name_km": "ក្រាំង"
+        },
+        {
+            "id": "14080905039",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140809",
+            "village_id": "14080905",
+            "name": "Kork Tauch",
+            "name_km": "គកតូច"
+        },
+        {
+            "id": "14080905520",
+            "school_type_id": 1,
+            "district_id": 1408,
+            "commune_id": "140809",
+            "village_id": "14080905",
+            "name": "Kork Tauch",
+            "name_km": "គកតូច"
+        },
+        {
+            "id": "14080906038",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140809",
+            "village_id": "14080906",
+            "name": "Kork Thom",
+            "name_km": "គកធំ"
+        },
+        {
+            "id": "14080907043",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140809",
+            "village_id": "14080907",
+            "name": "Prey Sralet",
+            "name_km": "ព្រៃស្រឡិត"
+        },
+        {
+            "id": "14080907516",
+            "school_type_id": 1,
+            "district_id": 1408,
+            "commune_id": "140809",
+            "village_id": "14080907",
+            "name": "Prey Sralet",
+            "name_km": "ព្រៃស្រឡិត"
+        },
+        {
+            "id": "14080909042",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140809",
+            "village_id": "14080909",
+            "name": "Prey Kralanh",
+            "name_km": "ព្រៃក្រឡាញ់"
+        },
+        {
+            "id": "14080909507",
+            "school_type_id": 1,
+            "district_id": 1408,
+            "commune_id": "140809",
+            "village_id": "14080909",
+            "name": "Prey Kralanh",
+            "name_km": "ព្រៃក្រឡាញ់"
+        },
+        {
+            "id": "14080909706",
+            "school_type_id": 3,
+            "district_id": 1408,
+            "commune_id": "140809",
+            "village_id": "14080909",
+            "name": "Prey Sralet",
+            "name_km": "ព្រៃស្រឡិត"
+        },
+        {
+            "id": "14080911041",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140809",
+            "village_id": "14080911",
+            "name": "Preah Malou",
+            "name_km": "ព្រះម្លូរ"
+        },
+        {
+            "id": "14080911526",
+            "school_type_id": 1,
+            "district_id": 1408,
+            "commune_id": "140809",
+            "village_id": "14080911",
+            "name": "Preah Mlou",
+            "name_km": "ព្រះម្លូរ"
+        },
+        {
+            "id": "14080913045",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140809",
+            "village_id": "14080913",
+            "name": "Chrey",
+            "name_km": "ជ្រៃ"
+        },
+        {
+            "id": "14080913522",
+            "school_type_id": 1,
+            "district_id": 1408,
+            "commune_id": "140809",
+            "village_id": "14080913",
+            "name": "Chrey",
+            "name_km": "ជ្រៃ"
+        },
+        {
+            "id": "14081001049",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140810",
+            "village_id": "14081001",
+            "name": "Pearaing",
+            "name_km": "ពារាំង"
+        },
+        {
+            "id": "14081001540",
+            "school_type_id": 1,
+            "district_id": 1408,
+            "commune_id": "140810",
+            "village_id": "14081001",
+            "name": "Pearaing",
+            "name_km": "ពារាំង"
+        },
+        {
+            "id": "14081002046",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140810",
+            "village_id": "14081002",
+            "name": "Chong Krauch",
+            "name_km": "ចុងក្រូច"
+        },
+        {
+            "id": "14081002528",
+            "school_type_id": 1,
+            "district_id": 1408,
+            "commune_id": "140810",
+            "village_id": "14081002",
+            "name": "Chong Krauch",
+            "name_km": "ចុងក្រូច"
+        },
+        {
+            "id": "14081003051",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140810",
+            "village_id": "14081003",
+            "name": "Vey Vet",
+            "name_km": "វៃវេទ"
+        },
+        {
+            "id": "14081003503",
+            "school_type_id": 1,
+            "district_id": 1408,
+            "commune_id": "140810",
+            "village_id": "14081003",
+            "name": "Rasmey Komar",
+            "name_km": "រស្មីកុមាររាប"
+        },
+        {
+            "id": "14081003708",
+            "school_type_id": 3,
+            "district_id": 1408,
+            "commune_id": "140810",
+            "village_id": "14081003",
+            "name": "Reap",
+            "name_km": "រាប"
+        },
+        {
+            "id": "14081004048",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140810",
+            "village_id": "14081004",
+            "name": "Peam Ampil",
+            "name_km": "ពាមអំពិល"
+        },
+        {
+            "id": "14081004529",
+            "school_type_id": 1,
+            "district_id": 1408,
+            "commune_id": "140810",
+            "village_id": "14081004",
+            "name": "Peam Ampil",
+            "name_km": "ពាមអំពិល"
+        },
+        {
+            "id": "14081005047",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140810",
+            "village_id": "14081005",
+            "name": "Chrey",
+            "name_km": "ជ្រៃ"
+        },
+        {
+            "id": "14081006050",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140810",
+            "village_id": "14081006",
+            "name": "Snay Sar",
+            "name_km": "ស្នាយសរ"
+        },
+        {
+            "id": "14081006538",
+            "school_type_id": 1,
+            "district_id": 1408,
+            "commune_id": "140810",
+            "village_id": "14081007",
+            "name": "Snay Sar",
+            "name_km": "ស្នាយសរ"
+        },
+        {
+            "id": "14081101052",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140811",
+            "village_id": "14081101",
+            "name": "Taing Snay",
+            "name_km": "តាំងស្នាយ"
+        },
+        {
+            "id": "14081101515",
+            "school_type_id": 1,
+            "district_id": 1408,
+            "commune_id": "140811",
+            "village_id": "14081101",
+            "name": "Taing Snay",
+            "name_km": "តាំងស្នាយ"
+        },
+        {
+            "id": "14081102053",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140811",
+            "village_id": "14081102",
+            "name": "Melup",
+            "name_km": "មេលប់"
+        },
+        {
+            "id": "14081102532",
+            "school_type_id": 1,
+            "district_id": 1408,
+            "commune_id": "140811",
+            "village_id": "14081102",
+            "name": "Melup",
+            "name_km": "មេលប់"
+        },
+        {
+            "id": "14081103054",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140811",
+            "village_id": "14081103",
+            "name": "Prey Samlanh",
+            "name_km": "ព្រៃសម្លាញ"
+        },
+        {
+            "id": "14081104055",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140811",
+            "village_id": "14081104",
+            "name": "Russey Chuk Tbaung",
+            "name_km": "ឫស្សីជុកជត្បូង"
+        },
+        {
+            "id": "14081104531",
+            "school_type_id": 1,
+            "district_id": 1408,
+            "commune_id": "140811",
+            "village_id": "14081104",
+            "name": "Russey Chuk Tbaung",
+            "name_km": "ឫស្សីជុកត្បូង"
+        },
+        {
+            "id": "14081105056",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140811",
+            "village_id": "14081105",
+            "name": "Snay Pul",
+            "name_km": "ស្នាយពល"
+        },
+        {
+            "id": "14081105504",
+            "school_type_id": 1,
+            "district_id": 1408,
+            "commune_id": "140811",
+            "village_id": "14081105",
+            "name": "Snay Pul",
+            "name_km": "ស្នាយពល"
+        },
+        {
+            "id": "14081105901",
+            "school_type_id": 5,
+            "district_id": 1408,
+            "commune_id": "140811",
+            "village_id": "14081105",
+            "name": "Nhim Vanda Pearaing",
+            "name_km": "ញឹម វណ្ណដាពារាំង"
+        },
+        {
+            "id": "14081106057",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140811",
+            "village_id": "14081106",
+            "name": "Russey Chuk Cheung",
+            "name_km": "ឫស្សីជុកជើង"
+        },
+        {
+            "id": "14081106541",
+            "school_type_id": 1,
+            "district_id": 1408,
+            "commune_id": "140811",
+            "village_id": "14081106",
+            "name": "Russey Chuk Cheung",
+            "name_km": "ឫស្សីជុកជើង"
+        },
+        {
+            "id": "14081107060",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140811",
+            "village_id": "14081107",
+            "name": "Sanlong",
+            "name_km": "សន្លុង"
+        },
+        {
+            "id": "14081108058",
+            "school_type_id": 2,
+            "district_id": 1408,
+            "commune_id": "140811",
+            "village_id": "14081108",
+            "name": "Tnot",
+            "name_km": "ត្នោត"
+        }
+    ]
+}

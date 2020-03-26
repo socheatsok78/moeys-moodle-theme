@@ -1,0 +1,293 @@
+{
+    "id": 1102,
+    "schools": [
+        {
+            "id": "11020103006",
+            "school_type_id": 2,
+            "district_id": 1102,
+            "commune_id": "110201",
+            "village_id": "11020103",
+            "name": "Koh Moyeul Leu",
+            "name_km": "កោះម្យើល"
+        },
+        {
+            "id": "11020104007",
+            "school_type_id": 2,
+            "district_id": 1102,
+            "commune_id": "110201",
+            "village_id": "11020104",
+            "name": "Nang Khileuk",
+            "name_km": "ណងឃីលឹក"
+        },
+        {
+            "id": "11020105011",
+            "school_type_id": 2,
+            "district_id": 1102,
+            "commune_id": "110201",
+            "village_id": "11020105",
+            "name": "Sre Chrey",
+            "name_km": "ស្រែជ្រៃ"
+        },
+        {
+            "id": "11020201012",
+            "school_type_id": 2,
+            "district_id": 1102,
+            "commune_id": "110202",
+            "village_id": "11020201",
+            "name": "Phoum Tuol",
+            "name_km": "ភូមិទួល"
+        },
+        {
+            "id": "11020202001",
+            "school_type_id": 2,
+            "district_id": 1102,
+            "commune_id": "110202",
+            "village_id": "11020202",
+            "name": "O Buon Leu",
+            "name_km": "អរបួនលើ"
+        },
+        {
+            "id": "11020202017",
+            "school_type_id": 2,
+            "district_id": 1102,
+            "commune_id": "110202",
+            "village_id": "11020202",
+            "name": "Sre Chorng",
+            "name_km": "ស្រែជង"
+        },
+        {
+            "id": "11020301008",
+            "school_type_id": 2,
+            "district_id": 1102,
+            "commune_id": "110203",
+            "village_id": "11020301",
+            "name": "Royar",
+            "name_km": "រយ៉ក្រោម"
+        },
+        {
+            "id": "11020302019",
+            "school_type_id": 2,
+            "district_id": 1102,
+            "commune_id": "110203",
+            "village_id": "11020302",
+            "name": "Thong Pong",
+            "name_km": "ថុងប៉ុង"
+        },
+        {
+            "id": "11020303018",
+            "school_type_id": 2,
+            "district_id": 1102,
+            "commune_id": "110203",
+            "village_id": "11020303",
+            "name": "Kdouy",
+            "name_km": "ក្ដោយ"
+        },
+        {
+            "id": "11020304009",
+            "school_type_id": 2,
+            "district_id": 1102,
+            "commune_id": "110203",
+            "village_id": "11020304",
+            "name": "Rovak",
+            "name_km": "រវាក់"
+        },
+        {
+            "id": "11020305014",
+            "school_type_id": 2,
+            "district_id": 1102,
+            "commune_id": "110203",
+            "village_id": "11020305",
+            "name": "Royar Leu",
+            "name_km": "រយ៉លើ"
+        },
+        {
+            "id": "11020306022",
+            "school_type_id": 2,
+            "district_id": 1102,
+            "commune_id": "110203",
+            "village_id": "11020306",
+            "name": "Machou Nga",
+            "name_km": "ម្ជូរង៉ា"
+        },
+        {
+            "id": "11020306025",
+            "school_type_id": 2,
+            "district_id": 1102,
+            "commune_id": "110203",
+            "village_id": "11020306",
+            "name": "Sre Roung",
+            "name_km": "ស្រែរូង"
+        },
+        {
+            "id": "11020401702",
+            "school_type_id": 3,
+            "district_id": 1102,
+            "commune_id": "110204",
+            "village_id": "11020401",
+            "name": "Sok San",
+            "name_km": "អនុវិទ្យាល័យសុខសាន្ត"
+        },
+        {
+            "id": "11020404021",
+            "school_type_id": 2,
+            "district_id": 1102,
+            "commune_id": "110204",
+            "village_id": "11020404",
+            "name": "Phoum Thmei",
+            "name_km": "ភូមិថ្មី"
+        },
+        {
+            "id": "11020405002",
+            "school_type_id": 2,
+            "district_id": 1102,
+            "commune_id": "110204",
+            "village_id": "11020405",
+            "name": "Sok San",
+            "name_km": "សុខសាន្ត"
+        },
+        {
+            "id": "11020406013",
+            "school_type_id": 2,
+            "district_id": 1102,
+            "commune_id": "110204",
+            "village_id": "11020406",
+            "name": "Ker Peuv",
+            "name_km": "កែរពៅ"
+        },
+        {
+            "id": "11020407015",
+            "school_type_id": 2,
+            "district_id": 1102,
+            "commune_id": "110204",
+            "village_id": "11020407",
+            "name": "Sre Thom",
+            "name_km": "ស្រែធំ"
+        },
+        {
+            "id": "11020407024",
+            "school_type_id": 2,
+            "district_id": 1102,
+            "commune_id": "110204",
+            "village_id": "11020407",
+            "name": "Sre Thas",
+            "name_km": "ស្រែថាស់"
+        },
+        {
+            "id": "11020501010",
+            "school_type_id": 2,
+            "district_id": 1102,
+            "commune_id": "110205",
+            "village_id": "11020501",
+            "name": "Sre Huy",
+            "name_km": "ស្រែហ៊ុយ"
+        },
+        {
+            "id": "11020501505",
+            "school_type_id": 1,
+            "district_id": 1102,
+            "commune_id": "110205",
+            "village_id": "11020501",
+            "name": "She Huy",
+            "name_km": "ស្រែហ៊ុយ"
+        },
+        {
+            "id": "11020503020",
+            "school_type_id": 2,
+            "district_id": 1102,
+            "commune_id": "110205",
+            "village_id": "11020503",
+            "name": "Chhoul",
+            "name_km": "ឈួល"
+        },
+        {
+            "id": "11020601016",
+            "school_type_id": 2,
+            "district_id": 1102,
+            "commune_id": "110206",
+            "village_id": "11020601",
+            "name": "Hun Sen Meanchey",
+            "name_km": "ហ៊ុនសែនមានជ័យ"
+        },
+        {
+            "id": "11020601504",
+            "school_type_id": 1,
+            "district_id": 1102,
+            "commune_id": "110206",
+            "village_id": "11020601",
+            "name": "Hun Sen Meachey",
+            "name_km": "ហ៊ុនសែនមានជ័យ"
+        },
+        {
+            "id": "11020604003",
+            "school_type_id": 2,
+            "district_id": 1102,
+            "commune_id": "110206",
+            "village_id": "11020604",
+            "name": "Kirirom",
+            "name_km": "គិរីរម្យ"
+        },
+        {
+            "id": "11020604502",
+            "school_type_id": 1,
+            "district_id": 1102,
+            "commune_id": "110206",
+            "village_id": "11020604",
+            "name": "Wat Kirirom",
+            "name_km": "វត្តគិរីរម្យ"
+        },
+        {
+            "id": "11020605004",
+            "school_type_id": 2,
+            "district_id": 1102,
+            "commune_id": "110206",
+            "village_id": "11020605",
+            "name": "Sre Sangkum",
+            "name_km": "ស្រែសង្គម"
+        },
+        {
+            "id": "11020605503",
+            "school_type_id": 1,
+            "district_id": 1102,
+            "commune_id": "110206",
+            "village_id": "11020605",
+            "name": "Sre Sangkum",
+            "name_km": "ស្រែសង្គម"
+        },
+        {
+            "id": "11020609005",
+            "school_type_id": 2,
+            "district_id": 1102,
+            "commune_id": "110206",
+            "village_id": "11020609",
+            "name": "Hun Sen Koh Nhek",
+            "name_km": "ហ៊ុនសែនកោះញែក"
+        },
+        {
+            "id": "11020609501",
+            "school_type_id": 1,
+            "district_id": 1102,
+            "commune_id": "110206",
+            "village_id": "11020609",
+            "name": "Hun Sen Koh Nhek",
+            "name_km": "មត្តេយ្យសិក្សាហ៊ុនសែនកោះញែក"
+        },
+        {
+            "id": "11020609901",
+            "school_type_id": 5,
+            "district_id": 1102,
+            "commune_id": "110206",
+            "village_id": "11020609",
+            "name": "Hun Sen Koh Nhek",
+            "name_km": "វិទ្យាល័យហ៊ុនសែនកោះញែក"
+        },
+        {
+            "id": "11020610023",
+            "school_type_id": 2,
+            "district_id": 1102,
+            "commune_id": "110206",
+            "village_id": "11020610",
+            "name": "Trapaig Pring",
+            "name_km": "ត្រពាំងព្រីង"
+        }
+    ]
+}

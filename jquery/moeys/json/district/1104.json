@@ -1,0 +1,230 @@
+{
+    "id": 1104,
+    "schools": [
+        {
+            "id": "11040102012",
+            "school_type_id": 2,
+            "district_id": 1104,
+            "commune_id": "110401",
+            "village_id": "11040102",
+            "name": "Memang",
+            "name_km": "ឡៅរមៀត"
+        },
+        {
+            "id": "11040103004",
+            "school_type_id": 2,
+            "district_id": 1104,
+            "commune_id": "110401",
+            "village_id": "11040103",
+            "name": "Krong Tes",
+            "name_km": "ក្រង់តេះ"
+        },
+        {
+            "id": "11040105009",
+            "school_type_id": 2,
+            "district_id": 1104,
+            "commune_id": "110401",
+            "village_id": "11040105",
+            "name": "Pou Rapet",
+            "name_km": "ពូរ៉ាប៉េត"
+        },
+        {
+            "id": "11040105016",
+            "school_type_id": 2,
+            "district_id": 1104,
+            "commune_id": "110401",
+            "village_id": "11040105",
+            "name": "O Te",
+            "name_km": "អូរទេ"
+        },
+        {
+            "id": "11040201002",
+            "school_type_id": 2,
+            "district_id": 1104,
+            "commune_id": "110402",
+            "village_id": "11040201",
+            "name": "Pou Chrey",
+            "name_km": "ពូជ្រី"
+        },
+        {
+            "id": "11040201015",
+            "school_type_id": 2,
+            "district_id": 1104,
+            "commune_id": "110402",
+            "village_id": "11040201",
+            "name": "O Ropoy",
+            "name_km": "អូររប៉យ"
+        },
+        {
+            "id": "11040201019",
+            "school_type_id": 2,
+            "district_id": 1104,
+            "commune_id": "110402",
+            "village_id": "11040203",
+            "name": "BOROKOUNG",
+            "name_km": "សាលាបឋមសិក្សាបរគូង"
+        },
+        {
+            "id": "11040201502",
+            "school_type_id": 1,
+            "district_id": 1104,
+            "commune_id": "110402",
+            "village_id": "11040201",
+            "name": "O Ropoy",
+            "name_km": "សាលាមត្តេយ្យសិក្សាអូររប៉យ"
+        },
+        {
+            "id": "11040202007",
+            "school_type_id": 2,
+            "district_id": 1104,
+            "commune_id": "110402",
+            "village_id": "11040202",
+            "name": "Komar Mekong",
+            "name_km": "កុមារមេគង្គ"
+        },
+        {
+            "id": "11040202504",
+            "school_type_id": 1,
+            "district_id": 1104,
+            "commune_id": "110402",
+            "village_id": "11040205",
+            "name": "KUMAMEKUNG",
+            "name_km": "សាលាមត្តេយ្យសិក្សាកុមារមេគង្គ"
+        },
+        {
+            "id": "11040203011",
+            "school_type_id": 2,
+            "district_id": 1104,
+            "commune_id": "110402",
+            "village_id": "11040203",
+            "name": "De E",
+            "name_km": "ដេអេ"
+        },
+        {
+            "id": "11040203018",
+            "school_type_id": 2,
+            "district_id": 1104,
+            "commune_id": "110402",
+            "village_id": "11040203",
+            "name": "Antrang",
+            "name_km": "អន្ត្រងសែនជ័យ"
+        },
+        {
+            "id": "11040204010",
+            "school_type_id": 2,
+            "district_id": 1104,
+            "commune_id": "110402",
+            "village_id": "11040204",
+            "name": "Pou Chrey Chang",
+            "name_km": "ពូជ្រីចាង"
+        },
+        {
+            "id": "11040205702",
+            "school_type_id": 3,
+            "district_id": 1104,
+            "commune_id": "110402",
+            "village_id": "11040205",
+            "name": "Tuol Pring",
+            "name_km": "អនុវិទ្យាល័យទួលព្រីង"
+        },
+        {
+            "id": "11040301005",
+            "school_type_id": 2,
+            "district_id": 1104,
+            "commune_id": "110403",
+            "village_id": "11040301",
+            "name": "Sre Ampoum",
+            "name_km": "ស្រែអំពូម"
+        },
+        {
+            "id": "11040301503",
+            "school_type_id": 1,
+            "district_id": 1104,
+            "commune_id": "110403",
+            "village_id": "11040301",
+            "name": "Sre Ompum",
+            "name_km": "ស្រែអំពូម"
+        },
+        {
+            "id": "11040301703",
+            "school_type_id": 3,
+            "district_id": 1104,
+            "commune_id": "110403",
+            "village_id": "11040301",
+            "name": "O Phlay",
+            "name_km": "អនុវិទ្យាល័យអូរប្លាយ"
+        },
+        {
+            "id": "11040303006",
+            "school_type_id": 2,
+            "district_id": 1104,
+            "commune_id": "110403",
+            "village_id": "11040303",
+            "name": "Pou Kreng",
+            "name_km": "ពូក្រេង"
+        },
+        {
+            "id": "11040404008",
+            "school_type_id": 2,
+            "district_id": 1104,
+            "commune_id": "110404",
+            "village_id": "11040404",
+            "name": "Leng Chhung",
+            "name_km": "ឡែងឈូង"
+        },
+        {
+            "id": "11040406001",
+            "school_type_id": 2,
+            "district_id": 1104,
+            "commune_id": "110404",
+            "village_id": "11040406",
+            "name": "Sre Khleng",
+            "name_km": "ស្រែក្លេង"
+        },
+        {
+            "id": "11040406501",
+            "school_type_id": 1,
+            "district_id": 1104,
+            "commune_id": "110404",
+            "village_id": "11040406",
+            "name": "Sre Khleng",
+            "name_km": "មត្តេយ្យសិក្សាស្រែក្លេង"
+        },
+        {
+            "id": "11040406901",
+            "school_type_id": 5,
+            "district_id": 1104,
+            "commune_id": "110404",
+            "village_id": "11040403",
+            "name": "Chros Busra",
+            "name_km": "ជ្រោះប៊ូស្រា"
+        },
+        {
+            "id": "11040407017",
+            "school_type_id": 2,
+            "district_id": 1104,
+            "commune_id": "110404",
+            "village_id": "11040407",
+            "name": "Val Yong",
+            "name_km": "វ៉ាល់យោង"
+        },
+        {
+            "id": "11040408013",
+            "school_type_id": 2,
+            "district_id": 1104,
+            "commune_id": "110404",
+            "village_id": "11040408",
+            "name": "Pou Ti",
+            "name_km": "ពូទីល"
+        },
+        {
+            "id": "11040409014",
+            "school_type_id": 2,
+            "district_id": 1104,
+            "commune_id": "110404",
+            "village_id": "11040409",
+            "name": "Lam Mes",
+            "name_km": "ឡាំមេះ"
+        }
+    ]
+}

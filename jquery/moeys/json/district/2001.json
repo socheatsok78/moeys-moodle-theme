@@ -1,0 +1,347 @@
+{
+    "id": 2001,
+    "schools": [
+        {
+            "id": "20010301008",
+            "school_type_id": 2,
+            "district_id": 2001,
+            "commune_id": "200103",
+            "village_id": "20010301",
+            "name": "Chantrea",
+            "name_km": "ចន្ទ្រា"
+        },
+        {
+            "id": "20010301503",
+            "school_type_id": 1,
+            "district_id": 2001,
+            "commune_id": "200103",
+            "village_id": "20010301",
+            "name": "Chantrea",
+            "name_km": "ចន្ទ្រា"
+        },
+        {
+            "id": "20010301704",
+            "school_type_id": 3,
+            "district_id": 2001,
+            "commune_id": "200103",
+            "village_id": "20010301",
+            "name": "Chantrea",
+            "name_km": "ចន្ទ្រា"
+        },
+        {
+            "id": "20010401009",
+            "school_type_id": 2,
+            "district_id": 2001,
+            "commune_id": "200104",
+            "village_id": "20010401",
+            "name": "Trapaing Run",
+            "name_km": "ត្រពាំងរុន"
+        },
+        {
+            "id": "20010401506",
+            "school_type_id": 1,
+            "district_id": 2001,
+            "commune_id": "200104",
+            "village_id": "20010401",
+            "name": "Trapaing Run",
+            "name_km": "ត្រពាំងរុន"
+        },
+        {
+            "id": "20010402010",
+            "school_type_id": 2,
+            "district_id": 2001,
+            "commune_id": "200104",
+            "village_id": "20010402",
+            "name": "Trapaing Thlork",
+            "name_km": "ត្រពាំងធ្លក"
+        },
+        {
+            "id": "20010402511",
+            "school_type_id": 1,
+            "district_id": 2001,
+            "commune_id": "200104",
+            "village_id": "20010402",
+            "name": null,
+            "name_km": "ម. ត្រពាំងធ្លក"
+        },
+        {
+            "id": "20010404011",
+            "school_type_id": 2,
+            "district_id": 2001,
+            "commune_id": "200104",
+            "village_id": "20010404",
+            "name": "Hun Sen Chres",
+            "name_km": "ហ៊ុន សែនច្រេស"
+        },
+        {
+            "id": "20010404504",
+            "school_type_id": 1,
+            "district_id": 2001,
+            "commune_id": "200104",
+            "village_id": "20010404",
+            "name": "Hun Sen Chres",
+            "name_km": "ហ៊ុន សែន ច្រេស"
+        },
+        {
+            "id": "20010404703",
+            "school_type_id": 3,
+            "district_id": 2001,
+            "commune_id": "200104",
+            "village_id": "20010404",
+            "name": "Chres",
+            "name_km": "ច្រេស"
+        },
+        {
+            "id": "20010408012",
+            "school_type_id": 2,
+            "district_id": 2001,
+            "commune_id": "200104",
+            "village_id": "20010408",
+            "name": "Tuol Ampil",
+            "name_km": "ទួលអំពិល"
+        },
+        {
+            "id": "20010408514",
+            "school_type_id": 1,
+            "district_id": 2001,
+            "commune_id": "200104",
+            "village_id": "20010408",
+            "name": "Tuol Ampil",
+            "name_km": "ទួលអំពិល"
+        },
+        {
+            "id": "20010502013",
+            "school_type_id": 2,
+            "district_id": 2001,
+            "commune_id": "200105",
+            "village_id": "20010502",
+            "name": "Wat Chambak",
+            "name_km": "វត្តចំបក់ធំ"
+        },
+        {
+            "id": "20010502510",
+            "school_type_id": 1,
+            "district_id": 2001,
+            "commune_id": "200105",
+            "village_id": "20010502",
+            "name": "Wat Châmbâk Thom",
+            "name_km": "វត្តចំបក់ធំ"
+        },
+        {
+            "id": "20010504901",
+            "school_type_id": 5,
+            "district_id": 2001,
+            "commune_id": "200105",
+            "village_id": "20010504",
+            "name": "Bun Rany Hun Sen Chantrea",
+            "name_km": "ហ៊ុន សែន ចន្រ្ទា"
+        },
+        {
+            "id": "20010505014",
+            "school_type_id": 2,
+            "district_id": 2001,
+            "commune_id": "200105",
+            "village_id": "20010505",
+            "name": "Baray",
+            "name_km": "បារាយណ៍"
+        },
+        {
+            "id": "20010505505",
+            "school_type_id": 1,
+            "district_id": 2001,
+            "commune_id": "200105",
+            "village_id": "20010505",
+            "name": "Baray",
+            "name_km": "បារាយណ៍"
+        },
+        {
+            "id": "20010506015",
+            "school_type_id": 2,
+            "district_id": 2001,
+            "commune_id": "200105",
+            "village_id": "20010506",
+            "name": "Mesar Thngok",
+            "name_km": "មេសថ្ងក"
+        },
+        {
+            "id": "20010506501",
+            "school_type_id": 1,
+            "district_id": 2001,
+            "commune_id": "200105",
+            "village_id": "20010506",
+            "name": "Mesar Thngok",
+            "name_km": "មេសថ្ងក"
+        },
+        {
+            "id": "20010802018",
+            "school_type_id": 2,
+            "district_id": 2001,
+            "commune_id": "200108",
+            "village_id": "20010802",
+            "name": "Prey Koki",
+            "name_km": "ព្រៃគគីរ"
+        },
+        {
+            "id": "20010802502",
+            "school_type_id": 1,
+            "district_id": 2001,
+            "commune_id": "200108",
+            "village_id": "20010802",
+            "name": "Prey Koki",
+            "name_km": "ព្រៃគគីរ"
+        },
+        {
+            "id": "20010803019",
+            "school_type_id": 2,
+            "district_id": 2001,
+            "commune_id": "200108",
+            "village_id": "20010803",
+            "name": "Chamkar Leav",
+            "name_km": "ចំការលាវ"
+        },
+        {
+            "id": "20010803512",
+            "school_type_id": 1,
+            "district_id": 2001,
+            "commune_id": "200108",
+            "village_id": "20010803",
+            "name": "Chamkar Leav",
+            "name_km": "ចំការលាវ"
+        },
+        {
+            "id": "20010804705",
+            "school_type_id": 3,
+            "district_id": 2001,
+            "commune_id": "200108",
+            "village_id": "20010804",
+            "name": "Prey Koki",
+            "name_km": "ព្រៃគគីរ"
+        },
+        {
+            "id": "20010805020",
+            "school_type_id": 2,
+            "district_id": 2001,
+            "commune_id": "200108",
+            "village_id": "20010805",
+            "name": "Koh Ko",
+            "name_km": "ឧបសម្ព័ន្ធកោះគោ"
+        },
+        {
+            "id": "20010805026",
+            "school_type_id": 2,
+            "district_id": 2001,
+            "commune_id": "200108",
+            "village_id": "20010805",
+            "name": "Hun Sen Koh Ko",
+            "name_km": "ហ៊ុន សែនកោះគោ"
+        },
+        {
+            "id": "20010805513",
+            "school_type_id": 1,
+            "district_id": 2001,
+            "commune_id": "200108",
+            "village_id": "20010805",
+            "name": "Koh Ko",
+            "name_km": "ហ៊ុន សែន កោះគោ"
+        },
+        {
+            "id": "20010901021",
+            "school_type_id": 2,
+            "district_id": 2001,
+            "commune_id": "200109",
+            "village_id": "20010901",
+            "name": "Wat Svay Thleung",
+            "name_km": "ស្វាយថ្លឹង"
+        },
+        {
+            "id": "20010901508",
+            "school_type_id": 1,
+            "district_id": 2001,
+            "commune_id": "200109",
+            "village_id": "20010901",
+            "name": "Wat Svay Thleung",
+            "name_km": "វត្តស្វាយថ្លឹង"
+        },
+        {
+            "id": "20010902708",
+            "school_type_id": 3,
+            "district_id": 2001,
+            "commune_id": "200109",
+            "village_id": "20010902",
+            "name": "Hun Sen Tep Thida",
+            "name_km": "ហ៊ុន សែន ទេពធីតា"
+        },
+        {
+            "id": "20010903022",
+            "school_type_id": 2,
+            "district_id": 2001,
+            "commune_id": "200109",
+            "village_id": "20010903",
+            "name": "Samrong",
+            "name_km": "សំរោង"
+        },
+        {
+            "id": "20010903507",
+            "school_type_id": 1,
+            "district_id": 2001,
+            "commune_id": "200109",
+            "village_id": "20010903",
+            "name": "Samrong",
+            "name_km": "សំរោង"
+        },
+        {
+            "id": "20011001023",
+            "school_type_id": 2,
+            "district_id": 2001,
+            "commune_id": "200110",
+            "village_id": "20011001",
+            "name": "Tuol Sdei",
+            "name_km": "ទួលស្ដី"
+        },
+        {
+            "id": "20011001509",
+            "school_type_id": 1,
+            "district_id": 2001,
+            "commune_id": "200110",
+            "village_id": "20011001",
+            "name": "Tuol Sdei",
+            "name_km": "ទួលស្ដី"
+        },
+        {
+            "id": "20011001709",
+            "school_type_id": 3,
+            "district_id": 2001,
+            "commune_id": "200110",
+            "village_id": "20011001",
+            "name": "Tuol Sdei",
+            "name_km": "ទួលស្ដី"
+        },
+        {
+            "id": "20011002024",
+            "school_type_id": 2,
+            "district_id": 2001,
+            "commune_id": "200110",
+            "village_id": "20011002",
+            "name": "Daun Tey",
+            "name_km": "ដូនទៃ"
+        },
+        {
+            "id": "20011003025",
+            "school_type_id": 2,
+            "district_id": 2001,
+            "commune_id": "200110",
+            "village_id": "20011003",
+            "name": "Koh Russey",
+            "name_km": "ឧបសម្ព័ន្ធកោះឬស្សី"
+        },
+        {
+            "id": "20011003515",
+            "school_type_id": 1,
+            "district_id": 2001,
+            "commune_id": "200110",
+            "village_id": "20011003",
+            "name": "Koh Russey",
+            "name_km": "កោះឬស្សី"
+        }
+    ]
+}

@@ -1,0 +1,671 @@
+{
+    "id": 1003,
+    "schools": [
+        {
+            "id": "10030101001",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100301",
+            "village_id": "10030101",
+            "name": "Phoum Chambak",
+            "name_km": "សាលាបឋមសិក្សាភូមិចំបក់"
+        },
+        {
+            "id": "10030101501",
+            "school_type_id": 1,
+            "district_id": 1003,
+            "commune_id": "100301",
+            "village_id": "10030101",
+            "name": "Phoum Chambak",
+            "name_km": "សាលាបឋមសិក្សាភូមិចំបក់"
+        },
+        {
+            "id": "10030102002",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100301",
+            "village_id": "10030102",
+            "name": "Wat Chambak",
+            "name_km": "សាលាបឋមសិក្សាវត្តចំបក់"
+        },
+        {
+            "id": "10030102502",
+            "school_type_id": 1,
+            "district_id": 1003,
+            "commune_id": "100301",
+            "village_id": "10030102",
+            "name": "Wat Chambak",
+            "name_km": "បឋមសិក្សាវត្តចំបក់"
+        },
+        {
+            "id": "10030103003",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100301",
+            "village_id": "10030103",
+            "name": "Chroy Ampil",
+            "name_km": "សាលាបឋមសិក្សាជ្រោយអំពិល"
+        },
+        {
+            "id": "10030103503",
+            "school_type_id": 1,
+            "district_id": 1003,
+            "commune_id": "100301",
+            "village_id": "10030103",
+            "name": "Chroy Ampil",
+            "name_km": "ជ្រោយអំពិល"
+        },
+        {
+            "id": "10030103901",
+            "school_type_id": 3,
+            "district_id": 1003,
+            "commune_id": "100301",
+            "village_id": "10030103",
+            "name": "Chambak",
+            "name_km": "វិទ្យាល័យចំបក់"
+        },
+        {
+            "id": "10030105004",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100301",
+            "village_id": "10030105",
+            "name": "Chroy Thmar",
+            "name_km": "សាលាបឋមសិក្សាជ្រេាយថ្ម"
+        },
+        {
+            "id": "10030106005",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100301",
+            "village_id": "10030106",
+            "name": "Stung Thom",
+            "name_km": "សាលាបឋមសិក្សាស្ទឹងធំ"
+        },
+        {
+            "id": "10030107041",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100301",
+            "village_id": "10030107",
+            "name": "Sre Ta Tea",
+            "name_km": "សាលាបឋមសិក្សាស្រែតាទា"
+        },
+        {
+            "id": "10030201006",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100302",
+            "village_id": "10030201",
+            "name": "Chroy Banteay",
+            "name_km": "សាលាបឋមសិក្សាជ្រេាយបន្ទាយក្រោម"
+        },
+        {
+            "id": "10030201042",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100302",
+            "village_id": "10030201",
+            "name": "Chroy Banteay Leu",
+            "name_km": "សាលាបឋមសិក្សាជ្រេាយបន្ទាយលេី"
+        },
+        {
+            "id": "10030202007",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100302",
+            "village_id": "10030202",
+            "name": "Keng Kampong Dar",
+            "name_km": "សាលាបឋមសិក្សាកែង"
+        },
+        {
+            "id": "10030202516",
+            "school_type_id": 1,
+            "district_id": 1003,
+            "commune_id": "100302",
+            "village_id": "10030202",
+            "name": "Keng Kampong Dar",
+            "name_km": "បឋមសិក្សាកែងកំពង់ដ"
+        },
+        {
+            "id": "10030204045",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100302",
+            "village_id": "10030204",
+            "name": "O Angkounh",
+            "name_km": "សាលាបឋមសិក្សា  អូអង្គញ់"
+        },
+        {
+            "id": "10030205008",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100302",
+            "village_id": "10030205",
+            "name": "La-et Khsach Tup",
+            "name_km": "សាលាបឋមសិក្សាល្អៀត"
+        },
+        {
+            "id": "10030205520",
+            "school_type_id": 1,
+            "district_id": 1003,
+            "commune_id": "100302",
+            "village_id": "10030205",
+            "name": "La-et",
+            "name_km": "ល្អៀត"
+        },
+        {
+            "id": "10030205706",
+            "school_type_id": 3,
+            "district_id": 1003,
+            "commune_id": "100302",
+            "village_id": "10030205",
+            "name": "Chroy Banteay",
+            "name_km": "អនុវិទ្យាល័យជ្រោយបន្ទាយ"
+        },
+        {
+            "id": "10030206009",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100302",
+            "village_id": "10030206",
+            "name": "Roka Thom",
+            "name_km": "សាលាបឋមសិក្សាកាធំ"
+        },
+        {
+            "id": "10030301010",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100303",
+            "village_id": "10030301",
+            "name": "Chroy Sneng Krabei Leu",
+            "name_km": "បឋមសិក្សាស្នែងក្របីលេី"
+        },
+        {
+            "id": "10030302011",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100303",
+            "village_id": "10030302",
+            "name": "Chroy Sneng Krabei Krom",
+            "name_km": "បឋមសិក្សាស្នែងក្របីក្រេាម"
+        },
+        {
+            "id": "10030303012",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100303",
+            "village_id": "10030303",
+            "name": "Kampong Kor",
+            "name_km": "បឋមសិក្សាកំពង់គរ"
+        },
+        {
+            "id": "10030303518",
+            "school_type_id": 1,
+            "district_id": 1003,
+            "commune_id": "100303",
+            "village_id": "10030303",
+            "name": "Kampong Kor",
+            "name_km": "មត្តេយ្យសិក្សាកំពងើគរ"
+        },
+        {
+            "id": "10030303705",
+            "school_type_id": 3,
+            "district_id": 1003,
+            "commune_id": "100303",
+            "village_id": "10030303",
+            "name": "Kampong Kor",
+            "name_km": "អនុវិទ្យាល័យកំពង់គរ"
+        },
+        {
+            "id": "10030304013",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100303",
+            "village_id": "10030304",
+            "name": "Ta Mao Leu",
+            "name_km": "បឋមសិក្សាតាម៉ៅលេី"
+        },
+        {
+            "id": "10030304519",
+            "school_type_id": 1,
+            "district_id": 1003,
+            "commune_id": "100303",
+            "village_id": "10030303",
+            "name": "Tamao Leu",
+            "name_km": "សសាលាបឋមសិក្សាតាម់ៅលើ"
+        },
+        {
+            "id": "10030401014",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100304",
+            "village_id": "10030401",
+            "name": "Chong Koh",
+            "name_km": "សាលាបឋមសិក្សាចុងកោះ"
+        },
+        {
+            "id": "10030402015",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100304",
+            "village_id": "10030402",
+            "name": "Koh Ta Suy",
+            "name_km": "សាលាបឋមសិក្សាកោះតាស៊ុយ"
+        },
+        {
+            "id": "10030402707",
+            "school_type_id": 3,
+            "district_id": 1003,
+            "commune_id": "100304",
+            "village_id": "10030402",
+            "name": "Koh Ta Suy",
+            "name_km": "អនុវិទ្យាល័យ កោះតាស៊ុយ"
+        },
+        {
+            "id": "10030501016",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100305",
+            "village_id": "10030501",
+            "name": "Boeung Leach",
+            "name_km": "សាលាបឋមសិក្សាបឺងលាច"
+        },
+        {
+            "id": "10030501044",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100305",
+            "village_id": "10030501",
+            "name": "Wat Phnom Ro-el",
+            "name_km": "សាលាបឋមសិក្សាភ្នំរអិល"
+        },
+        {
+            "id": "10030502017",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100305",
+            "village_id": "10030502",
+            "name": "Dei Dos Krom",
+            "name_km": "សាលឋបឋមសិក្សាដិដុះក្រេាម"
+        },
+        {
+            "id": "10030502504",
+            "school_type_id": 1,
+            "district_id": 1003,
+            "commune_id": "100305",
+            "village_id": "10030502",
+            "name": "SI HOU HUY Wat Dei Dos",
+            "name_km": "មត្តេយ្យសិក្សាសុីហ៊ូហ៊ហុយវត្តដីដុះ"
+        },
+        {
+            "id": "10030503018",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100305",
+            "village_id": "10030503",
+            "name": "Hun Sen Dei Dos Leu",
+            "name_km": "សាលាបឋនសិក្សាដីដុះលេី"
+        },
+        {
+            "id": "10030504019",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100305",
+            "village_id": "10030504",
+            "name": "O Lung",
+            "name_km": "សាលាបឋមសិក្សាអូលុង"
+        },
+        {
+            "id": "10030505020",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100305",
+            "village_id": "10030505",
+            "name": "Prek Praing",
+            "name_km": "សាលាបឋមសិក្សាព្រែកប្រាំង"
+        },
+        {
+            "id": "10030505505",
+            "school_type_id": 1,
+            "district_id": 1003,
+            "commune_id": "100305",
+            "village_id": "10030505",
+            "name": "Phoum Prek Praing",
+            "name_km": "បឋមសិក្សាព្រែកប្រាំង"
+        },
+        {
+            "id": "10030506021",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100305",
+            "village_id": "10030506",
+            "name": "Preah Krou Kim Em",
+            "name_km": "សាលាបឋមសិក្សាព្រះគ្រូគឺមឯម"
+        },
+        {
+            "id": "10030506506",
+            "school_type_id": 1,
+            "district_id": 1003,
+            "commune_id": "100305",
+            "village_id": "10030506",
+            "name": "Preah Krou Kim Em",
+            "name_km": "បឋមសិក្សាព្រះគ្រូគឺមឯម"
+        },
+        {
+            "id": "10030506902",
+            "school_type_id": 5,
+            "district_id": 1003,
+            "commune_id": "100305",
+            "village_id": "10030506",
+            "name": "Prek Prasap",
+            "name_km": "វិទ្យាល័យព្រែកប្រសព្វ"
+        },
+        {
+            "id": "10030507022",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100305",
+            "village_id": "10030507",
+            "name": "Wat Dei Dos",
+            "name_km": "សាលាបឋមសិក្សាសុីហ៊ូហ៊ុយវត្ទដីដុះ"
+        },
+        {
+            "id": "10030507515",
+            "school_type_id": 1,
+            "district_id": 1003,
+            "commune_id": "100305",
+            "village_id": "10030507",
+            "name": "Hun Sen Dei Dos Leu",
+            "name_km": "បឋមសិក្សាដីដុះលើ"
+        },
+        {
+            "id": "10030507708",
+            "school_type_id": 3,
+            "district_id": 1003,
+            "commune_id": "100305",
+            "village_id": "10030507",
+            "name": "SI HOU HUY Wat Dei Dos",
+            "name_km": "អនុវិទ្យាល័យសុីហូហ៊ុយវត្តដីដុះ"
+        },
+        {
+            "id": "10030508023",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100305",
+            "village_id": "10030508",
+            "name": "Prek Prasap Leu",
+            "name_km": "សាលាបឋមសិក្សាព្រែកប្រសព្វលេី"
+        },
+        {
+            "id": "10030508507",
+            "school_type_id": 1,
+            "district_id": 1003,
+            "commune_id": "100305",
+            "village_id": "10030508",
+            "name": "Prek Prasap Leu",
+            "name_km": "បឋមសិក្សាព្រែកប្រសព្វលេី"
+        },
+        {
+            "id": "10030509024",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100305",
+            "village_id": "10030509",
+            "name": "Prey Kou",
+            "name_km": "សាលាបឋមសិក្សាព្រៃគូរ"
+        },
+        {
+            "id": "10030509514",
+            "school_type_id": 1,
+            "district_id": 1003,
+            "commune_id": "100305",
+            "village_id": "10030509",
+            "name": "Phoum Prey Kou",
+            "name_km": "បឋមសិក្សាភូមិព្រែកគូ"
+        },
+        {
+            "id": "10030510025",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100305",
+            "village_id": "10030510",
+            "name": "Thmar Reap",
+            "name_km": "សាលាបឋមសិក្សាថ្មរាប"
+        },
+        {
+            "id": "10030510517",
+            "school_type_id": 1,
+            "district_id": 1003,
+            "commune_id": "100305",
+            "village_id": "10030510",
+            "name": "Thmar Reap",
+            "name_km": "បឋមសិក្សាថ្មរាប"
+        },
+        {
+            "id": "10030511043",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100305",
+            "village_id": "10030511",
+            "name": "Bok Teuk",
+            "name_km": "សាលាបឋមសិក្សាបុកទឺក"
+        },
+        {
+            "id": "10030511521",
+            "school_type_id": 1,
+            "district_id": 1003,
+            "commune_id": "100305",
+            "village_id": "10030511",
+            "name": "Bok Tek",
+            "name_km": "បុកទឹក"
+        },
+        {
+            "id": "10030601026",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100306",
+            "village_id": "10030601",
+            "name": "Boeung Rey",
+            "name_km": "សាលាបឋមសិក្សាបឹងរ៉ៃ"
+        },
+        {
+            "id": "10030601508",
+            "school_type_id": 1,
+            "district_id": 1003,
+            "commune_id": "100306",
+            "village_id": "10030601",
+            "name": "Boeung Rey",
+            "name_km": "ឋមសិក្សាបឺងរ៉ៃ"
+        },
+        {
+            "id": "10030601704",
+            "school_type_id": 3,
+            "district_id": 1003,
+            "commune_id": "100306",
+            "village_id": "10030601",
+            "name": "Boeung Rey",
+            "name_km": "អនុវិទ្យាល័យបឹងរ៉ៃ"
+        },
+        {
+            "id": "10030602027",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100306",
+            "village_id": "10030602",
+            "name": "Russey Keo",
+            "name_km": "សាលាបឋមសិក្សាឬស្សីកែវ"
+        },
+        {
+            "id": "10030602509",
+            "school_type_id": 1,
+            "district_id": 1003,
+            "commune_id": "100306",
+            "village_id": "10030602",
+            "name": "Russey Keo",
+            "name_km": "បឋមសិក្សាបឬស្សីកែវ"
+        },
+        {
+            "id": "10030603028",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100306",
+            "village_id": "10030603",
+            "name": "Sralao Damnak",
+            "name_km": "ស្រឡៅដំណាក់"
+        },
+        {
+            "id": "10030603510",
+            "school_type_id": 1,
+            "district_id": 1003,
+            "commune_id": "100306",
+            "village_id": "10030603",
+            "name": "Sralao Damnak",
+            "name_km": "បឋមសិក្សាស្រឡៅដំណាក់"
+        },
+        {
+            "id": "10030701029",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100307",
+            "village_id": "10030701",
+            "name": "Boeung Chreng",
+            "name_km": "សាលាបឋមសិក្សាបឹងច្រែង"
+        },
+        {
+            "id": "10030703030",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100307",
+            "village_id": "10030703",
+            "name": "Prek Chik",
+            "name_km": "សាលាបឋមសិក្សាព្រែកជីក"
+        },
+        {
+            "id": "10030704031",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100307",
+            "village_id": "10030704",
+            "name": "Prek Praloung",
+            "name_km": "សាលាបឋមសិក្សាព្រែកប្រលូង"
+        },
+        {
+            "id": "10030704511",
+            "school_type_id": 1,
+            "district_id": 1003,
+            "commune_id": "100307",
+            "village_id": "10030704",
+            "name": "Prek Praloung",
+            "name_km": "ព្រែកប្រលូង"
+        },
+        {
+            "id": "10030705032",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100307",
+            "village_id": "10030705",
+            "name": "Prek Roka",
+            "name_km": "សាលាបឋមសិក្សាព្រែករកា"
+        },
+        {
+            "id": "10030706033",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100307",
+            "village_id": "10030706",
+            "name": "Hun Sen Soap Krom",
+            "name_km": "សាលាបឋមសាលាបឋមសិក្សាសេាបក្រេាម"
+        },
+        {
+            "id": "10030707034",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100307",
+            "village_id": "10030707",
+            "name": "Soap Leu",
+            "name_km": "សាលាបឋមសិក្សាសេាបលេី"
+        },
+        {
+            "id": "10030707702",
+            "school_type_id": 3,
+            "district_id": 1003,
+            "commune_id": "100307",
+            "village_id": "10030707",
+            "name": "Soap",
+            "name_km": "អនុវិទ្យាល័យសោភណ៍"
+        },
+        {
+            "id": "10030801035",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100308",
+            "village_id": "10030801",
+            "name": "Bun Rany Hun Sen Krahamkar",
+            "name_km": "ប៊ុុនរ៉ានីហ៊ុនសែនក្រហមកលេី"
+        },
+        {
+            "id": "10030802036",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100308",
+            "village_id": "10030802",
+            "name": "Krahamkar Krom",
+            "name_km": "សាលាបឋមសិក្សាក្រហមកក្រេាម"
+        },
+        {
+            "id": "10030803037",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100308",
+            "village_id": "10030803",
+            "name": "Ksat",
+            "name_km": "សាលាបឋមសិក្សាខ្សាត់"
+        },
+        {
+            "id": "10030804038",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100308",
+            "village_id": "10030804",
+            "name": "Prek Svay",
+            "name_km": "សាលាបឋមសិក្សាព្រែកស្វាយ"
+        },
+        {
+            "id": "10030805039",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100308",
+            "village_id": "10030805",
+            "name": "Stung Tror",
+            "name_km": "សាលាបឋមសិក្សាស្ទឺងទ្រ"
+        },
+        {
+            "id": "10030806040",
+            "school_type_id": 2,
+            "district_id": 1003,
+            "commune_id": "100308",
+            "village_id": "10030806",
+            "name": "Bun Rany Hun Sen Wat Ta Mao",
+            "name_km": "បឋមសិក្សាប៊ុនរ៉ានីហ៊ុនសែនតាម៉ៅ"
+        },
+        {
+            "id": "10030806513",
+            "school_type_id": 1,
+            "district_id": 1003,
+            "commune_id": "100308",
+            "village_id": "10030806",
+            "name": "Bun Rany Hun Sen Wat Ta Mao",
+            "name_km": "បឋមសិក្សាហ៊ុនសែនតាម៉ៅ"
+        },
+        {
+            "id": "10030807703",
+            "school_type_id": 3,
+            "district_id": 1003,
+            "commune_id": "100308",
+            "village_id": "10030807",
+            "name": "Ta Mao",
+            "name_km": "អនុវិទ្យាល័យតាម៉ៅ"
+        }
+    ]
+}

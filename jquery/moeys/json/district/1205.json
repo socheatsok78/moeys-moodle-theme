@@ -1,0 +1,95 @@
+{
+    "id": 1205,
+    "schools": [
+        {
+            "id": "12050604501",
+            "school_type_id": 1,
+            "district_id": 1205,
+            "commune_id": "120506",
+            "village_id": "12050604",
+            "name": "Koma Mittapheap",
+            "name_km": "មត្តេយ្យកុមារមិត្តភាព"
+        },
+        {
+            "id": "12050701003",
+            "school_type_id": 2,
+            "district_id": 1205,
+            "commune_id": "120507",
+            "village_id": "12050701",
+            "name": "Bak Touk",
+            "name_km": "បឋមសិក្សាបាក់ទូក"
+        },
+        {
+            "id": "12050701504",
+            "school_type_id": 1,
+            "district_id": 1205,
+            "commune_id": "120507",
+            "village_id": "12050701",
+            "name": "Bak Touk",
+            "name_km": "បាក់ទូក"
+        },
+        {
+            "id": "12050701901",
+            "school_type_id": 5,
+            "district_id": 1205,
+            "commune_id": "120507",
+            "village_id": "12050701",
+            "name": "Bak Touk",
+            "name_km": "វិទ្យាល័យបាក់ទូក"
+        },
+        {
+            "id": "12050702004",
+            "school_type_id": 2,
+            "district_id": 1205,
+            "commune_id": "120507",
+            "village_id": "12050702",
+            "name": "Wat Preah Puth",
+            "name_km": "បឋមសិក្សាវត្តព្រះពុទ្ធ"
+        },
+        {
+            "id": "12050702503",
+            "school_type_id": 1,
+            "district_id": 1205,
+            "commune_id": "120507",
+            "village_id": "12050702",
+            "name": "Wat Preah Puth",
+            "name_km": "វត្តព្រះពុទ្ធ"
+        },
+        {
+            "id": "12050801001",
+            "school_type_id": 2,
+            "district_id": 1205,
+            "commune_id": "120508",
+            "village_id": "12050801",
+            "name": "Sampeuv Meas",
+            "name_km": "បឋមសិក្សាសំពៅមាស"
+        },
+        {
+            "id": "12050801505",
+            "school_type_id": 1,
+            "district_id": 1205,
+            "commune_id": "120508",
+            "village_id": "12050801",
+            "name": "Sampeuv Meas",
+            "name_km": "សំពៅមាស"
+        },
+        {
+            "id": "12050802002",
+            "school_type_id": 2,
+            "district_id": 1205,
+            "commune_id": "120508",
+            "village_id": "12050802",
+            "name": "Vathanak Vichea",
+            "name_km": "បឋមសិក្សាវឌ្ឃនវិជ្ជា"
+        },
+        {
+            "id": "12050802502",
+            "school_type_id": 1,
+            "district_id": 1205,
+            "commune_id": "120508",
+            "village_id": "12050802",
+            "name": "Vathanak Vichea",
+            "name_km": "វឌ្ឍនវិជ្ជា"
+        }
+    ]
+}

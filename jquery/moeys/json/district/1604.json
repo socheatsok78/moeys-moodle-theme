@@ -1,0 +1,410 @@
+{
+    "id": 1604,
+    "schools": [
+        {
+            "id": "16040101001",
+            "school_type_id": 2,
+            "district_id": 1604,
+            "commune_id": "160401",
+            "village_id": "16040101",
+            "name": "Sre Pork Thom",
+            "name_km": "សាលាបឋមសិក្សាស្រែពកធំ"
+        },
+        {
+            "id": "16040101510",
+            "school_type_id": 1,
+            "district_id": 1604,
+            "commune_id": "160401",
+            "village_id": "16040101",
+            "name": "Sre Pork Thom Pre-School",
+            "name_km": "មត្តេយ្យសិក្សាស្រែពកធំ"
+        },
+        {
+            "id": "16040102002",
+            "school_type_id": 2,
+            "district_id": 1604,
+            "commune_id": "160401",
+            "village_id": "16040102",
+            "name": "Sre Pork Tauch",
+            "name_km": "ស្រែពកតូច"
+        },
+        {
+            "id": "16040102512",
+            "school_type_id": 1,
+            "district_id": 1604,
+            "commune_id": "160401",
+            "village_id": "16040102",
+            "name": "Sre Pork Tauch pre-School",
+            "name_km": "មត្តេយ្យស្រែពកតូច"
+        },
+        {
+            "id": "16040103003",
+            "school_type_id": 2,
+            "district_id": 1604,
+            "commune_id": "160401",
+            "village_id": "16040103",
+            "name": "Neang Dei",
+            "name_km": "សាលាបឋមសិក្សានាងដី"
+        },
+        {
+            "id": "16040201703",
+            "school_type_id": 3,
+            "district_id": 1604,
+            "commune_id": "160402",
+            "village_id": "16040201",
+            "name": "Sre Angkrang",
+            "name_km": "អនុវិទ្យាល័យស្រែអង្គ្រង"
+        },
+        {
+            "id": "16040202004",
+            "school_type_id": 2,
+            "district_id": 1604,
+            "commune_id": "160402",
+            "village_id": "16040202",
+            "name": "Sre Angkrorng",
+            "name_km": "ស្រែអង្រ្គង"
+        },
+        {
+            "id": "16040202502",
+            "school_type_id": 1,
+            "district_id": 1604,
+            "commune_id": "160402",
+            "village_id": "16040202",
+            "name": "Sre Angkrorng",
+            "name_km": "ស្រែអង្គ្រង"
+        },
+        {
+            "id": "16040203027",
+            "school_type_id": 2,
+            "district_id": 1604,
+            "commune_id": "160402",
+            "village_id": "16040203",
+            "name": "Sre Bror Phem Pri-School",
+            "name_km": "សាលាបឋមសិក្សាស្រែប្រភេម"
+        },
+        {
+            "id": "16040301016",
+            "school_type_id": 2,
+            "district_id": 1604,
+            "commune_id": "160403",
+            "village_id": "16040301",
+            "name": "Ta Ang 1",
+            "name_km": "តាអង១"
+        },
+        {
+            "id": "16040301514",
+            "school_type_id": 1,
+            "district_id": 1604,
+            "commune_id": "160403",
+            "village_id": "16040301",
+            "name": "Ta Ang 1_Pre School",
+            "name_km": "សាលាបឋមសិក្សាតាអង១"
+        },
+        {
+            "id": "16040302017",
+            "school_type_id": 2,
+            "district_id": 1604,
+            "commune_id": "160403",
+            "village_id": "16040302",
+            "name": "Ta Ang 2",
+            "name_km": "បឋមសិក្សាតាអង២"
+        },
+        {
+            "id": "16040303018",
+            "school_type_id": 2,
+            "district_id": 1604,
+            "commune_id": "160403",
+            "village_id": "16040303",
+            "name": "Tous",
+            "name_km": "ទុស"
+        },
+        {
+            "id": "16040304015",
+            "school_type_id": 2,
+            "district_id": 1604,
+            "commune_id": "160403",
+            "village_id": "16040304",
+            "name": "Sek",
+            "name_km": "ភូមិសិក"
+        },
+        {
+            "id": "16040305005",
+            "school_type_id": 2,
+            "district_id": 1604,
+            "commune_id": "160403",
+            "village_id": "16040305",
+            "name": "Ta Ang Ka-Te",
+            "name_km": "តាអងកាតែ"
+        },
+        {
+            "id": "16040305513",
+            "school_type_id": 1,
+            "district_id": 1604,
+            "commune_id": "160403",
+            "village_id": "16040305",
+            "name": "Ta Ang Kate Pre-School",
+            "name_km": "សាលាបឋមសិក្សាតាអងកាតែ"
+        },
+        {
+            "id": "16040306025",
+            "school_type_id": 2,
+            "district_id": 1604,
+            "commune_id": "160403",
+            "village_id": null,
+            "name": "Ta Kab",
+            "name_km": "តាកាប់"
+        },
+        {
+            "id": "16040306026",
+            "school_type_id": 2,
+            "district_id": 1604,
+            "commune_id": "160403",
+            "village_id": null,
+            "name": "Tuos Chrech",
+            "name_km": "សាលាបឋមសិក្សាទុសច្រិច"
+        },
+        {
+            "id": "16040401011",
+            "school_type_id": 2,
+            "district_id": 1604,
+            "commune_id": "160404",
+            "village_id": "16040401",
+            "name": "Teun",
+            "name_km": "តឺន"
+        },
+        {
+            "id": "16040401022",
+            "school_type_id": 2,
+            "district_id": 1604,
+            "commune_id": "160404",
+            "village_id": "16040401",
+            "name": "Trapaing Krahil",
+            "name_km": "សាលាបឋមសិក្សាត្រពាំងក្រហឹុល"
+        },
+        {
+            "id": "16040401506",
+            "school_type_id": 1,
+            "district_id": 1604,
+            "commune_id": "160404",
+            "village_id": "16040401",
+            "name": "Trapaing Krahil",
+            "name_km": "ត្រពាំងក្រហឹុល"
+        },
+        {
+            "id": "16040401509",
+            "school_type_id": 1,
+            "district_id": 1604,
+            "commune_id": "160404",
+            "village_id": "16040401",
+            "name": "Teun",
+            "name_km": "តឺន"
+        },
+        {
+            "id": "16040401704",
+            "school_type_id": 3,
+            "district_id": 1604,
+            "commune_id": "160404",
+            "village_id": "16040404",
+            "name": "Teun Sec-School",
+            "name_km": "អនុវិទ្យាល័យតឺន"
+        },
+        {
+            "id": "16040402006",
+            "school_type_id": 2,
+            "district_id": 1604,
+            "commune_id": "160404",
+            "village_id": "16040402",
+            "name": "La In Chamka",
+            "name_km": "សាលាបឋមសិក្សាឡាអិនចំការ"
+        },
+        {
+            "id": "16040403012",
+            "school_type_id": 2,
+            "district_id": 1604,
+            "commune_id": "160404",
+            "village_id": "16040403",
+            "name": "1 Meun Thaing",
+            "name_km": "1ម៉ឺនថាំង"
+        },
+        {
+            "id": "16040403019",
+            "school_type_id": 2,
+            "district_id": 1604,
+            "commune_id": "160404",
+            "village_id": "16040403",
+            "name": "Ta Heuy",
+            "name_km": "តាហឺយ"
+        },
+        {
+            "id": "16040403507",
+            "school_type_id": 1,
+            "district_id": 1604,
+            "commune_id": "160404",
+            "village_id": "16040403",
+            "name": "1 Meun Thaing",
+            "name_km": "១ម៉ឺនថាំង"
+        },
+        {
+            "id": "16040404013",
+            "school_type_id": 2,
+            "district_id": 1604,
+            "commune_id": "160404",
+            "village_id": "16040404",
+            "name": "Kambak",
+            "name_km": "សាលាបឋមសិក្សាកាំបាក់សខេង"
+        },
+        {
+            "id": "16040405021",
+            "school_type_id": 2,
+            "district_id": 1604,
+            "commune_id": "160404",
+            "village_id": "16040405",
+            "name": "La In Sre",
+            "name_km": "ឡាអិនស្រែ"
+        },
+        {
+            "id": "16040501007",
+            "school_type_id": 2,
+            "district_id": 1604,
+            "commune_id": "160405",
+            "village_id": "16040501",
+            "name": "Trapaing Chres",
+            "name_km": "សាលាបឋមសិក្សាត្រពាំងច្រេស"
+        },
+        {
+            "id": "16040501508",
+            "school_type_id": 1,
+            "district_id": 1604,
+            "commune_id": "160405",
+            "village_id": "16040501",
+            "name": "Trapaing Chres",
+            "name_km": "ត្រពាំងច្រេស"
+        },
+        {
+            "id": "16040501702",
+            "school_type_id": 3,
+            "district_id": 1604,
+            "commune_id": "160405",
+            "village_id": "16040501",
+            "name": "Trapaing Chres",
+            "name_km": "អនុវិទ្យាល័យត្រពាំងច្រេស"
+        },
+        {
+            "id": "16040502008",
+            "school_type_id": 2,
+            "district_id": 1604,
+            "commune_id": "160405",
+            "village_id": "16040502",
+            "name": "Sangkum Meanchey",
+            "name_km": "សាលាបឋមសិក្សាសង្គមមានជ័យ"
+        },
+        {
+            "id": "16040502503",
+            "school_type_id": 1,
+            "district_id": 1604,
+            "commune_id": "160405",
+            "village_id": "16040502",
+            "name": "Sangkum Meacnchey",
+            "name_km": "សាលាបឋមសិក្សាសង្គមមានជ័យ"
+        },
+        {
+            "id": "16040502515",
+            "school_type_id": 1,
+            "district_id": 1604,
+            "commune_id": "160405",
+            "village_id": "16040502",
+            "name": "Sangkum Meanchey_Pre School",
+            "name_km": "សាលាមត្តេយ្យសិក្សាសង្គមមានជ័យ"
+        },
+        {
+            "id": "16040503024",
+            "school_type_id": 2,
+            "district_id": 1604,
+            "commune_id": "160405",
+            "village_id": "16040503",
+            "name": "Phoum 3",
+            "name_km": "សាលាបឋមសិក្សាភូមិ3"
+        },
+        {
+            "id": "16040503504",
+            "school_type_id": 1,
+            "district_id": 1604,
+            "commune_id": "160405",
+            "village_id": "16040503",
+            "name": "Phoum 3",
+            "name_km": "ភូមិ៣"
+        },
+        {
+            "id": "16040504009",
+            "school_type_id": 2,
+            "district_id": 1604,
+            "commune_id": "160405",
+            "village_id": "16040504",
+            "name": "Kor 60",
+            "name_km": "សាលាបឋមសិក្សាគ60"
+        },
+        {
+            "id": "16040505014",
+            "school_type_id": 2,
+            "district_id": 1604,
+            "commune_id": "160405",
+            "village_id": "16040505",
+            "name": "Samdech Euv Samdech Me",
+            "name_km": "សាលាបឋមសិក្សាសម្ដេចឪម៉ែ"
+        },
+        {
+            "id": "16040603010",
+            "school_type_id": 2,
+            "district_id": 1604,
+            "commune_id": "160406",
+            "village_id": "16040603",
+            "name": "Trapaing Kraham",
+            "name_km": "សាលាបឋមសិក្សាត្រពាំងក្រហម"
+        },
+        {
+            "id": "16040603020",
+            "school_type_id": 2,
+            "district_id": 1604,
+            "commune_id": "160406",
+            "village_id": "16040603",
+            "name": "Veal Chhke Hot",
+            "name_km": "វាលឆ្កែហត់"
+        },
+        {
+            "id": "16040603023",
+            "school_type_id": 2,
+            "district_id": 1604,
+            "commune_id": "160406",
+            "village_id": "16040603",
+            "name": "Chrop Pring",
+            "name_km": "ច្រប់ព្រីង"
+        },
+        {
+            "id": "16040603501",
+            "school_type_id": 1,
+            "district_id": 1604,
+            "commune_id": "160406",
+            "village_id": "16040603",
+            "name": "Trapaing Kraham",
+            "name_km": "ត្រពាំងក្រហម"
+        },
+        {
+            "id": "16040603701",
+            "school_type_id": 3,
+            "district_id": 1604,
+            "commune_id": "160406",
+            "village_id": "16040603",
+            "name": "Trapaing Kraham",
+            "name_km": "អនុវិទ្យាល័យត្រពាំងក្រហម"
+        },
+        {
+            "id": "16040603901",
+            "school_type_id": 4,
+            "district_id": 1604,
+            "commune_id": "160406",
+            "village_id": "16040603",
+            "name": "Trapaing Kraham",
+            "name_km": "វិទ្យាល័យត្រពាំងក្រហម"
+        }
+    ]
+}

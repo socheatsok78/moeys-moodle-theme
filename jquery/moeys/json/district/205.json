@@ -1,0 +1,617 @@
+{
+    "id": 205,
+    "schools": [
+        {
+            "id": "02050102023",
+            "school_type_id": 2,
+            "district_id": 205,
+            "commune_id": "020501",
+            "village_id": "02050102",
+            "name": "Prek Krauch",
+            "name_km": "ព្រែកក្រូច"
+        },
+        {
+            "id": "02050102505",
+            "school_type_id": 1,
+            "district_id": 205,
+            "commune_id": "020501",
+            "village_id": "02050102",
+            "name": "Prek Krauch",
+            "name_km": "ព្រៃកក្រូច"
+        },
+        {
+            "id": "02050104024",
+            "school_type_id": 2,
+            "district_id": 205,
+            "commune_id": "020501",
+            "village_id": "02050104",
+            "name": "Prek Norin",
+            "name_km": "ព្រែកនរិន្ទ"
+        },
+        {
+            "id": "02050104504",
+            "school_type_id": 1,
+            "district_id": 205,
+            "commune_id": "020501",
+            "village_id": "02050104",
+            "name": "Prek Norin",
+            "name_km": "ព្រែកនរិន្ទ"
+        },
+        {
+            "id": "02050104702",
+            "school_type_id": 3,
+            "district_id": 205,
+            "commune_id": "020501",
+            "village_id": "02050104",
+            "name": "Prek Norin",
+            "name_km": "ព្រែកនរិន្ទ"
+        },
+        {
+            "id": "02050105025",
+            "school_type_id": 2,
+            "district_id": 205,
+            "commune_id": "020501",
+            "village_id": "02050105",
+            "name": "Sdei",
+            "name_km": "ស្តី"
+        },
+        {
+            "id": "02050105506",
+            "school_type_id": 1,
+            "district_id": 205,
+            "commune_id": "020501",
+            "village_id": "02050105",
+            "name": "Sdei",
+            "name_km": "ស្តី"
+        },
+        {
+            "id": "02050106026",
+            "school_type_id": 2,
+            "district_id": 205,
+            "commune_id": "020501",
+            "village_id": "02050106",
+            "name": "Rohal Suong Lech",
+            "name_km": "រហាលសួងលិច"
+        },
+        {
+            "id": "02050106503",
+            "school_type_id": 1,
+            "district_id": 205,
+            "commune_id": "020501",
+            "village_id": "02050106",
+            "name": "Rohal Suong Lech",
+            "name_km": "រហាលសួងលិច"
+        },
+        {
+            "id": "02050108027",
+            "school_type_id": 2,
+            "district_id": 205,
+            "commune_id": "020501",
+            "village_id": "02050108",
+            "name": "Keo Mony Pisey",
+            "name_km": "កែវមុនីពិសី"
+        },
+        {
+            "id": "02050108514",
+            "school_type_id": 1,
+            "district_id": 205,
+            "commune_id": "020501",
+            "village_id": "02050108",
+            "name": "Keo Mony Pisey",
+            "name_km": "បឋមសិក្សាកែវមុនិពិសី"
+        },
+        {
+            "id": "02050110028",
+            "school_type_id": 2,
+            "district_id": 205,
+            "commune_id": "020501",
+            "village_id": "02050110",
+            "name": "Prek Trob",
+            "name_km": "ព្រែកត្រប់"
+        },
+        {
+            "id": "02050110523",
+            "school_type_id": 1,
+            "district_id": 205,
+            "commune_id": "020501",
+            "village_id": "02050110",
+            "name": "Prek Trak",
+            "name_km": "ព្រែកត្រប់"
+        },
+        {
+            "id": "02050201032",
+            "school_type_id": 2,
+            "district_id": 205,
+            "commune_id": "020502",
+            "village_id": "02050201",
+            "name": "Samrong Knong",
+            "name_km": "បឋមសិក្សាសំរោងក្នុង"
+        },
+        {
+            "id": "02050201512",
+            "school_type_id": 1,
+            "district_id": 205,
+            "commune_id": "020502",
+            "village_id": "02050201",
+            "name": "Samrong Knong",
+            "name_km": "សំរោងក្នុង"
+        },
+        {
+            "id": "02050201701",
+            "school_type_id": 3,
+            "district_id": 205,
+            "commune_id": "020502",
+            "village_id": "02050201",
+            "name": "Samrong Knong",
+            "name_km": "សំរោងក្នុង"
+        },
+        {
+            "id": "02050202030",
+            "school_type_id": 2,
+            "district_id": 205,
+            "commune_id": "020502",
+            "village_id": "02050202",
+            "name": "Wat Keo",
+            "name_km": "វត្តកែវ"
+        },
+        {
+            "id": "02050202511",
+            "school_type_id": 1,
+            "district_id": 205,
+            "commune_id": "020502",
+            "village_id": "02050202",
+            "name": "Wat Keo",
+            "name_km": "វត្តកែវ"
+        },
+        {
+            "id": "02050203034",
+            "school_type_id": 2,
+            "district_id": 205,
+            "commune_id": "020502",
+            "village_id": "02050203",
+            "name": "Sar Kheng Bot Neak Ta",
+            "name_km": "សខេងបត់អ្នកតា"
+        },
+        {
+            "id": "02050203513",
+            "school_type_id": 1,
+            "district_id": 205,
+            "commune_id": "020502",
+            "village_id": "02050203",
+            "name": "Sar Kheng Bot Neak Ta",
+            "name_km": "សខេងបត់អ្នកតា"
+        },
+        {
+            "id": "02050204031",
+            "school_type_id": 2,
+            "district_id": 205,
+            "commune_id": "020502",
+            "village_id": "02050204",
+            "name": "Wat O Trea",
+            "name_km": "វត្តអូរទ្រា"
+        },
+        {
+            "id": "02050204515",
+            "school_type_id": 1,
+            "district_id": 205,
+            "commune_id": "020502",
+            "village_id": "02050204",
+            "name": "Wat O Trea",
+            "name_km": "វត្តអូរទ្រា"
+        },
+        {
+            "id": "02050301014",
+            "school_type_id": 2,
+            "district_id": 205,
+            "commune_id": "020503",
+            "village_id": "02050301",
+            "name": "Wat Prek Snor",
+            "name_km": "ព្រែកស្នោ"
+        },
+        {
+            "id": "02050301501",
+            "school_type_id": 1,
+            "district_id": 205,
+            "commune_id": "020503",
+            "village_id": "02050301",
+            "name": "Prek Snor",
+            "name_km": "ព្រែកស្នោ"
+        },
+        {
+            "id": "02050301705",
+            "school_type_id": 3,
+            "district_id": 205,
+            "commune_id": "020503",
+            "village_id": "02050301",
+            "name": "Prek Khporb",
+            "name_km": "ព្រែកខ្ពប"
+        },
+        {
+            "id": "02050303015",
+            "school_type_id": 2,
+            "district_id": 205,
+            "commune_id": "020503",
+            "village_id": "02050303",
+            "name": "Kdaing Ngea",
+            "name_km": "ក្តាំងងា"
+        },
+        {
+            "id": "02050303502",
+            "school_type_id": 1,
+            "district_id": 205,
+            "commune_id": "020503",
+            "village_id": "02050303",
+            "name": "Kdaing Ngea",
+            "name_km": "ក្តាំងងា"
+        },
+        {
+            "id": "02050304016",
+            "school_type_id": 2,
+            "district_id": 205,
+            "commune_id": "020503",
+            "village_id": "02050304",
+            "name": "O Kambot",
+            "name_km": "អូរកំបុត"
+        },
+        {
+            "id": "02050304508",
+            "school_type_id": 1,
+            "district_id": 205,
+            "commune_id": "020503",
+            "village_id": "02050304",
+            "name": "O Kambot",
+            "name_km": "អូរកំបុត្រ"
+        },
+        {
+            "id": "02050401017",
+            "school_type_id": 2,
+            "district_id": 205,
+            "commune_id": "020504",
+            "village_id": "02050401",
+            "name": "Prek Luong",
+            "name_km": "ព្រែកហ្លួង"
+        },
+        {
+            "id": "02050401509",
+            "school_type_id": 1,
+            "district_id": 205,
+            "commune_id": "020504",
+            "village_id": "02050401",
+            "name": "Prek Luong",
+            "name_km": "ព្រែកល្ហួង"
+        },
+        {
+            "id": "02050401901",
+            "school_type_id": 5,
+            "district_id": 205,
+            "commune_id": "020504",
+            "village_id": "02050401",
+            "name": "Ek Phnom",
+            "name_km": "ឯកភ្នំ"
+        },
+        {
+            "id": "02050402018",
+            "school_type_id": 2,
+            "district_id": 205,
+            "commune_id": "020504",
+            "village_id": "02050402",
+            "name": "Sdei Leu",
+            "name_km": "ស្តីលើ"
+        },
+        {
+            "id": "02050402510",
+            "school_type_id": 1,
+            "district_id": 205,
+            "commune_id": "020504",
+            "village_id": "02050402",
+            "name": "Sdei Leu",
+            "name_km": "ស្តីលើ"
+        },
+        {
+            "id": "02050403019",
+            "school_type_id": 2,
+            "district_id": 205,
+            "commune_id": "020504",
+            "village_id": "02050403",
+            "name": "Sdei Krom",
+            "name_km": "ស្តីក្រោម"
+        },
+        {
+            "id": "02050403521",
+            "school_type_id": 1,
+            "district_id": 205,
+            "commune_id": "020504",
+            "village_id": "02050403",
+            "name": "SDEI KROM",
+            "name_km": "ស្តីក្រោម"
+        },
+        {
+            "id": "02050404020",
+            "school_type_id": 2,
+            "district_id": 205,
+            "commune_id": "020504",
+            "village_id": "02050404",
+            "name": "Rohal Suong",
+            "name_km": "រហាលសួង"
+        },
+        {
+            "id": "02050404517",
+            "school_type_id": 1,
+            "district_id": 205,
+            "commune_id": "020504",
+            "village_id": "02050404",
+            "name": "Rohal Suong",
+            "name_km": "រហាលសួង"
+        },
+        {
+            "id": "02050405021",
+            "school_type_id": 2,
+            "district_id": 205,
+            "commune_id": "020504",
+            "village_id": "02050405",
+            "name": "Bak Amrek",
+            "name_km": "បាក់អំរែក"
+        },
+        {
+            "id": "02050405518",
+            "school_type_id": 1,
+            "district_id": 205,
+            "commune_id": "020504",
+            "village_id": "02050405",
+            "name": "Bak Amrek",
+            "name_km": "បាក់អំរែក"
+        },
+        {
+            "id": "02050405707",
+            "school_type_id": 3,
+            "district_id": 205,
+            "commune_id": "020504",
+            "village_id": "02050405",
+            "name": "Bak Amrek",
+            "name_km": "បាក់អំរែក"
+        },
+        {
+            "id": "02050406033",
+            "school_type_id": 2,
+            "district_id": 205,
+            "commune_id": "020504",
+            "village_id": "02050406",
+            "name": "Phlov Kat",
+            "name_km": "ផ្លូវកាត់"
+        },
+        {
+            "id": "02050407022",
+            "school_type_id": 2,
+            "district_id": 205,
+            "commune_id": "020504",
+            "village_id": "02050407",
+            "name": "Bak Rotes",
+            "name_km": "បាក់រទេះ"
+        },
+        {
+            "id": "02050407522",
+            "school_type_id": 1,
+            "district_id": 205,
+            "commune_id": "020504",
+            "village_id": "02050407",
+            "name": "Bak Rotes",
+            "name_km": "បាក់រទេះ"
+        },
+        {
+            "id": "02050501036",
+            "school_type_id": 2,
+            "district_id": 205,
+            "commune_id": "020505",
+            "village_id": "02050501",
+            "name": "Daun Teav",
+            "name_km": "ដូនទាវ"
+        },
+        {
+            "id": "02050501516",
+            "school_type_id": 1,
+            "district_id": 205,
+            "commune_id": "020505",
+            "village_id": "02050501",
+            "name": "Daun Teav",
+            "name_km": "ដូនទាវ"
+        },
+        {
+            "id": "02050502005",
+            "school_type_id": 2,
+            "district_id": 205,
+            "commune_id": "020505",
+            "village_id": "02050502",
+            "name": "Nhim Vanda Suos Ei",
+            "name_km": "ញឹម វណ្ណដា សួសអី"
+        },
+        {
+            "id": "02050502520",
+            "school_type_id": 1,
+            "district_id": 205,
+            "commune_id": "020505",
+            "village_id": "02050502",
+            "name": "Nheum Vanda Suos Ei",
+            "name_km": "ញឹមវណ្ណដាសួសអី"
+        },
+        {
+            "id": "02050503006",
+            "school_type_id": 2,
+            "district_id": 205,
+            "commune_id": "020505",
+            "village_id": "02050503",
+            "name": "Somnoas",
+            "name_km": "សោមនស្ស"
+        },
+        {
+            "id": "02050503507",
+            "school_type_id": 1,
+            "district_id": 205,
+            "commune_id": "020505",
+            "village_id": "02050503",
+            "name": "Somnoas",
+            "name_km": "សោមនស្ស"
+        },
+        {
+            "id": "02050503703",
+            "school_type_id": 3,
+            "district_id": 205,
+            "commune_id": "020505",
+            "village_id": "02050503",
+            "name": "Peam Ek",
+            "name_km": "ពាមឯក"
+        },
+        {
+            "id": "02050505007",
+            "school_type_id": 2,
+            "district_id": 205,
+            "commune_id": "020505",
+            "village_id": "02050505",
+            "name": "Ek Phnom",
+            "name_km": "ឯកភ្នំ"
+        },
+        {
+            "id": "02050506008",
+            "school_type_id": 2,
+            "district_id": 205,
+            "commune_id": "020505",
+            "village_id": "02050506",
+            "name": "Prek Chhdor",
+            "name_km": "ព្រែកឆ្តោរ"
+        },
+        {
+            "id": "02050506519",
+            "school_type_id": 1,
+            "district_id": 205,
+            "commune_id": "020505",
+            "village_id": "02050506",
+            "name": "Prek Chhdor",
+            "name_km": "ព្រែកឆ្តោរ"
+        },
+        {
+            "id": "02050508009",
+            "school_type_id": 2,
+            "district_id": 205,
+            "commune_id": "020505",
+            "village_id": "02050508",
+            "name": "Kauk Daung",
+            "name_km": "កោកដូង"
+        },
+        {
+            "id": "02050509037",
+            "school_type_id": 2,
+            "district_id": 205,
+            "commune_id": "020505",
+            "village_id": "02050509",
+            "name": "Pheas",
+            "name_km": "ភាស"
+        },
+        {
+            "id": "02050601010",
+            "school_type_id": 2,
+            "district_id": 205,
+            "commune_id": "020506",
+            "village_id": "02050601",
+            "name": "Prey Chas",
+            "name_km": "ព្រៃចាស់"
+        },
+        {
+            "id": "02050602011",
+            "school_type_id": 2,
+            "district_id": 205,
+            "commune_id": "020506",
+            "village_id": "02050602",
+            "name": "Peam Seima",
+            "name_km": "ពាមសីមា"
+        },
+        {
+            "id": "02050604012",
+            "school_type_id": 2,
+            "district_id": 205,
+            "commune_id": "020506",
+            "village_id": "02050604",
+            "name": "Koh Chi Vaing",
+            "name_km": "បឋមសិក្សាកោះជីវាំង"
+        },
+        {
+            "id": "02050605013",
+            "school_type_id": 2,
+            "district_id": 205,
+            "commune_id": "020506",
+            "village_id": "02050605",
+            "name": "Bak Prea",
+            "name_km": "បាក់ព្រា"
+        },
+        {
+            "id": "02050605706",
+            "school_type_id": 3,
+            "district_id": 205,
+            "commune_id": "020506",
+            "village_id": "02050605",
+            "name": "Prey Chas",
+            "name_km": "អនុវិទ្យាល័យព្រៃចាស់"
+        },
+        {
+            "id": "02050701001",
+            "school_type_id": 2,
+            "district_id": 205,
+            "commune_id": "020507",
+            "village_id": "02050701",
+            "name": "Thvang",
+            "name_km": "ថ្វាង"
+        },
+        {
+            "id": "02050702002",
+            "school_type_id": 2,
+            "district_id": 205,
+            "commune_id": "020507",
+            "village_id": "02050702",
+            "name": "Kampong Prahok",
+            "name_km": "កំពង់ប្រហុក"
+        },
+        {
+            "id": "02050703003",
+            "school_type_id": 2,
+            "district_id": 205,
+            "commune_id": "020507",
+            "village_id": "02050703",
+            "name": "Koh Chi Vaing",
+            "name_km": "ឃុំកោះជីវាំង"
+        },
+        {
+            "id": "02050703704",
+            "school_type_id": 3,
+            "district_id": 205,
+            "commune_id": "020507",
+            "village_id": "02050703",
+            "name": "Koh Chi Vaing",
+            "name_km": "កោះជីវាំង"
+        },
+        {
+            "id": "02050704035",
+            "school_type_id": 2,
+            "district_id": 205,
+            "commune_id": "020507",
+            "village_id": "02050704",
+            "name": "Prek Toal",
+            "name_km": "ព្រែកទាល់"
+        },
+        {
+            "id": "02050704038",
+            "school_type_id": 2,
+            "district_id": 205,
+            "commune_id": "020507",
+            "village_id": "02050704",
+            "name": "Peak Kantel",
+            "name_km": "ពាក់កន្ទេល"
+        },
+        {
+            "id": "02050705004",
+            "school_type_id": 2,
+            "district_id": 205,
+            "commune_id": "020507",
+            "village_id": "02050705",
+            "name": "Kbal Taul",
+            "name_km": "ក្បាលតោល"
+        }
+    ]
+}

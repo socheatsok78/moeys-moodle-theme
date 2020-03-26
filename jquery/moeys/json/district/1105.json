@@ -1,0 +1,131 @@
+{
+    "id": 1105,
+    "schools": [
+        {
+            "id": "11050102007",
+            "school_type_id": 2,
+            "district_id": 1105,
+            "commune_id": "110501",
+            "village_id": "11050102",
+            "name": "Moulnithik Sangkum",
+            "name_km": "មូលនិធិសង្គម"
+        },
+        {
+            "id": "11050102502",
+            "school_type_id": 1,
+            "district_id": 1105,
+            "commune_id": "110501",
+            "village_id": "11050102",
+            "name": "Moulnithik Sangkum",
+            "name_km": "មូលនិធិសង្គម"
+        },
+        {
+            "id": "11050102701",
+            "school_type_id": 3,
+            "district_id": 1105,
+            "commune_id": "110501",
+            "village_id": "11050102",
+            "name": "Monorom",
+            "name_km": "អនុវិទ្យាល័យមនោរម្យ"
+        },
+        {
+            "id": "11050204001",
+            "school_type_id": 2,
+            "district_id": 1105,
+            "commune_id": "110502",
+            "village_id": "11050204",
+            "name": "Lao Ka",
+            "name_km": "ឡៅកា"
+        },
+        {
+            "id": "11050304901",
+            "school_type_id": 5,
+            "district_id": 1105,
+            "commune_id": "110503",
+            "village_id": "11050304",
+            "name": "Hun Sen Mondul Kiri",
+            "name_km": "វិទ្យាល័យហ៊ុនសែនមណ្ឌលគិរី"
+        },
+        {
+            "id": "11050305002",
+            "school_type_id": 2,
+            "district_id": 1105,
+            "commune_id": "110503",
+            "village_id": "11050305",
+            "name": "Sen Monorom",
+            "name_km": "ហ៊ុនសែនសែនមនោរម្យ"
+        },
+        {
+            "id": "11050305501",
+            "school_type_id": 1,
+            "district_id": 1105,
+            "commune_id": "110503",
+            "village_id": "11050305",
+            "name": "Sangkum Reasrt Nyum",
+            "name_km": "មត្តេយ្យសិក្សាសង្គមរាស្ត្រនិយម"
+        },
+        {
+            "id": "11050401003",
+            "school_type_id": 2,
+            "district_id": 1105,
+            "commune_id": "110504",
+            "village_id": "11050401",
+            "name": "Pou Trom",
+            "name_km": "ពូត្រុំ"
+        },
+        {
+            "id": "11050401008",
+            "school_type_id": 2,
+            "district_id": 1105,
+            "commune_id": "110504",
+            "village_id": "11050401",
+            "name": "Pou Trom Thmei",
+            "name_km": "ពូត្រុំថ្មី"
+        },
+        {
+            "id": "11050401009",
+            "school_type_id": 2,
+            "district_id": 1105,
+            "commune_id": "110504",
+            "village_id": "11050401",
+            "name": "Pou Trom Damreichoan",
+            "name_km": "ពូត្រុំក្រុម៣"
+        },
+        {
+            "id": "11050402006",
+            "school_type_id": 2,
+            "district_id": 1105,
+            "commune_id": "110504",
+            "village_id": "11050402",
+            "name": "Pou Taing",
+            "name_km": "ពូតាំង"
+        },
+        {
+            "id": "11050402504",
+            "school_type_id": 1,
+            "district_id": 1105,
+            "commune_id": "110504",
+            "village_id": "11050402",
+            "name": "Pou Taing",
+            "name_km": "ពូតាំង"
+        },
+        {
+            "id": "11050403004",
+            "school_type_id": 2,
+            "district_id": 1105,
+            "commune_id": "110504",
+            "village_id": "11050403",
+            "name": "Pou Loung",
+            "name_km": "ពូលូង"
+        },
+        {
+            "id": "11050404005",
+            "school_type_id": 2,
+            "district_id": 1105,
+            "commune_id": "110504",
+            "village_id": "11050404",
+            "name": "Sre Y",
+            "name_km": "ស្រែអ៊ី"
+        }
+    ]
+}

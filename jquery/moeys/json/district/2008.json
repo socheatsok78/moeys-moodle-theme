@@ -1,0 +1,275 @@
+{
+    "id": 2008,
+    "schools": [
+        {
+            "id": "20080101001",
+            "school_type_id": 2,
+            "district_id": 2008,
+            "commune_id": "200801",
+            "village_id": "20080101",
+            "name": "Svay Kandal",
+            "name_km": "ស្វាយកណ្ដាល"
+        },
+        {
+            "id": "20080101002",
+            "school_type_id": 2,
+            "district_id": 2008,
+            "commune_id": "200801",
+            "village_id": "20080101",
+            "name": "Trapaing Phlong",
+            "name_km": "ត្រពាំងផ្លុង"
+        },
+        {
+            "id": "20080101504",
+            "school_type_id": 1,
+            "district_id": 2008,
+            "commune_id": "200801",
+            "village_id": "20080101",
+            "name": "Svay Kandal",
+            "name_km": "ស្វាយកណ្ដាល"
+        },
+        {
+            "id": "20080101509",
+            "school_type_id": 1,
+            "district_id": 2008,
+            "commune_id": "200801",
+            "village_id": "20080101",
+            "name": "Trapaing Phlong",
+            "name_km": "មត្តេយ្យត្រពាំងផ្លុង"
+        },
+        {
+            "id": "20080103003",
+            "school_type_id": 2,
+            "district_id": 2008,
+            "commune_id": "200801",
+            "village_id": "20080103",
+            "name": "Thnanh",
+            "name_km": "ថ្នាញ"
+        },
+        {
+            "id": "20080103506",
+            "school_type_id": 1,
+            "district_id": 2008,
+            "commune_id": "200801",
+            "village_id": "20080103",
+            "name": "Thnanh",
+            "name_km": "ថ្នាញ"
+        },
+        {
+            "id": "20080103701",
+            "school_type_id": 3,
+            "district_id": 2008,
+            "commune_id": "200801",
+            "village_id": "20080103",
+            "name": "Bati",
+            "name_km": "បាទី"
+        },
+        {
+            "id": "20080104004",
+            "school_type_id": 2,
+            "district_id": 2008,
+            "commune_id": "200801",
+            "village_id": "20080104",
+            "name": "Prasap Leak",
+            "name_km": "ប្រសប់លាក់"
+        },
+        {
+            "id": "20080104505",
+            "school_type_id": 1,
+            "district_id": 2008,
+            "commune_id": "200801",
+            "village_id": "20080104",
+            "name": "Prasap Leak",
+            "name_km": "ប្រសប់លាក់"
+        },
+        {
+            "id": "20080201005",
+            "school_type_id": 2,
+            "district_id": 2008,
+            "commune_id": "200802",
+            "village_id": "20080201",
+            "name": "Hun Sen Bavet",
+            "name_km": "ហ៊ុន សែនបាវិត"
+        },
+        {
+            "id": "20080201501",
+            "school_type_id": 1,
+            "district_id": 2008,
+            "commune_id": "200802",
+            "village_id": "20080201",
+            "name": "Hun Sen Bavet",
+            "name_km": "មត្តេយ្យសិក្សាហ៊ុន សែនបាវិត"
+        },
+        {
+            "id": "20080203006",
+            "school_type_id": 2,
+            "district_id": 2008,
+            "commune_id": "200802",
+            "village_id": "20080203",
+            "name": "Bavet",
+            "name_km": "បាវិត"
+        },
+        {
+            "id": "20080203502",
+            "school_type_id": 1,
+            "district_id": 2008,
+            "commune_id": "200802",
+            "village_id": "20080203",
+            "name": "Resource Bavet ",
+            "name_km": "មត្តេយ្យសិក្សាបាវិត"
+        },
+        {
+            "id": "20080203902",
+            "school_type_id": 5,
+            "district_id": 2008,
+            "commune_id": "200802",
+            "village_id": "20080203",
+            "name": "Bavet",
+            "name_km": "ចំណេះទូទៅ និងបច្ចេកទេស"
+        },
+        {
+            "id": "20080204007",
+            "school_type_id": 2,
+            "district_id": 2008,
+            "commune_id": "200802",
+            "village_id": "20080204",
+            "name": "Bavet Kandal",
+            "name_km": "បាវិតកណ្ដាល"
+        },
+        {
+            "id": "20080204508",
+            "school_type_id": 1,
+            "district_id": 2008,
+            "commune_id": "200802",
+            "village_id": "20080204",
+            "name": "Bavet Kandal",
+            "name_km": "បាវិតកណ្ដាល"
+        },
+        {
+            "id": "20080301015",
+            "school_type_id": 2,
+            "district_id": 2008,
+            "commune_id": "200803",
+            "village_id": "20080301",
+            "name": "Prasat",
+            "name_km": "ប្រាសាទ"
+        },
+        {
+            "id": "20080302008",
+            "school_type_id": 2,
+            "district_id": 2008,
+            "commune_id": "200803",
+            "village_id": "20080302",
+            "name": "Prasat",
+            "name_km": "ប្រាសាទ"
+        },
+        {
+            "id": "20080302507",
+            "school_type_id": 1,
+            "district_id": 2008,
+            "commune_id": "200803",
+            "village_id": "20080302",
+            "name": "Prasat",
+            "name_km": "ប្រាសាទ"
+        },
+        {
+            "id": "20080302703",
+            "school_type_id": 3,
+            "district_id": 2008,
+            "commune_id": "200803",
+            "village_id": "20080302",
+            "name": null,
+            "name_km": "ប្រាសាទ"
+        },
+        {
+            "id": "20080404016",
+            "school_type_id": 2,
+            "district_id": 2008,
+            "commune_id": "200804",
+            "village_id": "20080404",
+            "name": "Chrey Thom",
+            "name_km": "ជ្រៃធំ"
+        },
+        {
+            "id": "20080405009",
+            "school_type_id": 2,
+            "district_id": 2008,
+            "commune_id": "200804",
+            "village_id": "20080405",
+            "name": "Prey Angkunh",
+            "name_km": "ព្រៃអង្គញ់"
+        },
+        {
+            "id": "20080406017",
+            "school_type_id": 2,
+            "district_id": 2008,
+            "commune_id": "200804",
+            "village_id": "20080406",
+            "name": "Ang Sala",
+            "name_km": "អង្កសាលា"
+        },
+        {
+            "id": "20080504010",
+            "school_type_id": 2,
+            "district_id": 2008,
+            "commune_id": "200805",
+            "village_id": "20080504",
+            "name": "Ampor Voan",
+            "name_km": "អម្ពវ័ន"
+        },
+        {
+            "id": "20080504011",
+            "school_type_id": 2,
+            "district_id": 2008,
+            "commune_id": "200805",
+            "village_id": "20080504",
+            "name": "Chrak Mates",
+            "name_km": "ច្រកម្ទេស"
+        },
+        {
+            "id": "20080509012",
+            "school_type_id": 2,
+            "district_id": 2008,
+            "commune_id": "200805",
+            "village_id": "20080509",
+            "name": "Bun Rany Hun Sen Chi Phou",
+            "name_km": "ប៊ុនរ៉ានី ហ៊ុនសែនជីភូ"
+        },
+        {
+            "id": "20080509503",
+            "school_type_id": 1,
+            "district_id": 2008,
+            "commune_id": "200805",
+            "village_id": "20080509",
+            "name": "Bun Rany Hun Sen Chi Phou",
+            "name_km": "ប៊ុនរ៉ានី ហ៊ុនសែនជីភូ"
+        },
+        {
+            "id": "20080510901",
+            "school_type_id": 5,
+            "district_id": 2008,
+            "commune_id": "200805",
+            "village_id": "20080510",
+            "name": "Chi Phou",
+            "name_km": "ជីភូ"
+        },
+        {
+            "id": "20080512013",
+            "school_type_id": 2,
+            "district_id": 2008,
+            "commune_id": "200805",
+            "village_id": "20080512",
+            "name": "Prey Tup",
+            "name_km": "ព្រៃទប់"
+        },
+        {
+            "id": "20080515014",
+            "school_type_id": 2,
+            "district_id": 2008,
+            "commune_id": "200805",
+            "village_id": "20080515",
+            "name": "Thlork",
+            "name_km": "ធ្លក"
+        }
+    ]
+}

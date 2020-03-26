@@ -1,0 +1,599 @@
+{
+    "id": 1505,
+    "schools": [
+        {
+            "id": "15050102001",
+            "school_type_id": 2,
+            "district_id": 1505,
+            "commune_id": "150501",
+            "village_id": "15050102",
+            "name": "O Roka",
+            "name_km": "អូររកា"
+        },
+        {
+            "id": "15050102521",
+            "school_type_id": 1,
+            "district_id": 1505,
+            "commune_id": "150501",
+            "village_id": "15050102",
+            "name": "O Roka",
+            "name_km": "អូររកា"
+        },
+        {
+            "id": "15050102705",
+            "school_type_id": 3,
+            "district_id": 1505,
+            "commune_id": "150501",
+            "village_id": "15050102",
+            "name": "O Roka",
+            "name_km": "អូររកា"
+        },
+        {
+            "id": "15050103030",
+            "school_type_id": 2,
+            "district_id": 1505,
+            "commune_id": "150501",
+            "village_id": "15050103",
+            "name": "Wat Ek",
+            "name_km": "វត្តឯក"
+        },
+        {
+            "id": "15050104038",
+            "school_type_id": 2,
+            "district_id": 1505,
+            "commune_id": "150501",
+            "village_id": "15050104",
+            "name": "Daun Ey",
+            "name_km": "ដូនអី"
+        },
+        {
+            "id": "15050104522",
+            "school_type_id": 1,
+            "district_id": 1505,
+            "commune_id": "150501",
+            "village_id": "15050104",
+            "name": "Daun Ey",
+            "name_km": "ដូនអី"
+        },
+        {
+            "id": "15050105002",
+            "school_type_id": 2,
+            "district_id": 1505,
+            "commune_id": "150501",
+            "village_id": "15050105",
+            "name": "Kdei Khvav",
+            "name_km": "ក្ដីខ្វាវ"
+        },
+        {
+            "id": "15050105520",
+            "school_type_id": 1,
+            "district_id": 1505,
+            "commune_id": "150501",
+            "village_id": "15050105",
+            "name": "Kdei Khav",
+            "name_km": "ក្តីខ្វាវ"
+        },
+        {
+            "id": "15050106035",
+            "school_type_id": 2,
+            "district_id": 1505,
+            "commune_id": "150501",
+            "village_id": "15050106",
+            "name": "Suy Sem Kampong Stuong",
+            "name_km": "ស៊ុយ​ សែមកំពង់់ស្ទោង"
+        },
+        {
+            "id": "15050106526",
+            "school_type_id": 1,
+            "district_id": 1505,
+            "commune_id": "150501",
+            "village_id": "15050106",
+            "name": "Suy Sem Kampong Stong",
+            "name_km": "ស៊ុយ សែមកំពង់ស្ទោង"
+        },
+        {
+            "id": "15050108026",
+            "school_type_id": 2,
+            "district_id": 1505,
+            "commune_id": "150501",
+            "village_id": "15050108",
+            "name": "Tuol Krous",
+            "name_km": "ទួលក្រួស"
+        },
+        {
+            "id": "15050108032",
+            "school_type_id": 2,
+            "district_id": 1505,
+            "commune_id": "150501",
+            "village_id": "15050108",
+            "name": "Kiri Barvong Meanchey",
+            "name_km": "បរវង្ស"
+        },
+        {
+            "id": "15050108519",
+            "school_type_id": 1,
+            "district_id": 1505,
+            "commune_id": "150501",
+            "village_id": "15050108",
+            "name": "Tuol Krous",
+            "name_km": "ទួលក្រួស"
+        },
+        {
+            "id": "15050108525",
+            "school_type_id": 1,
+            "district_id": 1505,
+            "commune_id": "150501",
+            "village_id": "15050108",
+            "name": "Barvong",
+            "name_km": "បរវង្ស"
+        },
+        {
+            "id": "15050108708",
+            "school_type_id": 3,
+            "district_id": 1505,
+            "commune_id": "150501",
+            "village_id": "15050108",
+            "name": "Moly Tuol Krous",
+            "name_km": "ទួលក្រួស"
+        },
+        {
+            "id": "15050302008",
+            "school_type_id": 2,
+            "district_id": 1505,
+            "commune_id": "150503",
+            "village_id": "15050302",
+            "name": "Hangsa Peitek",
+            "name_km": "ហង្សាបីតិ"
+        },
+        {
+            "id": "15050302501",
+            "school_type_id": 1,
+            "district_id": 1505,
+            "commune_id": "150503",
+            "village_id": "15050302",
+            "name": "Lolork Sar",
+            "name_km": "លលកស"
+        },
+        {
+            "id": "15050302515",
+            "school_type_id": 1,
+            "district_id": 1505,
+            "commune_id": "150503",
+            "village_id": "15050302",
+            "name": "Hangsa Peitek",
+            "name_km": "ហង្សាបីតិ"
+        },
+        {
+            "id": "15050302702",
+            "school_type_id": 3,
+            "district_id": 1505,
+            "commune_id": "150503",
+            "village_id": "15050302",
+            "name": "Prek Sdei",
+            "name_km": "ព្រែកស្ដី"
+        },
+        {
+            "id": "15050303009",
+            "school_type_id": 2,
+            "district_id": 1505,
+            "commune_id": "150503",
+            "village_id": "15050303",
+            "name": "Lolork Sar",
+            "name_km": "លលកស"
+        },
+        {
+            "id": "15050305010",
+            "school_type_id": 2,
+            "district_id": 1505,
+            "commune_id": "150503",
+            "village_id": "15050305",
+            "name": "Thuon Mony",
+            "name_km": "ធួនមុនី"
+        },
+        {
+            "id": "15050305503",
+            "school_type_id": 1,
+            "district_id": 1505,
+            "commune_id": "150503",
+            "village_id": "15050305",
+            "name": "Thoun Mony",
+            "name_km": "ធួនមុនី"
+        },
+        {
+            "id": "15050306011",
+            "school_type_id": 2,
+            "district_id": 1505,
+            "commune_id": "150503",
+            "village_id": "15050306",
+            "name": "Wat Luong",
+            "name_km": "វត្តហ្លួង"
+        },
+        {
+            "id": "15050306510",
+            "school_type_id": 1,
+            "district_id": 1505,
+            "commune_id": "150503",
+            "village_id": "15050306",
+            "name": "Wat Luong",
+            "name_km": "វត្ដហ្លួង"
+        },
+        {
+            "id": "15050306704",
+            "school_type_id": 3,
+            "district_id": 1505,
+            "commune_id": "150503",
+            "village_id": "15050306",
+            "name": "Wat Luong",
+            "name_km": "វត្តហ្លួង"
+        },
+        {
+            "id": "15050308012",
+            "school_type_id": 2,
+            "district_id": 1505,
+            "commune_id": "150503",
+            "village_id": "15050308",
+            "name": "Sophy",
+            "name_km": "សូភី"
+        },
+        {
+            "id": "15050308504",
+            "school_type_id": 1,
+            "district_id": 1505,
+            "commune_id": "150503",
+            "village_id": "15050308",
+            "name": "Sophy",
+            "name_km": "សូភី"
+        },
+        {
+            "id": "15050401509",
+            "school_type_id": 1,
+            "district_id": 1505,
+            "commune_id": "150504",
+            "village_id": "15050401",
+            "name": "Matey Khet",
+            "name_km": "មត្តេយ្យខេត្ត"
+        },
+        {
+            "id": "15050402013",
+            "school_type_id": 2,
+            "district_id": 1505,
+            "commune_id": "150504",
+            "village_id": "15050402",
+            "name": "Pursat",
+            "name_km": "ពោធិ៍សាត់"
+        },
+        {
+            "id": "15050402502",
+            "school_type_id": 1,
+            "district_id": 1505,
+            "commune_id": "150504",
+            "village_id": "15050402",
+            "name": "Pursat",
+            "name_km": "មត្តេយ្យពោធិ៍សាត់"
+        },
+        {
+            "id": "15050406701",
+            "school_type_id": 3,
+            "district_id": 1505,
+            "commune_id": "150504",
+            "village_id": "15050406",
+            "name": "Pursat",
+            "name_km": "ពោធិ៍សាត់"
+        },
+        {
+            "id": "15050406901",
+            "school_type_id": 4,
+            "district_id": 1505,
+            "commune_id": "150504",
+            "village_id": "15050406",
+            "name": "Pursat",
+            "name_km": "ពោធិ៍សាត់"
+        },
+        {
+            "id": "15050408015",
+            "school_type_id": 2,
+            "district_id": 1505,
+            "commune_id": "150504",
+            "village_id": "15050408",
+            "name": "Tnot Tret",
+            "name_km": "ត្នោតទ្រេត"
+        },
+        {
+            "id": "15050408514",
+            "school_type_id": 1,
+            "district_id": 1505,
+            "commune_id": "150504",
+            "village_id": "15050408",
+            "name": "Tnot Tret",
+            "name_km": "ត្នោតទ្រេត"
+        },
+        {
+            "id": "15050408902",
+            "school_type_id": 5,
+            "district_id": 1505,
+            "commune_id": "150504",
+            "village_id": "15050408",
+            "name": "Tea Chamrath",
+            "name_km": "ទាចំរ៉ាត់"
+        },
+        {
+            "id": "15050410016",
+            "school_type_id": 2,
+            "district_id": 1505,
+            "commune_id": "150504",
+            "village_id": "15050410",
+            "name": "Sathany",
+            "name_km": "ស្ថានីយ៍"
+        },
+        {
+            "id": "15050502017",
+            "school_type_id": 2,
+            "district_id": 1505,
+            "commune_id": "150505",
+            "village_id": "15050502",
+            "name": "Prey Nhi",
+            "name_km": "ព្រៃញី"
+        },
+        {
+            "id": "15050502506",
+            "school_type_id": 1,
+            "district_id": 1505,
+            "commune_id": "150505",
+            "village_id": "15050502",
+            "name": "Prey Nhi",
+            "name_km": "ព្រៃញី"
+        },
+        {
+            "id": "15050507018",
+            "school_type_id": 2,
+            "district_id": 1505,
+            "commune_id": "150505",
+            "village_id": "15050507",
+            "name": "Kraing Ta Sen",
+            "name_km": "ក្រាំងតាសែន"
+        },
+        {
+            "id": "15050507507",
+            "school_type_id": 1,
+            "district_id": 1505,
+            "commune_id": "150505",
+            "village_id": "15050507",
+            "name": "Kraing Ta Sen",
+            "name_km": "ក្រាំងតាសែន"
+        },
+        {
+            "id": "15050507709",
+            "school_type_id": 3,
+            "district_id": 1505,
+            "commune_id": "150505",
+            "village_id": "15050507",
+            "name": "Kraing Ta Sen",
+            "name_km": "ក្រាំងតាសែន"
+        },
+        {
+            "id": "15050602025",
+            "school_type_id": 2,
+            "district_id": 1505,
+            "commune_id": "150506",
+            "village_id": "15050602",
+            "name": "Veang Vey",
+            "name_km": "វាងវៃ"
+        },
+        {
+            "id": "15050602029",
+            "school_type_id": 2,
+            "district_id": 1505,
+            "commune_id": "150506",
+            "village_id": "15050602",
+            "name": "Phnom Trop",
+            "name_km": "ភ្នំទ្រព្យ"
+        },
+        {
+            "id": "15050602512",
+            "school_type_id": 1,
+            "district_id": 1505,
+            "commune_id": "150506",
+            "village_id": "15050602",
+            "name": "Veang Vey",
+            "name_km": "វាងវៃ"
+        },
+        {
+            "id": "15050602523",
+            "school_type_id": 1,
+            "district_id": 1505,
+            "commune_id": "150506",
+            "village_id": "15050602",
+            "name": "Phnom Trop",
+            "name_km": "ភ្នំទ្រព្យ"
+        },
+        {
+            "id": "15050603034",
+            "school_type_id": 2,
+            "district_id": 1505,
+            "commune_id": "150506",
+            "village_id": "15050603",
+            "name": "Thnal Bot",
+            "name_km": "ម៉ូលីថ្នល់បត់"
+        },
+        {
+            "id": "15050603524",
+            "school_type_id": 1,
+            "district_id": 1505,
+            "commune_id": "150506",
+            "village_id": "15050603",
+            "name": "Moly Thnal Bot",
+            "name_km": "ម៉ូលីថ្នល់បត់"
+        },
+        {
+            "id": "15050606019",
+            "school_type_id": 2,
+            "district_id": 1505,
+            "commune_id": "150506",
+            "village_id": "15050606",
+            "name": "Stung Tauch",
+            "name_km": "ស្ទឹងតូច"
+        },
+        {
+            "id": "15050606516",
+            "school_type_id": 1,
+            "district_id": 1505,
+            "commune_id": "150506",
+            "village_id": "15050606",
+            "name": "Stung Tauch",
+            "name_km": "ស្តឹងតូច"
+        },
+        {
+            "id": "15050608020",
+            "school_type_id": 2,
+            "district_id": 1505,
+            "commune_id": "150506",
+            "village_id": "15050608",
+            "name": "Roleap",
+            "name_km": "រលាប"
+        },
+        {
+            "id": "15050610021",
+            "school_type_id": 2,
+            "district_id": 1505,
+            "commune_id": "150506",
+            "village_id": "15050610",
+            "name": "Soriya",
+            "name_km": "សូរិយា"
+        },
+        {
+            "id": "15050611022",
+            "school_type_id": 2,
+            "district_id": 1505,
+            "commune_id": "150506",
+            "village_id": "15050611",
+            "name": "Prek Sdei",
+            "name_km": "ព្រែកស្តី"
+        },
+        {
+            "id": "15050611513",
+            "school_type_id": 1,
+            "district_id": 1505,
+            "commune_id": "150506",
+            "village_id": "15050611",
+            "name": "Prek Sdei",
+            "name_km": "ព្រែកស្ដី"
+        },
+        {
+            "id": "15050612023",
+            "school_type_id": 2,
+            "district_id": 1505,
+            "commune_id": "150506",
+            "village_id": "15050612",
+            "name": "Sokharam",
+            "name_km": "សុខារាម"
+        },
+        {
+            "id": "15050612518",
+            "school_type_id": 1,
+            "district_id": 1505,
+            "commune_id": "150506",
+            "village_id": "15050612",
+            "name": "Sokharam",
+            "name_km": "សុខារាម"
+        },
+        {
+            "id": "15050613028",
+            "school_type_id": 2,
+            "district_id": 1505,
+            "commune_id": "150506",
+            "village_id": "15050613",
+            "name": "Thmar 3 Dom",
+            "name_km": "ថ្មបីដុំ"
+        },
+        {
+            "id": "15050613031",
+            "school_type_id": 2,
+            "district_id": 1505,
+            "commune_id": "150506",
+            "village_id": "15050613",
+            "name": "Moly Tuol Wat",
+            "name_km": "ម៉ូលីទួលវត្ត"
+        },
+        {
+            "id": "15050613511",
+            "school_type_id": 1,
+            "district_id": 1505,
+            "commune_id": "150506",
+            "village_id": "15050613",
+            "name": "Roleap",
+            "name_km": "រលាប"
+        },
+        {
+            "id": "15050613527",
+            "school_type_id": 1,
+            "district_id": 1505,
+            "commune_id": "150506",
+            "village_id": "15050613",
+            "name": "Thar 3 Dom",
+            "name_km": "ថ្មបីដុំ"
+        },
+        {
+            "id": "15050613706",
+            "school_type_id": 3,
+            "district_id": 1505,
+            "commune_id": "150506",
+            "village_id": "15050613",
+            "name": "Thmar 3 Dom",
+            "name_km": "ថ្មបីដុំ"
+        },
+        {
+            "id": "15050704024",
+            "school_type_id": 2,
+            "district_id": 1505,
+            "commune_id": "150507",
+            "village_id": "15050704",
+            "name": "Hun Sen Chum Mony",
+            "name_km": "ហ៊ុនសែនជុំមុនី"
+        },
+        {
+            "id": "15050704528",
+            "school_type_id": 1,
+            "district_id": 1505,
+            "commune_id": "150507",
+            "village_id": "15050704",
+            "name": "Hun Sen Chum Mony",
+            "name_km": "ហ៊ុនសែន ជុំមុនី"
+        },
+        {
+            "id": "15050804036",
+            "school_type_id": 2,
+            "district_id": 1505,
+            "commune_id": "150508",
+            "village_id": "15050804",
+            "name": "Keo Sovann",
+            "name_km": "កែវសុវណ្ណ"
+        },
+        {
+            "id": "15050804517",
+            "school_type_id": 1,
+            "district_id": 1505,
+            "commune_id": "150508",
+            "village_id": "15050804",
+            "name": "Keo Sovann",
+            "name_km": "កែវសុវណ្ណ"
+        },
+        {
+            "id": "15050804710",
+            "school_type_id": 3,
+            "district_id": 1505,
+            "commune_id": "150508",
+            "village_id": "15050804",
+            "name": "Keo Sovann",
+            "name_km": "កែវសុវណ្ណ"
+        },
+        {
+            "id": "15050812037",
+            "school_type_id": 2,
+            "district_id": 1505,
+            "commune_id": "150508",
+            "village_id": "15050812",
+            "name": "Keo Mony",
+            "name_km": "កែវមុនី"
+        }
+    ]
+}

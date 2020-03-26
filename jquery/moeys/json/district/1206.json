@@ -1,0 +1,167 @@
+{
+    "id": 1206,
+    "schools": [
+        {
+            "id": "12060201024",
+            "school_type_id": 2,
+            "district_id": 1206,
+            "commune_id": "120602",
+            "village_id": "12060201",
+            "name": "Ponhea Krek",
+            "name_km": "បឋមសិក្សាពញាក្រែក"
+        },
+        {
+            "id": "12060201521",
+            "school_type_id": 1,
+            "district_id": 1206,
+            "commune_id": "120602",
+            "village_id": "12060201",
+            "name": "Ponhea Krek",
+            "name_km": "ពញាក្រែក"
+        },
+        {
+            "id": "12060201707",
+            "school_type_id": 3,
+            "district_id": 1206,
+            "commune_id": "120602",
+            "village_id": "12060201",
+            "name": "Ponhea Krek",
+            "name_km": "អនុវិទ្យាល័យ ទួលសុវណ្ណារាម"
+        },
+        {
+            "id": "12060202025",
+            "school_type_id": 2,
+            "district_id": 1206,
+            "commune_id": "120602",
+            "village_id": "12060202",
+            "name": "Tuol Sangker",
+            "name_km": "បឋមសិក្សាហ៊ុនសែនទួលសង្កែ"
+        },
+        {
+            "id": "12060202522",
+            "school_type_id": 1,
+            "district_id": 1206,
+            "commune_id": "120602",
+            "village_id": "12060202",
+            "name": "Tuol Sangker",
+            "name_km": "តេជោសែនទួលសង្កែ"
+        },
+        {
+            "id": "12060302021",
+            "school_type_id": 2,
+            "district_id": 1206,
+            "commune_id": "120603",
+            "village_id": "12060302",
+            "name": "Chamreun Rath",
+            "name_km": "បឋមសិក្សាចំរើនរដ្ឋ"
+        },
+        {
+            "id": "12060302516",
+            "school_type_id": 1,
+            "district_id": 1206,
+            "commune_id": "120603",
+            "village_id": "12060302",
+            "name": "Chamreun Rath",
+            "name_km": "ចំរើនរដ្ឋ"
+        },
+        {
+            "id": "12060303906",
+            "school_type_id": 5,
+            "district_id": 1206,
+            "commune_id": "120603",
+            "village_id": "12060303",
+            "name": "Chea Sim Chamreun Rath",
+            "name_km": "វិទ្យាល័យជាស៊ីមចំរើនរដ្ឋ"
+        },
+        {
+            "id": "12060403010",
+            "school_type_id": 2,
+            "district_id": 1206,
+            "commune_id": "120604",
+            "village_id": "12060403",
+            "name": "Boeung Chhouk",
+            "name_km": "បឋមសិក្សាបឹងឈូក"
+        },
+        {
+            "id": "12060403536",
+            "school_type_id": 1,
+            "district_id": 1206,
+            "commune_id": "120604",
+            "village_id": "12060403",
+            "name": "Boeung Chhouk",
+            "name_km": "បឹងឈូក"
+        },
+        {
+            "id": "12060601020",
+            "school_type_id": 2,
+            "district_id": 1206,
+            "commune_id": "120606",
+            "village_id": "12060601",
+            "name": "Russey Keo",
+            "name_km": "បឋមសិក្សាឫស្សីកែវ"
+        },
+        {
+            "id": "12060601520",
+            "school_type_id": 1,
+            "district_id": 1206,
+            "commune_id": "120606",
+            "village_id": "12060601",
+            "name": "Russey Keo",
+            "name_km": "ឫស្សីកែវ"
+        },
+        {
+            "id": "12060601901",
+            "school_type_id": 5,
+            "district_id": 1206,
+            "commune_id": "120606",
+            "village_id": "12060601",
+            "name": "Russey Keo",
+            "name_km": "វិទ្យាល័យឬស្សីកែវ"
+        },
+        {
+            "id": "12061101001",
+            "school_type_id": 2,
+            "district_id": 1206,
+            "commune_id": "120611",
+            "village_id": "12061101",
+            "name": "Chamroeun Cheat",
+            "name_km": "បឋមសិក្សាហ៊ុនសែនចម្រើនជាតិ"
+        },
+        {
+            "id": "12061101519",
+            "school_type_id": 1,
+            "district_id": 1206,
+            "commune_id": "120611",
+            "village_id": "12061101",
+            "name": "Chamroeun Cheat",
+            "name_km": "បឋមហ៊ុនសែេនចម្រើនជាតិ"
+        },
+        {
+            "id": "12061101705",
+            "school_type_id": 3,
+            "district_id": 1206,
+            "commune_id": "120611",
+            "village_id": "12061101",
+            "name": "Chamroeun Cheat",
+            "name_km": "អនុវិទ្យាល័យ  ហ៊ុនសែនចម្រើនជាតិ"
+        },
+        {
+            "id": "12061203002",
+            "school_type_id": 2,
+            "district_id": 1206,
+            "commune_id": "120612",
+            "village_id": "12061203",
+            "name": "Chraing Chamres",
+            "name_km": "បឋមសិក្សាតេជោហ៊ុនសែនច្រាំងចម្រេះ"
+        },
+        {
+            "id": "12061203531",
+            "school_type_id": 1,
+            "district_id": 1206,
+            "commune_id": "120612",
+            "village_id": "12061203",
+            "name": "Techo Hun Sen Chraing Chamres",
+            "name_km": "តេជោសែនច្រាំងចម្រេះ"
+        }
+    ]
+}

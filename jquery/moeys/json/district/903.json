@@ -1,0 +1,212 @@
+{
+    "id": 903,
+    "schools": [
+        {
+            "id": "09030101001",
+            "school_type_id": 2,
+            "district_id": 903,
+            "commune_id": "090301",
+            "village_id": "09030101",
+            "name": "Chroy Prah",
+            "name_km": "បឋមសិក្សាជ្រោយប្រស់"
+        },
+        {
+            "id": "09030101013",
+            "school_type_id": 2,
+            "district_id": 903,
+            "commune_id": "090301",
+            "village_id": "09030101",
+            "name": "Av Latan",
+            "name_km": "សាលាឧបសម្ព័ន្ធ អាវឡាតាន់"
+        },
+        {
+            "id": "09030101501",
+            "school_type_id": 1,
+            "district_id": 903,
+            "commune_id": "090301",
+            "village_id": "09030101",
+            "name": "Chroy Prah",
+            "name_km": "ជ្រោយប្រស់"
+        },
+        {
+            "id": "09030101702",
+            "school_type_id": 3,
+            "district_id": 903,
+            "commune_id": "090301",
+            "village_id": "09030101",
+            "name": "Chroy Prah",
+            "name_km": "ជ្រោយប្រស់"
+        },
+        {
+            "id": "09030201002",
+            "school_type_id": 2,
+            "district_id": 903,
+            "commune_id": "090302",
+            "village_id": "09030201",
+            "name": "Koh Kapik",
+            "name_km": " បឋមសិក្សា កោះកាពិ"
+        },
+        {
+            "id": "09030201502",
+            "school_type_id": 1,
+            "district_id": 903,
+            "commune_id": "090302",
+            "village_id": "09030201",
+            "name": "Koh Kapik",
+            "name_km": "កោះកាពិ"
+        },
+        {
+            "id": "09030203003",
+            "school_type_id": 2,
+            "district_id": 903,
+            "commune_id": "090302",
+            "village_id": "09030203",
+            "name": "Koh Sralao",
+            "name_km": "សាលាបឋមសិក្សា កោះស្រឡៅ"
+        },
+        {
+            "id": "09030203503",
+            "school_type_id": 1,
+            "district_id": 903,
+            "commune_id": "090302",
+            "village_id": "09030203",
+            "name": "Koh Sralao",
+            "name_km": "កោះស្រឡៅ"
+        },
+        {
+            "id": "09030203701",
+            "school_type_id": 3,
+            "district_id": 903,
+            "commune_id": "090302",
+            "village_id": "09030203",
+            "name": "Koh Sralao",
+            "name_km": "កោះស្រឡៅ"
+        },
+        {
+            "id": "09030204006",
+            "school_type_id": 2,
+            "district_id": 903,
+            "commune_id": "090302",
+            "village_id": "09030204",
+            "name": "Lam Dam",
+            "name_km": "ឡាំដាំ"
+        },
+        {
+            "id": "09030204507",
+            "school_type_id": 1,
+            "district_id": 903,
+            "commune_id": "090302",
+            "village_id": "09030204",
+            "name": "Lam Dam",
+            "name_km": "ឡាំដាំ"
+        },
+        {
+            "id": "09030301008",
+            "school_type_id": 2,
+            "district_id": 903,
+            "commune_id": "090303",
+            "village_id": "09030301",
+            "name": "Koh Andet",
+            "name_km": "សាលាបឋមសិក្សា កោះអណ្ដែត"
+        },
+        {
+            "id": "09030302004",
+            "school_type_id": 2,
+            "district_id": 903,
+            "commune_id": "090303",
+            "village_id": "09030302",
+            "name": "Ta Tai",
+            "name_km": "តាតៃ"
+        },
+        {
+            "id": "09030302506",
+            "school_type_id": 1,
+            "district_id": 903,
+            "commune_id": "090303",
+            "village_id": "09030302",
+            "name": "Ta Tai",
+            "name_km": "តាតៃ"
+        },
+        {
+            "id": "09030302703",
+            "school_type_id": 3,
+            "district_id": 903,
+            "commune_id": "090303",
+            "village_id": "09030302",
+            "name": "Ta Tai",
+            "name_km": "អនុវិទ្យាល័យ តាតៃ"
+        },
+        {
+            "id": "09030401005",
+            "school_type_id": 2,
+            "district_id": 903,
+            "commune_id": "090304",
+            "village_id": "09030401",
+            "name": "Wat Trapaing Roung",
+            "name_km": "វត្តត្រពាំងរូង"
+        },
+        {
+            "id": "09030401505",
+            "school_type_id": 1,
+            "district_id": 903,
+            "commune_id": "090304",
+            "village_id": "09030401",
+            "name": "Wat Trapaing Roung",
+            "name_km": "វត្តត្រពាំងរូង"
+        },
+        {
+            "id": "09030402009",
+            "school_type_id": 2,
+            "district_id": 903,
+            "commune_id": "090304",
+            "village_id": "09030402",
+            "name": "Wat Trapaing Roung",
+            "name_km": "សាលាបឋមសិក្សា កោះកុងក្នុង"
+        },
+        {
+            "id": "09030402012",
+            "school_type_id": 2,
+            "district_id": 903,
+            "commune_id": "090304",
+            "village_id": "09030402",
+            "name": "Phnom Meas",
+            "name_km": "ឧបសម្ព័ន្ធភ្នំមាស"
+        },
+        {
+            "id": "09030404007",
+            "school_type_id": 2,
+            "district_id": 903,
+            "commune_id": "090304",
+            "village_id": "09030404",
+            "name": "Rong Phlam Keson",
+            "name_km": "សាលាបឋមសិក្សា រុងផ្លាមកេសន"
+        },
+        {
+            "id": "09030404011",
+            "school_type_id": 2,
+            "district_id": 903,
+            "commune_id": "090304",
+            "village_id": "09030404",
+            "name": "Veal Ta Phou",
+            "name_km": "វាលតាភូ"
+        },
+        {
+            "id": "09030404504",
+            "school_type_id": 1,
+            "district_id": 903,
+            "commune_id": "090304",
+            "village_id": "09030404",
+            "name": "Rong Phlam Keson",
+            "name_km": "រុងផ្លាមកេសន"
+        },
+        {
+            "id": "09030404901",
+            "school_type_id": 5,
+            "district_id": 903,
+            "commune_id": "090304",
+            "village_id": "09030404",
+            "name": "Trapaing Roung",
+            "name_km": "វិ.ហ៊ុនសែន ត្រពាំងរូង"
+        }
+    ]
+}

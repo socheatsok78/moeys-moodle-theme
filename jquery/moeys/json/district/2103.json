@@ -1,0 +1,248 @@
+{
+    "id": 2103,
+    "schools": [
+        {
+            "id": "21030101001",
+            "school_type_id": 2,
+            "district_id": 2103,
+            "commune_id": "210301",
+            "village_id": "21030101",
+            "name": "Sok An Ang Krauch",
+            "name_km": "អង្គក្រូច"
+        },
+        {
+            "id": "21030101704",
+            "school_type_id": 3,
+            "district_id": 2103,
+            "commune_id": "210301",
+            "village_id": "21030101",
+            "name": "Sok An Ang Krauch",
+            "name_km": "អនុវិទ្យាល័យ សុខ អាន អង្គក្រូច"
+        },
+        {
+            "id": "21030102002",
+            "school_type_id": 2,
+            "district_id": 2103,
+            "commune_id": "210301",
+            "village_id": "21030102",
+            "name": "Snay Duoch",
+            "name_km": "ស្នាយដួច"
+        },
+        {
+            "id": "21030104003",
+            "school_type_id": 2,
+            "district_id": 2103,
+            "commune_id": "210301",
+            "village_id": "21030104",
+            "name": "Anlung Tean",
+            "name_km": "អន្លង់ទៀន"
+        },
+        {
+            "id": "21030106004",
+            "school_type_id": 2,
+            "district_id": 2103,
+            "commune_id": "210301",
+            "village_id": "21030106",
+            "name": "Deum Kor",
+            "name_km": "ដើមគរ"
+        },
+        {
+            "id": "21030201005",
+            "school_type_id": 2,
+            "district_id": 2103,
+            "commune_id": "210302",
+            "village_id": "21030201",
+            "name": "Sangker Chour",
+            "name_km": "សង្កែជួរ"
+        },
+        {
+            "id": "21030202006",
+            "school_type_id": 2,
+            "district_id": 2103,
+            "commune_id": "210302",
+            "village_id": "21030202",
+            "name": "Chey Chauk",
+            "name_km": "ជ័យជោគ"
+        },
+        {
+            "id": "21030204007",
+            "school_type_id": 2,
+            "district_id": 2103,
+            "commune_id": "210302",
+            "village_id": "21030204",
+            "name": "Anhchanh",
+            "name_km": "អញ្ចាញ"
+        },
+        {
+            "id": "21030206008",
+            "school_type_id": 2,
+            "district_id": 2103,
+            "commune_id": "210302",
+            "village_id": "21030206",
+            "name": "Tara Kum",
+            "name_km": "តារាគមន៍"
+        },
+        {
+            "id": "21030206702",
+            "school_type_id": 3,
+            "district_id": 2103,
+            "commune_id": "210302",
+            "village_id": "21030206",
+            "name": "Tara Kum",
+            "name_km": "អនុវិទ្យាល័យ តារាគមន៍"
+        },
+        {
+            "id": "21030207019",
+            "school_type_id": 2,
+            "district_id": 2103,
+            "commune_id": "210302",
+            "village_id": "21030207",
+            "name": "Bantheay Sleuk",
+            "name_km": "បន្ទាយស្លឹក"
+        },
+        {
+            "id": "21030301009",
+            "school_type_id": 2,
+            "district_id": 2103,
+            "commune_id": "210303",
+            "village_id": "21030301",
+            "name": "Khnar",
+            "name_km": "ខ្នារ"
+        },
+        {
+            "id": "21030301501",
+            "school_type_id": 1,
+            "district_id": 2103,
+            "commune_id": "210303",
+            "village_id": "21030301",
+            "name": "Khnar",
+            "name_km": "ខ្នារ"
+        },
+        {
+            "id": "21030306901",
+            "school_type_id": 5,
+            "district_id": 2103,
+            "commune_id": "210303",
+            "village_id": "21030306",
+            "name": "Sok An Daung Khpuos Borei C",
+            "name_km": "វិទ្យាល័យ សុខ អាន ដូងខ្ពស់បូរីជលសារ"
+        },
+        {
+            "id": "21030309010",
+            "school_type_id": 2,
+            "district_id": 2103,
+            "commune_id": "210303",
+            "village_id": "21030309",
+            "name": "Treuy Khlauk",
+            "name_km": "ត្រើយឃ្លោក"
+        },
+        {
+            "id": "21030309502",
+            "school_type_id": 1,
+            "district_id": 2103,
+            "commune_id": "210303",
+            "village_id": "21030309",
+            "name": "Treuy Khlauk",
+            "name_km": "ត្រើយឃ្លោក"
+        },
+        {
+            "id": "21030402011",
+            "school_type_id": 2,
+            "district_id": 2103,
+            "commune_id": "210304",
+            "village_id": "21030402",
+            "name": "Kampong Krasaing",
+            "name_km": "កំពង់ក្រសាំង"
+        },
+        {
+            "id": "21030403012",
+            "school_type_id": 2,
+            "district_id": 2103,
+            "commune_id": "210304",
+            "village_id": "21030403",
+            "name": "Kdol Chrum",
+            "name_km": "ក្តុលជ្រុំ"
+        },
+        {
+            "id": "21030403703",
+            "school_type_id": 3,
+            "district_id": 2103,
+            "commune_id": "210304",
+            "village_id": "21030403",
+            "name": "Kdol Chrum",
+            "name_km": "អនុវិទ្យាល័យ ក្តុលជ្រុំ"
+        },
+        {
+            "id": "21030404013",
+            "school_type_id": 2,
+            "district_id": 2103,
+            "commune_id": "210304",
+            "village_id": "21030404",
+            "name": "Sangkum Meanchey",
+            "name_km": "សង្គមមានជ័យ"
+        },
+        {
+            "id": "21030405014",
+            "school_type_id": 2,
+            "district_id": 2103,
+            "commune_id": "210304",
+            "village_id": "21030405",
+            "name": "Thmar 3 Dom",
+            "name_km": "ថ្មបីដុំ"
+        },
+        {
+            "id": "21030501015",
+            "school_type_id": 2,
+            "district_id": 2103,
+            "commune_id": "210305",
+            "village_id": "21030501",
+            "name": "Kandoal",
+            "name_km": "កណ្តោល"
+        },
+        {
+            "id": "21030502018",
+            "school_type_id": 2,
+            "district_id": 2103,
+            "commune_id": "210305",
+            "village_id": "21030502",
+            "name": "Thmar Sar",
+            "name_km": "ថ្មស"
+        },
+        {
+            "id": "21030502503",
+            "school_type_id": 1,
+            "district_id": 2103,
+            "commune_id": "210305",
+            "village_id": "21030502",
+            "name": "THMAR SAR",
+            "name_km": "ថ្មស"
+        },
+        {
+            "id": "21030505016",
+            "school_type_id": 2,
+            "district_id": 2103,
+            "commune_id": "210305",
+            "village_id": "21030505",
+            "name": "Kauk Po",
+            "name_km": "គោកពោធិ៍"
+        },
+        {
+            "id": "21030505701",
+            "school_type_id": 3,
+            "district_id": 2103,
+            "commune_id": "210305",
+            "village_id": "21030505",
+            "name": "Kauk Po",
+            "name_km": "អនុវិទ្យាល័យ គោកពោធិ៍"
+        },
+        {
+            "id": "21030506017",
+            "school_type_id": 2,
+            "district_id": 2103,
+            "commune_id": "210305",
+            "village_id": "21030506",
+            "name": "Po Montrei",
+            "name_km": "ពោធិមន្ត្រី"
+        }
+    ]
+}

@@ -1,0 +1,239 @@
+{
+    "id": 1804,
+    "schools": [
+        {
+            "id": "18040101001",
+            "school_type_id": 2,
+            "district_id": 1804,
+            "commune_id": "180401",
+            "village_id": "18040101",
+            "name": "Thnal Bombek",
+            "name_km": "សាលាបឋមសិក្សាថ្នល់បំបែក"
+        },
+        {
+            "id": "18040101503",
+            "school_type_id": 1,
+            "district_id": 1804,
+            "commune_id": "180401",
+            "village_id": "18040101",
+            "name": "Thnal Bombek",
+            "name_km": "ថ្នល់បំបែក"
+        },
+        {
+            "id": "18040101705",
+            "school_type_id": 3,
+            "district_id": 1804,
+            "commune_id": "180401",
+            "village_id": "18040101",
+            "name": "Thnal Bombek",
+            "name_km": "ចម្ការហ្លួង"
+        },
+        {
+            "id": "18040102002",
+            "school_type_id": 2,
+            "district_id": 1804,
+            "commune_id": "180401",
+            "village_id": "18040102",
+            "name": "Samdech Ta",
+            "name_km": "សម្ដេចតា"
+        },
+        {
+            "id": "18040102510",
+            "school_type_id": 1,
+            "district_id": 1804,
+            "commune_id": "180401",
+            "village_id": "18040102",
+            "name": "SAMDACHTA",
+            "name_km": "មត្តេយ្យសិក្សាសម្តេចតា"
+        },
+        {
+            "id": "18040103003",
+            "school_type_id": 2,
+            "district_id": 1804,
+            "commune_id": "180401",
+            "village_id": "18040103",
+            "name": "Hun Sen Ka-ong",
+            "name_km": "ហ៊ុន សែន ក្អោង"
+        },
+        {
+            "id": "18040103507",
+            "school_type_id": 1,
+            "district_id": 1804,
+            "commune_id": "180401",
+            "village_id": "18040103",
+            "name": "Samdach Hun Sen Ka-ong",
+            "name_km": "ក្អោង"
+        },
+        {
+            "id": "18040201013",
+            "school_type_id": 2,
+            "district_id": 1804,
+            "commune_id": "180402",
+            "village_id": "18040201",
+            "name": "T.C Kampong Seila",
+            "name_km": "ធី ស៊ី កំពង់សីលា"
+        },
+        {
+            "id": "18040202004",
+            "school_type_id": 2,
+            "district_id": 1804,
+            "commune_id": "180402",
+            "village_id": "18040202",
+            "name": "Kampong Seila",
+            "name_km": "កំពង់សីលា"
+        },
+        {
+            "id": "18040202501",
+            "school_type_id": 1,
+            "district_id": 1804,
+            "commune_id": "180402",
+            "village_id": "18040202",
+            "name": "Kampong Seila",
+            "name_km": "Kampong Seila"
+        },
+        {
+            "id": "18040202901",
+            "school_type_id": 5,
+            "district_id": 1804,
+            "commune_id": "180402",
+            "village_id": "18040202",
+            "name": "Hun Sen Kampong Seila",
+            "name_km": "វិទ្យាល័យ.ហស.កំពង់សីលា"
+        },
+        {
+            "id": "18040203005",
+            "school_type_id": 2,
+            "district_id": 1804,
+            "commune_id": "180402",
+            "village_id": "18040203",
+            "name": "Dei Kraham",
+            "name_km": "សាលាបឋមសិក្សាហ៊ុន សែន ដីក្រហម"
+        },
+        {
+            "id": "18040203505",
+            "school_type_id": 1,
+            "district_id": 1804,
+            "commune_id": "180402",
+            "village_id": "18040203",
+            "name": "Dei Kraham",
+            "name_km": "ហស.ដីក្រហម"
+        },
+        {
+            "id": "18040204010",
+            "school_type_id": 2,
+            "district_id": 1804,
+            "commune_id": "180402",
+            "village_id": "18040204",
+            "name": "Phoum Thmei",
+            "name_km": "ភូមិថ្មី"
+        },
+        {
+            "id": "18040204509",
+            "school_type_id": 1,
+            "district_id": 1804,
+            "commune_id": "180402",
+            "village_id": "18040204",
+            "name": "PHOUM THMEI",
+            "name_km": "មត្តេយ្យសិក្សាភូមិថ្មី"
+        },
+        {
+            "id": "18040301006",
+            "school_type_id": 2,
+            "district_id": 1804,
+            "commune_id": "180403",
+            "village_id": "18040301",
+            "name": "Stung Samrong",
+            "name_km": "ស្ទឹងសំរោង"
+        },
+        {
+            "id": "18040301502",
+            "school_type_id": 1,
+            "district_id": 1804,
+            "commune_id": "180403",
+            "village_id": "18040301",
+            "name": "STUNG SAMRONG",
+            "name_km": "ស្ទឹងសំរោង"
+        },
+        {
+            "id": "18040301703",
+            "school_type_id": 3,
+            "district_id": 1804,
+            "commune_id": "180403",
+            "village_id": "18040301",
+            "name": "Stung Samrong",
+            "name_km": "ស្ទឹងសំរោង"
+        },
+        {
+            "id": "18040302007",
+            "school_type_id": 2,
+            "district_id": 1804,
+            "commune_id": "180403",
+            "village_id": "18040302",
+            "name": "Prey Prasith",
+            "name_km": "បឋមសិក្សាព្រៃប្រសិទ្ធិ"
+        },
+        {
+            "id": "18040302508",
+            "school_type_id": 1,
+            "district_id": 1804,
+            "commune_id": "180403",
+            "village_id": "18040302",
+            "name": null,
+            "name_km": "ព្រៃប្រសិទ្ធ"
+        },
+        {
+            "id": "18040303011",
+            "school_type_id": 2,
+            "district_id": 1804,
+            "commune_id": "180403",
+            "village_id": "18040303",
+            "name": "Stung Chral",
+            "name_km": "ស្ទឹងច្រាល"
+        },
+        {
+            "id": "18040401008",
+            "school_type_id": 2,
+            "district_id": 1804,
+            "commune_id": "180404",
+            "village_id": "18040401",
+            "name": "Hun Sen Stung Chhay",
+            "name_km": "ហ ស ស្ទឹងឆាយ"
+        },
+        {
+            "id": "18040401506",
+            "school_type_id": 1,
+            "district_id": 1804,
+            "commune_id": "180404",
+            "village_id": "18040401",
+            "name": "Hun Sen Stung Chhay",
+            "name_km": "ហស.ស្ទឹងឆាយ"
+        },
+        {
+            "id": "18040401702",
+            "school_type_id": 3,
+            "district_id": 1804,
+            "commune_id": "180404",
+            "village_id": "18040401",
+            "name": "Stung Chhay",
+            "name_km": "អនុវិទ្យល័យស្ទឹងឆាយ"
+        },
+        {
+            "id": "18040404009",
+            "school_type_id": 2,
+            "district_id": 1804,
+            "commune_id": "180404",
+            "village_id": "18040404",
+            "name": "Kiri Voan",
+            "name_km": "គិរីវ័ន្ដ"
+        },
+        {
+            "id": "18040404504",
+            "school_type_id": 1,
+            "district_id": 1804,
+            "commune_id": "180404",
+            "village_id": "18040404",
+            "name": "Kiri Voan",
+            "name_km": "គីរីវ័ន្ត"
+        }
+    ]
+}

@@ -1,0 +1,302 @@
+{
+    "id": 502,
+    "schools": [
+        {
+            "id": "05020101002",
+            "school_type_id": 2,
+            "district_id": 502,
+            "commune_id": "050201",
+            "village_id": "05020101",
+            "name": "Roluos",
+            "name_km": "រលួស"
+        },
+        {
+            "id": "05020101506",
+            "school_type_id": 1,
+            "district_id": 502,
+            "commune_id": "050201",
+            "village_id": "05020101",
+            "name": "Roluos",
+            "name_km": "រលួស"
+        },
+        {
+            "id": "05020102014",
+            "school_type_id": 2,
+            "district_id": 502,
+            "commune_id": "050201",
+            "village_id": "05020102",
+            "name": "Akphewat",
+            "name_km": "អភិវឌ្ឍន៏"
+        },
+        {
+            "id": "05020104001",
+            "school_type_id": 2,
+            "district_id": 502,
+            "commune_id": "050201",
+            "village_id": "05020104",
+            "name": "Ang Prasat",
+            "name_km": "អង្គប្រាសាទ"
+        },
+        {
+            "id": "05020104510",
+            "school_type_id": 1,
+            "district_id": 502,
+            "commune_id": "050201",
+            "village_id": "05020104",
+            "name": "Ang Prasat",
+            "name_km": "អង្គប្រាសាទ"
+        },
+        {
+            "id": "05020109701",
+            "school_type_id": 3,
+            "district_id": 502,
+            "commune_id": "050201",
+            "village_id": "05020109",
+            "name": "Chhay Chhob",
+            "name_km": "អនុវិទ្យាល័យឆាយឆុប"
+        },
+        {
+            "id": "05020110003",
+            "school_type_id": 2,
+            "district_id": 502,
+            "commune_id": "050201",
+            "village_id": "05020110",
+            "name": "Sambour",
+            "name_km": "សំបួរ"
+        },
+        {
+            "id": "05020110501",
+            "school_type_id": 1,
+            "district_id": 502,
+            "commune_id": "050201",
+            "village_id": "05020110",
+            "name": "Sambour",
+            "name_km": "សំបូរ"
+        },
+        {
+            "id": "05020113004",
+            "school_type_id": 2,
+            "district_id": 502,
+            "commune_id": "050201",
+            "village_id": "05020113",
+            "name": "Sampeuv",
+            "name_km": "សំពៅ"
+        },
+        {
+            "id": "05020113502",
+            "school_type_id": 1,
+            "district_id": 502,
+            "commune_id": "050201",
+            "village_id": "05020113",
+            "name": "Sampeuv",
+            "name_km": "សំពៅ"
+        },
+        {
+            "id": "05020205006",
+            "school_type_id": 2,
+            "district_id": 502,
+            "commune_id": "050202",
+            "village_id": "05020205",
+            "name": "Chamnar",
+            "name_km": "ចំណារ"
+        },
+        {
+            "id": "05020205513",
+            "school_type_id": 1,
+            "district_id": 502,
+            "commune_id": "050202",
+            "village_id": "05020205",
+            "name": "Chamnar",
+            "name_km": "ចំ ណារ"
+        },
+        {
+            "id": "05020207007",
+            "school_type_id": 2,
+            "district_id": 502,
+            "commune_id": "050202",
+            "village_id": "05020207",
+            "name": "Kandoal Dom",
+            "name_km": "កណ្តោលដុំ"
+        },
+        {
+            "id": "05020207511",
+            "school_type_id": 1,
+            "district_id": 502,
+            "commune_id": "050202",
+            "village_id": "05020207",
+            "name": "Kandoal Dom",
+            "name_km": "កណ្ដោលដុំ"
+        },
+        {
+            "id": "05020302901",
+            "school_type_id": 5,
+            "district_id": 502,
+            "commune_id": "050203",
+            "village_id": "05020302",
+            "name": "Sokha Phaly",
+            "name_km": "សុខាផល្លី"
+        },
+        {
+            "id": "05020307902",
+            "school_type_id": 4,
+            "district_id": 502,
+            "commune_id": "050203",
+            "village_id": "05020307",
+            "name": "Kampong Speu",
+            "name_km": "កំពង់ស្ពឺ"
+        },
+        {
+            "id": "05020308005",
+            "school_type_id": 2,
+            "district_id": 502,
+            "commune_id": "050203",
+            "village_id": "05020308",
+            "name": "Phoum Thmei",
+            "name_km": "ភូមិថ្មី"
+        },
+        {
+            "id": "05020308504",
+            "school_type_id": 1,
+            "district_id": 502,
+            "commune_id": "050203",
+            "village_id": "05020308",
+            "name": "Phoum Thmei",
+            "name_km": "សាលាមត្តេយ្យភូមិថ្មី"
+        },
+        {
+            "id": "05020311009",
+            "school_type_id": 2,
+            "district_id": 502,
+            "commune_id": "050203",
+            "village_id": "05020311",
+            "name": "Roka Thom",
+            "name_km": "រកាធំ"
+        },
+        {
+            "id": "05020311508",
+            "school_type_id": 1,
+            "district_id": 502,
+            "commune_id": "050203",
+            "village_id": "05020311",
+            "name": "Roka Thom",
+            "name_km": "រកាធំ"
+        },
+        {
+            "id": "05020312010",
+            "school_type_id": 2,
+            "district_id": 502,
+            "commune_id": "050203",
+            "village_id": "05020312",
+            "name": "Santepheap",
+            "name_km": "សន្តិភាព"
+        },
+        {
+            "id": "05020312015",
+            "school_type_id": 2,
+            "district_id": 502,
+            "commune_id": "050203",
+            "village_id": "05020312",
+            "name": "Aknouwat",
+            "name_km": "អនុវត្ត"
+        },
+        {
+            "id": "05020312507",
+            "school_type_id": 1,
+            "district_id": 502,
+            "commune_id": "050203",
+            "village_id": "05020312",
+            "name": "Santepheap",
+            "name_km": "សន្ថិភាព"
+        },
+        {
+            "id": "05020401702",
+            "school_type_id": 3,
+            "district_id": 502,
+            "commune_id": "050204",
+            "village_id": "05020401",
+            "name": "Tiruom Khet Kampong Speu",
+            "name_km": "ទីរួមខេត្ត"
+        },
+        {
+            "id": "05020409008",
+            "school_type_id": 2,
+            "district_id": 502,
+            "commune_id": "050204",
+            "village_id": "05020409",
+            "name": "Ang Serei",
+            "name_km": "ហ៊ុន សែនអង្គសេរី"
+        },
+        {
+            "id": "05020409503",
+            "school_type_id": 1,
+            "district_id": 502,
+            "commune_id": "050204",
+            "village_id": "05020409",
+            "name": "Sin Sisamouth",
+            "name_km": "សីុំនសីុំសាមុត"
+        },
+        {
+            "id": "05020503011",
+            "school_type_id": 2,
+            "district_id": 502,
+            "commune_id": "050205",
+            "village_id": "05020503",
+            "name": "Marum Khang Tbaung",
+            "name_km": "ម្រុំខាងត្បូង"
+        },
+        {
+            "id": "05020503509",
+            "school_type_id": 1,
+            "district_id": 502,
+            "commune_id": "050205",
+            "village_id": "05020503",
+            "name": "Marum Tbaung",
+            "name_km": "ម្រុំ​ត្បូង"
+        },
+        {
+            "id": "05020503703",
+            "school_type_id": 3,
+            "district_id": 502,
+            "commune_id": "050205",
+            "village_id": "05020503",
+            "name": "Marum Khang Cheung",
+            "name_km": "ម្រុំខាងត្បូង"
+        },
+        {
+            "id": "05020505012",
+            "school_type_id": 2,
+            "district_id": 502,
+            "commune_id": "050205",
+            "village_id": "05020505",
+            "name": "Marum Khang Cheung",
+            "name_km": "ម្រុំជើង"
+        },
+        {
+            "id": "05020505505",
+            "school_type_id": 1,
+            "district_id": 502,
+            "commune_id": "050205",
+            "village_id": "05020505",
+            "name": "Marum Khang Cheung",
+            "name_km": "ម្រុំជើង"
+        },
+        {
+            "id": "05020509013",
+            "school_type_id": 2,
+            "district_id": 502,
+            "commune_id": "050205",
+            "village_id": "05020509",
+            "name": "Amper Phnom",
+            "name_km": "អំពែភ្នំ"
+        },
+        {
+            "id": "05020509512",
+            "school_type_id": 1,
+            "district_id": 502,
+            "commune_id": "050205",
+            "village_id": "05020509",
+            "name": "Amper Phnom",
+            "name_km": "អំពែភ្នំ"
+        }
+    ]
+}

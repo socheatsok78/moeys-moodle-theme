@@ -1,0 +1,761 @@
+{
+    "id": 803,
+    "schools": [
+        {
+            "id": "08030103001",
+            "school_type_id": 2,
+            "district_id": 803,
+            "commune_id": "080301",
+            "village_id": "08030103",
+            "name": "Bak Dav",
+            "name_km": "បាក់ដាវ"
+        },
+        {
+            "id": "08030103522",
+            "school_type_id": 1,
+            "district_id": 803,
+            "commune_id": "080301",
+            "village_id": "08030103",
+            "name": "Bak Dav",
+            "name_km": "បាក់ដាវ"
+        },
+        {
+            "id": "08030103904",
+            "school_type_id": 5,
+            "district_id": 803,
+            "commune_id": "080301",
+            "village_id": "08030103",
+            "name": "Hun Sen Bak Dav",
+            "name_km": "ហ៊ុនសែនបានដាវ"
+        },
+        {
+            "id": "08030104002",
+            "school_type_id": 2,
+            "district_id": 803,
+            "commune_id": "080301",
+            "village_id": "08030104",
+            "name": "Prek Chrouk",
+            "name_km": "ព្រែកជ្រូក"
+        },
+        {
+            "id": "08030104518",
+            "school_type_id": 1,
+            "district_id": 803,
+            "commune_id": "080301",
+            "village_id": "08030104",
+            "name": "Prek Chrouk",
+            "name_km": "ព្រែកជ្រូក"
+        },
+        {
+            "id": "08030201004",
+            "school_type_id": 2,
+            "district_id": 803,
+            "commune_id": "080302",
+            "village_id": "08030201",
+            "name": "Chey Mongkol",
+            "name_km": "ជ័យមង្គល"
+        },
+        {
+            "id": "08030202702",
+            "school_type_id": 3,
+            "district_id": 803,
+            "commune_id": "080302",
+            "village_id": "08030202",
+            "name": "Hun Sen Chey Thom",
+            "name_km": "អនុវិទ្យាល័យ ជ័យធំ"
+        },
+        {
+            "id": "08030203029",
+            "school_type_id": 2,
+            "district_id": 803,
+            "commune_id": "080302",
+            "village_id": "08030203",
+            "name": "Prek Thmey",
+            "name_km": "ព្រែកថ្មី"
+        },
+        {
+            "id": "08030205042",
+            "school_type_id": 2,
+            "district_id": 803,
+            "commune_id": "080302",
+            "village_id": "08030205",
+            "name": "Ta Koat Mongkol",
+            "name_km": "តាគាត់មង្គល"
+        },
+        {
+            "id": "08030302006",
+            "school_type_id": 2,
+            "district_id": 803,
+            "commune_id": "080303",
+            "village_id": "08030302",
+            "name": "Tbaung Damrei",
+            "name_km": "ត្បូងដំរី"
+        },
+        {
+            "id": "08030302517",
+            "school_type_id": 1,
+            "district_id": 803,
+            "commune_id": "080303",
+            "village_id": "08030302",
+            "name": "Tbaung Damrei",
+            "name_km": "ត្បូងដំរី"
+        },
+        {
+            "id": "08030302716",
+            "school_type_id": 3,
+            "district_id": 803,
+            "commune_id": "080303",
+            "village_id": "08030302",
+            "name": "Tbaung Damrei",
+            "name_km": "អនុវិទ្យាល័យ ត្បូងដំរី"
+        },
+        {
+            "id": "08030303031",
+            "school_type_id": 2,
+            "district_id": 803,
+            "commune_id": "080303",
+            "village_id": "08030303",
+            "name": "Hun Sen Tuol Pratheat",
+            "name_km": "ហស ទួលព្រះធាតុ"
+        },
+        {
+            "id": "08030303516",
+            "school_type_id": 1,
+            "district_id": 803,
+            "commune_id": "080303",
+            "village_id": "08030303",
+            "name": "Hun Sen Tuol Pratheat",
+            "name_km": "ហ៊ុនសែន ទួលព្រះធាតុ"
+        },
+        {
+            "id": "08030404007",
+            "school_type_id": 2,
+            "district_id": 803,
+            "commune_id": "080304",
+            "village_id": "08030404",
+            "name": "Koh Choram",
+            "name_km": "កោះចូរ៉ាម"
+        },
+        {
+            "id": "08030404508",
+            "school_type_id": 1,
+            "district_id": 803,
+            "commune_id": "080304",
+            "village_id": "08030404",
+            "name": "Koh Choram",
+            "name_km": "កោះចូរ៉ាម"
+        },
+        {
+            "id": "08030404703",
+            "school_type_id": 3,
+            "district_id": 803,
+            "commune_id": "080304",
+            "village_id": "08030404",
+            "name": "Hun Sen Koh Choram",
+            "name_km": "អនុវិទ្យាល័យកោះចូរ៉ាម"
+        },
+        {
+            "id": "08030501032",
+            "school_type_id": 2,
+            "district_id": 803,
+            "commune_id": "080305",
+            "village_id": "08030501",
+            "name": "Koh Tauch",
+            "name_km": "កោះតូច"
+        },
+        {
+            "id": "08030502008",
+            "school_type_id": 2,
+            "district_id": 803,
+            "commune_id": "080305",
+            "village_id": "08030502",
+            "name": "Koh Oknha Tei",
+            "name_km": "កោះឧកញ៉ាតី"
+        },
+        {
+            "id": "08030504009",
+            "school_type_id": 2,
+            "district_id": 803,
+            "commune_id": "080305",
+            "village_id": "08030504",
+            "name": "Chong Koh Oknha Tei",
+            "name_km": "ចុងកោះឧកញ៉ាតី"
+        },
+        {
+            "id": "08030504709",
+            "school_type_id": 3,
+            "district_id": 803,
+            "commune_id": "080305",
+            "village_id": "08030504",
+            "name": "Koh Oknha Tei",
+            "name_km": "អនុវិទ្យាល័យ កោះឧកញ៉ាតី"
+        },
+        {
+            "id": "08030601010",
+            "school_type_id": 2,
+            "district_id": 803,
+            "commune_id": "080306",
+            "village_id": "08030601",
+            "name": "Preah Prasab",
+            "name_km": "ព្រះប្រសប់"
+        },
+        {
+            "id": "08030601501",
+            "school_type_id": 1,
+            "district_id": 803,
+            "commune_id": "080306",
+            "village_id": "08030601",
+            "name": "Preah Prasab",
+            "name_km": "ព្រះប្រសព្វ"
+        },
+        {
+            "id": "08030603901",
+            "school_type_id": 5,
+            "district_id": 803,
+            "commune_id": "080306",
+            "village_id": "08030603",
+            "name": "Hun Sen Khsach Kandal",
+            "name_km": "វិទ្យាល័យ ហ៊ុនសែន ខ្សាច់កណ្ដាល"
+        },
+        {
+            "id": "08030604043",
+            "school_type_id": 2,
+            "district_id": 803,
+            "commune_id": "080306",
+            "village_id": "08030604",
+            "name": "Botum Raingsei",
+            "name_km": "បទុមរង្សី"
+        },
+        {
+            "id": "08030701033",
+            "school_type_id": 2,
+            "district_id": 803,
+            "commune_id": "080307",
+            "village_id": "08030701",
+            "name": "Khlaing Moeung",
+            "name_km": "ឃ្លាំងមឿង"
+        },
+        {
+            "id": "08030705012",
+            "school_type_id": 2,
+            "district_id": 803,
+            "commune_id": "080307",
+            "village_id": "08030705",
+            "name": "Prek Krabao",
+            "name_km": "ព្រែកក្របៅ"
+        },
+        {
+            "id": "08030705521",
+            "school_type_id": 1,
+            "district_id": 803,
+            "commune_id": "080307",
+            "village_id": "08030705",
+            "name": "Prek Kroboa",
+            "name_km": "ព្រែកក្របៅ"
+        },
+        {
+            "id": "08030705710",
+            "school_type_id": 3,
+            "district_id": 803,
+            "commune_id": "080307",
+            "village_id": "08030705",
+            "name": "Prek Krabao",
+            "name_km": "អនុវិទ្យាល័យព្រែេកក្របៅ"
+        },
+        {
+            "id": "08030707011",
+            "school_type_id": 2,
+            "district_id": 803,
+            "commune_id": "080307",
+            "village_id": "08030707",
+            "name": "Prek Ampil",
+            "name_km": "ព្រែកអំពិល"
+        },
+        {
+            "id": "08030707513",
+            "school_type_id": 1,
+            "district_id": 803,
+            "commune_id": "080307",
+            "village_id": "08030707",
+            "name": "Prek Ampil",
+            "name_km": "អំពិលទឹក"
+        },
+        {
+            "id": "08030803902",
+            "school_type_id": 5,
+            "district_id": 803,
+            "commune_id": "080308",
+            "village_id": "08030803",
+            "name": "Prek Luong",
+            "name_km": "វិទ្យាល័យព្រែកលួង"
+        },
+        {
+            "id": "08030804013",
+            "school_type_id": 2,
+            "district_id": 803,
+            "commune_id": "080308",
+            "village_id": "08030804",
+            "name": "Bun Rany Hun Sen Prek Luong",
+            "name_km": "បរនហស ព្រែកលួង"
+        },
+        {
+            "id": "08030804505",
+            "school_type_id": 1,
+            "district_id": 803,
+            "commune_id": "080308",
+            "village_id": "08030804",
+            "name": "Prek Luong",
+            "name_km": "ព្រែកលួង"
+        },
+        {
+            "id": "08030901014",
+            "school_type_id": 2,
+            "district_id": 803,
+            "commune_id": "080309",
+            "village_id": "08030901",
+            "name": "Hun Sen Prek Ta Kov",
+            "name_km": "ហ៊ុនសែន ព្រែកតាកូវ"
+        },
+        {
+            "id": "08030901502",
+            "school_type_id": 1,
+            "district_id": 803,
+            "commune_id": "080309",
+            "village_id": "08030901",
+            "name": "Hun Sen Prek Ta Kov",
+            "name_km": "ហ៊ុនសែន ព្រែកតាកូវ"
+        },
+        {
+            "id": "08030901713",
+            "school_type_id": 3,
+            "district_id": 803,
+            "commune_id": "080309",
+            "village_id": "08030901",
+            "name": "Prek Ta Kov",
+            "name_km": "អនុវិទ្យាល័យព្រែកតាកុវ"
+        },
+        {
+            "id": "08031003015",
+            "school_type_id": 2,
+            "district_id": 803,
+            "commune_id": "080310",
+            "village_id": "08031003",
+            "name": "Bun Rany Hun Sen Prek Ta Maak",
+            "name_km": "បរនហស ព្រែកតាមាក់"
+        },
+        {
+            "id": "08031003506",
+            "school_type_id": 1,
+            "district_id": 803,
+            "commune_id": "080310",
+            "village_id": "08031003",
+            "name": "Bun Rany Hun Sen Prek Ta Meak",
+            "name_km": "ប៊ុនរានីហ៊ុនសែន ព្រែកតាមាក់"
+        },
+        {
+            "id": "08031003705",
+            "school_type_id": 3,
+            "district_id": 803,
+            "commune_id": "080310",
+            "village_id": "08031003",
+            "name": "Sihanouk Reach",
+            "name_km": "អនុវិទ្យាល័យព្រះសីហនុរាជ"
+        },
+        {
+            "id": "08031102017",
+            "school_type_id": 2,
+            "district_id": 803,
+            "commune_id": "080311",
+            "village_id": "08031102",
+            "name": "Pichey Raingsei",
+            "name_km": "ដេនហ្ស៊ីលស្ព្រេក ពិជ័យរង្សី"
+        },
+        {
+            "id": "08031102509",
+            "school_type_id": 1,
+            "district_id": 803,
+            "commune_id": "080311",
+            "village_id": "08031102",
+            "name": "Pichey Raingsei",
+            "name_km": "ពិជ័យរង្សី"
+        },
+        {
+            "id": "08031104018",
+            "school_type_id": 2,
+            "district_id": 803,
+            "commune_id": "080311",
+            "village_id": "08031104",
+            "name": "Puk Russey Leu",
+            "name_km": "ពុកឬស្សី"
+        },
+        {
+            "id": "08031104515",
+            "school_type_id": 1,
+            "district_id": 803,
+            "commune_id": "080311",
+            "village_id": "08031104",
+            "name": "Puk Russey",
+            "name_km": "ពុកឬស្សី"
+        },
+        {
+            "id": "08031104706",
+            "school_type_id": 3,
+            "district_id": 803,
+            "commune_id": "080311",
+            "village_id": "08031104",
+            "name": "Puk Russey",
+            "name_km": "ពុកឫស្សី"
+        },
+        {
+            "id": "08031106016",
+            "school_type_id": 2,
+            "district_id": 803,
+            "commune_id": "080311",
+            "village_id": "08031106",
+            "name": "Puk Russey Krom",
+            "name_km": "ពុកឫស្សីក្រោម"
+        },
+        {
+            "id": "08031106520",
+            "school_type_id": 1,
+            "district_id": 803,
+            "commune_id": "080311",
+            "village_id": "08031106",
+            "name": "Puk Russey Krom",
+            "name_km": "ពុកឬស្សីក្រោម"
+        },
+        {
+            "id": "08031201019",
+            "school_type_id": 2,
+            "district_id": 803,
+            "commune_id": "080312",
+            "village_id": "08031201",
+            "name": "Hun Sen Chunleung",
+            "name_km": "ហ៊ុនសែន ជន្លឹង"
+        },
+        {
+            "id": "08031201514",
+            "school_type_id": 1,
+            "district_id": 803,
+            "commune_id": "080312",
+            "village_id": "08031201",
+            "name": "B.R.Hun Sen Chunleung",
+            "name_km": "ប៊ុនរ៉ានីហ៊ុនសែន ជន្លឹង"
+        },
+        {
+            "id": "08031201715",
+            "school_type_id": 3,
+            "district_id": 803,
+            "commune_id": "080312",
+            "village_id": "08031201",
+            "name": "Hun Sen Roka Chunleung",
+            "name_km": "ហ៊ុនសែន រកាជន្លឹង"
+        },
+        {
+            "id": "08031202020",
+            "school_type_id": 2,
+            "district_id": 803,
+            "commune_id": "080312",
+            "village_id": "08031202",
+            "name": "Roka",
+            "name_km": "រកា"
+        },
+        {
+            "id": "08031202510",
+            "school_type_id": 1,
+            "district_id": 803,
+            "commune_id": "080312",
+            "village_id": "08031202",
+            "name": "Roka",
+            "name_km": "រការ"
+        },
+        {
+            "id": "08031301021",
+            "school_type_id": 2,
+            "district_id": 803,
+            "commune_id": "080313",
+            "village_id": "08031301",
+            "name": "Sanlong",
+            "name_km": "សន្លុង"
+        },
+        {
+            "id": "08031301512",
+            "school_type_id": 1,
+            "district_id": 803,
+            "commune_id": "080313",
+            "village_id": "08031301",
+            "name": "Sanlong",
+            "name_km": "សន្លុង"
+        },
+        {
+            "id": "08031301707",
+            "school_type_id": 3,
+            "district_id": 803,
+            "commune_id": "080313",
+            "village_id": "08031301",
+            "name": "Sanlong",
+            "name_km": "អនុវិទ្យាល័យ សន្លុង"
+        },
+        {
+            "id": "08031301903",
+            "school_type_id": 4,
+            "district_id": 803,
+            "commune_id": "080313",
+            "village_id": "08031301",
+            "name": "Hun Sen Ksachkandal",
+            "name_km": "ហ៊ុនសែន ROTA ខ្សាច់កណ្ដាល"
+        },
+        {
+            "id": "08031305034",
+            "school_type_id": 2,
+            "district_id": 803,
+            "commune_id": "080313",
+            "village_id": "08031305",
+            "name": "Prey Thom",
+            "name_km": "ព្រៃធំ"
+        },
+        {
+            "id": "08031305523",
+            "school_type_id": 1,
+            "district_id": 803,
+            "commune_id": "080313",
+            "village_id": "08031305",
+            "name": "Prey Thom",
+            "name_km": "ព្រៃធំ"
+        },
+        {
+            "id": "08031306035",
+            "school_type_id": 2,
+            "district_id": 803,
+            "commune_id": "080313",
+            "village_id": "08031306",
+            "name": "Japan Korei Dol",
+            "name_km": "ជប៉ុន​ កូរ៉េ​ដុល"
+        },
+        {
+            "id": "08031401038",
+            "school_type_id": 2,
+            "district_id": 803,
+            "commune_id": "080314",
+            "village_id": "08031401",
+            "name": "Prey Baing",
+            "name_km": "ព្រៃបាំង"
+        },
+        {
+            "id": "08031402525",
+            "school_type_id": 1,
+            "district_id": 803,
+            "commune_id": "080314",
+            "village_id": "08031402",
+            "name": "Sithor",
+            "name_km": "ស៊ីធរ"
+        },
+        {
+            "id": "08031403022",
+            "school_type_id": 2,
+            "district_id": 803,
+            "commune_id": "080314",
+            "village_id": "08031403",
+            "name": "Sithor",
+            "name_km": "ស៊ីធរ"
+        },
+        {
+            "id": "08031403708",
+            "school_type_id": 3,
+            "district_id": 803,
+            "commune_id": "080314",
+            "village_id": "08031403",
+            "name": "SAKAMOTO Tuol Basan",
+            "name_km": "អនុវិទ្យាល័យ សាកាម៉ូតុ ទួលបាសាន"
+        },
+        {
+            "id": "08031405037",
+            "school_type_id": 2,
+            "district_id": 803,
+            "commune_id": "080314",
+            "village_id": "08031405",
+            "name": "Me Bon",
+            "name_km": "មេបាន់"
+        },
+        {
+            "id": "08031406036",
+            "school_type_id": 2,
+            "district_id": 803,
+            "commune_id": "080314",
+            "village_id": "08031406",
+            "name": "Kampong Lovea",
+            "name_km": "កំពង់ល្វា"
+        },
+        {
+            "id": "08031502023",
+            "school_type_id": 2,
+            "district_id": 803,
+            "commune_id": "080315",
+            "village_id": "08031502",
+            "name": "Svay Chrum",
+            "name_km": "ស្វាយជ្រំ"
+        },
+        {
+            "id": "08031502712",
+            "school_type_id": 3,
+            "district_id": 803,
+            "commune_id": "080315",
+            "village_id": "08031502",
+            "name": "Svay Chrum",
+            "name_km": "អនុវិទ្យាល័យ ស្វាយជ្រំ"
+        },
+        {
+            "id": "08031503039",
+            "school_type_id": 2,
+            "district_id": 803,
+            "commune_id": "080315",
+            "village_id": "08031503",
+            "name": "Bareach",
+            "name_km": "បារាជ"
+        },
+        {
+            "id": "08031601024",
+            "school_type_id": 2,
+            "district_id": 803,
+            "commune_id": "080316",
+            "village_id": "08031601",
+            "name": "Svay Romeat",
+            "name_km": "ស្វាយរមៀត"
+        },
+        {
+            "id": "08031601507",
+            "school_type_id": 1,
+            "district_id": 803,
+            "commune_id": "080316",
+            "village_id": "08031601",
+            "name": "Svay Romeat",
+            "name_km": "ស្វាយរមៀត"
+        },
+        {
+            "id": "08031601714",
+            "school_type_id": 3,
+            "district_id": 803,
+            "commune_id": "080316",
+            "village_id": "08031601",
+            "name": "Svay Romeat",
+            "name_km": "អនុវិទ្យល័យ ស្វាយរមៀត"
+        },
+        {
+            "id": "08031604025",
+            "school_type_id": 2,
+            "district_id": 803,
+            "commune_id": "080316",
+            "village_id": "08031604",
+            "name": "Chheu Teal",
+            "name_km": "ឈើទាល"
+        },
+        {
+            "id": "08031604524",
+            "school_type_id": 1,
+            "district_id": 803,
+            "commune_id": "080316",
+            "village_id": "08031604",
+            "name": "Chheu Teal",
+            "name_km": "ឈើទាល"
+        },
+        {
+            "id": "08031606040",
+            "school_type_id": 2,
+            "district_id": 803,
+            "commune_id": "080316",
+            "village_id": "08031606",
+            "name": "Svay Damnak",
+            "name_km": "ស្វាយរមៀត"
+        },
+        {
+            "id": "08031702026",
+            "school_type_id": 2,
+            "district_id": 803,
+            "commune_id": "080317",
+            "village_id": "08031702",
+            "name": "Ta Ek",
+            "name_km": "តាឯក"
+        },
+        {
+            "id": "08031702503",
+            "school_type_id": 1,
+            "district_id": 803,
+            "commune_id": "080317",
+            "village_id": "08031702",
+            "name": "Ta Ek",
+            "name_km": "តាឯក"
+        },
+        {
+            "id": "08031702717",
+            "school_type_id": 3,
+            "district_id": 803,
+            "commune_id": "080317",
+            "village_id": "08031702",
+            "name": "Ta Ek",
+            "name_km": "អនុវិទ្យាល័យ តាឯក"
+        },
+        {
+            "id": "08031801041",
+            "school_type_id": 2,
+            "district_id": 803,
+            "commune_id": "080318",
+            "village_id": "08031801",
+            "name": "Prey Chas",
+            "name_km": "ព្រៃចាស់"
+        },
+        {
+            "id": "08031801519",
+            "school_type_id": 1,
+            "district_id": 803,
+            "commune_id": "080318",
+            "village_id": "08031801",
+            "name": "Prey Chas",
+            "name_km": "ព្រៃចាស់"
+        },
+        {
+            "id": "08031803027",
+            "school_type_id": 2,
+            "district_id": 803,
+            "commune_id": "080318",
+            "village_id": "08031803",
+            "name": "Vihear Suor",
+            "name_km": "វិហារសួគ៌"
+        },
+        {
+            "id": "08031803504",
+            "school_type_id": 1,
+            "district_id": 803,
+            "commune_id": "080318",
+            "village_id": "08031803",
+            "name": "Vihear Suor",
+            "name_km": "វិហាសួគ៌"
+        },
+        {
+            "id": "08031803711",
+            "school_type_id": 3,
+            "district_id": 803,
+            "commune_id": "080318",
+            "village_id": "08031803",
+            "name": "Vihear Suor",
+            "name_km": "អនុវិទ្យាល័យ វិហាេសួគ៌"
+        },
+        {
+            "id": "08031808028",
+            "school_type_id": 2,
+            "district_id": 803,
+            "commune_id": "080318",
+            "village_id": "08031808",
+            "name": "Svay Meas",
+            "name_km": "ស្វាយមាស"
+        },
+        {
+            "id": "08031808511",
+            "school_type_id": 1,
+            "district_id": 803,
+            "commune_id": "080318",
+            "village_id": "08031808",
+            "name": "Svay Meas",
+            "name_km": "ស្វាយមាស"
+        }
+    ]
+}

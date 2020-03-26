@@ -1,0 +1,230 @@
+{
+    "id": 1308,
+    "schools": [
+        {
+            "id": "13080101001",
+            "school_type_id": 2,
+            "district_id": 1308,
+            "commune_id": "130801",
+            "village_id": "13080101",
+            "name": "Aknouwat",
+            "name_km": "សាលាបឋមសិក្សាអនុវត្ត"
+        },
+        {
+            "id": "13080101002",
+            "school_type_id": 2,
+            "district_id": 1308,
+            "commune_id": "130801",
+            "village_id": "13080101",
+            "name": "Tbeng Meanchey",
+            "name_km": "សាលាបឋមសិក្សាត្បែងមានជ័យ"
+        },
+        {
+            "id": "13080101003",
+            "school_type_id": 2,
+            "district_id": 1308,
+            "commune_id": "130801",
+            "village_id": "13080101",
+            "name": "Hun Sen Tbeng Meanchey",
+            "name_km": "អនុវិទ្យាល័យ ហ៊ុន សែន ត្បែងមានជ័យ"
+        },
+        {
+            "id": "13080101503",
+            "school_type_id": 1,
+            "district_id": 1308,
+            "commune_id": "130801",
+            "village_id": "13080101",
+            "name": "Tbeng Meanchey",
+            "name_km": "សាលាបឋមសិក្សាត្បែងមានជ័យ"
+        },
+        {
+            "id": "13080101504",
+            "school_type_id": 1,
+            "district_id": 1308,
+            "commune_id": "130801",
+            "village_id": "13080101",
+            "name": "Hun Sen Tbeng Meanchey",
+            "name_km": "អនុវិ.ហ៊ុនសែនត្បែងមានជ័យ"
+        },
+        {
+            "id": "13080101509",
+            "school_type_id": 1,
+            "district_id": 1308,
+            "commune_id": "130801",
+            "village_id": "13080101",
+            "name": "Anouwat",
+            "name_km": "សាលាបឋមសិក្សាអនុវត្ត"
+        },
+        {
+            "id": "13080101701",
+            "school_type_id": 3,
+            "district_id": 1308,
+            "commune_id": "130801",
+            "village_id": "13080101",
+            "name": "Hun Sen Tbeng",
+            "name_km": "អនុវិទ្យាល័យ ហ៊ុន សែន ត្បែងមានជ័យ"
+        },
+        {
+            "id": "13080101901",
+            "school_type_id": 5,
+            "district_id": 1308,
+            "commune_id": "130801",
+            "village_id": "13080101",
+            "name": "Chea Sim Tbeng Meanchey",
+            "name_km": "វិទ្យាល័យជាស៊ីមត្បែងមានជ័យ"
+        },
+        {
+            "id": "13080104502",
+            "school_type_id": 1,
+            "district_id": 1308,
+            "commune_id": "130801",
+            "village_id": "13080104",
+            "name": "Krong Preah Vihear",
+            "name_km": "សាលាមត្តេយ្យក្នុងក្រុងព្រះវិហារ"
+        },
+        {
+            "id": "13080109004",
+            "school_type_id": 2,
+            "district_id": 1308,
+            "commune_id": "130801",
+            "village_id": "13080109",
+            "name": "Kampong Chamlang",
+            "name_km": "កំពង់ចំលង"
+        },
+        {
+            "id": "13080201005",
+            "school_type_id": 2,
+            "district_id": 1308,
+            "commune_id": "130802",
+            "village_id": "13080201",
+            "name": "Mar Set",
+            "name_km": "សាលាបឋមសិក្សាហ្មសែត"
+        },
+        {
+            "id": "13080201506",
+            "school_type_id": 1,
+            "district_id": 1308,
+            "commune_id": "130802",
+            "village_id": "13080201",
+            "name": "Mar Set",
+            "name_km": "សាលាបឋមសិក្សាហ្មសែត"
+        },
+        {
+            "id": "13080201902",
+            "school_type_id": 3,
+            "district_id": 1308,
+            "commune_id": "130802",
+            "village_id": "13080201",
+            "name": "Hun Sen Marset",
+            "name_km": "វិទ្យាល័យហ៊ុនសែនហ្មសែត"
+        },
+        {
+            "id": "13080203012",
+            "school_type_id": 2,
+            "district_id": 1308,
+            "commune_id": "130802",
+            "village_id": "13080203",
+            "name": "Tumnup",
+            "name_km": "បឋមសិក្សាទំនប់"
+        },
+        {
+            "id": "13080204006",
+            "school_type_id": 2,
+            "district_id": 1308,
+            "commune_id": "130802",
+            "village_id": "13080204",
+            "name": "Pal Hal",
+            "name_km": "ប៉ាលហាល"
+        },
+        {
+            "id": "13080204505",
+            "school_type_id": 1,
+            "district_id": 1308,
+            "commune_id": "130802",
+            "village_id": "13080204",
+            "name": "Pal Hal",
+            "name_km": "បឋមសិក្សាប៉ាលហាល"
+        },
+        {
+            "id": "13080206008",
+            "school_type_id": 2,
+            "district_id": 1308,
+            "commune_id": "130802",
+            "village_id": "13080206",
+            "name": "Sathapor",
+            "name_km": "បឋមសិក្សាស្ថាពរ"
+        },
+        {
+            "id": "13080206501",
+            "school_type_id": 1,
+            "district_id": 1308,
+            "commune_id": "130802",
+            "village_id": "13080206",
+            "name": "Sathapor",
+            "name_km": "បឋមសិក្សាស្ថាពរ"
+        },
+        {
+            "id": "13080209010",
+            "school_type_id": 2,
+            "district_id": 1308,
+            "commune_id": "130802",
+            "village_id": "13080209",
+            "name": "Sramov",
+            "name_km": "បឋមសិក្សាស្រម៉ូវ"
+        },
+        {
+            "id": "13080209507",
+            "school_type_id": 1,
+            "district_id": 1308,
+            "commune_id": "130802",
+            "village_id": "13080209",
+            "name": "Sramov",
+            "name_km": "បឋមសិក្សាស្រម៉ូវ"
+        },
+        {
+            "id": "13080210011",
+            "school_type_id": 2,
+            "district_id": 1308,
+            "commune_id": "130802",
+            "village_id": "13080210",
+            "name": "Akphewat",
+            "name_km": "បឋមសិក្សាអភិវឌ្ឍន៏"
+        },
+        {
+            "id": "13080210021",
+            "school_type_id": 2,
+            "district_id": 1308,
+            "commune_id": "130802",
+            "village_id": "13080210",
+            "name": "Yovachun Aphiwat",
+            "name_km": "យុវជនអភិវឌ្ឍន៍"
+        },
+        {
+            "id": "13080210510",
+            "school_type_id": 1,
+            "district_id": 1308,
+            "commune_id": "130802",
+            "village_id": "13080210",
+            "name": "Yovayun Aphewat",
+            "name_km": "សាលាបឋមសិក្សាយុវជនអភិវឌ្ឍន៍"
+        },
+        {
+            "id": "13080211013",
+            "school_type_id": 2,
+            "district_id": 1308,
+            "commune_id": "130802",
+            "village_id": "13080211",
+            "name": "Kauk Tbeng",
+            "name_km": "បឋមសិក្សាគោកត្បែង"
+        },
+        {
+            "id": "13080212020",
+            "school_type_id": 2,
+            "district_id": 1308,
+            "commune_id": "130802",
+            "village_id": "13080212",
+            "name": "O Bak",
+            "name_km": "សាលាបឋមសិក្សាអូរបាក់"
+        }
+    ]
+}

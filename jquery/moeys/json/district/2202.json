@@ -1,0 +1,266 @@
+{
+    "id": 2202,
+    "schools": [
+        {
+            "id": "22020201004",
+            "school_type_id": 2,
+            "district_id": 2202,
+            "commune_id": "220202",
+            "village_id": "22020201",
+            "name": "Hun Sen Prey Ta Koy",
+            "name_km": "ហ៊ុន សែន​ព្រៃ​តាកុយ"
+        },
+        {
+            "id": "22020201510",
+            "school_type_id": 1,
+            "district_id": 2202,
+            "commune_id": "220202",
+            "village_id": "22020201",
+            "name": "Hun Sen Prey Ta Koy",
+            "name_km": "ហ៊ុន​សែន​ ព្រៃ​តាកុយ"
+        },
+        {
+            "id": "22020203005",
+            "school_type_id": 2,
+            "district_id": 2202,
+            "commune_id": "220202",
+            "village_id": "22020203",
+            "name": "Hunsen Phnomlouv",
+            "name_km": "ហ៊ុនសែនភ្នំលាវ"
+        },
+        {
+            "id": "22020203014",
+            "school_type_id": 2,
+            "district_id": 2202,
+            "commune_id": "220202",
+            "village_id": "22020203",
+            "name": "Tropeang Chouk",
+            "name_km": "ត្រពាំងឈូក"
+        },
+        {
+            "id": "22020203504",
+            "school_type_id": 1,
+            "district_id": 2202,
+            "commune_id": "220202",
+            "village_id": "22020203",
+            "name": "Phnom Leav",
+            "name_km": "ភ្នំ​លាវ"
+        },
+        {
+            "id": "22020203505",
+            "school_type_id": 1,
+            "district_id": 2202,
+            "commune_id": "220202",
+            "village_id": "22020203",
+            "name": "Hun Sen Angkoal",
+            "name_km": "ហ៊ុន សែន​អង្កោល"
+        },
+        {
+            "id": "22020203508",
+            "school_type_id": 1,
+            "district_id": 2202,
+            "commune_id": "220202",
+            "village_id": "22020203",
+            "name": "Trapaing Chhouk",
+            "name_km": "ត្រពាំង​ឈូក"
+        },
+        {
+            "id": "22020203901",
+            "school_type_id": 5,
+            "district_id": 2202,
+            "commune_id": "220202",
+            "village_id": "22020203",
+            "name": "Samdech Hun Sen Chamkar Daung",
+            "name_km": "ហ៊ុន សែន ចំការ​ដូង"
+        },
+        {
+            "id": "22020204003",
+            "school_type_id": 2,
+            "district_id": 2202,
+            "commune_id": "220202",
+            "village_id": "22020204",
+            "name": "PongTerk",
+            "name_km": "ពងទឹក"
+        },
+        {
+            "id": "22020204502",
+            "school_type_id": 1,
+            "district_id": 2202,
+            "commune_id": "220202",
+            "village_id": "22020204",
+            "name": "Porng Teuk",
+            "name_km": "ពង​ទឹក"
+        },
+        {
+            "id": "22020204701",
+            "school_type_id": 3,
+            "district_id": 2202,
+            "commune_id": "220202",
+            "village_id": "22020204",
+            "name": "Porng Teuk",
+            "name_km": "ពង​ទឹក"
+        },
+        {
+            "id": "22020205009",
+            "school_type_id": 2,
+            "district_id": 2202,
+            "commune_id": "220202",
+            "village_id": "22020204",
+            "name": "Hun Sen Chamka Bi",
+            "name_km": "ហ៊ុនសែនចំការបី"
+        },
+        {
+            "id": "22020205011",
+            "school_type_id": 2,
+            "district_id": 2202,
+            "commune_id": "220202",
+            "village_id": "22020205",
+            "name": "Thorm Kiri",
+            "name_km": "ធម្មគីរី"
+        },
+        {
+            "id": "22020205015",
+            "school_type_id": 2,
+            "district_id": 2202,
+            "commune_id": "220202",
+            "village_id": "22020205",
+            "name": "Chamkar Svay",
+            "name_km": "ចំការ​ស្វាយ"
+        },
+        {
+            "id": "22020205503",
+            "school_type_id": 1,
+            "district_id": 2202,
+            "commune_id": "220202",
+            "village_id": "22020205",
+            "name": "Chamkar 3",
+            "name_km": "ចំការ​បី"
+        },
+        {
+            "id": "22020205504",
+            "school_type_id": 1,
+            "district_id": 2202,
+            "commune_id": "220202",
+            "village_id": "22020205",
+            "name": "Chamka Svay",
+            "name_km": "មត្តេយ្យចំការ​ស្វាយ"
+        },
+        {
+            "id": "22020205509",
+            "school_type_id": 1,
+            "district_id": 2202,
+            "commune_id": "220202",
+            "village_id": "22020205",
+            "name": "Wat Thaom Kiri",
+            "name_km": "ធម្មគីរី"
+        },
+        {
+            "id": "22020301006",
+            "school_type_id": 2,
+            "district_id": 2202,
+            "commune_id": "220203",
+            "village_id": "22020301",
+            "name": "Prek Ta Nen",
+            "name_km": "ព្រែក​តានេន"
+        },
+        {
+            "id": "22020301010",
+            "school_type_id": 2,
+            "district_id": 2202,
+            "commune_id": "220203",
+            "village_id": "22020301",
+            "name": "Am Peng",
+            "name_km": "អំពេង"
+        },
+        {
+            "id": "22020301511",
+            "school_type_id": 1,
+            "district_id": 2202,
+            "commune_id": "220203",
+            "village_id": "22020301",
+            "name": "Ampeng",
+            "name_km": "អំពេង"
+        },
+        {
+            "id": "22020301513",
+            "school_type_id": 1,
+            "district_id": 2202,
+            "commune_id": "220203",
+            "village_id": "22020301",
+            "name": "Hun Sen Prek Ta Nen",
+            "name_km": "ហ៊ុន​ សែន​ព្រែក​តានេន"
+        },
+        {
+            "id": "22020302013",
+            "school_type_id": 2,
+            "district_id": 2202,
+            "commune_id": "220203",
+            "village_id": "22020302",
+            "name": "Tuol Sa-ngam",
+            "name_km": "ទួល​សាងាំ"
+        },
+        {
+            "id": "22020302511",
+            "school_type_id": 1,
+            "district_id": 2202,
+            "commune_id": "220203",
+            "village_id": "22020302",
+            "name": "Tuol Sa-ngam",
+            "name_km": "ទួល​សាងាំ"
+        },
+        {
+            "id": "22020302703",
+            "school_type_id": 3,
+            "district_id": 2202,
+            "commune_id": "220203",
+            "village_id": "22020302",
+            "name": "Hun Sen Angkoal",
+            "name_km": "ហ៊ុន​សែន អង្កោល"
+        },
+        {
+            "id": "22020303016",
+            "school_type_id": 2,
+            "district_id": 2202,
+            "commune_id": "220203",
+            "village_id": "22020305",
+            "name": "Hun Sen Koh Sorm",
+            "name_km": "ហ៊ុនសែនកោះសោម"
+        },
+        {
+            "id": "22020303512",
+            "school_type_id": 1,
+            "district_id": 2202,
+            "commune_id": "220203",
+            "village_id": "22020305",
+            "name": "Hun Sen Koh Som",
+            "name_km": "ហ៊ុន​ សែន​កោះ​សោម"
+        },
+        {
+            "id": "22020304007",
+            "school_type_id": 2,
+            "district_id": 2202,
+            "commune_id": "220203",
+            "village_id": "22020304",
+            "name": "Hun Sen Angkoal",
+            "name_km": "ហ៊ុន​សែន អង្កោល"
+        },
+        {
+            "id": "22020304012",
+            "school_type_id": 2,
+            "district_id": 2202,
+            "commune_id": "220203",
+            "village_id": "22020304",
+            "name": "Hun Sen TaPing",
+            "name_km": "ហ៊ុន​សែន តាពីង"
+        },
+        {
+            "id": "22020304514",
+            "school_type_id": 1,
+            "district_id": 2202,
+            "commune_id": "220203",
+            "village_id": "22020304",
+            "name": "Ta Ping",
+            "name_km": "តាពីង"
+        }
+    ]
+}

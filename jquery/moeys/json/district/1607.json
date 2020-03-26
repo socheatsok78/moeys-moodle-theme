@@ -1,0 +1,320 @@
+{
+    "id": 1607,
+    "schools": [
+        {
+            "id": "16070103015",
+            "school_type_id": 2,
+            "district_id": 1607,
+            "commune_id": "160701",
+            "village_id": "16070103",
+            "name": "Plor",
+            "name_km": "បឋមសិក្សាប្លរ"
+        },
+        {
+            "id": "16070104020",
+            "school_type_id": 2,
+            "district_id": 1607,
+            "commune_id": "160701",
+            "village_id": "16070104",
+            "name": "Ta Kok Phnang",
+            "name_km": "បឋមសិក្សាតាកុកភ្នង"
+        },
+        {
+            "id": "16070105021",
+            "school_type_id": 2,
+            "district_id": 1607,
+            "commune_id": "160701",
+            "village_id": "16070105",
+            "name": "Ta Kok Chray",
+            "name_km": "បឋមសិក្សាតាកុកច្រាយ"
+        },
+        {
+            "id": "16070201009",
+            "school_type_id": 2,
+            "district_id": 1607,
+            "commune_id": "160702",
+            "village_id": "16070201",
+            "name": "Le",
+            "name_km": "បឋមសិក្សាលែ"
+        },
+        {
+            "id": "16070202012",
+            "school_type_id": 2,
+            "district_id": 1607,
+            "commune_id": "160702",
+            "village_id": "16070202",
+            "name": "Kate",
+            "name_km": "បឋមសិក្សាកាតែ"
+        },
+        {
+            "id": "16070202503",
+            "school_type_id": 1,
+            "district_id": 1607,
+            "commune_id": "160702",
+            "village_id": "16070202",
+            "name": "Kate",
+            "name_km": "កាតែ"
+        },
+        {
+            "id": "16070204001",
+            "school_type_id": 2,
+            "district_id": 1607,
+            "commune_id": "160702",
+            "village_id": "16070204",
+            "name": "O Yadav",
+            "name_km": "បឋមសិក្សាយ៉ាដាវ"
+        },
+        {
+            "id": "16070204020",
+            "school_type_id": 2,
+            "district_id": 1607,
+            "commune_id": "160702",
+            "village_id": "16070204",
+            "name": "Unn",
+            "name_km": "បឋមសិក្សាអ៊ុន"
+        },
+        {
+            "id": "16070204501",
+            "school_type_id": 1,
+            "district_id": 1607,
+            "commune_id": "160702",
+            "village_id": "16070204",
+            "name": "O Yadav",
+            "name_km": "បឋមសិក្សាយ៉ាដាវ"
+        },
+        {
+            "id": "16070204701",
+            "school_type_id": 3,
+            "district_id": 1607,
+            "commune_id": "160702",
+            "village_id": "16070204",
+            "name": "O Yadav",
+            "name_km": "អនុវិទ្យាល័យអូរយ៉ាដាវ"
+        },
+        {
+            "id": "16070301011",
+            "school_type_id": 2,
+            "district_id": 1607,
+            "commune_id": "160703",
+            "village_id": "16070301",
+            "name": "Pak Thom",
+            "name_km": "បឋមសិក្សាប៉ក់ធំ"
+        },
+        {
+            "id": "16070301022",
+            "school_type_id": 2,
+            "district_id": 1607,
+            "commune_id": "160703",
+            "village_id": "16070301",
+            "name": "Padol",
+            "name_km": "បឋមសិក្សាប៉ាដល់"
+        },
+        {
+            "id": "16070301505",
+            "school_type_id": 1,
+            "district_id": 1607,
+            "commune_id": "160703",
+            "village_id": "16070301",
+            "name": "Pak Thom",
+            "name_km": "បឋមសិក្សាប៉ក់ធំ"
+        },
+        {
+            "id": "16070302014",
+            "school_type_id": 2,
+            "district_id": 1607,
+            "commune_id": "160703",
+            "village_id": "16070302",
+            "name": "Pak Tauch",
+            "name_km": "បឋមសិក្សាប៉ក់តូច"
+        },
+        {
+            "id": "16070303010",
+            "school_type_id": 2,
+            "district_id": 1607,
+            "commune_id": "160703",
+            "village_id": "16070303",
+            "name": "Pak Po",
+            "name_km": "បឋមសិក្សាប៉ក់ប៉ូ"
+        },
+        {
+            "id": "16070304018",
+            "school_type_id": 2,
+            "district_id": 1607,
+            "commune_id": "160703",
+            "village_id": "16070304",
+            "name": "Lom",
+            "name_km": "បឋមសិក្សាឡុំ"
+        },
+        {
+            "id": "16070304507",
+            "school_type_id": 1,
+            "district_id": 1607,
+            "commune_id": "160703",
+            "village_id": "16070304",
+            "name": "Lom_Pre School",
+            "name_km": "មត្តេយ្យសិក្សាឡុំ"
+        },
+        {
+            "id": "16070401002",
+            "school_type_id": 2,
+            "district_id": 1607,
+            "commune_id": "160704",
+            "village_id": "16070401",
+            "name": "Phlang",
+            "name_km": "បឋមសិក្សាផ្លង់"
+        },
+        {
+            "id": "16070402003",
+            "school_type_id": 2,
+            "district_id": 1607,
+            "commune_id": "160704",
+            "village_id": "16070402",
+            "name": "Korng Thom",
+            "name_km": "បឋមសិក្សាគងធំ"
+        },
+        {
+            "id": "16070402502",
+            "school_type_id": 1,
+            "district_id": 1607,
+            "commune_id": "160704",
+            "village_id": "16070402",
+            "name": "Korng Thom",
+            "name_km": "បឋមសិក្សាគងធំ"
+        },
+        {
+            "id": "16070403019",
+            "school_type_id": 2,
+            "district_id": 1607,
+            "commune_id": "160704",
+            "village_id": "16070403",
+            "name": "Pha-or",
+            "name_km": "បឋមសិក្សាប៉ាអរ"
+        },
+        {
+            "id": "16070406023",
+            "school_type_id": 2,
+            "district_id": 1607,
+            "commune_id": "160704",
+            "village_id": null,
+            "name": "Kung Yuk",
+            "name_km": "បឋមសិក្សាគងយុ"
+        },
+        {
+            "id": "16070501024",
+            "school_type_id": 2,
+            "district_id": 1607,
+            "commune_id": "160705",
+            "village_id": "16070501",
+            "name": "Patang_Pri School",
+            "name_km": "សាលាបឋមសិក្សាប៉ាតាង"
+        },
+        {
+            "id": "16070502017",
+            "school_type_id": 2,
+            "district_id": 1607,
+            "commune_id": "160705",
+            "village_id": "16070502",
+            "name": "Phik",
+            "name_km": "បឋមសិក្សាភិ"
+        },
+        {
+            "id": "16070601007",
+            "school_type_id": 2,
+            "district_id": 1607,
+            "commune_id": "160706",
+            "village_id": "16070601",
+            "name": "Som Thom",
+            "name_km": "បឋមសិក្សាសោមធំ"
+        },
+        {
+            "id": "16070601504",
+            "school_type_id": 1,
+            "district_id": 1607,
+            "commune_id": "160706",
+            "village_id": "16070601",
+            "name": "Som Thom",
+            "name_km": "បឋមសិក្សាសោមធំ"
+        },
+        {
+            "id": "16070601901",
+            "school_type_id": 5,
+            "district_id": 1607,
+            "commune_id": "160706",
+            "village_id": "16070601",
+            "name": "Som Thom High School",
+            "name_km": "វិទ្យាល័យសោមធំ"
+        },
+        {
+            "id": "16070602004",
+            "school_type_id": 2,
+            "district_id": 1607,
+            "commune_id": "160706",
+            "village_id": "16070602",
+            "name": "Som Trak Chas",
+            "name_km": "បឋមសិក្សាត្រកចាស់"
+        },
+        {
+            "id": "16070602016",
+            "school_type_id": 2,
+            "district_id": 1607,
+            "commune_id": "160706",
+            "village_id": "16070602",
+            "name": "Trak Thmey",
+            "name_km": "បឋមសិក្សាសោមត្រកថ្មី"
+        },
+        {
+            "id": "16070603013",
+            "school_type_id": 2,
+            "district_id": 1607,
+            "commune_id": "160706",
+            "village_id": "16070603",
+            "name": "Som Kul",
+            "name_km": "បឋមសិក្សាសោមគល់"
+        },
+        {
+            "id": "16070701005",
+            "school_type_id": 2,
+            "district_id": 1607,
+            "commune_id": "160707",
+            "village_id": "16070701",
+            "name": "Ten",
+            "name_km": "បឋមសិក្សាតេន"
+        },
+        {
+            "id": "16070701506",
+            "school_type_id": 1,
+            "district_id": 1607,
+            "commune_id": "160707",
+            "village_id": "16070701",
+            "name": "Ten Pre-School",
+            "name_km": "សាលាបឋមសិក្សាតេន"
+        },
+        {
+            "id": "16070702006",
+            "school_type_id": 2,
+            "district_id": 1607,
+            "commune_id": "160707",
+            "village_id": "16070702",
+            "name": "Peak",
+            "name_km": "បឋមសិក្សាពាក់"
+        },
+        {
+            "id": "16070703001",
+            "school_type_id": 2,
+            "district_id": 1607,
+            "commune_id": "160707",
+            "village_id": "16070703",
+            "name": "Som",
+            "name_km": "បឋមសិក្សាសំ"
+        },
+        {
+            "id": "16070704001",
+            "school_type_id": 2,
+            "district_id": 1607,
+            "commune_id": "160707",
+            "village_id": "16070704",
+            "name": "Dar",
+            "name_km": "បឋមសិក្សាសាលាដរ"
+        }
+    ]
+}

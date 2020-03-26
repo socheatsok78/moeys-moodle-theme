@@ -1,0 +1,311 @@
+{
+    "id": 1801,
+    "schools": [
+        {
+            "id": "18010101001",
+            "school_type_id": 2,
+            "district_id": 1801,
+            "commune_id": "180101",
+            "village_id": "18010101",
+            "name": "Chamkar Caosou",
+            "name_km": "ចំការកៅស៊ូ "
+        },
+        {
+            "id": "18010101512",
+            "school_type_id": 1,
+            "district_id": 1801,
+            "commune_id": "180101",
+            "village_id": "18010101",
+            "name": "Chamkar Caosou",
+            "name_km": "ចម្ការកៅស៊ូ"
+        },
+        {
+            "id": "18010101702",
+            "school_type_id": 3,
+            "district_id": 1801,
+            "commune_id": "180101",
+            "village_id": "18010101",
+            "name": "SAKURA",
+            "name_km": "សាគូរ៉ា"
+        },
+        {
+            "id": "18010102002",
+            "school_type_id": 2,
+            "district_id": 1801,
+            "commune_id": "180101",
+            "village_id": "18010102",
+            "name": "Hun Sen Khlaing Leu",
+            "name_km": "ហ៊ុន សែន ឃ្លាំងលើ"
+        },
+        {
+            "id": "18010102509",
+            "school_type_id": 1,
+            "district_id": 1801,
+            "commune_id": "180101",
+            "village_id": "18010102",
+            "name": "Hun Sen Khlaing Leu",
+            "name_km": "ហស.ឃ្លាំងលើ"
+        },
+        {
+            "id": "18010102704",
+            "school_type_id": 3,
+            "district_id": 1801,
+            "commune_id": "180101",
+            "village_id": "18010102",
+            "name": "Hun Sen Khlaing Leu",
+            "name_km": "ហ.ស.ឃ្លាំងលើ"
+        },
+        {
+            "id": "18010103003",
+            "school_type_id": 2,
+            "district_id": 1801,
+            "commune_id": "180101",
+            "village_id": "18010103",
+            "name": "SAKURA Mittapheap Kam. Japan",
+            "name_km": "សាគូរ៉ាមិត្តភាពកម្ពុជា ជប៉ុន"
+        },
+        {
+            "id": "18010103502",
+            "school_type_id": 1,
+            "district_id": 1801,
+            "commune_id": "180101",
+            "village_id": "18010103",
+            "name": "SAKURA",
+            "name_km": "សាគូរ៉ាមិត្តភាពកម្ពុជា ជប៉ុន"
+        },
+        {
+            "id": "18010201004",
+            "school_type_id": 2,
+            "district_id": 1801,
+            "commune_id": "180102",
+            "village_id": "18010201",
+            "name": "Phsar Leu",
+            "name_km": "បឋមសិក្សាផ្សារលើ"
+        },
+        {
+            "id": "18010201507",
+            "school_type_id": 1,
+            "district_id": 1801,
+            "commune_id": "180102",
+            "village_id": "18010201",
+            "name": "Phsar Leu",
+            "name_km": "ផ្សារលើ"
+        },
+        {
+            "id": "18010202501",
+            "school_type_id": 1,
+            "district_id": 1801,
+            "commune_id": "180102",
+            "village_id": "18010202",
+            "name": "Krong Preah Sihanouk",
+            "name_km": "មត្តេយ្យក្រុង"
+        },
+        {
+            "id": "18010203010",
+            "school_type_id": 2,
+            "district_id": 1801,
+            "commune_id": "180102",
+            "village_id": "18010203",
+            "name": "Samdech Chea Sim",
+            "name_km": "សម្តេច ជា ស៊ីម"
+        },
+        {
+            "id": "18010203503",
+            "school_type_id": 1,
+            "district_id": 1801,
+            "commune_id": "180102",
+            "village_id": "18010203",
+            "name": "Samdech Chea Sim",
+            "name_km": "សម្តេចជាស៊ីម"
+        },
+        {
+            "id": "18010301005",
+            "school_type_id": 2,
+            "district_id": 1801,
+            "commune_id": "180103",
+            "village_id": "18010301",
+            "name": "Kampenh Chas",
+            "name_km": "កំពេញចាស់"
+        },
+        {
+            "id": "18010301510",
+            "school_type_id": 1,
+            "district_id": 1801,
+            "commune_id": "180103",
+            "village_id": "18010301",
+            "name": "Kampenh Chas",
+            "name_km": "កំពេញចាស់"
+        },
+        {
+            "id": "18010301901",
+            "school_type_id": 4,
+            "district_id": 1801,
+            "commune_id": "180103",
+            "village_id": "18010301",
+            "name": "Krong Preah Sihanouk",
+            "name_km": "វិទ្យាល័យក្រុងព្រះសីហនុ"
+        },
+        {
+            "id": "18010302006",
+            "school_type_id": 2,
+            "district_id": 1801,
+            "commune_id": "180103",
+            "village_id": "18010302",
+            "name": "Hun Sen Krong",
+            "name_km": "ហ៊ុន សែន ក្រុង"
+        },
+        {
+            "id": "18010302012",
+            "school_type_id": 2,
+            "district_id": 1801,
+            "commune_id": "180103",
+            "village_id": "18010302",
+            "name": "Aknouwat",
+            "name_km": "បឋមអនុវត្ត"
+        },
+        {
+            "id": "18010302504",
+            "school_type_id": 1,
+            "district_id": 1801,
+            "commune_id": "180103",
+            "village_id": "18010302",
+            "name": "Hun Sen Krong",
+            "name_km": "ហ៊ុន សែន ក្រុង"
+        },
+        {
+            "id": "18010302701",
+            "school_type_id": 3,
+            "district_id": 1801,
+            "commune_id": "180103",
+            "village_id": "18010302",
+            "name": "Samdech Euv",
+            "name_km": "អនុវិទ្យាល័យសម្ដេចឳ"
+        },
+        {
+            "id": "18010303007",
+            "school_type_id": 2,
+            "district_id": 1801,
+            "commune_id": "180103",
+            "village_id": "18010303",
+            "name": "Borei Kamakar",
+            "name_km": "បូរីកម្មករ"
+        },
+        {
+            "id": "18010303511",
+            "school_type_id": 1,
+            "district_id": 1801,
+            "commune_id": "180103",
+            "village_id": "18010303",
+            "name": "Borei Kamakar",
+            "name_km": "បូរីកម្មករ"
+        },
+        {
+            "id": "18010401008",
+            "school_type_id": 2,
+            "district_id": 1801,
+            "commune_id": "180104",
+            "village_id": "18010401",
+            "name": "Hun Sen Mittapheap",
+            "name_km": "ហ៊ុន សែន មិត្តភាព"
+        },
+        {
+            "id": "18010401505",
+            "school_type_id": 1,
+            "district_id": 1801,
+            "commune_id": "180104",
+            "village_id": "18010401",
+            "name": "Hun Sen Mittapheap",
+            "name_km": "ហ.ស.មិត្តភាព"
+        },
+        {
+            "id": "18010401902",
+            "school_type_id": 5,
+            "district_id": 1801,
+            "commune_id": "180104",
+            "village_id": "18010401",
+            "name": "Hun Sen Mittapheap",
+            "name_km": "វិទ្យាល័យ ហ៊ុន សែន មិត្តភាព"
+        },
+        {
+            "id": "18010402011",
+            "school_type_id": 2,
+            "district_id": 1801,
+            "commune_id": "180104",
+            "village_id": "18010402",
+            "name": "O Tres Chas",
+            "name_km": "អូរត្រេសចាស់"
+        },
+        {
+            "id": "18010403703",
+            "school_type_id": 3,
+            "district_id": 1801,
+            "commune_id": "180104",
+            "village_id": "18010403",
+            "name": "Kamakar",
+            "name_km": "កម្មករ"
+        },
+        {
+            "id": "18010404009",
+            "school_type_id": 2,
+            "district_id": 1801,
+            "commune_id": "180104",
+            "village_id": "18010404",
+            "name": "Kamakar",
+            "name_km": "បឋមសិក្សាកម្មករ"
+        },
+        {
+            "id": "18010404506",
+            "school_type_id": 1,
+            "district_id": 1801,
+            "commune_id": "180104",
+            "village_id": "18010404",
+            "name": "Kamakar",
+            "name_km": "កម្មករ"
+        },
+        {
+            "id": "18010501013",
+            "school_type_id": 2,
+            "district_id": 1801,
+            "commune_id": "180105",
+            "village_id": "18010501",
+            "name": "Prek Svay",
+            "name_km": "បឋមសិក្សាព្រៃស្វាយ"
+        },
+        {
+            "id": "18010502014",
+            "school_type_id": 2,
+            "district_id": 1801,
+            "commune_id": "180105",
+            "village_id": "18010502",
+            "name": "Deum Thkov",
+            "name_km": "ដើមថ្កូវ"
+        },
+        {
+            "id": "18010503015",
+            "school_type_id": 2,
+            "district_id": 1801,
+            "commune_id": "180105",
+            "village_id": "18010503",
+            "name": "Koh Tauch",
+            "name_km": "កោះតូច"
+        },
+        {
+            "id": "18010505016",
+            "school_type_id": 2,
+            "district_id": 1801,
+            "commune_id": "180105",
+            "village_id": "18010505",
+            "name": "Sok San",
+            "name_km": "សុខសាន្ដ"
+        },
+        {
+            "id": "18010506017",
+            "school_type_id": 2,
+            "district_id": 1801,
+            "commune_id": "180105",
+            "village_id": "18010506",
+            "name": "Koh Rong Sanleum",
+            "name_km": "រ៉ុងសន្លឹម"
+        }
+    ]
+}

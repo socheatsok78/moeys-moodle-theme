@@ -1,0 +1,194 @@
+{
+    "id": 1307,
+    "schools": [
+        {
+            "id": "13070301001",
+            "school_type_id": 2,
+            "district_id": 1307,
+            "commune_id": "130703",
+            "village_id": "13070301",
+            "name": "Khum Chhean Muk",
+            "name_km": "បឋមសិក្សាឈានមុខ"
+        },
+        {
+            "id": "13070301021",
+            "school_type_id": 2,
+            "district_id": 1307,
+            "commune_id": "130703",
+            "village_id": "13070301",
+            "name": "Bak Kam",
+            "name_km": "បឋមសិក្សាបាក់កាំ"
+        },
+        {
+            "id": "13070301504",
+            "school_type_id": 1,
+            "district_id": 1307,
+            "commune_id": "130703",
+            "village_id": "13070301",
+            "name": "Chhean Muk",
+            "name_km": "បឋមសិក្សាឈានមុខ"
+        },
+        {
+            "id": "13070302704",
+            "school_type_id": 3,
+            "district_id": 1307,
+            "commune_id": "130703",
+            "village_id": "13070302",
+            "name": "Chhean Muk",
+            "name_km": "អនុវិទ្យាល័យឈានមុខ"
+        },
+        {
+            "id": "13070303014",
+            "school_type_id": 2,
+            "district_id": 1307,
+            "commune_id": "130703",
+            "village_id": "13070303",
+            "name": "Moha Phal",
+            "name_km": "មហាផល"
+        },
+        {
+            "id": "13070303505",
+            "school_type_id": 1,
+            "district_id": 1307,
+            "commune_id": "130703",
+            "village_id": "13070303",
+            "name": "Moha Phal",
+            "name_km": "មហាផល"
+        },
+        {
+            "id": "13070401008",
+            "school_type_id": 2,
+            "district_id": 1307,
+            "commune_id": "130704",
+            "village_id": "13070401",
+            "name": "Po",
+            "name_km": "ពោធិ"
+        },
+        {
+            "id": "13070401502",
+            "school_type_id": 1,
+            "district_id": 1307,
+            "commune_id": "130704",
+            "village_id": "13070401",
+            "name": "Po",
+            "name_km": "បឋមសិក្សាពោធិ៏"
+        },
+        {
+            "id": "13070401702",
+            "school_type_id": 3,
+            "district_id": 1307,
+            "commune_id": "130704",
+            "village_id": "13070401",
+            "name": "Po",
+            "name_km": "អនុវិទ្យាល័យពោធិ៏"
+        },
+        {
+            "id": "13070403019",
+            "school_type_id": 2,
+            "district_id": 1307,
+            "commune_id": "130704",
+            "village_id": "13070403",
+            "name": "Stoeng Touch",
+            "name_km": "សាលាបឋមសិក្សាស្ទឹងតូច"
+        },
+        {
+            "id": "13070404020",
+            "school_type_id": 2,
+            "district_id": 1307,
+            "commune_id": "130704",
+            "village_id": "13070404",
+            "name": "O Keth",
+            "name_km": "បឋមសិក្សាអូរកក់"
+        },
+        {
+            "id": "13070501009",
+            "school_type_id": 2,
+            "district_id": 1307,
+            "commune_id": "130705",
+            "village_id": "13070501",
+            "name": "Pramer",
+            "name_km": "បឋមសិក្សាប្រមេរ"
+        },
+        {
+            "id": "13070501501",
+            "school_type_id": 1,
+            "district_id": 1307,
+            "commune_id": "130705",
+            "village_id": "13070501",
+            "name": "Po",
+            "name_km": "បឋមសិក្សាប្រមេរុ"
+        },
+        {
+            "id": "13070501705",
+            "school_type_id": 3,
+            "district_id": 1307,
+            "commune_id": "130705",
+            "village_id": "13070501",
+            "name": "Pra Me",
+            "name_km": "អនុវិទ្យាល័យប្រមេរុ"
+        },
+        {
+            "id": "13070501901",
+            "school_type_id": 4,
+            "district_id": 1307,
+            "commune_id": "130705",
+            "village_id": "13070501",
+            "name": "HS TBENGMEANCHEY",
+            "name_km": "វិទ្យាល័យហ៊ុនសែនត្បែងមានជ័យ"
+        },
+        {
+            "id": "13070601002",
+            "school_type_id": 2,
+            "district_id": 1307,
+            "commune_id": "130706",
+            "village_id": "13070601",
+            "name": "Khoum Preah Khlaing",
+            "name_km": "បឋមសិក្សាព្រះឃ្លាំង"
+        },
+        {
+            "id": "13070601503",
+            "school_type_id": 1,
+            "district_id": 1307,
+            "commune_id": "130706",
+            "village_id": "13070601",
+            "name": "Preah Khlaing",
+            "name_km": "បឋមសិក្សាព្រះឃ្លាំង"
+        },
+        {
+            "id": "13070601703",
+            "school_type_id": 3,
+            "district_id": 1307,
+            "commune_id": "130706",
+            "village_id": "13070601",
+            "name": "Preah Khlaing",
+            "name_km": "អនុវិទ្យាល័យព្រះឃ្លាំង"
+        },
+        {
+            "id": "13070603017",
+            "school_type_id": 2,
+            "district_id": 1307,
+            "commune_id": "130706",
+            "village_id": "13070603",
+            "name": "Beng Korng",
+            "name_km": "បឋមសិក្សាបេងកោង"
+        },
+        {
+            "id": "13070603506",
+            "school_type_id": 1,
+            "district_id": 1307,
+            "commune_id": "130706",
+            "village_id": "13070603",
+            "name": "Bengkorng Pre School",
+            "name_km": "សាលាបឋមសិក្សាបេងកោង"
+        },
+        {
+            "id": "13070604018",
+            "school_type_id": 2,
+            "district_id": 1307,
+            "commune_id": "130706",
+            "village_id": "13070604",
+            "name": "Veal Rumpouk",
+            "name_km": "បឋមសិក្សាវាលរំពុក"
+        }
+    ]
+}

@@ -1,0 +1,410 @@
+{
+    "id": 1211,
+    "schools": [
+        {
+            "id": "12110302011",
+            "school_type_id": 2,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Preah Ponlea",
+            "name_km": "បឋមសិក្សាព្រះពន្លា"
+        },
+        {
+            "id": "12110302503",
+            "school_type_id": 1,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Preah Ponlea",
+            "name_km": "ព្រះពន្លា"
+        },
+        {
+            "id": "12110303012",
+            "school_type_id": 2,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Prek Pra Leu",
+            "name_km": "បឋមសិក្សាហ៊ុនសែនព្រែកប្រា"
+        },
+        {
+            "id": "12110303532",
+            "school_type_id": 1,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Hun Sen Prek Pra",
+            "name_km": "ហ៊ុន សែនព្រែកប្រា"
+        },
+        {
+            "id": "12110303704",
+            "school_type_id": 3,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Hun Sen Prek Pra",
+            "name_km": "អនុវិទ្យាល័យ ហ៊ុនសែនព្រែកប្រា"
+        },
+        {
+            "id": "12110304013",
+            "school_type_id": 2,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Prek Pra Krom",
+            "name_km": "បឋមសិក្សាព្រែកប្រាក្រោម"
+        },
+        {
+            "id": "12110304513",
+            "school_type_id": 1,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Prek Pra Krom",
+            "name_km": "ព្រែកប្រាក្រោម"
+        },
+        {
+            "id": "12110402007",
+            "school_type_id": 2,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Chbar Ampeuv 2",
+            "name_km": "បឋមសិក្សាច្បារអំពៅ២"
+        },
+        {
+            "id": "12110402504",
+            "school_type_id": 1,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Chbar Ampeuv 2",
+            "name_km": "ច្បារអំពៅ២"
+        },
+        {
+            "id": "12110501008",
+            "school_type_id": 2,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Chbar Ampeuv 1",
+            "name_km": "បឋមសិក្សាច្បារអំពៅ១"
+        },
+        {
+            "id": "12110501516",
+            "school_type_id": 1,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Chbar Ampeuv 1",
+            "name_km": "ច្បារអំពៅ១"
+        },
+        {
+            "id": "12110801009",
+            "school_type_id": 2,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Boeung Chhouk Prachum Vong",
+            "name_km": "បឋមសិក្សាបឹងឈូកប្រជុំវង្ស"
+        },
+        {
+            "id": "12110801517",
+            "school_type_id": 1,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Boeung Chhouk Prachum Vong",
+            "name_km": "បឹងឈូកប្រជុំវង្ស"
+        },
+        {
+            "id": "12110802901",
+            "school_type_id": 5,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Chbar Ampeuv",
+            "name_km": "វិទ្យាល័យច្បារអំពៅ"
+        },
+        {
+            "id": "12110803010",
+            "school_type_id": 2,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Russey Sroh",
+            "name_km": "បឋមសិក្សាឫស្សីស្រស់"
+        },
+        {
+            "id": "12110803507",
+            "school_type_id": 1,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Russey Sroh",
+            "name_km": "ឬស្សីស្រស់"
+        },
+        {
+            "id": "12110901018",
+            "school_type_id": 2,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Champa",
+            "name_km": "បឋមសិក្សាចំប៉ា"
+        },
+        {
+            "id": "12110901019",
+            "school_type_id": 2,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Machhem Voan",
+            "name_km": "បឋមសិក្សាមជ្ឈឹមវ័ន"
+        },
+        {
+            "id": "12110901519",
+            "school_type_id": 1,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Champa",
+            "name_km": "ចំប៉ា"
+        },
+        {
+            "id": "12110901520",
+            "school_type_id": 1,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Machhem Voan",
+            "name_km": "មត្តេយ្យមជ្ឈិមវ័ន"
+        },
+        {
+            "id": "12110902017",
+            "school_type_id": 2,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "York Batr",
+            "name_km": "បឋមសិក្សាយកបាត្រ"
+        },
+        {
+            "id": "12110902518",
+            "school_type_id": 1,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "York Batr",
+            "name_km": "យកបាត្រ"
+        },
+        {
+            "id": "12110903020",
+            "school_type_id": 2,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Prek Thom",
+            "name_km": "បឋមសិក្សាព្រែកធំ"
+        },
+        {
+            "id": "12110903021",
+            "school_type_id": 2,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Wat Knong",
+            "name_km": "បឋមសិក្សាវត្តក្នុង"
+        },
+        {
+            "id": "12110903522",
+            "school_type_id": 1,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Wat Knong",
+            "name_km": "វត្តក្នុង"
+        },
+        {
+            "id": "12110903705",
+            "school_type_id": 3,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Wat Knong",
+            "name_km": "អនុវិទ្យាល័យ វត្តក្នុង"
+        },
+        {
+            "id": "12111001023",
+            "school_type_id": 2,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Prek Eng",
+            "name_km": "បឋមសិក្សាព្រែកឯង"
+        },
+        {
+            "id": "12111004526",
+            "school_type_id": 1,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Tuol Ta Chann",
+            "name_km": "មត្តេយ្យទួលតាចាន់"
+        },
+        {
+            "id": "12111004902",
+            "school_type_id": 5,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Prek Eng",
+            "name_km": "វិទ្យាល័យព្រែកឯង"
+        },
+        {
+            "id": "12111005022",
+            "school_type_id": 2,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Chong Prek",
+            "name_km": "បឋមសិក្សាចុងព្រែក"
+        },
+        {
+            "id": "12111005523",
+            "school_type_id": 1,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Chong Prek",
+            "name_km": "ចុងព្រែក"
+        },
+        {
+            "id": "12111006024",
+            "school_type_id": 2,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Roboh Angkanh",
+            "name_km": "បឋមសិក្សារបោះអង្កាញ់"
+        },
+        {
+            "id": "12111006524",
+            "school_type_id": 1,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Roboh Angkanh",
+            "name_km": "របោះអង្កាញ់"
+        },
+        {
+            "id": "12111101025",
+            "school_type_id": 2,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Hun Sen Champous Ka-ek",
+            "name_km": "បឋមសិក្សាហ៊ុនសែនចំពុះក្អែក"
+        },
+        {
+            "id": "12111101526",
+            "school_type_id": 1,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Hun Sen Champous Ka-ek",
+            "name_km": "ហ៊ុន សែន ចំពុុះក្អែក"
+        },
+        {
+            "id": "12111102026",
+            "school_type_id": 2,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Hun Sen Koh Krabei",
+            "name_km": "បឋមសិក្សាហ៊ុនសែនកោះក្របី"
+        },
+        {
+            "id": "12111102527",
+            "school_type_id": 1,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Hun Sen Koh Krabei",
+            "name_km": "ហ៊ុន សែនកោះក្របី"
+        },
+        {
+            "id": "12111102903",
+            "school_type_id": 5,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Prek Thmey",
+            "name_km": "វិទ្យាល័យព្រែកថ្មី"
+        },
+        {
+            "id": "12111103027",
+            "school_type_id": 2,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Bun Rany Hun Sen Prek Thmey",
+            "name_km": "បឋមសិក្សាប៊ុនរ៉ានី ហ៊ុនសែនព្រែកថ្មី"
+        },
+        {
+            "id": "12111103528",
+            "school_type_id": 1,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Bun Rany Hun Sen Prek Thmey",
+            "name_km": "ប៊ុនរ៉ានី ហ៊ុន សែន ព្រែកថ្មី"
+        },
+        {
+            "id": "12111103707",
+            "school_type_id": 3,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Bun Rany Hun Sen Prek Thmey",
+            "name_km": "អនុវិទ្យាល័យ បរនហសព្រែកថ្មី"
+        },
+        {
+            "id": "12111201028",
+            "school_type_id": 2,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Kdei Ta Koy",
+            "name_km": "បឋមសិក្សាក្តីតាកុយ"
+        },
+        {
+            "id": "12111201529",
+            "school_type_id": 1,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Kdei Ta Koy",
+            "name_km": "ក្តីតាកុយ"
+        },
+        {
+            "id": "12111201708",
+            "school_type_id": 3,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Kdei Ta Koy",
+            "name_km": "អនុវិទ្យាល័យ  ក្តីតាកុយ"
+        },
+        {
+            "id": "12111203029",
+            "school_type_id": 2,
+            "district_id": 1211,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Veal Sbov",
+            "name_km": "បឋមសិក្សាវាលស្បូវ"
+        }
+    ]
+}

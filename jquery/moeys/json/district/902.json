@@ -1,0 +1,185 @@
+{
+    "id": 902,
+    "schools": [
+        {
+            "id": "09020101001",
+            "school_type_id": 2,
+            "district_id": 902,
+            "commune_id": "090201",
+            "village_id": "09020101",
+            "name": "Hun Sen Koh Sdech",
+            "name_km": "សាលាបឋមសិក្សាហសកោះស្តេច"
+        },
+        {
+            "id": "09020101501",
+            "school_type_id": 1,
+            "district_id": 902,
+            "commune_id": "090201",
+            "village_id": "09020101",
+            "name": "Hun Sen Koh Sdech",
+            "name_km": "មត្តេយ្យកោះស្តេច"
+        },
+        {
+            "id": "09020101901",
+            "school_type_id": 5,
+            "district_id": 902,
+            "commune_id": "090201",
+            "village_id": "09020101",
+            "name": "Koh Sdech",
+            "name_km": "វិទ្យាល័យកោះស្តេច"
+        },
+        {
+            "id": "09020103002",
+            "school_type_id": 2,
+            "district_id": 902,
+            "commune_id": "090201",
+            "village_id": "09020103",
+            "name": "Prek Smach",
+            "name_km": "សាលាបឋមសិក្សាព្រែកស្មាច់"
+        },
+        {
+            "id": "09020103012",
+            "school_type_id": 2,
+            "district_id": 902,
+            "commune_id": "090201",
+            "village_id": "09020103",
+            "name": "Kaun Kok",
+            "name_km": "សាលាបឋមសិក្សាកូនកុក"
+        },
+        {
+            "id": "09020103013",
+            "school_type_id": 2,
+            "district_id": 902,
+            "commune_id": "090201",
+            "village_id": "09020102",
+            "name": null,
+            "name_km": "សាលាបឋមសិក្សាដំណាក់ក្របី"
+        },
+        {
+            "id": "09020103506",
+            "school_type_id": 1,
+            "district_id": 902,
+            "commune_id": "090201",
+            "village_id": "09020103",
+            "name": "Prek Smach",
+            "name_km": "មត្តេយ្យព្រែកស្មាច់"
+        },
+        {
+            "id": "09020103702",
+            "school_type_id": 3,
+            "district_id": 902,
+            "commune_id": "090201",
+            "village_id": "09020103",
+            "name": "Prek Smach",
+            "name_km": "អនុវិទ្យាល័យព្រែកខ្សាច់"
+        },
+        {
+            "id": "09020104005",
+            "school_type_id": 2,
+            "district_id": 902,
+            "commune_id": "090201",
+            "village_id": "09020104",
+            "name": "Khorng Jek",
+            "name_km": "សាលាបឋមសិក្សាខងចេក"
+        },
+        {
+            "id": "09020104008",
+            "school_type_id": 2,
+            "district_id": 902,
+            "commune_id": "090201",
+            "village_id": "09020104",
+            "name": "Yeay Sen",
+            "name_km": "យាយសែន"
+        },
+        {
+            "id": "09020105009",
+            "school_type_id": 2,
+            "district_id": 902,
+            "commune_id": "090201",
+            "village_id": "09020105",
+            "name": "Peam Kay",
+            "name_km": "សាលាបឋមសិក្សាពាមកាយ"
+        },
+        {
+            "id": "09020105505",
+            "school_type_id": 1,
+            "district_id": 902,
+            "commune_id": "090201",
+            "village_id": "09020105",
+            "name": "Peam Kay",
+            "name_km": "សាលាមត្តេយ្យពាមកាយ"
+        },
+        {
+            "id": "09020204007",
+            "school_type_id": 2,
+            "district_id": 902,
+            "commune_id": "090202",
+            "village_id": "09020204",
+            "name": "Ta Ny",
+            "name_km": "សាលាបឋមសិក្សាតានី"
+        },
+        {
+            "id": "09020204503",
+            "school_type_id": 1,
+            "district_id": 902,
+            "commune_id": "090202",
+            "village_id": "09020204",
+            "name": "Ta Ny",
+            "name_km": "មត្តេយ្យតានី"
+        },
+        {
+            "id": "09020301004",
+            "school_type_id": 2,
+            "district_id": 902,
+            "commune_id": "090203",
+            "village_id": "09020301",
+            "name": "Prek Khsach",
+            "name_km": "សាលាបឋមសិក្សាព្រែកខ្សាច់"
+        },
+        {
+            "id": "09020301010",
+            "school_type_id": 2,
+            "district_id": 902,
+            "commune_id": "090203",
+            "village_id": "09020301",
+            "name": "Phnom Krong",
+            "name_km": "សាលាបឋមសិក្សាភ្នំក្រុង"
+        },
+        {
+            "id": "09020301011",
+            "school_type_id": 2,
+            "district_id": 902,
+            "commune_id": "090203",
+            "village_id": "09020301",
+            "name": "Prek Roung",
+            "name_km": "សាលាបឋមសិក្សាព្រែករូង"
+        },
+        {
+            "id": "09020301504",
+            "school_type_id": 1,
+            "district_id": 902,
+            "commune_id": "090203",
+            "village_id": "09020301",
+            "name": "Prek Khsach",
+            "name_km": "មតេ្តយ្យព្រែកខ្សាច់"
+        },
+        {
+            "id": "09020301703",
+            "school_type_id": 3,
+            "district_id": 902,
+            "commune_id": "090203",
+            "village_id": "09020301",
+            "name": "Prek Khsach",
+            "name_km": "អនុវិទ្យាល័យព្រែកខ្សាច់"
+        },
+        {
+            "id": "09020304502",
+            "school_type_id": 1,
+            "district_id": 902,
+            "commune_id": "090203",
+            "village_id": null,
+            "name": "Yeay Sen",
+            "name_km": "យាយ សែន"
+        }
+    ]
+}

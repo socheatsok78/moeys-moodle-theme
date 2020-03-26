@@ -1,0 +1,320 @@
+{
+    "id": 1609,
+    "schools": [
+        {
+            "id": "16090101014",
+            "school_type_id": 2,
+            "district_id": 1609,
+            "commune_id": "160901",
+            "village_id": "16090101",
+            "name": "Ban Pong",
+            "name_km": "បានប៉ុង"
+        },
+        {
+            "id": "16090102001",
+            "school_type_id": 2,
+            "district_id": 1609,
+            "commune_id": "160901",
+            "village_id": "16090102",
+            "name": "Vireak Chey",
+            "name_km": "វីរៈជ័យ"
+        },
+        {
+            "id": "16090102502",
+            "school_type_id": 1,
+            "district_id": 1609,
+            "commune_id": "160901",
+            "village_id": "16090102",
+            "name": "Vireak Chey",
+            "name_km": "សាលាបឋមសិក្សាវិរះជ័យ"
+        },
+        {
+            "id": "16090102901",
+            "school_type_id": 5,
+            "district_id": 1609,
+            "commune_id": "160901",
+            "village_id": "16090102",
+            "name": "Vireak Chey",
+            "name_km": "វិទ្យាល័យវីរៈជ័យ"
+        },
+        {
+            "id": "16090301002",
+            "school_type_id": 2,
+            "district_id": 1609,
+            "commune_id": "160903",
+            "village_id": "16090301",
+            "name": "Hat Pok",
+            "name_km": "ហាត់ប៉ក់"
+        },
+        {
+            "id": "16090301504",
+            "school_type_id": 1,
+            "district_id": 1609,
+            "commune_id": "160903",
+            "village_id": "16090301",
+            "name": "Hat Pok",
+            "name_km": "សាលាបឋមសិក្សាហាតប៉ក់"
+        },
+        {
+            "id": "16090302003",
+            "school_type_id": 2,
+            "district_id": 1609,
+            "commune_id": "160903",
+            "village_id": "16090302",
+            "name": "Veun Hoy",
+            "name_km": "បឋមសិក្សាវ៉ឺនហយ"
+        },
+        {
+            "id": "16090401022",
+            "school_type_id": 2,
+            "district_id": 1609,
+            "commune_id": "160904",
+            "village_id": "16090401",
+            "name": "Kachaun Leu",
+            "name_km": "កាចូនលើ"
+        },
+        {
+            "id": "16090402004",
+            "school_type_id": 2,
+            "district_id": 1609,
+            "commune_id": "160904",
+            "village_id": "16090402",
+            "name": "Kachaun Krom",
+            "name_km": "កាចូនក្រោម"
+        },
+        {
+            "id": "16090402503",
+            "school_type_id": 1,
+            "district_id": 1609,
+            "commune_id": "160904",
+            "village_id": "16090402",
+            "name": "Kachaun Krom",
+            "name_km": "សាលាបឋមសិក្សាកាចូនក្រោម"
+        },
+        {
+            "id": "16090402701",
+            "school_type_id": 3,
+            "district_id": 1609,
+            "commune_id": "160904",
+            "village_id": "16090402",
+            "name": "Kachaun Secondarey School",
+            "name_km": "អនុវិទ្យាល័យកាចូន"
+        },
+        {
+            "id": "16090403016",
+            "school_type_id": 2,
+            "district_id": 1609,
+            "commune_id": "160904",
+            "village_id": "16090403",
+            "name": "Vang Vay",
+            "name_km": "វ៉ងវ៉ាយ"
+        },
+        {
+            "id": "16090404023",
+            "school_type_id": 2,
+            "district_id": 1609,
+            "commune_id": "160904",
+            "village_id": "16090404",
+            "name": "Team Leu",
+            "name_km": "ទៀមលើ"
+        },
+        {
+            "id": "16090406024",
+            "school_type_id": 2,
+            "district_id": 1609,
+            "commune_id": "160904",
+            "village_id": "16090406",
+            "name": "Kalim",
+            "name_km": "កាលឹម"
+        },
+        {
+            "id": "16090502005",
+            "school_type_id": 2,
+            "district_id": 1609,
+            "commune_id": "160905",
+            "village_id": "16090502",
+            "name": "Koh Pong",
+            "name_km": "កោះប៉ង់"
+        },
+        {
+            "id": "16090502020",
+            "school_type_id": 2,
+            "district_id": 1609,
+            "commune_id": "160905",
+            "village_id": "16090502",
+            "name": "Laing Av",
+            "name_km": "សាលាបឋមសិក្សាឡាំងអាវ"
+        },
+        {
+            "id": "16090601017",
+            "school_type_id": 2,
+            "district_id": 1609,
+            "commune_id": "160906",
+            "village_id": "16090601",
+            "name": "Koh Peak",
+            "name_km": "កោះពាក្យ"
+        },
+        {
+            "id": "16090602006",
+            "school_type_id": 2,
+            "district_id": 1609,
+            "commune_id": "160906",
+            "village_id": "16090602",
+            "name": "Phak Nam",
+            "name_km": "ផាក់ណាម"
+        },
+        {
+            "id": "16090603018",
+            "school_type_id": 2,
+            "district_id": 1609,
+            "commune_id": "160906",
+            "village_id": "16090603",
+            "name": "Khuon",
+            "name_km": "ឃួន"
+        },
+        {
+            "id": "16090703025",
+            "school_type_id": 2,
+            "district_id": 1609,
+            "commune_id": "160907",
+            "village_id": "16090703",
+            "name": "Rork",
+            "name_km": "រ៉ក"
+        },
+        {
+            "id": "16090704007",
+            "school_type_id": 2,
+            "district_id": 1609,
+            "commune_id": "160907",
+            "village_id": "16090704",
+            "name": "Lameuy",
+            "name_km": "ឡាមើយ"
+        },
+        {
+            "id": "16090704506",
+            "school_type_id": 1,
+            "district_id": 1609,
+            "commune_id": "160907",
+            "village_id": "16090703",
+            "name": "Lameuy_Pri School",
+            "name_km": "សាលាមត្តេយ្យសិក្សាឡាម៉ឺយ"
+        },
+        {
+            "id": "16090801008",
+            "school_type_id": 2,
+            "district_id": 1609,
+            "commune_id": "160908",
+            "village_id": "16090801",
+            "name": "Pa Kalann",
+            "name_km": "ប៉ាកាឡាន់"
+        },
+        {
+            "id": "16090801501",
+            "school_type_id": 1,
+            "district_id": 1609,
+            "commune_id": "160908",
+            "village_id": "16090801",
+            "name": "Pa Kalann",
+            "name_km": "សាលាបឋមសិក្សាប៉ាកាឡាន់"
+        },
+        {
+            "id": "16090901009",
+            "school_type_id": 2,
+            "district_id": 1609,
+            "commune_id": "160909",
+            "village_id": "16090901",
+            "name": "Phnom Kok",
+            "name_km": "ភ្នំកុក"
+        },
+        {
+            "id": "16090901505",
+            "school_type_id": 1,
+            "district_id": 1609,
+            "commune_id": "160909",
+            "village_id": "16090901",
+            "name": "Phnom Kok Pre_School",
+            "name_km": "សាលាបឋមសិក្សាកាចូនក្រោម"
+        },
+        {
+            "id": "16090903026",
+            "school_type_id": 2,
+            "district_id": 1609,
+            "commune_id": "160909",
+            "village_id": "16090903",
+            "name": "Kalai Ta Vorng",
+            "name_km": "កាឡៃតាវ៉ង"
+        },
+        {
+            "id": "16090905021",
+            "school_type_id": 2,
+            "district_id": 1609,
+            "commune_id": "160909",
+            "village_id": "16090905",
+            "name": "Team Krom",
+            "name_km": "ទៀមក្រោម"
+        },
+        {
+            "id": "16090905027",
+            "school_type_id": 2,
+            "district_id": 1609,
+            "commune_id": "160909",
+            "village_id": "16090901",
+            "name": "Krumhun Horng An Marng Yarng Ke Akpivath Kao Sou Phnom Kok",
+            "name_km": "ក្រុមហ៊ុនម៉ាងយ៉ាងខេអភិវឌ្ឍន៍កៅស៊ូភ្នំកុក"
+        },
+        {
+            "id": "16091001010",
+            "school_type_id": 2,
+            "district_id": 1609,
+            "commune_id": "160910",
+            "village_id": "16091001",
+            "name": "Veunsai",
+            "name_km": "វ៉ឺនសៃ"
+        },
+        {
+            "id": "16091002019",
+            "school_type_id": 2,
+            "district_id": 1609,
+            "commune_id": "160910",
+            "village_id": "16091002",
+            "name": "Bak Ke",
+            "name_km": "បាក់កែ"
+        },
+        {
+            "id": "16091003011",
+            "school_type_id": 2,
+            "district_id": 1609,
+            "commune_id": "160910",
+            "village_id": "16091003",
+            "name": "Y Toub",
+            "name_km": "អ៊ីទូប"
+        },
+        {
+            "id": "16091004012",
+            "school_type_id": 2,
+            "district_id": 1609,
+            "commune_id": "160910",
+            "village_id": "16091004",
+            "name": "Phoum Thmey",
+            "name_km": "ភូមិថ្មី"
+        },
+        {
+            "id": "16091005013",
+            "school_type_id": 2,
+            "district_id": 1609,
+            "commune_id": "160910",
+            "village_id": "16091005",
+            "name": "Kalann",
+            "name_km": "កាឡាន់"
+        },
+        {
+            "id": "16091006015",
+            "school_type_id": 2,
+            "district_id": 1609,
+            "commune_id": "160910",
+            "village_id": "16091006",
+            "name": "Kang Nak",
+            "name_km": "កងណក"
+        }
+    ]
+}

@@ -1,0 +1,320 @@
+{
+    "id": 805,
+    "schools": [
+        {
+            "id": "08050101001",
+            "school_type_id": 2,
+            "district_id": 805,
+            "commune_id": "080501",
+            "village_id": "08050101",
+            "name": "Kbal Chroy",
+            "name_km": "ប៊ូយ៉ុងក្បាលជ្រោយ"
+        },
+        {
+            "id": "08050101506",
+            "school_type_id": 1,
+            "district_id": 805,
+            "commune_id": "080501",
+            "village_id": "08050101",
+            "name": "Kbal Chroy",
+            "name_km": "ក្បាលជ្រោយ"
+        },
+        {
+            "id": "08050102002",
+            "school_type_id": 2,
+            "district_id": 805,
+            "commune_id": "080501",
+            "village_id": "08050102",
+            "name": "Hun Sen Kampong Phnom",
+            "name_km": "បឋម ហស កំពង់ភ្នំ"
+        },
+        {
+            "id": "08050102505",
+            "school_type_id": 1,
+            "district_id": 805,
+            "commune_id": "080501",
+            "village_id": "08050102",
+            "name": "Hun Sen Kampong Phnom",
+            "name_km": "ហ៊ុនសែន កំពង់ភ្នំ"
+        },
+        {
+            "id": "08050103901",
+            "school_type_id": 5,
+            "district_id": 805,
+            "commune_id": "080501",
+            "village_id": "08050103",
+            "name": "Hun Sen Kampong Phnom",
+            "name_km": "វិ ហស កំពង់ភ្នំ"
+        },
+        {
+            "id": "08050104003",
+            "school_type_id": 2,
+            "district_id": 805,
+            "commune_id": "080501",
+            "village_id": "08050104",
+            "name": "Hun Sen Koh Chamroeun",
+            "name_km": "បឋម ហស កោះចំរើន"
+        },
+        {
+            "id": "08050104504",
+            "school_type_id": 1,
+            "district_id": 805,
+            "commune_id": "080501",
+            "village_id": "08050104",
+            "name": "Hun Sen Koh Chamroeun",
+            "name_km": "ហ៊ុនសែនកោះចំរើន"
+        },
+        {
+            "id": "08050201012",
+            "school_type_id": 2,
+            "district_id": 805,
+            "commune_id": "080502",
+            "village_id": "08050201",
+            "name": "Ka-am Samnar Krom",
+            "name_km": "បឋម ក្អមសំណរក្រោម"
+        },
+        {
+            "id": "08050202004",
+            "school_type_id": 2,
+            "district_id": 805,
+            "commune_id": "080502",
+            "village_id": "08050202",
+            "name": "Hun Sen Ka-am Samnar",
+            "name_km": "ក្អមសំណរ"
+        },
+        {
+            "id": "08050202703",
+            "school_type_id": 3,
+            "district_id": 805,
+            "commune_id": "080502",
+            "village_id": "08050202",
+            "name": "Ka-am Samnar",
+            "name_km": "អនុវិ ក្អមសំណរ"
+        },
+        {
+            "id": "08050203020",
+            "school_type_id": 2,
+            "district_id": 805,
+            "commune_id": "080502",
+            "village_id": "08050203",
+            "name": "Raing Chour",
+            "name_km": "រាំងជួរ"
+        },
+        {
+            "id": "08050301005",
+            "school_type_id": 2,
+            "district_id": 805,
+            "commune_id": "080503",
+            "village_id": "08050301",
+            "name": "Khporb",
+            "name_km": "ខ្ពប"
+        },
+        {
+            "id": "08050301705",
+            "school_type_id": 3,
+            "district_id": 805,
+            "commune_id": "080503",
+            "village_id": "08050301",
+            "name": "Khporb",
+            "name_km": "អនុវិ ខ្ពបអាទាវ"
+        },
+        {
+            "id": "08050302014",
+            "school_type_id": 2,
+            "district_id": 805,
+            "commune_id": "080503",
+            "village_id": "08050302",
+            "name": "Boeung Krom",
+            "name_km": "បឹងក្រោម"
+        },
+        {
+            "id": "08050302502",
+            "school_type_id": 1,
+            "district_id": 805,
+            "commune_id": "080503",
+            "village_id": "08050302",
+            "name": "Boeung Krom",
+            "name_km": "បឹងក្រោម"
+        },
+        {
+            "id": "08050303013",
+            "school_type_id": 2,
+            "district_id": 805,
+            "commune_id": "080503",
+            "village_id": "08050303",
+            "name": "Boeung Leu",
+            "name_km": "បឹងលើ"
+        },
+        {
+            "id": "08050401016",
+            "school_type_id": 2,
+            "district_id": 805,
+            "commune_id": "080504",
+            "village_id": "08050401",
+            "name": "Peam Raing Krom",
+            "name_km": "ពាមរាំងក្រោម"
+        },
+        {
+            "id": "08050402006",
+            "school_type_id": 2,
+            "district_id": 805,
+            "commune_id": "080504",
+            "village_id": "08050402",
+            "name": "Hun Sen Peam Raing",
+            "name_km": "បរន ហស ពាមរាំង"
+        },
+        {
+            "id": "08050402902",
+            "school_type_id": 5,
+            "district_id": 805,
+            "commune_id": "080504",
+            "village_id": "08050402",
+            "name": "Bun Rany Hun Sen Peam Raing",
+            "name_km": "ប៊ុន រ៉ានីហ៊ុនសែន ពាមរាំង"
+        },
+        {
+            "id": "08050403015",
+            "school_type_id": 2,
+            "district_id": 805,
+            "commune_id": "080504",
+            "village_id": "08050403",
+            "name": "Phoum Thmey",
+            "name_km": "ភូមិថ្មី"
+        },
+        {
+            "id": "08050501017",
+            "school_type_id": 2,
+            "district_id": 805,
+            "commune_id": "080505",
+            "village_id": "08050501",
+            "name": "Koh Katheay",
+            "name_km": "កោះកន្ធាយ"
+        },
+        {
+            "id": "08050502008",
+            "school_type_id": 2,
+            "district_id": 805,
+            "commune_id": "080505",
+            "village_id": "08050502",
+            "name": "Hun Sen Prek Dach",
+            "name_km": "ហសព្រែកដាច់"
+        },
+        {
+            "id": "08050502503",
+            "school_type_id": 1,
+            "district_id": 805,
+            "commune_id": "080505",
+            "village_id": "08050502",
+            "name": "Hun Sen Prek Dach",
+            "name_km": "ហ៊ុនសែន ព្រែកដាច់"
+        },
+        {
+            "id": "08050503007",
+            "school_type_id": 2,
+            "district_id": 805,
+            "commune_id": "080505",
+            "village_id": "08050503",
+            "name": "Hun Sen Prek Tauch",
+            "name_km": "ហស ព្រែកតូច"
+        },
+        {
+            "id": "08050503508",
+            "school_type_id": 1,
+            "district_id": 805,
+            "commune_id": "080505",
+            "village_id": "08050503",
+            "name": "Hun Sen Prek Tauch",
+            "name_km": "ហ៊ុនសែន ព្រែកតូច"
+        },
+        {
+            "id": "08050503704",
+            "school_type_id": 3,
+            "district_id": 805,
+            "commune_id": "080505",
+            "village_id": "08050503",
+            "name": "Prek Tauch",
+            "name_km": "អនុវិ ព្រែកតូច"
+        },
+        {
+            "id": "08050601009",
+            "school_type_id": 2,
+            "district_id": 805,
+            "commune_id": "080506",
+            "village_id": "08050601",
+            "name": "Hun Sen Kampong Chamlang",
+            "name_km": "ហស កំពង់ចំលង"
+        },
+        {
+            "id": "08050601501",
+            "school_type_id": 1,
+            "district_id": 805,
+            "commune_id": "080506",
+            "village_id": "08050601",
+            "name": "Hun Sen Kampong Chamlang",
+            "name_km": "ហ៊ុនសែន កពង់ចម្លង"
+        },
+        {
+            "id": "08050601706",
+            "school_type_id": 3,
+            "district_id": 805,
+            "commune_id": "080506",
+            "village_id": "08050601",
+            "name": "Hun Sen Kampong Chamlang",
+            "name_km": "អនុវិ ហស កំពង់ចំលង"
+        },
+        {
+            "id": "08050602010",
+            "school_type_id": 2,
+            "district_id": 805,
+            "commune_id": "080506",
+            "village_id": "08050602",
+            "name": "Bun Rany Hun Sen Prek Tunloap",
+            "name_km": "បរនហស ព្រែកទន្លាប់"
+        },
+        {
+            "id": "08050603018",
+            "school_type_id": 2,
+            "district_id": 805,
+            "commune_id": "080506",
+            "village_id": "08050603",
+            "name": "Sangkum Thmei",
+            "name_km": "បឋម ប៊ូយ៉ុងព្រែកតូច"
+        },
+        {
+            "id": "08050702019",
+            "school_type_id": 2,
+            "district_id": 805,
+            "commune_id": "080507",
+            "village_id": "08050702",
+            "name": "Dang Kdoang",
+            "name_km": "ដងក្ដោង"
+        },
+        {
+            "id": "08050703011",
+            "school_type_id": 2,
+            "district_id": 805,
+            "commune_id": "080507",
+            "village_id": "08050703",
+            "name": "Sandar",
+            "name_km": "សណ្ដារ"
+        },
+        {
+            "id": "08050703507",
+            "school_type_id": 1,
+            "district_id": 805,
+            "commune_id": "080507",
+            "village_id": "08050703",
+            "name": "Sandar",
+            "name_km": "សណ្តារ"
+        },
+        {
+            "id": "08050703702",
+            "school_type_id": 3,
+            "district_id": 805,
+            "commune_id": "080507",
+            "village_id": "08050703",
+            "name": "Sandar",
+            "name_km": "អនុវិ ហស សណ្ដារ"
+        }
+    ]
+}

@@ -1,0 +1,446 @@
+{
+    "id": 1202,
+    "schools": [
+        {
+            "id": "12020102042",
+            "school_type_id": 2,
+            "district_id": 1202,
+            "commune_id": "120201",
+            "village_id": "12020102",
+            "name": "Hun Sen Wat Prek Chrey",
+            "name_km": "បឋមហ៊ុនសែនវត្តព្រែកជ្រៃ"
+        },
+        {
+            "id": "12020104902",
+            "school_type_id": 5,
+            "district_id": 1202,
+            "commune_id": "120201",
+            "village_id": "12020104",
+            "name": "Tuol Ampil",
+            "name_km": "វិទ្យាល័យទួលអំពិល"
+        },
+        {
+            "id": "12020105007",
+            "school_type_id": 2,
+            "district_id": 1202,
+            "commune_id": "120201",
+            "village_id": "12020105",
+            "name": "Sambour Meas",
+            "name_km": "បឋមសិក្សាសំបួរមាស"
+        },
+        {
+            "id": "12020105534",
+            "school_type_id": 1,
+            "district_id": 1202,
+            "commune_id": "120201",
+            "village_id": "12020105",
+            "name": "Sambour Meas",
+            "name_km": "សំបួរមាស"
+        },
+        {
+            "id": "12020106008",
+            "school_type_id": 2,
+            "district_id": 1202,
+            "commune_id": "120201",
+            "village_id": "12020106",
+            "name": "Dangkor",
+            "name_km": "សាលាបឋមសិក្សាដ​ង្កោ"
+        },
+        {
+            "id": "12020106516",
+            "school_type_id": 1,
+            "district_id": 1202,
+            "commune_id": "120201",
+            "village_id": "12020106",
+            "name": "Dangkor",
+            "name_km": "ដ​ង្កោ"
+        },
+        {
+            "id": "12020106709",
+            "school_type_id": 3,
+            "district_id": 1202,
+            "commune_id": "120201",
+            "village_id": "12020106",
+            "name": "Dangkor",
+            "name_km": "អនុវិទ្យាល័យដង្កោ"
+        },
+        {
+            "id": "12020704019",
+            "school_type_id": 2,
+            "district_id": 1202,
+            "commune_id": "120207",
+            "village_id": "12020704",
+            "name": "Porng Teuk",
+            "name_km": "បឋមសិក្សាពងទឹក"
+        },
+        {
+            "id": "12020704508",
+            "school_type_id": 1,
+            "district_id": 1202,
+            "commune_id": "120207",
+            "village_id": "12020704",
+            "name": "Porng Teuk",
+            "name_km": "ពងទឹក"
+        },
+        {
+            "id": "12020704903",
+            "school_type_id": 5,
+            "district_id": 1202,
+            "commune_id": "120207",
+            "village_id": "12020704",
+            "name": "Porng Teuk",
+            "name_km": "វិទ្យាល័យពងទឹក"
+        },
+        {
+            "id": "12020705034",
+            "school_type_id": 2,
+            "district_id": 1202,
+            "commune_id": "120207",
+            "village_id": "12020705",
+            "name": "Sre Nhor",
+            "name_km": "បឋមសិក្សាស្រែញ៍រ"
+        },
+        {
+            "id": "12020705515",
+            "school_type_id": 1,
+            "district_id": 1202,
+            "commune_id": "120207",
+            "village_id": "12020705",
+            "name": "Sre Nhor",
+            "name_km": "ស្រែញ៍រ"
+        },
+        {
+            "id": "12020710020",
+            "school_type_id": 2,
+            "district_id": 1202,
+            "commune_id": "120207",
+            "village_id": "12020710",
+            "name": "Trapaing Sala",
+            "name_km": "បឋមសិក្សាត្រពាំងសាលា"
+        },
+        {
+            "id": "12020710710",
+            "school_type_id": 3,
+            "district_id": 1202,
+            "commune_id": "120207",
+            "village_id": "12020710",
+            "name": "Trapaing Sala",
+            "name_km": "អនុវិទ្យាល័យត្រពាំងសាលា"
+        },
+        {
+            "id": "12020803026",
+            "school_type_id": 2,
+            "district_id": 1202,
+            "commune_id": "120208",
+            "village_id": "12020803",
+            "name": "Prey Veng",
+            "name_km": "សាលាបឋមសិក្សាព្រៃវែង"
+        },
+        {
+            "id": "12020803511",
+            "school_type_id": 1,
+            "district_id": 1202,
+            "commune_id": "120208",
+            "village_id": "12020803",
+            "name": "Prey Veng",
+            "name_km": "ព្រៃវែង"
+        },
+        {
+            "id": "12020803706",
+            "school_type_id": 3,
+            "district_id": 1202,
+            "commune_id": "120208",
+            "village_id": "12020803",
+            "name": "Prey Veng",
+            "name_km": "អនុវិទ្យាល័យ ស.ហសព្រៃវែង"
+        },
+        {
+            "id": "12020805036",
+            "school_type_id": 2,
+            "district_id": 1202,
+            "commune_id": "120208",
+            "village_id": "12020805",
+            "name": "Tuol Sambo",
+            "name_km": "បឋមសិក្សាទួលសំបូរ"
+        },
+        {
+            "id": "12020805521",
+            "school_type_id": 1,
+            "district_id": 1202,
+            "commune_id": "120208",
+            "village_id": "12020805",
+            "name": "Tuol Sambo",
+            "name_km": "មត្តេយ្យក្នុងបឋមទូលសំបូរ"
+        },
+        {
+            "id": "12021003032",
+            "school_type_id": 2,
+            "district_id": 1202,
+            "commune_id": "120210",
+            "village_id": "12021003",
+            "name": "Russey Sanh",
+            "name_km": "បឋមសិក្សាឫស្សីសាញ់"
+        },
+        {
+            "id": "12021005037",
+            "school_type_id": 2,
+            "district_id": 1202,
+            "commune_id": "120210",
+            "village_id": "12021005",
+            "name": "Tuol Roka Koh",
+            "name_km": "សាលាបឋមសិក្សាទួលរកាកុះ"
+        },
+        {
+            "id": "12021008024",
+            "school_type_id": 2,
+            "district_id": 1202,
+            "commune_id": "120210",
+            "village_id": "12021008",
+            "name": "Prey Sar",
+            "name_km": "ព្រៃសរ"
+        },
+        {
+            "id": "12021008510",
+            "school_type_id": 1,
+            "district_id": 1202,
+            "commune_id": "120210",
+            "village_id": "12021008",
+            "name": "Prey Sar",
+            "name_km": "ព្រៃសរ"
+        },
+        {
+            "id": "12021009025",
+            "school_type_id": 2,
+            "district_id": 1202,
+            "commune_id": "120210",
+            "village_id": "12021009",
+            "name": "Wat Har",
+            "name_km": "បឋមសិក្សាវត្តហា"
+        },
+        {
+            "id": "12021202014",
+            "school_type_id": 2,
+            "district_id": 1202,
+            "commune_id": "120212",
+            "village_id": "12021202",
+            "name": "Kraing Pongror",
+            "name_km": "បឋមសិក្សាក្រាំងពង្រ"
+        },
+        {
+            "id": "12021202513",
+            "school_type_id": 1,
+            "district_id": 1202,
+            "commune_id": "120212",
+            "village_id": "12021202",
+            "name": "Kraing Pongror",
+            "name_km": "ក្រាំងពង្រ"
+        },
+        {
+            "id": "12021301021",
+            "school_type_id": 2,
+            "district_id": 1202,
+            "commune_id": "120213",
+            "village_id": "12021301",
+            "name": "Prateah Lang",
+            "name_km": "បឋមសិក្សាប្រទះឡាង"
+        },
+        {
+            "id": "12021301509",
+            "school_type_id": 1,
+            "district_id": 1202,
+            "commune_id": "120213",
+            "village_id": "12021301",
+            "name": "Prateah Lang",
+            "name_km": "ប្រទះឡាង"
+        },
+        {
+            "id": "12021303022",
+            "school_type_id": 2,
+            "district_id": 1202,
+            "commune_id": "120213",
+            "village_id": "12021303",
+            "name": "Phoum Ang",
+            "name_km": "ឧបស​ម្ព័ន្ធភូមិអង្គ"
+        },
+        {
+            "id": "12021303517",
+            "school_type_id": 1,
+            "district_id": 1202,
+            "commune_id": "120213",
+            "village_id": "12021303",
+            "name": "Phoum Ang",
+            "name_km": "ភូមិអង្គ"
+        },
+        {
+            "id": "12021401033",
+            "school_type_id": 2,
+            "district_id": 1202,
+            "commune_id": "120214",
+            "village_id": "12021401",
+            "name": "Kampong Kdol",
+            "name_km": "បឋមសិក្សាកំពង់ក្តុល"
+        },
+        {
+            "id": "12021401519",
+            "school_type_id": 1,
+            "district_id": 1202,
+            "commune_id": "120214",
+            "village_id": "12021401",
+            "name": "Kampong Kdol",
+            "name_km": "កំពង់ក្តុល"
+        },
+        {
+            "id": "12021406027",
+            "school_type_id": 2,
+            "district_id": 1202,
+            "commune_id": "120214",
+            "village_id": "12021406",
+            "name": "Hun Sen Sak Sampeuv",
+            "name_km": "បឋមសិក្សាហ៊ុនសែនសាក់សំពៅ"
+        },
+        {
+            "id": "12021406512",
+            "school_type_id": 1,
+            "district_id": 1202,
+            "commune_id": "120214",
+            "village_id": "12021406",
+            "name": "Hun Sen Sak Sampeuv",
+            "name_km": "ហ៊ុនសែនសាក់សំពៅ"
+        },
+        {
+            "id": "12021501001",
+            "school_type_id": 2,
+            "district_id": 1202,
+            "commune_id": "120215",
+            "village_id": "12021501",
+            "name": "Cheung Ek",
+            "name_km": "បឋមសិក្សាជើងឯក"
+        },
+        {
+            "id": "12021503002",
+            "school_type_id": 2,
+            "district_id": 1202,
+            "commune_id": "120215",
+            "village_id": "12021503",
+            "name": "Trakeat",
+            "name_km": "អូហ្គុរ៉ាត្រកៀត"
+        },
+        {
+            "id": "12022004053",
+            "school_type_id": 2,
+            "district_id": 1202,
+            "commune_id": "120220",
+            "village_id": "12022004",
+            "name": "Korng Noy",
+            "name_km": "បឋមសិក្សាគងនយ"
+        },
+        {
+            "id": "12022004714",
+            "school_type_id": 3,
+            "district_id": 1202,
+            "commune_id": "120220",
+            "village_id": "12022004",
+            "name": "Korng Noy",
+            "name_km": "អនុវិទ្យាល័យ គងនយ"
+        },
+        {
+            "id": "12022102907",
+            "school_type_id": 5,
+            "district_id": 1202,
+            "commune_id": "120221",
+            "village_id": null,
+            "name": "Samdech Hun Sen Prek Kampeus",
+            "name_km": "វិទ្យាល័យសម្ដេចហ៊ុនសែនព្រែកកំពឹស"
+        },
+        {
+            "id": "12022103055",
+            "school_type_id": 2,
+            "district_id": 1202,
+            "commune_id": "120221",
+            "village_id": "12022103",
+            "name": "Samdech Hun Sen Prek Kampeus",
+            "name_km": "បឋមសិក្សាមហាភក្តីហ៊ុននាងព្រែកកំពិស"
+        },
+        {
+            "id": "12022103533",
+            "school_type_id": 1,
+            "district_id": 1202,
+            "commune_id": "120221",
+            "village_id": "12022103",
+            "name": "Prek Kampeus",
+            "name_km": "ព្រែកកំពឹស"
+        },
+        {
+            "id": "12022104054",
+            "school_type_id": 2,
+            "district_id": 1202,
+            "commune_id": "120221",
+            "village_id": "12022104",
+            "name": "Keo Mony",
+            "name_km": "បឋមសិក្សាកែវមុនី"
+        },
+        {
+            "id": "12022104536",
+            "school_type_id": 1,
+            "district_id": 1202,
+            "commune_id": "120221",
+            "village_id": "12022104",
+            "name": "Keo Mony",
+            "name_km": "មត្តេយ្យកែវ មុនី"
+        },
+        {
+            "id": "12022202056",
+            "school_type_id": 2,
+            "district_id": 1202,
+            "commune_id": "120222",
+            "village_id": "12022202",
+            "name": "Roluos",
+            "name_km": "បឋមសិក្សារលួស"
+        },
+        {
+            "id": "12022202716",
+            "school_type_id": 3,
+            "district_id": 1202,
+            "commune_id": "120222",
+            "village_id": "12022202",
+            "name": "Roluos",
+            "name_km": "អនុវិទ្យាល័យ  រលួស"
+        },
+        {
+            "id": "12022606064",
+            "school_type_id": 2,
+            "district_id": 1202,
+            "commune_id": "120226",
+            "village_id": "12022606",
+            "name": "Tien",
+            "name_km": "បឋមសិក្សាទៀន"
+        },
+        {
+            "id": "12022606537",
+            "school_type_id": 1,
+            "district_id": 1202,
+            "commune_id": "120226",
+            "village_id": "12022606",
+            "name": "Tien",
+            "name_km": "ទៀន"
+        },
+        {
+            "id": "12022606719",
+            "school_type_id": 3,
+            "district_id": 1202,
+            "commune_id": "120226",
+            "village_id": "12022606",
+            "name": "Tien",
+            "name_km": "អនុវិទ្យាល័យ  ទៀន"
+        },
+        {
+            "id": "12022703063",
+            "school_type_id": 2,
+            "district_id": 1202,
+            "commune_id": null,
+            "village_id": null,
+            "name": "Spean Thmar",
+            "name_km": "ស្ពានថ្ម"
+        }
+    ]
+}

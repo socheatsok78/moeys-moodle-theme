@@ -1,0 +1,923 @@
+{
+    "id": 2004,
+    "schools": [
+        {
+            "id": "20040106001",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200401",
+            "village_id": "20040106",
+            "name": "Trapaing Pikar",
+            "name_km": "ត្រពាំងពិការ"
+        },
+        {
+            "id": "20040107002",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200401",
+            "village_id": "20040107",
+            "name": "Ampil",
+            "name_km": "អំពិល"
+        },
+        {
+            "id": "20040107514",
+            "school_type_id": 1,
+            "district_id": 2004,
+            "commune_id": "200401",
+            "village_id": "20040107",
+            "name": "Ampil",
+            "name_km": "អំពិល"
+        },
+        {
+            "id": "20040107903",
+            "school_type_id": 5,
+            "district_id": 2004,
+            "commune_id": "200401",
+            "village_id": "20040107",
+            "name": "Samdech Chea Sim Ampil",
+            "name_km": "វិ.ជាស៊ីម អំពិល"
+        },
+        {
+            "id": "20040108003",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200401",
+            "village_id": "20040108",
+            "name": "Romeas Hek",
+            "name_km": "រមាសហែក"
+        },
+        {
+            "id": "20040207004",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200402",
+            "village_id": "20040207",
+            "name": "Andaung Po",
+            "name_km": "អណ្ដូងពោធិ៍"
+        },
+        {
+            "id": "20040207519",
+            "school_type_id": 1,
+            "district_id": 2004,
+            "commune_id": "200402",
+            "village_id": "20040207",
+            "name": "Andaung Po",
+            "name_km": "អណ្ដូងពោធិ៍"
+        },
+        {
+            "id": "20040207708",
+            "school_type_id": 3,
+            "district_id": 2004,
+            "commune_id": "200402",
+            "village_id": "20040207",
+            "name": "Andaung Po",
+            "name_km": "អណ្ដូងពោធិ៍"
+        },
+        {
+            "id": "20040208005",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200402",
+            "village_id": "20040208",
+            "name": "Tuol Ta Thun",
+            "name_km": "ទួលតាធន់"
+        },
+        {
+            "id": "20040208508",
+            "school_type_id": 1,
+            "district_id": 2004,
+            "commune_id": "200402",
+            "village_id": "20040208",
+            "name": "Tuol Ta Thun",
+            "name_km": "ទួលតាធន់"
+        },
+        {
+            "id": "20040302007",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200403",
+            "village_id": "20040302",
+            "name": "Kamreng",
+            "name_km": "កំរ៉ែង"
+        },
+        {
+            "id": "20040302509",
+            "school_type_id": 1,
+            "district_id": 2004,
+            "commune_id": "200403",
+            "village_id": "20040302",
+            "name": "Kamreng",
+            "name_km": "កំរ៉ែង"
+        },
+        {
+            "id": "20040304008",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200403",
+            "village_id": "20040304",
+            "name": "Chik Dei",
+            "name_km": "ជីកដី"
+        },
+        {
+            "id": "20040304507",
+            "school_type_id": 1,
+            "district_id": 2004,
+            "commune_id": "200403",
+            "village_id": "20040304",
+            "name": "Chik Dei",
+            "name_km": "ជីកដី"
+        },
+        {
+            "id": "20040304705",
+            "school_type_id": 3,
+            "district_id": 2004,
+            "commune_id": "200403",
+            "village_id": "20040304",
+            "name": "Chik Dei",
+            "name_km": "ជីកដី"
+        },
+        {
+            "id": "20040305009",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200403",
+            "village_id": "20040305",
+            "name": "Andaung Trabek",
+            "name_km": "អណ្តូងត្របែក"
+        },
+        {
+            "id": "20040306010",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200403",
+            "village_id": "20040306",
+            "name": "Chrak Rumduol",
+            "name_km": "ច្រករំដួល"
+        },
+        {
+            "id": "20040405011",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200404",
+            "village_id": "20040405",
+            "name": "Trapaing Pring",
+            "name_km": "ត្រពាំងព្រីង"
+        },
+        {
+            "id": "20040405506",
+            "school_type_id": 1,
+            "district_id": 2004,
+            "commune_id": "200404",
+            "village_id": "20040405",
+            "name": "Trapaing Pring",
+            "name_km": "ត្រពាំងព្រីង"
+        },
+        {
+            "id": "20040409710",
+            "school_type_id": 3,
+            "district_id": 2004,
+            "commune_id": "200404",
+            "village_id": "20040409",
+            "name": "Trapaing Pring",
+            "name_km": "ត្រពាំងព្រីង"
+        },
+        {
+            "id": "20040412012",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200404",
+            "village_id": "20040412",
+            "name": "Trapaing Thom",
+            "name_km": "ត្រពាំងធំ"
+        },
+        {
+            "id": "20040412511",
+            "school_type_id": 1,
+            "district_id": 2004,
+            "commune_id": "200404",
+            "village_id": "20040412",
+            "name": "Trapaing Thom",
+            "name_km": "ត្រពាំងធំ"
+        },
+        {
+            "id": "20040501013",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200405",
+            "village_id": "20040501",
+            "name": "Balaing Chea",
+            "name_km": "បល្ល័ង្គជា"
+        },
+        {
+            "id": "20040502014",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200405",
+            "village_id": "20040502",
+            "name": "Svay Chum",
+            "name_km": "ស្វាយជុំ"
+        },
+        {
+            "id": "20040502528",
+            "school_type_id": 1,
+            "district_id": 2004,
+            "commune_id": "200405",
+            "village_id": "20040502",
+            "name": "Svay Chum",
+            "name_km": "ស្វាយជុំ"
+        },
+        {
+            "id": "20040503057",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200405",
+            "village_id": "20040503",
+            "name": "Samaki Trapaing Thlork",
+            "name_km": "ត្រពាំងធ្លក"
+        },
+        {
+            "id": "20040508015",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200405",
+            "village_id": "20040508",
+            "name": "Chantrei",
+            "name_km": "ចន្ត្រី"
+        },
+        {
+            "id": "20040508512",
+            "school_type_id": 1,
+            "district_id": 2004,
+            "commune_id": "200405",
+            "village_id": "20040508",
+            "name": "Chantrei",
+            "name_km": "ចន្ត្រី"
+        },
+        {
+            "id": "20040513016",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200405",
+            "village_id": "20040513",
+            "name": "Trapaing Run",
+            "name_km": "ត្រពាំងរុន"
+        },
+        {
+            "id": "20040513703",
+            "school_type_id": 3,
+            "district_id": 2004,
+            "commune_id": "200405",
+            "village_id": "20040513",
+            "name": "Trapaing Run",
+            "name_km": "ត្រពាំងរុន"
+        },
+        {
+            "id": "20040604017",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200406",
+            "village_id": "20040604",
+            "name": "Ansoang",
+            "name_km": "អន្សោង"
+        },
+        {
+            "id": "20040609018",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200406",
+            "village_id": "20040609",
+            "name": "Chrey Thom",
+            "name_km": "ជ្រៃធំ"
+        },
+        {
+            "id": "20040609525",
+            "school_type_id": 1,
+            "district_id": 2004,
+            "commune_id": "200406",
+            "village_id": "20040609",
+            "name": "Chrey Thom",
+            "name_km": "ជ្រៃធំ"
+        },
+        {
+            "id": "20040609902",
+            "school_type_id": 5,
+            "district_id": 2004,
+            "commune_id": "200406",
+            "village_id": "20040609",
+            "name": "Hun Sen Chrey Thom",
+            "name_km": "ហ៊ុន សេនជ្រៃធំ"
+        },
+        {
+            "id": "20040611019",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200406",
+            "village_id": "20040611",
+            "name": "Po Thmey",
+            "name_km": "ពោធិ៍ថ្មី"
+        },
+        {
+            "id": "20040614020",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200406",
+            "village_id": "20040614",
+            "name": "Khporb",
+            "name_km": "ខ្ពបត្រាច"
+        },
+        {
+            "id": "20040702021",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200407",
+            "village_id": "20040702",
+            "name": "Paun",
+            "name_km": "ពោន"
+        },
+        {
+            "id": "20040703022",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200407",
+            "village_id": "20040703",
+            "name": "Daung",
+            "name_km": "ដូង"
+        },
+        {
+            "id": "20040703527",
+            "school_type_id": 1,
+            "district_id": 2004,
+            "commune_id": "200407",
+            "village_id": "20040703",
+            "name": "Doung",
+            "name_km": "ដូង"
+        },
+        {
+            "id": "20040703709",
+            "school_type_id": 3,
+            "district_id": 2004,
+            "commune_id": "200407",
+            "village_id": "20040703",
+            "name": "Daung",
+            "name_km": "ដូង"
+        },
+        {
+            "id": "20040705023",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200407",
+            "village_id": "20040705",
+            "name": "Kampong Thna",
+            "name_km": "កំពង់ថ្នា"
+        },
+        {
+            "id": "20040711024",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200407",
+            "village_id": "20040711",
+            "name": "Phoum Thmey",
+            "name_km": "ភូមិថ្មី"
+        },
+        {
+            "id": "20040711520",
+            "school_type_id": 1,
+            "district_id": 2004,
+            "commune_id": "200407",
+            "village_id": "20040711",
+            "name": "Phoum Thmey",
+            "name_km": "ភូមិថ្មី"
+        },
+        {
+            "id": "20040714053",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200407",
+            "village_id": "20040714",
+            "name": "Angkunh",
+            "name_km": "អង្គញ់"
+        },
+        {
+            "id": "20040716025",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200407",
+            "village_id": "20040716",
+            "name": "Wat Daung",
+            "name_km": "វត្តដូង"
+        },
+        {
+            "id": "20040716523",
+            "school_type_id": 1,
+            "district_id": 2004,
+            "commune_id": "200407",
+            "village_id": "20040716",
+            "name": "Wat Daung",
+            "name_km": "វត្តដូង"
+        },
+        {
+            "id": "20040718056",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200407",
+            "village_id": "20040718",
+            "name": "7 Makara Prey Preah",
+            "name_km": "7មករាព្រៃព្រះ"
+        },
+        {
+            "id": "20040721026",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200407",
+            "village_id": "20040721",
+            "name": "Chea Theach",
+            "name_km": "ជាធាច"
+        },
+        {
+            "id": "20040721502",
+            "school_type_id": 1,
+            "district_id": 2004,
+            "commune_id": "200407",
+            "village_id": "20040721",
+            "name": "Chea Theach",
+            "name_km": "ជាធាច"
+        },
+        {
+            "id": "20040801027",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200408",
+            "village_id": "20040801",
+            "name": "Khla Laut",
+            "name_km": "ខ្លាលោត"
+        },
+        {
+            "id": "20040801515",
+            "school_type_id": 1,
+            "district_id": 2004,
+            "commune_id": "200408",
+            "village_id": "20040801",
+            "name": "Khla Laut",
+            "name_km": "ខ្លាលោត"
+        },
+        {
+            "id": "20040803028",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200408",
+            "village_id": "20040803",
+            "name": "Trapaing Kruos",
+            "name_km": "ត្រពាំងគ្រួស"
+        },
+        {
+            "id": "20040803518",
+            "school_type_id": 1,
+            "district_id": 2004,
+            "commune_id": "200408",
+            "village_id": "20040803",
+            "name": "Trapaing Kruos",
+            "name_km": "ត្រពាំងគ្រួស"
+        },
+        {
+            "id": "20040806029",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200408",
+            "village_id": "20040806",
+            "name": "Wat Ta Hang Chas",
+            "name_km": "វត្តតាហង្សចាស់"
+        },
+        {
+            "id": "20040806516",
+            "school_type_id": 1,
+            "district_id": 2004,
+            "commune_id": "200408",
+            "village_id": "20040806",
+            "name": "Wat Ta Hang Chas",
+            "name_km": "វត្តតាហង្សចាស់"
+        },
+        {
+            "id": "20040809030",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200408",
+            "village_id": "20040809",
+            "name": "Kampong Trach",
+            "name_km": "កំពង់ត្រាច"
+        },
+        {
+            "id": "20040809501",
+            "school_type_id": 1,
+            "district_id": 2004,
+            "commune_id": "200408",
+            "village_id": "20040809",
+            "name": "Romeas Hek",
+            "name_km": "វិទ្យាល័យរមាសហែក"
+        },
+        {
+            "id": "20040809901",
+            "school_type_id": 5,
+            "district_id": 2004,
+            "commune_id": "200408",
+            "village_id": "20040809",
+            "name": "Romeas Hek",
+            "name_km": "វិទ្យាល័យរមាសហែក"
+        },
+        {
+            "id": "20040810031",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200408",
+            "village_id": "20040810",
+            "name": "Kakhop",
+            "name_km": "កាខុប"
+        },
+        {
+            "id": "20040905032",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200409",
+            "village_id": "20040905",
+            "name": "Koki",
+            "name_km": "គគីរ"
+        },
+        {
+            "id": "20040905713",
+            "school_type_id": 3,
+            "district_id": 2004,
+            "commune_id": "200409",
+            "village_id": "20040905",
+            "name": "Koki",
+            "name_km": "គគីរ"
+        },
+        {
+            "id": "20041001702",
+            "school_type_id": 3,
+            "district_id": 2004,
+            "commune_id": "200410",
+            "village_id": "20041001",
+            "name": "Prey Bet Meas",
+            "name_km": "ព្រៃបិតមាស"
+        },
+        {
+            "id": "20041003033",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200410",
+            "village_id": "20041003",
+            "name": "Krasaing",
+            "name_km": "ក្រសាំង"
+        },
+        {
+            "id": "20041003505",
+            "school_type_id": 1,
+            "district_id": 2004,
+            "commune_id": "200410",
+            "village_id": "20041003",
+            "name": "Krasaing",
+            "name_km": "ក្រសាំង"
+        },
+        {
+            "id": "20041008055",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200410",
+            "village_id": "20041008",
+            "name": "Tuol Ta Ram",
+            "name_km": "ទួលតារាម"
+        },
+        {
+            "id": "20041101034",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200411",
+            "village_id": "20041101",
+            "name": "Wat Mouk Da",
+            "name_km": "វត្តមុខដា"
+        },
+        {
+            "id": "20041101526",
+            "school_type_id": 1,
+            "district_id": 2004,
+            "commune_id": "200411",
+            "village_id": "20041101",
+            "name": "Wat Mukh Da",
+            "name_km": "មុខដា"
+        },
+        {
+            "id": "20041103035",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200411",
+            "village_id": "20041103",
+            "name": "Hun Sen Mouk Da",
+            "name_km": "ហ៊ុន សែនមុខដា"
+        },
+        {
+            "id": "20041103517",
+            "school_type_id": 1,
+            "district_id": 2004,
+            "commune_id": "200411",
+            "village_id": "20041103",
+            "name": "Hun Sen Mouk Da",
+            "name_km": "ហ៊ុន សែនមុខដា"
+        },
+        {
+            "id": "20041103706",
+            "school_type_id": 3,
+            "district_id": 2004,
+            "commune_id": "200411",
+            "village_id": "20041103",
+            "name": "Mouk Da",
+            "name_km": "ហ៊ុន សែនមុខដា"
+        },
+        {
+            "id": "20041203036",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200412",
+            "village_id": "20041203",
+            "name": "Maream",
+            "name_km": "ម្រាម"
+        },
+        {
+            "id": "20041203524",
+            "school_type_id": 1,
+            "district_id": 2004,
+            "commune_id": "200412",
+            "village_id": "20041203",
+            "name": "Mream",
+            "name_km": "ម្រាម"
+        },
+        {
+            "id": "20041204037",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200412",
+            "village_id": "20041204",
+            "name": "Po Thom",
+            "name_km": "ពោធិ៍ធំ"
+        },
+        {
+            "id": "20041204503",
+            "school_type_id": 1,
+            "district_id": 2004,
+            "commune_id": "200412",
+            "village_id": "20041204",
+            "name": "Po Thom",
+            "name_km": "ពោធិ៍ធំ"
+        },
+        {
+            "id": "20041204711",
+            "school_type_id": 3,
+            "district_id": 2004,
+            "commune_id": "200412",
+            "village_id": "20041204",
+            "name": "Ampil Po Thom",
+            "name_km": "អំពិលពោធិ៍ធំ"
+        },
+        {
+            "id": "20041208038",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200412",
+            "village_id": "20041208",
+            "name": "Wat Prey Prek",
+            "name_km": "ព្រៃព្រែក"
+        },
+        {
+            "id": "20041208529",
+            "school_type_id": 1,
+            "district_id": 2004,
+            "commune_id": "200412",
+            "village_id": "20041208",
+            "name": "Prey Prek",
+            "name_km": "ព្រៃព្រែក"
+        },
+        {
+            "id": "20041215039",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200412",
+            "village_id": "20041215",
+            "name": "Chrung Popel",
+            "name_km": "ជ្រុងពពេល"
+        },
+        {
+            "id": "20041217716",
+            "school_type_id": 3,
+            "district_id": 2004,
+            "commune_id": "200412",
+            "village_id": null,
+            "name": "Maream",
+            "name_km": "ម្រាម"
+        },
+        {
+            "id": "20041305054",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200413",
+            "village_id": "20041305",
+            "name": "Tuol Prasat",
+            "name_km": "ទួលប្រាសាទ"
+        },
+        {
+            "id": "20041305521",
+            "school_type_id": 1,
+            "district_id": 2004,
+            "commune_id": "200413",
+            "village_id": "20041305",
+            "name": "Tuol Prasat",
+            "name_km": "ទួលប្រាសាទ"
+        },
+        {
+            "id": "20041305714",
+            "school_type_id": 3,
+            "district_id": 2004,
+            "commune_id": "200413",
+            "village_id": "20041305",
+            "name": "Tuol Prasat",
+            "name_km": "ទួលប្រាសាទ"
+        },
+        {
+            "id": "20041311041",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200413",
+            "village_id": "20041311",
+            "name": "Tbeng Roam",
+            "name_km": "ត្បែងរាំ"
+        },
+        {
+            "id": "20041313040",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200413",
+            "village_id": "20041313",
+            "name": "Hun Sen Khum Sambour",
+            "name_km": "ហ៊ុន សែនសំបួរ"
+        },
+        {
+            "id": "20041313504",
+            "school_type_id": 1,
+            "district_id": 2004,
+            "commune_id": "200413",
+            "village_id": "20041313",
+            "name": "Hun Sen Sambour",
+            "name_km": "ហ៊ុន សែន សំបួរ"
+        },
+        {
+            "id": "20041401042",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200414",
+            "village_id": "20041401",
+            "name": "Prey Sras",
+            "name_km": "ព្រៃស្រះ"
+        },
+        {
+            "id": "20041402043",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200414",
+            "village_id": "20041402",
+            "name": "Chamkar Koh",
+            "name_km": "ចំការកោះ"
+        },
+        {
+            "id": "20041412044",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200414",
+            "village_id": "20041412",
+            "name": "Prey Svay",
+            "name_km": "ព្រៃស្វាយ"
+        },
+        {
+            "id": "20041412530",
+            "school_type_id": 1,
+            "district_id": 2004,
+            "commune_id": "200414",
+            "village_id": "20041412",
+            "name": "Prey Svay",
+            "name_km": "ព្រៃស្វាយ"
+        },
+        {
+            "id": "20041412715",
+            "school_type_id": 3,
+            "district_id": 2004,
+            "commune_id": "200414",
+            "village_id": "20041412",
+            "name": "Sambath Meanchey",
+            "name_km": "សម្បត្តិមានជ័យ"
+        },
+        {
+            "id": "20041505045",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200415",
+            "village_id": "20041505",
+            "name": "Oudom Samaki",
+            "name_km": "ឧត្ដមសាមគ្គី"
+        },
+        {
+            "id": "20041506046",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200415",
+            "village_id": "20041506",
+            "name": "Svay Tunteum",
+            "name_km": "ស្វាយទន្ទឹម"
+        },
+        {
+            "id": "20041506510",
+            "school_type_id": 1,
+            "district_id": 2004,
+            "commune_id": "200415",
+            "village_id": "20041506",
+            "name": "Svay Tunteum",
+            "name_km": "ស្វាយទន្ទឹម"
+        },
+        {
+            "id": "20041506707",
+            "school_type_id": 3,
+            "district_id": 2004,
+            "commune_id": "200415",
+            "village_id": "20041506",
+            "name": "Svay Tunteum",
+            "name_km": "ស្វាយទន្ទឹម"
+        },
+        {
+            "id": "20041517047",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200415",
+            "village_id": "20041517",
+            "name": "Tuol Sokrom",
+            "name_km": "ទួលសុក្រំ"
+        },
+        {
+            "id": "20041517513",
+            "school_type_id": 1,
+            "district_id": 2004,
+            "commune_id": "200415",
+            "village_id": "20041517",
+            "name": "Tuol Sokram",
+            "name_km": "ទួលសុក្រំ"
+        },
+        {
+            "id": "20041602052",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200416",
+            "village_id": "20041602",
+            "name": "Trapaing Banteay",
+            "name_km": "ត្រពាំងបន្ទាយ"
+        },
+        {
+            "id": "20041602522",
+            "school_type_id": 1,
+            "district_id": 2004,
+            "commune_id": "200416",
+            "village_id": "20041602",
+            "name": "Trapaing Banteay",
+            "name_km": "ត្រពាំងបន្ទាយ"
+        },
+        {
+            "id": "20041602712",
+            "school_type_id": 3,
+            "district_id": 2004,
+            "commune_id": "200416",
+            "village_id": "20041602",
+            "name": "Trapaing Banteay",
+            "name_km": "ត្រពាំងបន្ទាយ"
+        },
+        {
+            "id": "20041604048",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200416",
+            "village_id": "20041604",
+            "name": "Marak Teap",
+            "name_km": "ម្រាក់ទាប"
+        },
+        {
+            "id": "20041605049",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200416",
+            "village_id": "20041605",
+            "name": "Wat Trah",
+            "name_km": "វត្តត្រស់"
+        },
+        {
+            "id": "20041606050",
+            "school_type_id": 2,
+            "district_id": 2004,
+            "commune_id": "200416",
+            "village_id": "20041606",
+            "name": "Wat Ta Suos",
+            "name_km": "តាសួស"
+        }
+    ]
+}

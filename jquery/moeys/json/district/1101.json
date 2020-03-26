@@ -1,0 +1,365 @@
+{
+    "id": 1101,
+    "schools": [
+        {
+            "id": "11010101001",
+            "school_type_id": 2,
+            "district_id": 1101,
+            "commune_id": "110101",
+            "village_id": "11010101",
+            "name": "Chong Phlas",
+            "name_km": "ចុងផ្លាស់"
+        },
+        {
+            "id": "11010103008",
+            "school_type_id": 2,
+            "district_id": 1101,
+            "commune_id": "110101",
+            "village_id": "11010103",
+            "name": "Khgneng",
+            "name_km": "ខ្ញែង"
+        },
+        {
+            "id": "11010104009",
+            "school_type_id": 2,
+            "district_id": 1101,
+            "commune_id": "110101",
+            "village_id": "11010104",
+            "name": "O Kle",
+            "name_km": "អូរក្លេ"
+        },
+        {
+            "id": "11010201002",
+            "school_type_id": 2,
+            "district_id": 1101,
+            "commune_id": "110102",
+            "village_id": "11010201",
+            "name": "Memang",
+            "name_km": "មេម៉ង់"
+        },
+        {
+            "id": "11010203017",
+            "school_type_id": 2,
+            "district_id": 1101,
+            "commune_id": "110102",
+            "village_id": "11010203",
+            "name": "Taing Laing",
+            "name_km": "អូរតាំងឡាំង"
+        },
+        {
+            "id": "11010203024",
+            "school_type_id": 2,
+            "district_id": 1101,
+            "commune_id": "110102",
+            "village_id": "11010203",
+            "name": "Long Nes",
+            "name_km": "ឡង់ណេះ"
+        },
+        {
+            "id": "11010203028",
+            "school_type_id": 2,
+            "district_id": 1101,
+            "commune_id": "110102",
+            "village_id": "11010204",
+            "name": "TRAMKIT",
+            "name_km": "សាលាបឋមសិក្សាត្រាំកិត"
+        },
+        {
+            "id": "11010205003",
+            "school_type_id": 2,
+            "district_id": 1101,
+            "commune_id": "110102",
+            "village_id": "11010205",
+            "name": "O Te",
+            "name_km": "អូរតេ"
+        },
+        {
+            "id": "11010205704",
+            "school_type_id": 3,
+            "district_id": 1101,
+            "commune_id": "110102",
+            "village_id": "11010205",
+            "name": "Memang",
+            "name_km": "អនុវិទ្យាល័យមេម៉ង់"
+        },
+        {
+            "id": "11010301023",
+            "school_type_id": 2,
+            "district_id": 1101,
+            "commune_id": "110103",
+            "village_id": "11010301",
+            "name": "Sre Andoal",
+            "name_km": "ស្រែអណ្តោល"
+        },
+        {
+            "id": "11010302004",
+            "school_type_id": 2,
+            "district_id": 1101,
+            "commune_id": "110103",
+            "village_id": "11010302",
+            "name": "Sre Chhouk",
+            "name_km": "ស្រែឈូក"
+        },
+        {
+            "id": "11010302705",
+            "school_type_id": 3,
+            "district_id": 1101,
+            "commune_id": "110103",
+            "village_id": "11010302",
+            "name": "Hun Sen Sre Chhouk",
+            "name_km": "អនុវិទ្យាល័យស្រែឈូក"
+        },
+        {
+            "id": "11010303013",
+            "school_type_id": 2,
+            "district_id": 1101,
+            "commune_id": "110103",
+            "village_id": "11010303",
+            "name": "Khtung",
+            "name_km": "ខ្ទង់"
+        },
+        {
+            "id": "11010304014",
+            "school_type_id": 2,
+            "district_id": 1101,
+            "commune_id": "110103",
+            "village_id": "11010304",
+            "name": "Phum Preah",
+            "name_km": "ភូមិព្រះ"
+        },
+        {
+            "id": "11010305015",
+            "school_type_id": 2,
+            "district_id": 1101,
+            "commune_id": "110103",
+            "village_id": "11010305",
+            "name": "Roneng",
+            "name_km": "រណែង"
+        },
+        {
+            "id": "11010306021",
+            "school_type_id": 2,
+            "district_id": 1101,
+            "commune_id": "110103",
+            "village_id": "11010306",
+            "name": "Sre Ampoy",
+            "name_km": "ស្រែអំពួយ"
+        },
+        {
+            "id": "11010307025",
+            "school_type_id": 2,
+            "district_id": 1101,
+            "commune_id": "110103",
+            "village_id": "11010307",
+            "name": "Royang",
+            "name_km": "រយ៉ង"
+        },
+        {
+            "id": "11010401006",
+            "school_type_id": 2,
+            "district_id": 1101,
+            "commune_id": "110104",
+            "village_id": "11010401",
+            "name": "O Am",
+            "name_km": "អូរអាម"
+        },
+        {
+            "id": "11010401016",
+            "school_type_id": 2,
+            "district_id": 1101,
+            "commune_id": "110104",
+            "village_id": "11010401",
+            "name": "Trapaing Pha-e",
+            "name_km": "ត្រពាំងផ្អេរ"
+        },
+        {
+            "id": "11010401019",
+            "school_type_id": 2,
+            "district_id": 1101,
+            "commune_id": "110104",
+            "village_id": "11010401",
+            "name": "Lapakhe",
+            "name_km": "ឡាប៉ាខេ"
+        },
+        {
+            "id": "11010401020",
+            "school_type_id": 2,
+            "district_id": 1101,
+            "commune_id": "110104",
+            "village_id": "11010401",
+            "name": "Ponleu Thmei",
+            "name_km": "ពន្លឺថ្មី"
+        },
+        {
+            "id": "11010401502",
+            "school_type_id": 1,
+            "district_id": 1101,
+            "commune_id": "110104",
+            "village_id": "11010401",
+            "name": "O Am",
+            "name_km": "អូរអាម"
+        },
+        {
+            "id": "11010401505",
+            "school_type_id": 1,
+            "district_id": 1101,
+            "commune_id": "110104",
+            "village_id": "11010401",
+            "name": "Ponleu Thmey",
+            "name_km": "ពន្លឺថ្មី"
+        },
+        {
+            "id": "11010401506",
+            "school_type_id": 1,
+            "district_id": 1101,
+            "commune_id": "110104",
+            "village_id": "11010401",
+            "name": "La Pa Khe",
+            "name_km": "ឡាប៉ាខេ"
+        },
+        {
+            "id": "11010401901",
+            "school_type_id": 5,
+            "district_id": 1101,
+            "commune_id": "110104",
+            "village_id": "11010401",
+            "name": "Hun Sen Keo Seima",
+            "name_km": "វិទ្យាល័យហ៊ុនសែនកែវសីមា"
+        },
+        {
+            "id": "11010402018",
+            "school_type_id": 2,
+            "district_id": 1101,
+            "commune_id": "110104",
+            "village_id": "11010402",
+            "name": "O Rona",
+            "name_km": "អូររណា"
+        },
+        {
+            "id": "11010402507",
+            "school_type_id": 1,
+            "district_id": 1101,
+            "commune_id": "110104",
+            "village_id": "11010402",
+            "name": "Pre OURORNA",
+            "name_km": "សាលាមត្តេយ្យសិក្សាអូររណា"
+        },
+        {
+            "id": "11010403026",
+            "school_type_id": 2,
+            "district_id": 1101,
+            "commune_id": "110104",
+            "village_id": "11010403",
+            "name": "Sre Ampil Leu",
+            "name_km": "ស្រែអំពិលលើ"
+        },
+        {
+            "id": "11010406007",
+            "school_type_id": 2,
+            "district_id": 1101,
+            "commune_id": "110104",
+            "village_id": "11010406",
+            "name": "Chhneng",
+            "name_km": "ឆ្នែង"
+        },
+        {
+            "id": "11010406027",
+            "school_type_id": 2,
+            "district_id": 1101,
+            "commune_id": "110104",
+            "village_id": "11010406",
+            "name": "Chhneng Knong",
+            "name_km": "ឆ្នែងក្នុង"
+        },
+        {
+            "id": "11010406503",
+            "school_type_id": 1,
+            "district_id": 1101,
+            "commune_id": "110104",
+            "village_id": "11010406",
+            "name": "Trapaing Pha-e",
+            "name_km": "ត្រពាំងផ្អេរ"
+        },
+        {
+            "id": "11010406504",
+            "school_type_id": 1,
+            "district_id": 1101,
+            "commune_id": "110104",
+            "village_id": "11010406",
+            "name": "Chhneng",
+            "name_km": "ឆ្នែង"
+        },
+        {
+            "id": "11010406703",
+            "school_type_id": 3,
+            "district_id": 1101,
+            "commune_id": "110104",
+            "village_id": "11010406",
+            "name": "Chhneng",
+            "name_km": "អនុវិទ្យាល័យឆ្នែង"
+        },
+        {
+            "id": "11010501012",
+            "school_type_id": 2,
+            "district_id": 1101,
+            "commune_id": "110105",
+            "village_id": "11010501",
+            "name": "Gati",
+            "name_km": "ហ្គាទី"
+        },
+        {
+            "id": "11010502010",
+            "school_type_id": 2,
+            "district_id": 1101,
+            "commune_id": "110105",
+            "village_id": "11010502",
+            "name": "Pou Char",
+            "name_km": "ពូចារ"
+        },
+        {
+            "id": "11010503011",
+            "school_type_id": 2,
+            "district_id": 1101,
+            "commune_id": "110105",
+            "village_id": "11010503",
+            "name": "Pou Kong",
+            "name_km": "ពូគង់"
+        },
+        {
+            "id": "11010504022",
+            "school_type_id": 2,
+            "district_id": 1101,
+            "commune_id": "110105",
+            "village_id": "11010504",
+            "name": "O Chra",
+            "name_km": "អូរច្រា"
+        },
+        {
+            "id": "11010505005",
+            "school_type_id": 2,
+            "district_id": 1101,
+            "commune_id": "110105",
+            "village_id": "11010505",
+            "name": "Hun Sen Keo Seima",
+            "name_km": "កែវសីមាហ៊ុនសែន"
+        },
+        {
+            "id": "11010505501",
+            "school_type_id": 1,
+            "district_id": 1101,
+            "commune_id": "110105",
+            "village_id": "11010505",
+            "name": "Keo Seima",
+            "name_km": "កែវសីមាហ៊ុនសែន"
+        },
+        {
+            "id": "11010505702",
+            "school_type_id": 3,
+            "district_id": 1101,
+            "commune_id": "110105",
+            "village_id": "11010505",
+            "name": "Sre Preah",
+            "name_km": "អនុវិទ្យាល័យស្រែព្រះ"
+        }
+    ]
+}

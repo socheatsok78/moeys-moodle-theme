@@ -1,0 +1,131 @@
+{
+    "id": 1103,
+    "schools": [
+        {
+            "id": "11030101001",
+            "school_type_id": 2,
+            "district_id": 1103,
+            "commune_id": "110301",
+            "village_id": "11030101",
+            "name": "Dak Dam",
+            "name_km": "ដាក់ដាំ"
+        },
+        {
+            "id": "11030101502",
+            "school_type_id": 1,
+            "district_id": 1103,
+            "commune_id": "110301",
+            "village_id": "11030101",
+            "name": "Dak Dam",
+            "name_km": "ដាក់ដាំ"
+        },
+        {
+            "id": "11030101701",
+            "school_type_id": 3,
+            "district_id": 1103,
+            "commune_id": "110301",
+            "village_id": "11030101",
+            "name": "Dak Dam",
+            "name_km": "អនុវិទ្យាល័យដាក់ដាំ"
+        },
+        {
+            "id": "11030202004",
+            "school_type_id": 2,
+            "district_id": 1103,
+            "commune_id": "110302",
+            "village_id": "11030202",
+            "name": "Pou Chou",
+            "name_km": "ពូជូ"
+        },
+        {
+            "id": "11030202008",
+            "school_type_id": 2,
+            "district_id": 1103,
+            "commune_id": "110302",
+            "village_id": "11030202",
+            "name": "Andaung Kraleung",
+            "name_km": "អណ្ដូងក្រឡឹង"
+        },
+        {
+            "id": "11030203005",
+            "school_type_id": 2,
+            "district_id": 1103,
+            "commune_id": "110302",
+            "village_id": "11030203",
+            "name": "Pou Trou",
+            "name_km": "ពូទ្រូ"
+        },
+        {
+            "id": "11030203006",
+            "school_type_id": 2,
+            "district_id": 1103,
+            "commune_id": "110302",
+            "village_id": "11030203",
+            "name": "Pou Trou Leu",
+            "name_km": "ពូទ្រូលើ"
+        },
+        {
+            "id": "11030204002",
+            "school_type_id": 2,
+            "district_id": 1103,
+            "commune_id": "110302",
+            "village_id": "11030204",
+            "name": "Bou Raing",
+            "name_km": "ប៊ូរ៉ាង"
+        },
+        {
+            "id": "11030204901",
+            "school_type_id": 5,
+            "district_id": 1103,
+            "commune_id": "110302",
+            "village_id": "11030204",
+            "name": "O Raing",
+            "name_km": "វិទ្យាល័យអូររាំង"
+        },
+        {
+            "id": "11030205003",
+            "school_type_id": 2,
+            "district_id": 1103,
+            "commune_id": "110302",
+            "village_id": "11030205",
+            "name": "Pou Hyam",
+            "name_km": "ពូហ្យាម"
+        },
+        {
+            "id": "11030205007",
+            "school_type_id": 2,
+            "district_id": 1103,
+            "commune_id": "110302",
+            "village_id": "11030205",
+            "name": "Roka Thmei",
+            "name_km": "រកា"
+        },
+        {
+            "id": "11030205009",
+            "school_type_id": 2,
+            "district_id": 1103,
+            "commune_id": "110302",
+            "village_id": "11030205",
+            "name": "Deum Svay",
+            "name_km": "ដើមស្វាយ"
+        },
+        {
+            "id": "11030205010",
+            "school_type_id": 2,
+            "district_id": 1103,
+            "commune_id": "110302",
+            "village_id": "11030205",
+            "name": "Pou La",
+            "name_km": "ពូឡា"
+        },
+        {
+            "id": "11030205501",
+            "school_type_id": 1,
+            "district_id": 1103,
+            "commune_id": "110302",
+            "village_id": "11030205",
+            "name": "Pou Hyam",
+            "name_km": "ពូហ្យាម"
+        }
+    ]
+}
