@@ -2,15 +2,10 @@
 
 THEME_DIR=$(basename $(pwd))
 
-cd ..
+rm $THEME_DIR.zip || true
 
-remove_existing() {
-    rm $THEME_DIR/$THEME_DIR.zip
-}
-
-zip_theme() {
-    zip -r $THEME_DIR/$THEME_DIR.zip $THEME_DIR --exclude=*.git*
-}
-
-remove_existing
-zip_theme
+git archive \
+    --format=zip HEAD \
+    -o $THEME_DIR.zip \
+    --prefix $THEME_DIR/ \
+    --verbose
