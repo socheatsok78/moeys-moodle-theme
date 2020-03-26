@@ -42,7 +42,7 @@ define(['jquery', 'core/log'], function ($, log) {
                     });
                 },
                 setupFormWatcher: function () {
-                    //
+                    this.createProvinceSelect();
                 },
                 createSelectOptions: function (arr) {
                     var list = [$("<option>").val("").text("Choose an option")];
@@ -67,6 +67,13 @@ define(['jquery', 'core/log'], function ($, log) {
                             self.data.selectors.province[0].options.length = 0;
                             self.data.selectors.province.append(options);
                         });
+
+                    // Register change event
+                    this.data.selectors.province.on('change', this.onProvinceChangeHandler);
+                },
+                onProvinceChangeHandler: function (event) {
+                    //
+                    log.debug(event, 'onProvinceChangeHandler')
                 }
             };
 
