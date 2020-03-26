@@ -30,76 +30,76 @@ defined('MOODLE_INTERNAL') || die;
 echo $OUTPUT->standard_after_main_region_html();
 ?>
 
-<footer id="page-footer" class="<?php echo $PAGE->theme->settings->responsivepagefooter?>">
+<footer id="page-footer" class="<?php echo $PAGE->theme->settings->responsivepagefooter ?>">
 
-<?php
-echo $OUTPUT->get_footer_blocks();
+    <?php
+    echo $OUTPUT->get_footer_blocks();
 
-if ($PAGE->theme->settings->hidefootersocial == 1) { ?>
+    if ($PAGE->theme->settings->hidefootersocial == 1) { ?>
         <div class="container">
             <div class="row">
                 <div class="col-12 pagination-centered">
-<?php
-    echo $OUTPUT->socialicons();
-?>
+                    <?php
+                    echo $OUTPUT->socialicons();
+                    ?>
                 </div>
             </div>
         </div>
 
-<?php }
+    <?php }
 
-if ($PAGE->theme->settings->moodledocs) {
-    $footnoteclass = 'col-md-4 my-md-0 my-2';
-} else {
-    $footnoteclass = 'col-md-8 my-md-0 my-2';
-}
+    if ($PAGE->theme->settings->moodledocs) {
+        $footnoteclass = 'col-md-4 my-md-0 my-2';
+    } else {
+        $footnoteclass = 'col-md-8 my-md-0 my-2';
+    }
 
-if ($PAGE->theme->settings->showfooterblocks) {
-?>
-    <div class="info container2 clearfix">
-        <div class="container">
-            <div class="row">
-                <div class="<?php echo $footnoteclass; ?>">
-                    <div class="tool_usertours-resettourcontainer"></div>
-<?php echo $OUTPUT->get_setting('footnote', 'format_html');
-?>
-                </div>
+    if ($PAGE->theme->settings->showfooterblocks) {
+    ?>
+        <div class="info container2 clearfix">
+            <div class="container">
+                <div class="row">
+                    <div class="<?php echo $footnoteclass; ?>">
+                        <div class="tool_usertours-resettourcontainer"></div>
+                        <?php echo $OUTPUT->get_setting('footnote', 'format_html');
+                        ?>
+                    </div>
 
-<?php
-if ($PAGE->theme->settings->moodledocs) {
-?>
-                <div class="col-md-4 my-md-0 my-2 helplink">
-<?php
-    echo $OUTPUT->page_doc_link(); ?>
-                </div>
-<?php
-}
-?>
-                <div class="col-md-4 my-md-0 my-2">
-                    <?php echo $OUTPUT->standard_footer_html(); ?>
+                    <?php
+                    if ($PAGE->theme->settings->moodledocs) {
+                    ?>
+                        <div class="col-md-4 my-md-0 my-2 helplink">
+                            <?php
+                            echo $OUTPUT->page_doc_link(); ?>
+                        </div>
+                    <?php
+                    }
+                    ?>
+                    <div class="col-md-4 my-md-0 my-2">
+                        <?php echo $OUTPUT->standard_footer_html(); ?>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
-<?php
-}
-?>
+    <?php
+    }
+    ?>
 </footer>
 
 <div id="back-to-top"><i class="fa fa-angle-up "></i></div>
 
 <?php
-    // If admin settings page, show template for floating save / discard buttons.
-    $templatecontext = [
+// If admin settings page, show template for floating save / discard buttons.
+$templatecontext = [
     'topmargin'   => ($PAGE->theme->settings->stickynavbar ? '35px' : '0px'),
     'savetext'    => get_string('savebuttontext', 'theme_adaptable'),
     'discardtext' => get_string('discardbuttontext', 'theme_adaptable')
-    ];
-    if (strstr($PAGE->pagetype, 'admin-setting')) {
-        if ($PAGE->theme->settings->enablesavecanceloverlay) {
-            echo $OUTPUT->render_from_template('theme_adaptable/savediscard', $templatecontext);
-        }
+];
+if (strstr($PAGE->pagetype, 'admin-setting')) {
+    if ($PAGE->theme->settings->enablesavecanceloverlay) {
+        echo $OUTPUT->render_from_template('theme_adaptable/savediscard', $templatecontext);
     }
+}
 ?>
 
 <?php echo $OUTPUT->standard_end_of_body_html() ?>
@@ -118,8 +118,8 @@ if (!empty($PAGE->theme->settings->jssectionrestrictedprofilefield)) {
     $setvalue = $fields[1];
 
     // Get user profile field (if it exists).
-    require_once($CFG->dirroot.'/user/profile/lib.php');
-    require_once($CFG->dirroot.'/user/lib.php');
+    require_once($CFG->dirroot . '/user/profile/lib.php');
+    require_once($CFG->dirroot . '/user/lib.php');
     profile_load_data($USER);
     $ftype = "profile_field_$ftype";
     if (isset($USER->$ftype)) {
@@ -138,21 +138,20 @@ if (!empty($PAGE->theme->settings->jssectionrestrictedprofilefield)) {
                 // In practice, $url should always be valid.
                 if ($url !== null) {
                     // Check if this is the dashboard page.
-                    if (strstr ($url->raw_out(), '/my/')) {
+                    if (strstr($url->raw_out(), '/my/')) {
                         echo $PAGE->theme->settings->jssectionrestricted;
                     }
                 }
             } else {
                 echo $PAGE->theme->settings->jssectionrestricted;
             }
-
         }
     }
-
 }
 
 ?>
 
 <?php echo $OUTPUT->get_all_tracking_methods(); ?>
 </body>
+
 </html>

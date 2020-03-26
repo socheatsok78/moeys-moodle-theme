@@ -45,7 +45,8 @@ define('THEME_ADAPTABLE_DEFAULT_SLIDERCOUNT', '3');
  * @param theme_config $theme The theme config object.
  * @return string The parsed CSS The parsed CSS.
  */
-function theme_adaptable_process_css($css, $theme) {
+function theme_adaptable_process_css($css, $theme)
+{
 
     // Set category custom CSS.
     $css = theme_adaptable_set_categorycustomcss($css, $theme->settings);
@@ -271,8 +272,8 @@ function theme_adaptable_process_css($css, $theme) {
 
     // Get all the defined settings for the theme and replace defaults.
     foreach ($theme->settings as $key => $val) {
-        if (array_key_exists('[[setting:'.$key.']]', $defaults) && !empty($val)) {
-            $defaults['[[setting:'.$key.']]'] = $val;
+        if (array_key_exists('[[setting:' . $key . ']]', $defaults) && !empty($val)) {
+            $defaults['[[setting:' . $key . ']]'] = $val;
         }
     }
 
@@ -302,24 +303,28 @@ function theme_adaptable_process_css($css, $theme) {
 
     $loginbgopacity = '';
     if (!empty($theme->settings->loginbgopacity)) {
-            $loginbgopacity = '#page-login-index header {'.PHP_EOL;
-            $loginbgopacity .= 'background-color: '.\theme_adaptable\toolbox::hex2rgba($theme->settings->headerbkcolor2,
-                               $theme->settings->loginbgopacity).') !important;'.PHP_EOL;
-            $loginbgopacity .= '}'.PHP_EOL;
-            $loginbgopacity .= '#page-login-index #page-navbar,'.PHP_EOL.
+        $loginbgopacity = '#page-login-index header {' . PHP_EOL;
+        $loginbgopacity .= 'background-color: ' . \theme_adaptable\toolbox::hex2rgba(
+            $theme->settings->headerbkcolor2,
+            $theme->settings->loginbgopacity
+        ) . ') !important;' . PHP_EOL;
+        $loginbgopacity .= '}' . PHP_EOL;
+        $loginbgopacity .= '#page-login-index #page-navbar,' . PHP_EOL .
             '#page-login-index .card {';
-            $loginbgopacity .= 'background-color: rgba(255, 255, 255, '.$theme->settings->loginbgopacity.') !important;'.PHP_EOL;
-            $loginbgopacity .= '}'.PHP_EOL;
-            $loginbgopacity .= '#page-login-index #page-footer {'.PHP_EOL;
-            $loginbgopacity .= 'background-color: '.\theme_adaptable\toolbox::hex2rgba($theme->settings->footerbkcolor,
-                               $theme->settings->loginbgopacity).') !important;'.PHP_EOL;
-            $loginbgopacity .= '}'.PHP_EOL;
+        $loginbgopacity .= 'background-color: rgba(255, 255, 255, ' . $theme->settings->loginbgopacity . ') !important;' . PHP_EOL;
+        $loginbgopacity .= '}' . PHP_EOL;
+        $loginbgopacity .= '#page-login-index #page-footer {' . PHP_EOL;
+        $loginbgopacity .= 'background-color: ' . \theme_adaptable\toolbox::hex2rgba(
+            $theme->settings->footerbkcolor,
+            $theme->settings->loginbgopacity
+        ) . ') !important;' . PHP_EOL;
+        $loginbgopacity .= '}' . PHP_EOL;
     }
     $defaults['[[setting:loginbgopacity]]'] = $loginbgopacity;
 
     $socialpaddingsidehalf = '16';
     if (!empty($theme->settings->socialpaddingside)) {
-        $socialpaddingsidehalf = ''.$theme->settings->socialpaddingside / 2;
+        $socialpaddingsidehalf = '' . $theme->settings->socialpaddingside / 2;
     }
     $defaults['[[setting:socialpaddingsidehalf]]'] = $socialpaddingsidehalf;
 
@@ -340,7 +345,8 @@ function theme_adaptable_process_css($css, $theme) {
  * @param array $settings Theme settings.
  * @return string The CSS which now contains our custom CSS.
  */
-function theme_adaptable_set_categorycustomcss($css, $settings) {
+function theme_adaptable_set_categorycustomcss($css, $settings)
+{
     $tohavecustomheader = $settings->categoryhavecustomheader;
     $replacement = '';
     if (!empty($tohavecustomheader)) {
@@ -349,7 +355,7 @@ function theme_adaptable_set_categorycustomcss($css, $settings) {
         $scss = new core_scss();
         $categoryscss = '';
         foreach ($customheaderids as $customheaderid) {
-            $categoryheadercustomcssset = 'categoryheadercustomcss'.$customheaderid;
+            $categoryheadercustomcssset = 'categoryheadercustomcss' . $customheaderid;
             if (!empty($settings->$categoryheadercustomcssset)) {
                 // Validate and add if ok.
                 try {
@@ -363,20 +369,30 @@ function theme_adaptable_set_categorycustomcss($css, $settings) {
                     }
                     $categoryids = array();
                     foreach ($catids as $catid) {
-                        $categoryids[] = '.category-'.$catid;
+                        $categoryids[] = '.category-' . $catid;
                     }
                     $categoryselector = implode(', ', $categoryids);
-                    $categoryscss .= $categoryselector.'{'.PHP_EOL;
+                    $categoryscss .= $categoryselector . '{' . PHP_EOL;
                     $categoryscss .= $settings->$categoryheadercustomcssset;
-                    $categoryscss .= PHP_EOL.'}'.PHP_EOL;
+                    $categoryscss .= PHP_EOL . '}' . PHP_EOL;
                 } catch (Leafo\ScssPhp\Exception\ParserException $e) {
-                    debugging(get_string('invalidcategorycss', 'theme_adaptable',
-                                array('css' => $settings->$categoryheadercustomcssset,
-                                'topcatname' => $catinfo['name'], 'topcatid' => $customheaderid)), DEBUG_NONE);
+                    debugging(get_string(
+                        'invalidcategorycss',
+                        'theme_adaptable',
+                        array(
+                            'css' => $settings->$categoryheadercustomcssset,
+                            'topcatname' => $catinfo['name'], 'topcatid' => $customheaderid
+                        )
+                    ), DEBUG_NONE);
                 } catch (Leafo\ScssPhp\Exception\CompilerException $e) {
-                    debugging(get_string('invalidcategorycss', 'theme_adaptable',
-                                array('css' => $settings->$categoryheadercustomcssset,
-                                'topcatname' => $catinfo['name'], 'topcatid' => $customheaderid)), DEBUG_NONE);
+                    debugging(get_string(
+                        'invalidcategorycss',
+                        'theme_adaptable',
+                        array(
+                            'css' => $settings->$categoryheadercustomcssset,
+                            'topcatname' => $catinfo['name'], 'topcatid' => $customheaderid
+                        )
+                    ), DEBUG_NONE);
                 }
             }
         }
@@ -406,7 +422,8 @@ function theme_adaptable_set_categorycustomcss($css, $settings) {
  * @param string $customcss The custom CSS to add.
  * @return string The CSS which now contains our custom CSS.
  */
-function theme_adaptable_set_customcss($css, $customcss) {
+function theme_adaptable_set_customcss($css, $customcss)
+{
     $tag = '[[setting:customcss]]';
     $replacement = $customcss;
     if (is_null($replacement)) {
@@ -424,7 +441,8 @@ function theme_adaptable_set_customcss($css, $customcss) {
  * @param string $display
  * @return $string
  */
-function theme_adaptable_set_tilesshowallcontacts($css, $display) {
+function theme_adaptable_set_tilesshowallcontacts($css, $display)
+{
     $tag = '[[setting:tilesshowallcontacts]]';
     if ($display) {
         $replacement = 'block';
@@ -438,7 +456,8 @@ function theme_adaptable_set_tilesshowallcontacts($css, $display) {
 /**
  * Get the user preference for the zoom (show / hide block) function.
  */
-function theme_adaptable_get_zoom() {
+function theme_adaptable_get_zoom()
+{
     return get_user_preferences('theme_adaptable_zoom', '');
 }
 
@@ -447,7 +466,8 @@ function theme_adaptable_get_zoom() {
  * @param moodle_page $page
  * @return void
  */
-function theme_adaptable_initialise_zoom(moodle_page $page) {
+function theme_adaptable_initialise_zoom(moodle_page $page)
+{
     user_preference_allow_ajax_update('theme_adaptable_zoom', PARAM_TEXT);
 }
 
@@ -456,7 +476,8 @@ function theme_adaptable_initialise_zoom(moodle_page $page) {
  * @param moodle_page $page
  * @return void
  */
-function theme_adaptable_initialise_full(moodle_page $page) {
+function theme_adaptable_initialise_full(moodle_page $page)
+{
     if (theme_adaptable_get_setting('enablezoom')) {
         user_preference_allow_ajax_update('theme_adaptable_full', PARAM_TEXT);
     }
@@ -465,7 +486,8 @@ function theme_adaptable_initialise_full(moodle_page $page) {
 /**
  * Get the user preference for the zoom function.
  */
-function theme_adaptable_get_full() {
+function theme_adaptable_get_full()
+{
     $fullpref = '';
     if ((isloggedin()) && (theme_adaptable_get_setting('enablezoom'))) {
         $fullpref = get_user_preferences('theme_adaptable_full', '');
@@ -491,7 +513,8 @@ function theme_adaptable_get_full() {
  * This will be used in the renderer to decide whether to include the alert or not
  * @param int $alertindex
  */
-function theme_adaptable_get_alertkey($alertindex) {
+function theme_adaptable_get_alertkey($alertindex)
+{
     user_preference_allow_ajax_update('theme_adaptable_alertkey' . $alertindex, PARAM_TEXT);
     return get_user_preferences('theme_adaptable_alertkey' . $alertindex, '');
 }
@@ -501,7 +524,8 @@ function theme_adaptable_get_alertkey($alertindex) {
  * @param renderer_base $output
  * @param moodle_page $page
  */
-function theme_adaptable_get_html_for_settings(renderer_base $output, moodle_page $page) {
+function theme_adaptable_get_html_for_settings(renderer_base $output, moodle_page $page)
+{
     global $CFG;
     $return = new stdClass;
 
@@ -518,7 +542,7 @@ function theme_adaptable_get_html_for_settings(renderer_base $output, moodle_pag
 
     $return->footnote = '';
     if (!empty($page->theme->settings->footnote)) {
-        $return->footnote = '<div class="footnote">'.$page->theme->settings->footnote.'</div>';
+        $return->footnote = '<div class="footnote">' . $page->theme->settings->footnote . '</div>';
     }
 
     return $return;
@@ -529,7 +553,8 @@ function theme_adaptable_get_html_for_settings(renderer_base $output, moodle_pag
  * @param string $setting
  * @param string $format = false
  */
-function theme_adaptable_get_setting($setting, $format = false) {
+function theme_adaptable_get_setting($setting, $format = false)
+{
     static $theme;
     if (empty($theme)) {
         $theme = theme_config::load('adaptable');
@@ -560,7 +585,8 @@ function theme_adaptable_get_setting($setting, $format = false) {
  * @param array $options
  * @return bool
  */
-function theme_adaptable_pluginfile($course, $cm, $context, $filearea, $args, $forcedownload, array $options = array()) {
+function theme_adaptable_pluginfile($course, $cm, $context, $filearea, $args, $forcedownload, array $options = array())
+{
     static $theme;
     if (empty($theme)) {
         $theme = theme_config::load('adaptable');
@@ -611,8 +637,9 @@ function theme_adaptable_pluginfile($course, $cm, $context, $filearea, $args, $f
 /**
  * Get course activities for this course menu
  */
-function theme_adaptable_get_course_activities() {
-    GLOBAL $CFG, $PAGE, $OUTPUT;
+function theme_adaptable_get_course_activities()
+{
+    global $CFG, $PAGE, $OUTPUT;
     // A copy of block_activity_modules.
     $course = $PAGE->course;
     $content = new stdClass();
@@ -649,9 +676,10 @@ function theme_adaptable_get_course_activities() {
  * Get formatted performance info showing only page load time
  * @param string $param
  */
-function theme_adaptable_performance_output($param) {
-    $html = html_writer::tag('span', get_string('loadtime', 'theme_adaptable').' '. round($param['realtime'], 2) . ' ' .
-            get_string('seconds'), array('id' => 'load'));
+function theme_adaptable_performance_output($param)
+{
+    $html = html_writer::tag('span', get_string('loadtime', 'theme_adaptable') . ' ' . round($param['realtime'], 2) . ' ' .
+        get_string('seconds'), array('id' => 'load'));
     return $html;
 }
 
@@ -659,7 +687,8 @@ function theme_adaptable_performance_output($param) {
  * Initialize page
  * @param moodle_page $page
  */
-function theme_adaptable_page_init(moodle_page $page) {
+function theme_adaptable_page_init(moodle_page $page)
+{
     global $CFG;
 
     $page->requires->jquery_plugin('pace', 'theme_adaptable');
@@ -667,20 +696,21 @@ function theme_adaptable_page_init(moodle_page $page) {
     $page->requires->jquery_plugin('ticker', 'theme_adaptable');
     $page->requires->jquery_plugin('easing', 'theme_adaptable');
     $page->requires->jquery_plugin('adaptable', 'theme_adaptable');
-
+    $page->requires->jquery_plugin('moeys', 'theme_adaptable');
 }
 
 /**
  * Strip full site title from header
  * @param string $heading
  */
-function theme_adaptable_remove_site_fullname($heading) {
+function theme_adaptable_remove_site_fullname($heading)
+{
     global $SITE, $PAGE;
     if (strpos($PAGE->pagetype, 'course-view-') === 0) {
         return $heading;
     }
 
-    $header = preg_replace("/^".$SITE->fullname."/", "", $heading);
+    $header = preg_replace("/^" . $SITE->fullname . "/", "", $heading);
 
     return $header;
 }
@@ -690,7 +720,8 @@ function theme_adaptable_remove_site_fullname($heading) {
  * @param bool $left
  * @param bool $hassidepost
  */
-function theme_adaptable_grid($left, $hassidepost) {
+function theme_adaptable_grid($left, $hassidepost)
+{
     if ($hassidepost) {
         if ('rtl' === get_string('thisdirection', 'langconfig')) {
             $left = !$left; // Invert.
@@ -718,7 +749,8 @@ function theme_adaptable_grid($left, $hassidepost) {
  * @return string The page name, which is either "frontpage", "dashboard", "coursepage", "coursesectionpage" or empty string.
  *
  */
-function theme_adaptable_get_current_page() {
+function theme_adaptable_get_current_page()
+{
     global $COURSE, $PAGE;
 
     // This will store the kind of activity page type we find. E.g. It will get populated with 'section' or similar.
@@ -733,10 +765,10 @@ function theme_adaptable_get_current_page() {
         $currentpage = 'dashboard';
     }
     // Check if course home page.
-    if (empty ($currentpage)) {
+    if (empty($currentpage)) {
         if ($url !== null) {
             // Check if this is the course view page.
-            if (strstr ($url->raw_out(), 'course/view.php')) {
+            if (strstr($url->raw_out(), 'course/view.php')) {
 
                 $currentpage = 'coursepage';
 
@@ -747,10 +779,9 @@ function theme_adaptable_get_current_page() {
                 $urlparams = $url->params();
 
                 // Allow the block to display on course sections too if the relevant setting is on.
-                if ((count ($urlparams) > 1) && (array_key_exists('section', $urlparams))) {
+                if ((count($urlparams) > 1) && (array_key_exists('section', $urlparams))) {
                     $currentpage = 'coursesectionpage';
                 }
-
             }
         }
     }
