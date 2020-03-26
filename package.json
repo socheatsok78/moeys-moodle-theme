@@ -15,7 +15,8 @@
     "url": "https://gitlab.com/3bits/moodle-theme_adaptable2/issues"
   },
   "scripts": {
-    "build": "grunt moeys"
+    "build": "grunt moeys",
+    "postbuild": "./build.sh"
   },
   "devDependencies": {
     "grunt": "1.0.1",
