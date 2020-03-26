@@ -40,7 +40,7 @@
  * @license http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-module.exports = function(grunt) { // jshint ignore:line
+module.exports = function (grunt) { // jshint ignore:line
     var path = require('path'),
         tasks = {},
         cwd = process.env.PWD || process.cwd(), // jshint ignore:line
@@ -94,14 +94,14 @@ module.exports = function(grunt) { // jshint ignore:line
         },
         stylelint: {
             scss: {
-                options: {syntax: 'scss'},
+                options: { syntax: 'scss' },
                 src: ['scss/**/*.scss']
             }
         },
         exec: {
             decache: {
                 cmd: 'php -r "' + decachephp + '"',
-                callback: function(error) {
+                callback: function (error) {
                     // The 'exec' process will output error messages, just add one to confirm success.
                     if (!error) {
                         grunt.log.writeln("Moodle cache reset.");
@@ -110,7 +110,7 @@ module.exports = function(grunt) { // jshint ignore:line
             }
         },
         jshint: {
-            options: {jshintrc: moodleroot + '/.jshintrc'},
+            options: { jshintrc: moodleroot + '/.jshintrc' },
             files: ['**/amd/src/*.js']
         },
         uglify: {
@@ -120,7 +120,7 @@ module.exports = function(grunt) { // jshint ignore:line
                     '',
                     {
                         cwd: cwd,
-                        rename: function(destBase, destPath) {
+                        rename: function (destBase, destPath) {
                             destPath = destPath.replace('src', 'build');
                             destPath = destPath.replace('.js', '.min.js');
                             destPath = path.resolve(cwd, destPath);
@@ -148,4 +148,7 @@ module.exports = function(grunt) { // jshint ignore:line
 
     // Register the default task.
     grunt.registerTask('default', ['amd']);
+
+    // MoEYS
+    grunt.registerTask("moeys", ["uglify"]);
 };
