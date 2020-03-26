@@ -698,8 +698,8 @@ function theme_adaptable_page_init(moodle_page $page)
     $page->requires->jquery_plugin('adaptable', 'theme_adaptable');
 
     // MoEYS Assets
-    $page->requires->jquery_plugin('axios', 'theme_adaptable');
     $page->requires->jquery_plugin('moeys', 'theme_adaptable');
+    $page->requires->jquery_plugin('axios', 'theme_adaptable');
 }
 
 /**
