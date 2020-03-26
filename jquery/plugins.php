@@ -51,5 +51,8 @@ $plugins = array(
     'flexslider' => array('files' => array('jquery-flexslider-min.js')),
     'pace' => array('files' => array('pace-min.js')),
     'ticker' => array('files' => array('tickerme.js')),
+
+    // MoEYS Assets
+    'axios' => array('files' => array('axios.min.js')),
     'moeys' => array('files' => array('moeys/moeys.js')),
 );
