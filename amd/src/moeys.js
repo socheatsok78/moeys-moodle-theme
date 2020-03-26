@@ -48,10 +48,8 @@ define(['jquery', 'core/log'], function ($, log) {
 
                 window['MoEYS'] = MoEYS;
 
-                console.group('MoEYS');
-                console.log('currentpage', currentpage);
-                console.log('MoEYS', MoEYS);
-                console.groupEnd();
+                log.debug('currentpage', currentpage);
+                log.debug('MoEYS', MoEYS);
             }
 
             // Ready scripts
