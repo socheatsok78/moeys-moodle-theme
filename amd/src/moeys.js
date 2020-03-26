@@ -12,6 +12,11 @@ define(['jquery', 'core/log'], function ($, log) {
                 basedir: '',
                 request: null,
                 data: {
+                    default: {
+                        province_id: '',
+                        district_id: '',
+                        school_id: '',
+                    },
                     options: {
                         provinces: [],
                         districts: [],
@@ -42,7 +47,29 @@ define(['jquery', 'core/log'], function ($, log) {
                     });
                 },
                 setupFormWatcher: function () {
+                    var self = this;
+
+                    this.data.default.province_id = this.data.selectors.province.val();
+                    this.data.default.district_id = this.data.selectors.district.val();
+                    this.data.default.school_id = this.data.selectors.school.val();
+
                     this.createProvinceSelect();
+
+                    // Register change event
+                    this.data.selectors.province.on('change', function (event) {
+                        self.onProvinceChangeHandler.call(self, event)
+                    });
+
+                    // Register change event
+                    this.data.selectors.district.on('change', function (event) {
+                        self.onDistrictChangeHandler.call(self, event)
+                    });
+
+                    console.group('MoEYS')
+                    log.debug(this.data.default.province_id, 'default_province_id');
+                    log.debug(this.data.default.district_id, 'default_district_id');
+                    log.debug(this.data.default.school_id, 'default_school_id');
+                    console.groupEnd();
                 },
                 createSelectOptions: function (arr) {
                     var list = [$("<option>").val("").text("Choose an option")];
@@ -68,22 +95,29 @@ define(['jquery', 'core/log'], function ($, log) {
                             var options = self.createSelectOptions(res.data)
                             self.data.selectors.province[0].options.length = 0;
                             self.data.selectors.province.append(options);
+
+                            self.data.selectors.province
+                                .val(self.data.default.province_id)
+                                .trigger("change");
                         });
 
                     this.ajax('districts.json')
                         .then(function (res) {
                             self.data.options.districts = res.data;
                         });
-
-                    // Register change event
-                    this.data.selectors.province.on('change', function (event) {
-                        self.onProvinceChangeHandler.call(self, event)
-                    });
                 },
                 onProvinceChangeHandler: function (event) {
                     var province_id = $(event.target).val();
-                    log.debug(province_id, 'onProvinceChangeHandler');
+                    this.data.selectors.district.val('');
+                    this.data.selectors.school.val('');
+
                     this.createDistrictSelect(province_id);
+
+                    this.data.selectors.district
+                        .val(this.data.default.district_id)
+                        .trigger("change");
+
+                    log.debug(province_id, 'onProvinceChangeHandler');
                 },
                 createDistrictSelect: function (province_id) {
                     if (this.data.selectors.district.length === 0) {
@@ -97,6 +131,30 @@ define(['jquery', 'core/log'], function ($, log) {
                     var options = this.createSelectOptions(list);
                     this.data.selectors.district[0].options.length = 0;
                     this.data.selectors.district.append(options);
+                },
+                onDistrictChangeHandler: function (event) {
+                    var district_id = $(event.target).val();
+                    this.data.selectors.school.val('');
+
+                    this.createSchoolSelect(district_id);
+
+                    this.data.selectors.school.val(this.data.default.school_id)
+
+                    log.debug(district_id, 'onDistrictChangeHandler');
+                },
+                createSchoolSelect: function (district_id) {
+                    if (this.data.selectors.school.length === 0) {
+                        return;
+                    }
+
+                    var self = this;
+                    this.ajax("district/" + district_id + ".json").then(function (res) {
+                        self.data.options.schools = res.data;
+
+                        var options = self.createSelectOptions(res.data.schools);
+                        self.data.selectors.school[0].options.length = 0;
+                        self.data.selectors.school.append(options);
+                    })
                 },
             };
 
