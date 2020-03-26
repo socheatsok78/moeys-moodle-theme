@@ -41,7 +41,7 @@ define(['jquery', 'core/log'], function ($, log) {
                     });
                 },
                 createSelectOptions: function (arr) {
-                    var list = [];
+                    var list = [$("<option>").val("").text("Choose an option")];
 
                     arr.forEach(function (item) {
                         var opt = $("<option>").val(item.id).text(item.name_km);
@@ -50,6 +50,14 @@ define(['jquery', 'core/log'], function ($, log) {
                     });
 
                     return list;
+                },
+                createProvinceSelect: function () {
+                    var self = this;
+                    this.ajax('provinces.json')
+                        .then(function (res) {
+                            var options = self.createSelectOptions(res.data)
+                            self.data.selectors.province.append(options);
+                        });
                 }
             };
 
