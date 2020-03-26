@@ -1,1 +1,1198 @@
-{}
+[
+  {
+    "id": 102,
+    "name": "Mongkol Borei",
+    "name_km": "មង្គលបូរី",
+    "province_id": 1
+  },
+  {
+    "id": 103,
+    "name": "Phnum Srok",
+    "name_km": "ភ្នំស្រុក",
+    "province_id": 1
+  },
+  {
+    "id": 104,
+    "name": "Preah Netr Preah",
+    "name_km": "ព្រះនេត្រព្រះ",
+    "province_id": 1
+  },
+  {
+    "id": 105,
+    "name": "Ou Chrov",
+    "name_km": "អូរជ្រៅ",
+    "province_id": 1
+  },
+  {
+    "id": 106,
+    "name": "Serei Saophoan",
+    "name_km": "សិរីសោភ័ណ",
+    "province_id": 1
+  },
+  {
+    "id": 107,
+    "name": "Thma Puok",
+    "name_km": "ថ្មពួក",
+    "province_id": 1
+  },
+  {
+    "id": 108,
+    "name": "Svay Chek",
+    "name_km": "ស្វាយចេក",
+    "province_id": 1
+  },
+  {
+    "id": 109,
+    "name": "Malai",
+    "name_km": "ម៉ាឡៃ",
+    "province_id": 1
+  },
+  {
+    "id": 110,
+    "name": "Paoy Paet",
+    "name_km": "ប៉ោយប៉ែត",
+    "province_id": 1
+  },
+  {
+    "id": 201,
+    "name": "Banan",
+    "name_km": "បាណន់",
+    "province_id": 2
+  },
+  {
+    "id": 202,
+    "name": "Thma Koul",
+    "name_km": "ថ្មគោល",
+    "province_id": 2
+  },
+  {
+    "id": 203,
+    "name": "Battambang",
+    "name_km": "បាត់ដំបង",
+    "province_id": 2
+  },
+  {
+    "id": 204,
+    "name": "Bavel",
+    "name_km": "បវេល",
+    "province_id": 2
+  },
+  {
+    "id": 205,
+    "name": "Aek Phnum",
+    "name_km": "ឯកភ្នំ",
+    "province_id": 2
+  },
+  {
+    "id": 206,
+    "name": "Moung Ruessei",
+    "name_km": "មោងឫស្សី",
+    "province_id": 2
+  },
+  {
+    "id": 207,
+    "name": "Rotonak Mondol",
+    "name_km": "រតនមណ្ឌល",
+    "province_id": 2
+  },
+  {
+    "id": 208,
+    "name": "Sangkae",
+    "name_km": "សង្កែ",
+    "province_id": 2
+  },
+  {
+    "id": 209,
+    "name": "Samlout",
+    "name_km": "សំឡូត",
+    "province_id": 2
+  },
+  {
+    "id": 210,
+    "name": "Sampov Lun",
+    "name_km": "សំពៅលូន",
+    "province_id": 2
+  },
+  {
+    "id": 211,
+    "name": "Phnum Proek",
+    "name_km": "ភ្នំព្រឹក",
+    "province_id": 2
+  },
+  {
+    "id": 212,
+    "name": "Kamrieng",
+    "name_km": "កំរៀង",
+    "province_id": 2
+  },
+  {
+    "id": 213,
+    "name": "Koas Krala",
+    "name_km": "គាស់ក្រឡ",
+    "province_id": 2
+  },
+  {
+    "id": 214,
+    "name": "Rukh Kiri",
+    "name_km": "រុក្ខគិរី",
+    "province_id": 2
+  },
+  {
+    "id": 301,
+    "name": "Batheay",
+    "name_km": "បាធាយ",
+    "province_id": 3
+  },
+  {
+    "id": 302,
+    "name": "Chamkar Leu",
+    "name_km": "ចំការលើ",
+    "province_id": 3
+  },
+  {
+    "id": 303,
+    "name": "Cheung Prey",
+    "name_km": "ជើងព្រៃ",
+    "province_id": 3
+  },
+  {
+    "id": 305,
+    "prefix": 2,
+    "name": "Kampong Cham",
+    "name_km": "កំពង់ចាម",
+    "province_id": 3
+  },
+  {
+    "id": 306,
+    "name": "Kampong Siem",
+    "name_km": "កំពង់សៀម",
+    "province_id": 3
+  },
+  {
+    "id": 307,
+    "name": "Kang Meas",
+    "name_km": "កងមាស",
+    "province_id": 3
+  },
+  {
+    "id": 308,
+    "name": "Kaoh Soutin",
+    "name_km": "កោះសូទិន",
+    "province_id": 3
+  },
+  {
+    "id": 313,
+    "name": "Prey Chhor",
+    "name_km": "ព្រៃឈរ",
+    "province_id": 3
+  },
+  {
+    "id": 314,
+    "name": "Srei Santhor",
+    "name_km": "ស្រីសន្ធរ",
+    "province_id": 3
+  },
+  {
+    "id": 315,
+    "name": "Stueng Trang",
+    "name_km": "ស្ទឹងត្រង់",
+    "province_id": 3
+  },
+  {
+    "id": 401,
+    "name": "Baribour",
+    "name_km": "បរិបូណ៌",
+    "province_id": 4
+  },
+  {
+    "id": 402,
+    "name": "Chol Kiri",
+    "name_km": "ជលគីរី",
+    "province_id": 4
+  },
+  {
+    "id": 403,
+    "name": "Kampong Chhnang",
+    "name_km": "កំពង់ឆ្នាំង",
+    "province_id": 4
+  },
+  {
+    "id": 404,
+    "name": "Kampong Leaeng",
+    "name_km": "កំពង់លែង",
+    "province_id": 4
+  },
+  {
+    "id": 405,
+    "name": "Kampong Tralach",
+    "name_km": "កំពង់ត្រឡាច",
+    "province_id": 4
+  },
+  {
+    "id": 406,
+    "name": "Rolea B'ier",
+    "name_km": "រលាប្អៀរ",
+    "province_id": 4
+  },
+  {
+    "id": 407,
+    "name": "Sameakki Mean Chey",
+    "name_km": "សាមគ្គីមានជ័យ",
+    "province_id": 4
+  },
+  {
+    "id": 408,
+    "name": "Tuek Phos",
+    "name_km": "ទឹកផុស",
+    "province_id": 4
+  },
+  {
+    "id": 501,
+    "name": "Basedth",
+    "name_km": "បរសេដ្ឋ",
+    "province_id": 5
+  },
+  {
+    "id": 502,
+    "name": "Chbar Mon",
+    "name_km": "ច្បារមន",
+    "province_id": 5
+  },
+  {
+    "id": 503,
+    "name": "Kong Pisei",
+    "name_km": "គងពិសី",
+    "province_id": 5
+  },
+  {
+    "id": 504,
+    "name": "Aoral",
+    "name_km": "ឱរ៉ាល់",
+    "province_id": 5
+  },
+  {
+    "id": 505,
+    "name": "Odongk",
+    "name_km": "ឧដុង្គ",
+    "province_id": 5
+  },
+  {
+    "id": 506,
+    "name": "Phnum Sruoch",
+    "name_km": "ភ្នំស្រួច",
+    "province_id": 5
+  },
+  {
+    "id": 507,
+    "name": "Samraong Tong",
+    "name_km": "សំរោងទង",
+    "province_id": 5
+  },
+  {
+    "id": 508,
+    "name": "Thpong",
+    "name_km": "ថ្ពង",
+    "province_id": 5
+  },
+  {
+    "id": 601,
+    "name": "Baray",
+    "name_km": "បារាយណ៍",
+    "province_id": 6
+  },
+  {
+    "id": 602,
+    "name": "Kampong Svay",
+    "name_km": "កំពង់ស្វាយ",
+    "province_id": 6
+  },
+  {
+    "id": 603,
+    "name": "Stueng Saen",
+    "name_km": "ស្ទឹងសែន",
+    "province_id": 6
+  },
+  {
+    "id": 604,
+    "name": "Prasat Ballangk",
+    "name_km": "ប្រាសាទបល្ល័ង្គ",
+    "province_id": 6
+  },
+  {
+    "id": 605,
+    "name": "Prasat Sambour",
+    "name_km": "ប្រាសាទសំបូរ",
+    "province_id": 6
+  },
+  {
+    "id": 606,
+    "name": "Sandan",
+    "name_km": "សណ្ដាន់",
+    "province_id": 6
+  },
+  {
+    "id": 607,
+    "name": "Santuk",
+    "name_km": "សន្ទុក",
+    "province_id": 6
+  },
+  {
+    "id": 608,
+    "name": "Stoung",
+    "name_km": "ស្ទោង",
+    "province_id": 6
+  },
+  {
+    "id": 701,
+    "name": "Angkor Chey",
+    "name_km": "អង្គរជ័យ",
+    "province_id": 7
+  },
+  {
+    "id": 702,
+    "name": "Banteay Meas",
+    "name_km": "បន្ទាយមាស",
+    "province_id": 7
+  },
+  {
+    "id": 703,
+    "name": "Chhuk",
+    "name_km": "ឈូក",
+    "province_id": 7
+  },
+  {
+    "id": 704,
+    "name": "Chum Kiri",
+    "name_km": "ជុំគិរី",
+    "province_id": 7
+  },
+  {
+    "id": 705,
+    "name": "Dang Tong",
+    "name_km": "ដងទង់",
+    "province_id": 7
+  },
+  {
+    "id": 706,
+    "name": "Kampong Trach",
+    "name_km": "កំពង់ត្រាច",
+    "province_id": 7
+  },
+  {
+    "id": 707,
+    "name": "Tuek Chhou",
+    "name_km": "ទឹកឈូ",
+    "province_id": 7
+  },
+  {
+    "id": 708,
+    "name": "Kampot",
+    "name_km": "កំពត",
+    "province_id": 7
+  },
+  {
+    "id": 801,
+    "name": "Kandal Stueng",
+    "name_km": "កណ្ដាលស្ទឹង",
+    "province_id": 8
+  },
+  {
+    "id": 802,
+    "name": "Kien Svay",
+    "name_km": "កៀនស្វាយ",
+    "province_id": 8
+  },
+  {
+    "id": 803,
+    "name": "Khsach Kandal",
+    "name_km": "ខ្សាច់កណ្ដាល",
+    "province_id": 8
+  },
+  {
+    "id": 804,
+    "name": "Kaoh Thum",
+    "name_km": "កោះធំ",
+    "province_id": 8
+  },
+  {
+    "id": 805,
+    "name": "Leuk Daek",
+    "name_km": "លើកដែក",
+    "province_id": 8
+  },
+  {
+    "id": 806,
+    "name": "Lvea Aem",
+    "name_km": "ល្វាឯម",
+    "province_id": 8
+  },
+  {
+    "id": 807,
+    "name": "Mukh Kampul",
+    "name_km": "មុខកំពូល",
+    "province_id": 8
+  },
+  {
+    "id": 808,
+    "name": "Angk Snuol",
+    "name_km": "អង្គស្នួល",
+    "province_id": 8
+  },
+  {
+    "id": 809,
+    "name": "Ponhea Lueu",
+    "name_km": "ពញាឮ",
+    "province_id": 8
+  },
+  {
+    "id": 810,
+    "name": "S'ang",
+    "name_km": "ស្អាង",
+    "province_id": 8
+  },
+  {
+    "id": 811,
+    "name": "Ta Khmau",
+    "name_km": "តាខ្មៅ",
+    "province_id": 8
+  },
+  {
+    "id": 901,
+    "name": "Botum Sakor",
+    "name_km": "បុទុមសាគរ",
+    "province_id": 9
+  },
+  {
+    "id": 902,
+    "name": "Kiri Sakor",
+    "name_km": "គិរីសាគរ",
+    "province_id": 9
+  },
+  {
+    "id": 903,
+    "name": "Kaoh Kong",
+    "name_km": "កោះកុង",
+    "province_id": 9
+  },
+  {
+    "id": 904,
+    "name": "Khemara Phoumin",
+    "name_km": "ខេមរភូមិន្ទ",
+    "province_id": 9
+  },
+  {
+    "id": 905,
+    "name": "Mondol Seima",
+    "name_km": "មណ្ឌលសីមា",
+    "province_id": 9
+  },
+  {
+    "id": 906,
+    "name": "Srae Ambel",
+    "name_km": "ស្រែ អំបិល",
+    "province_id": 9
+  },
+  {
+    "id": 907,
+    "name": "Thma Bang",
+    "name_km": "ថ្មបាំង",
+    "province_id": 9
+  },
+  {
+    "id": 1001,
+    "name": "Chhloung",
+    "name_km": "ឆ្លូង",
+    "province_id": 10
+  },
+  {
+    "id": 1002,
+    "name": "Kracheh",
+    "name_km": "ក្រចេះ",
+    "province_id": 10
+  },
+  {
+    "id": 1003,
+    "name": "Prek Prasab",
+    "name_km": "ព្រែកប្រសព្វ",
+    "province_id": 10
+  },
+  {
+    "id": 1004,
+    "name": "Sambour",
+    "name_km": "សំបូរ",
+    "province_id": 10
+  },
+  {
+    "id": 1005,
+    "name": "Snuol",
+    "name_km": "ស្នួល",
+    "province_id": 10
+  },
+  {
+    "id": 1006,
+    "name": "Chetr Borei",
+    "name_km": "ចិត្របុរី",
+    "province_id": 10
+  },
+  {
+    "id": 1101,
+    "name": "Kaev Seima",
+    "name_km": "កែវសីមា",
+    "province_id": 11
+  },
+  {
+    "id": 1102,
+    "name": "Kaoh Nheaek",
+    "name_km": "កោះញែក",
+    "province_id": 11
+  },
+  {
+    "id": 1103,
+    "name": "Ou Reang",
+    "name_km": "អូររាំង",
+    "province_id": 11
+  },
+  {
+    "id": 1104,
+    "name": "Pech Chreada",
+    "name_km": "ពេជ្រាដា",
+    "province_id": 11
+  },
+  {
+    "id": 1105,
+    "name": "Saen Monourom",
+    "name_km": "សែនមនោរម្យ",
+    "province_id": 11
+  },
+  {
+    "id": 1201,
+    "prefix": 3,
+    "name": "Chamkar Mon",
+    "name_km": "ចំការមន",
+    "province_id": 12
+  },
+  {
+    "id": 1202,
+    "prefix": 3,
+    "name": "Doun Penh",
+    "name_km": "ដូនពេញ",
+    "province_id": 12
+  },
+  {
+    "id": 1203,
+    "prefix": 3,
+    "name": "Prampir Meakkakra",
+    "name_km": "៧មករា",
+    "province_id": 12
+  },
+  {
+    "id": 1204,
+    "prefix": 3,
+    "name": "Tuol Kouk",
+    "name_km": "ទួលគោក",
+    "province_id": 12
+  },
+  {
+    "id": 1205,
+    "prefix": 3,
+    "name": "Dangkao",
+    "name_km": "ដង្កោ",
+    "province_id": 12
+  },
+  {
+    "id": 1206,
+    "prefix": 3,
+    "name": "Mean Chey",
+    "name_km": "មានជ័យ",
+    "province_id": 12
+  },
+  {
+    "id": 1207,
+    "prefix": 3,
+    "name": "Russey Keo",
+    "name_km": "ឫស្សីកែវ",
+    "province_id": 12
+  },
+  {
+    "id": 1208,
+    "prefix": 3,
+    "name": "Saensokh",
+    "name_km": "សែនសុខ",
+    "province_id": 12
+  },
+  {
+    "id": 1209,
+    "prefix": 3,
+    "name": "Pur SenChey",
+    "name_km": "ពោធិ៍សែនជ័យ",
+    "province_id": 12
+  },
+  {
+    "id": 1210,
+    "prefix": 3,
+    "name": "Chraoy Chongvar",
+    "name_km": "ជ្រោយចង្វារ",
+    "province_id": 12
+  },
+  {
+    "id": 1211,
+    "prefix": 3,
+    "name": "Praek Pnov",
+    "name_km": "ព្រែកព្នៅ",
+    "province_id": 12
+  },
+  {
+    "id": 1212,
+    "prefix": 3,
+    "name": "Chbar Ampov",
+    "name_km": "ច្បារអំពៅ",
+    "province_id": 12
+  },
+  {
+    "id": 1301,
+    "name": "Chey Saen",
+    "name_km": "ជ័យសែន",
+    "province_id": 13
+  },
+  {
+    "id": 1302,
+    "name": "Chhaeb",
+    "name_km": "ឆែប",
+    "province_id": 13
+  },
+  {
+    "id": 1303,
+    "name": "Choam Ksant",
+    "name_km": "ជាំក្សាន្ដ",
+    "province_id": 13
+  },
+  {
+    "id": 1304,
+    "name": "Kuleaen",
+    "name_km": "គូលែន",
+    "province_id": 13
+  },
+  {
+    "id": 1305,
+    "name": "Rovieng",
+    "name_km": "រវៀង",
+    "province_id": 13
+  },
+  {
+    "id": 1306,
+    "name": "Sangkum Thmei",
+    "name_km": "សង្គមថ្មី",
+    "province_id": 13
+  },
+  {
+    "id": 1307,
+    "name": "Tbaeng Mean Chey",
+    "name_km": "ត្បែងមានជ័យ",
+    "province_id": 13
+  },
+  {
+    "id": 1308,
+    "name": "Preah Vihear",
+    "name_km": "ព្រះវិហារ",
+    "province_id": 13
+  },
+  {
+    "id": 1401,
+    "name": "Ba Phnum",
+    "name_km": "បាភ្នំ",
+    "province_id": 14
+  },
+  {
+    "id": 1402,
+    "name": "Kamchay Mear",
+    "name_km": "កំចាយមារ",
+    "province_id": 14
+  },
+  {
+    "id": 1403,
+    "name": "Kampong Trabaek",
+    "name_km": "កំពង់ត្របែក",
+    "province_id": 14
+  },
+  {
+    "id": 1404,
+    "name": "Kanhchriech",
+    "name_km": "កញ្ជ្រៀច",
+    "province_id": 14
+  },
+  {
+    "id": 1405,
+    "name": "Me Sang",
+    "name_km": "មេសាង",
+    "province_id": 14
+  },
+  {
+    "id": 1406,
+    "name": "Peam Chor",
+    "name_km": "ពាមជរ",
+    "province_id": 14
+  },
+  {
+    "id": 1407,
+    "name": "Peam Ro",
+    "name_km": "ពាមរក៍",
+    "province_id": 14
+  },
+  {
+    "id": 1408,
+    "name": "Pea Reang",
+    "name_km": "ពារាំង",
+    "province_id": 14
+  },
+  {
+    "id": 1409,
+    "name": "Preah Sdach",
+    "name_km": "ព្រះស្ដេច",
+    "province_id": 14
+  },
+  {
+    "id": 1410,
+    "name": "Prey Veng",
+    "name_km": "ព្រៃវែង",
+    "province_id": 14
+  },
+  {
+    "id": 1411,
+    "name": "Pur Rieng",
+    "name_km": "ពោធិ៍រៀង",
+    "province_id": 14
+  },
+  {
+    "id": 1412,
+    "name": "Sithor Kandal",
+    "name_km": "ស៊ីធរកណ្ដាល",
+    "province_id": 14
+  },
+  {
+    "id": 1413,
+    "name": "Svay Antor",
+    "name_km": "ស្វាយអន្ទរ",
+    "province_id": 14
+  },
+  {
+    "id": 1501,
+    "name": "Bakan",
+    "name_km": "បាកាន",
+    "province_id": 15
+  },
+  {
+    "id": 1502,
+    "name": "Kandieng",
+    "name_km": "កណ្ដៀង",
+    "province_id": 15
+  },
+  {
+    "id": 1503,
+    "name": "Krakor",
+    "name_km": "ក្រគរ",
+    "province_id": 15
+  },
+  {
+    "id": 1504,
+    "name": "Phnum Kravanh",
+    "name_km": "ភ្នំក្រវ៉ាញ",
+    "province_id": 15
+  },
+  {
+    "id": 1505,
+    "name": "Pursat",
+    "name_km": "ពោធិ៍សាត់",
+    "province_id": 15
+  },
+  {
+    "id": 1506,
+    "name": "Veal Veaeng",
+    "name_km": "វាលវែង",
+    "province_id": 15
+  },
+  {
+    "id": 1601,
+    "name": "Andoung Meas",
+    "name_km": "អណ្ដូងមាស",
+    "province_id": 16
+  },
+  {
+    "id": 1602,
+    "name": "Ban Lung",
+    "name_km": "បានលុង",
+    "province_id": 16
+  },
+  {
+    "id": 1603,
+    "name": "Bar Kaev",
+    "name_km": "បរកែវ",
+    "province_id": 16
+  },
+  {
+    "id": 1604,
+    "name": "Koun Mom",
+    "name_km": "កូនមុំ",
+    "province_id": 16
+  },
+  {
+    "id": 1605,
+    "name": "Lumphat",
+    "name_km": "លំផាត់",
+    "province_id": 16
+  },
+  {
+    "id": 1606,
+    "name": "Ou Chum",
+    "name_km": "អូរជុំ",
+    "province_id": 16
+  },
+  {
+    "id": 1607,
+    "name": "Ou Ya Dav",
+    "name_km": "អូរយ៉ាដាវ",
+    "province_id": 16
+  },
+  {
+    "id": 1608,
+    "name": "Ta Veaeng",
+    "name_km": "តាវែង",
+    "province_id": 16
+  },
+  {
+    "id": 1609,
+    "name": "Veun Sai",
+    "name_km": "វើនសៃ",
+    "province_id": 16
+  },
+  {
+    "id": 1701,
+    "name": "Angkor Chum",
+    "name_km": "អង្គរជុំ",
+    "province_id": 17
+  },
+  {
+    "id": 1702,
+    "name": "Angkor Thum",
+    "name_km": "អង្គរធំ",
+    "province_id": 17
+  },
+  {
+    "id": 1703,
+    "name": "Banteay Srei",
+    "name_km": "បន្ទាយស្រី",
+    "province_id": 17
+  },
+  {
+    "id": 1704,
+    "name": "Chi Kraeng",
+    "name_km": "ជីក្រែង",
+    "province_id": 17
+  },
+  {
+    "id": 1706,
+    "name": "Kralanh",
+    "name_km": "ក្រឡាញ់",
+    "province_id": 17
+  },
+  {
+    "id": 1707,
+    "name": "Puok",
+    "name_km": "ពួក",
+    "province_id": 17
+  },
+  {
+    "id": 1709,
+    "name": "Prasat Bakong",
+    "name_km": "ប្រាសាទបាគង",
+    "province_id": 17
+  },
+  {
+    "id": 1710,
+    "name": "Siem Reap",
+    "name_km": "សៀមរាប",
+    "province_id": 17
+  },
+  {
+    "id": 1711,
+    "name": "Soutr Nikom",
+    "name_km": "សូទ្រនិគម",
+    "province_id": 17
+  },
+  {
+    "id": 1712,
+    "name": "Srei Snam",
+    "name_km": "ស្រីស្នំ",
+    "province_id": 17
+  },
+  {
+    "id": 1713,
+    "name": "Svay Leu",
+    "name_km": "ស្វាយលើ",
+    "province_id": 17
+  },
+  {
+    "id": 1714,
+    "name": "Varin",
+    "name_km": "វ៉ារិន",
+    "province_id": 17
+  },
+  {
+    "id": 1801,
+    "name": "Preah Sihanouk",
+    "name_km": "ព្រះសីហនុ",
+    "province_id": 18
+  },
+  {
+    "id": 1802,
+    "name": "Prey Nob",
+    "name_km": "ព្រៃនប់",
+    "province_id": 18
+  },
+  {
+    "id": 1803,
+    "name": "Stueng Hav",
+    "name_km": "ស្ទឹងហាវ",
+    "province_id": 18
+  },
+  {
+    "id": 1804,
+    "name": "Kampong Seila",
+    "name_km": "កំពង់សីលា",
+    "province_id": 18
+  },
+  {
+    "id": 1901,
+    "name": "Sesan",
+    "name_km": "សេសាន",
+    "province_id": 19
+  },
+  {
+    "id": 1902,
+    "name": "Siem Bouk",
+    "name_km": "សៀមបូក",
+    "province_id": 19
+  },
+  {
+    "id": 1903,
+    "name": "Siem Pang",
+    "name_km": "សៀមប៉ាង",
+    "province_id": 19
+  },
+  {
+    "id": 1904,
+    "name": "Stueng Traeng",
+    "name_km": "ស្ទឹងត្រែង",
+    "province_id": 19
+  },
+  {
+    "id": 1905,
+    "name": "Thala Barivat",
+    "name_km": "ថាឡាបរិវ៉ាត់",
+    "province_id": 19
+  },
+  {
+    "id": 2001,
+    "name": "Chantrea",
+    "name_km": "ចន្ទ្រា",
+    "province_id": 20
+  },
+  {
+    "id": 2002,
+    "name": "Kampong Rou",
+    "name_km": "កំពង់រោទិ៍",
+    "province_id": 20
+  },
+  {
+    "id": 2003,
+    "name": "Rumduol",
+    "name_km": "រំដួល",
+    "province_id": 20
+  },
+  {
+    "id": 2004,
+    "name": "Romeas Haek",
+    "name_km": "រមាសហែក",
+    "province_id": 20
+  },
+  {
+    "id": 2005,
+    "name": "Svay Chrum",
+    "name_km": "ស្វាយជ្រំ",
+    "province_id": 20
+  },
+  {
+    "id": 2006,
+    "name": "Svay Rieng",
+    "name_km": "ស្វាយរៀង",
+    "province_id": 20
+  },
+  {
+    "id": 2007,
+    "name": "Svay Teab",
+    "name_km": "ស្វាយទាប",
+    "province_id": 20
+  },
+  {
+    "id": 2008,
+    "name": "Bavet",
+    "name_km": "បាវិត",
+    "province_id": 20
+  },
+  {
+    "id": 2101,
+    "name": "Angkor Borei",
+    "name_km": "អង្គរបូរី",
+    "province_id": 21
+  },
+  {
+    "id": 2102,
+    "name": "Bati",
+    "name_km": "បាទី",
+    "province_id": 21
+  },
+  {
+    "id": 2103,
+    "name": "Borei Cholsar",
+    "name_km": "បូរីជលសារ",
+    "province_id": 21
+  },
+  {
+    "id": 2104,
+    "name": "Kiri Vong",
+    "name_km": "គីរីវង់",
+    "province_id": 21
+  },
+  {
+    "id": 2105,
+    "name": "Kaoh Andaet",
+    "name_km": "កោះអណ្ដែត",
+    "province_id": 21
+  },
+  {
+    "id": 2106,
+    "name": "Prey Kabbas",
+    "name_km": "ព្រៃកប្បាស",
+    "province_id": 21
+  },
+  {
+    "id": 2107,
+    "name": "Samraong",
+    "name_km": "សំរោង",
+    "province_id": 21
+  },
+  {
+    "id": 2108,
+    "name": "Doun Kaev",
+    "name_km": "ដូនកែវ",
+    "province_id": 21
+  },
+  {
+    "id": 2109,
+    "name": "Tram Kak",
+    "name_km": "ត្រាំកក់",
+    "province_id": 21
+  },
+  {
+    "id": 2110,
+    "name": "Treang",
+    "name_km": "ទ្រាំង",
+    "province_id": 21
+  },
+  {
+    "id": 2201,
+    "name": "Anlong Veaeng",
+    "name_km": "អន្លង់វែង",
+    "province_id": 22
+  },
+  {
+    "id": 2202,
+    "name": "Banteay Ampil",
+    "name_km": "បន្ទាយអំពិល",
+    "province_id": 22
+  },
+  {
+    "id": 2203,
+    "name": "Chong Kal",
+    "name_km": "ចុងកាល់",
+    "province_id": 22
+  },
+  {
+    "id": 2204,
+    "name": "Samraong",
+    "name_km": "សំរោង",
+    "province_id": 22
+  },
+  {
+    "id": 2205,
+    "name": "Trapeang Prasat",
+    "name_km": "ត្រពាំងប្រាសាទ",
+    "province_id": 22
+  },
+  {
+    "id": 2301,
+    "name": "Damnak Chang'aeur",
+    "name_km": "ដំណាក់ចង្អើរ",
+    "province_id": 23
+  },
+  {
+    "id": 2302,
+    "name": "Kaeb",
+    "name_km": "កែប",
+    "province_id": 23
+  },
+  {
+    "id": 2401,
+    "name": "Pailin",
+    "name_km": "ប៉ៃលិន",
+    "province_id": 24
+  },
+  {
+    "id": 2402,
+    "name": "Sala Krau",
+    "name_km": "សាលាក្រៅ",
+    "province_id": 24
+  },
+  {
+    "id": 2501,
+    "name": "Dambae",
+    "name_km": "តំបែរ",
+    "province_id": 25
+  },
+  {
+    "id": 2502,
+    "name": "Krouch Chhmar",
+    "name_km": "ក្រូចឆ្មារ",
+    "province_id": 25
+  },
+  {
+    "id": 2503,
+    "name": "Memot",
+    "name_km": "មេមត់",
+    "province_id": 25
+  },
+  {
+    "id": 2504,
+    "name": "Ou Reang Ov",
+    "name_km": "អូររាំងឪ",
+    "province_id": 25
+  },
+  {
+    "id": 2505,
+    "name": "Ponhea Kraek",
+    "name_km": "ពញាក្រែក",
+    "province_id": 25
+  },
+  {
+    "id": 2506,
+    "prefix": 2,
+    "name": "Suong",
+    "name_km": "សួង",
+    "province_id": 25
+  },
+  {
+    "id": 2507,
+    "name": "Tboung Khmum",
+    "name_km": "ត្បូងឃ្មុំ",
+    "province_id": 25
+  }
+]
