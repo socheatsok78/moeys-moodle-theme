@@ -52,7 +52,7 @@ define(['jquery', 'core/log'], function ($, log) {
                     return list;
                 },
                 createProvinceSelect: function () {
-                    if (self.data.selectors.province.length === 0) {
+                    if (this.data.selectors.province.length === 0) {
                         return;
                     }
 
