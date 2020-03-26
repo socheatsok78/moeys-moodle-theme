@@ -52,10 +52,15 @@ define(['jquery', 'core/log'], function ($, log) {
                     return list;
                 },
                 createProvinceSelect: function () {
+                    if (self.data.selectors.province.length === 0) {
+                        return;
+                    }
+
                     var self = this;
                     this.ajax('provinces.json')
                         .then(function (res) {
                             var options = self.createSelectOptions(res.data)
+                            self.data.selectors.province[0].options.length = 0;
                             self.data.selectors.province.append(options);
                         });
                 }
