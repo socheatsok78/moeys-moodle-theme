@@ -29,8 +29,8 @@ define(['jquery', 'core/log'], function ($, log) {
 
                     console.log('MoEYS Script init');
                 },
-                ajax: function (param) {
-                    //
+                ajax: function (url, params = {}) {
+                    return this.request(url, params);
                 },
                 createInstance: function () {
                     this.basedir = "/theme/jquery.php/theme_" + this.theme + "/moeys/json/";
