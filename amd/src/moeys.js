@@ -29,7 +29,8 @@ define(['jquery', 'core/log'], function ($, log) {
 
                     console.log('MoEYS Script init');
                 },
-                ajax: function (url, params = {}) {
+                ajax: function (url, params) {
+                    params = params || {};
                     return this.request(url, params);
                 },
                 createInstance: function () {
@@ -38,6 +39,17 @@ define(['jquery', 'core/log'], function ($, log) {
                     this.request = axios.create({
                         baseURL: this.basedir,
                     });
+                },
+                createSelectOptions: function (arr) {
+                    var list = [];
+
+                    arr.forEach(function (item) {
+                        var opt = $("<option>").val(item.id).text(item.name_km);
+
+                        list.push(opt);
+                    });
+
+                    return list;
                 }
             };
 
