@@ -6,7 +6,7 @@ define(['jquery', 'core/log'], function ($, log) {
     log.debug('MoEYS AMD');
 
     return {
-        init: function (currentpage, tabpersistencetime) {
+        init: function () {
             const MoEYS = {
                 theme: M.cfg.theme,
                 basedir: '',
@@ -26,6 +26,7 @@ define(['jquery', 'core/log'], function ($, log) {
                 },
                 init: function () {
                     this.createInstance();
+                    this.setupFormWatcher();
 
                     console.log('MoEYS Script init');
                 },
@@ -39,6 +40,9 @@ define(['jquery', 'core/log'], function ($, log) {
                     this.request = axios.create({
                         baseURL: this.basedir,
                     });
+                },
+                setupFormWatcher: function () {
+                    //
                 },
                 createSelectOptions: function (arr) {
                     var list = [$("<option>").val("").text("Choose an option")];
@@ -68,12 +72,8 @@ define(['jquery', 'core/log'], function ($, log) {
 
             function onMoEYSReady() {
                 log.debug('MoEYS AMD init');
-
-                MoEYS.init();
-
                 window['MoEYS'] = MoEYS;
-
-                log.debug(currentpage);
+                MoEYS.init();
                 log.debug(MoEYS);
             }
 
