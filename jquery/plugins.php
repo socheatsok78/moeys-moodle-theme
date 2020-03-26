@@ -53,6 +53,6 @@ $plugins = array(
     'ticker' => array('files' => array('tickerme.js')),
 
     // MoEYS Assets
-    'axios' => array('files' => array('axios.min.js')),
+    'axios' => array('files' => array('moeys/axios.min.js')),
     'moeys' => array('files' => array('moeys/moeys.js')),
 );
