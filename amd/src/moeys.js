@@ -64,6 +64,7 @@ define(['jquery', 'core/log'], function ($, log) {
 
                     this.ajax('provinces.json')
                         .then(function (res) {
+                            self.data.options.provinces = res.data;
                             var options = self.createSelectOptions(res.data)
                             self.data.selectors.province[0].options.length = 0;
                             self.data.selectors.province.append(options);
