@@ -61,6 +61,7 @@ define(['jquery', 'core/log'], function ($, log) {
                     }
 
                     var self = this;
+
                     this.ajax('provinces.json')
                         .then(function (res) {
                             var options = self.createSelectOptions(res.data)
@@ -68,13 +69,24 @@ define(['jquery', 'core/log'], function ($, log) {
                             self.data.selectors.province.append(options);
                         });
 
+                    this.ajax('districts.json')
+                        .then(function (res) {
+                            self.data.options.districts = res.data;
+                        });
+
                     // Register change event
                     this.data.selectors.province.on('change', this.onProvinceChangeHandler);
                 },
                 onProvinceChangeHandler: function (event) {
                     //
-                    log.debug(event, 'onProvinceChangeHandler')
-                }
+                    log.debug(JSON.stringify(event), 'onProvinceChangeHandler')
+                },
+                createDistrictSelect: function (province_id) {
+
+
+                    // Register change event
+                    // this.data.selectors.district.on('change', this.onProvinceChangeHandler);
+                },
             };
 
             function onMoEYSReady() {
