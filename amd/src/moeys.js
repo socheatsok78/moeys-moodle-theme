@@ -76,17 +76,27 @@ define(['jquery', 'core/log'], function ($, log) {
                         });
 
                     // Register change event
-                    this.data.selectors.province.on('change', this.onProvinceChangeHandler);
+                    this.data.selectors.province.on('change', function (event) {
+                        self.onProvinceChangeHandler.call(self, event)
+                    });
                 },
                 onProvinceChangeHandler: function (event) {
-                    //
-                    log.debug(JSON.stringify(event), 'onProvinceChangeHandler')
+                    var province_id = $(event.target).val();
+                    log.debug(province_id, 'onProvinceChangeHandler');
+                    this.createDistrictSelect(province_id);
                 },
                 createDistrictSelect: function (province_id) {
+                    if (this.data.selectors.district.length === 0) {
+                        return;
+                    }
 
+                    var list = this.data.options.districts.filter(function (item) {
+                        return item.province_id == province_id;
+                    });
 
-                    // Register change event
-                    // this.data.selectors.district.on('change', this.onProvinceChangeHandler);
+                    var options = this.createSelectOptions(list);
+                    this.data.selectors.district[0].options.length = 0;
+                    this.data.selectors.district.append(options);
                 },
             };
 
