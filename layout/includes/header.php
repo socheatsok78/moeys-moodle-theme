@@ -68,6 +68,7 @@ if (
 $PAGE->requires->js_call_amd('theme_adaptable/adaptable', 'init');
 $PAGE->requires->js_call_amd('theme_adaptable/bsoptions', 'init', $bsoptionsdata);
 $PAGE->requires->js_call_amd('theme_adaptable/drawer', 'init');
+$PAGE->requires->js_call_amd('theme_adaptable/moeys', 'init');
 
 // Layout.
 $left = (!right_to_left());  // To know if to add 'pull-right' and 'desktop-first-column' classes in the layout for LTR.
