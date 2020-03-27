@@ -1,168 +1,153 @@
 /* jshint ignore:start */
+const logger = window.console.log;
+
 define(['jquery', 'core/log'], function ($, log) {
 
     "use strict"; // ... jshint ;_;.
 
     log.debug('MoEYS AMD');
 
+    function SetupMoEYSInstance() {
+        log.debug('MoEYS AMD init');
+
+        const request = axios.create({
+            baseURL: "/theme/jquery.php/theme_" + M.cfg.theme + "/moeys/json/"
+        });
+
+        return {
+            request: request,
+            data: {
+                provinces: [],
+                districts: [],
+                schools: [],
+            },
+            log: logger
+        };
+    }
+
+    function createSelectOptions(arr) {
+        var list = [$("<option>").val("").text("Choose an option")];
+
+        arr.forEach(function (item) {
+            var opt = $("<option>").val(item.id).text(item.name);
+
+            list.push(opt);
+        });
+
+        return list;
+    }
+
     return {
         init: function () {
-            const MoEYS = {
-                theme: M.cfg.theme,
-                basedir: '',
-                request: null,
-                data: {
-                    default: {
-                        province_id: '',
-                        district_id: '',
-                        school_id: '',
-                    },
-                    options: {
-                        provinces: [],
-                        districts: [],
-                        school_types: [],
-                        schools: [],
-                    },
-                    selectors: {
-                        province: $('#id_profile_field_school_province_id'),
-                        district: $('#id_profile_field_school_district_id'),
-                        school: $('#id_profile_field_school_id'),
-                    }
-                },
-                init: function () {
-                    this.createInstance();
-                    this.setupFormWatcher();
+            function onMoEYSReady() {
+                const MoEYS = SetupMoEYSInstance();
+                window['MoEYS'] = MoEYS;
 
-                    console.log('MoEYS Script init');
-                },
-                ajax: function (url, params) {
-                    params = params || {};
-                    return this.request(url, params);
-                },
-                createInstance: function () {
-                    this.basedir = "/theme/jquery.php/theme_" + this.theme + "/moeys/json/";
+                // Variables
+                const PROVINCE_INPUT_ID = '#id_profile_field_school_province_id';
+                const DISTRICT_INPUT_ID = '#id_profile_field_school_district_id';
+                const SCHOOL_INPUT_ID = '#id_profile_field_school_id';
 
-                    this.request = axios.create({
-                        baseURL: this.basedir,
-                    });
-                },
-                setupFormWatcher: function () {
-                    var self = this;
+                // Check if Province select option on the page
+                if ($(PROVINCE_INPUT_ID).length === 0) {
+                    MoEYS.log('MoEYS', 'Failed to initialized');
+                    return;
+                }
 
-                    this.data.default.province_id = this.data.selectors.province.val();
-                    this.data.default.district_id = this.data.selectors.district.val();
-                    this.data.default.school_id = this.data.selectors.school.val();
+                // Save the default input value
+                const default_province_id = $(PROVINCE_INPUT_ID).val();
+                const default_district_id = $(DISTRICT_INPUT_ID).val();
+                const default_school_id = $(SCHOOL_INPUT_ID).val();
 
-                    this.createProvinceSelect();
+                MoEYS.log('MoEYS User School', {
+                    province_id: default_province_id,
+                    district_id: default_district_id,
+                    school_id: default_school_id
+                })
 
-                    // Register change event
-                    this.data.selectors.province.on('change', function (event) {
-                        self.onProvinceChangeHandler.call(self, event)
+                // Add change event listener
+                $(PROVINCE_INPUT_ID).on('change', function (event) {
+                    MoEYS.log('MoEYS', {
+                        type: 'PROVINCE_INPUT_ID',
+                        event: event
                     });
 
-                    // Register change event
-                    this.data.selectors.district.on('change', function (event) {
-                        self.onDistrictChangeHandler.call(self, event)
-                    });
+                    const province_id = $(event.target).val();
 
-                    console.group('MoEYS')
-                    log.debug(this.data.default.province_id, 'default_province_id');
-                    log.debug(this.data.default.district_id, 'default_district_id');
-                    log.debug(this.data.default.school_id, 'default_school_id');
-                    console.groupEnd();
-                },
-                createSelectOptions: function (arr) {
-                    var list = [$("<option>").val("").text("Choose an option")];
-
-                    arr.forEach(function (item) {
-                        var opt = $("<option>").val(item.id).text(item.name_km);
-
-                        list.push(opt);
-                    });
-
-                    return list;
-                },
-                createProvinceSelect: function () {
-                    if (this.data.selectors.province.length === 0) {
-                        return;
-                    }
-
-                    var self = this;
-
-                    this.ajax('provinces.json')
-                        .then(function (res) {
-                            self.data.options.provinces = res.data;
-                            var options = self.createSelectOptions(res.data)
-                            self.data.selectors.province[0].options.length = 0;
-                            self.data.selectors.province.append(options);
-
-                            self.data.selectors.province
-                                .val(self.data.default.province_id)
-                                .trigger("change");
-                        });
-
-                    this.ajax('districts.json')
-                        .then(function (res) {
-                            self.data.options.districts = res.data;
-                        });
-                },
-                onProvinceChangeHandler: function (event) {
-                    var province_id = $(event.target).val();
-                    this.data.selectors.district.val('');
-                    this.data.selectors.school.val('');
-
-                    this.createDistrictSelect(province_id);
-
-                    this.data.selectors.district
-                        .val(this.data.default.district_id)
-                        .trigger("change");
-
-                    log.debug(province_id, 'onProvinceChangeHandler');
-                },
-                createDistrictSelect: function (province_id) {
-                    if (this.data.selectors.district.length === 0) {
-                        return;
-                    }
-
-                    var list = this.data.options.districts.filter(function (item) {
+                    const districtList = MoEYS.data.districts.filter(function (item) {
                         return item.province_id == province_id;
                     });
 
-                    var options = this.createSelectOptions(list);
-                    this.data.selectors.district[0].options.length = 0;
-                    this.data.selectors.district.append(options);
-                },
-                onDistrictChangeHandler: function (event) {
-                    var district_id = $(event.target).val();
-                    this.data.selectors.school.val('');
+                    MoEYS.log('districtList', districtList)
 
-                    this.createSchoolSelect(district_id);
+                    const options = createSelectOptions(districtList);
+                    $(DISTRICT_INPUT_ID)[0].options.length = 0;
+                    $(DISTRICT_INPUT_ID).append(options);
+                });
 
-                    this.data.selectors.school.val(this.data.default.school_id)
+                $(DISTRICT_INPUT_ID).on('change', function (event) {
+                    MoEYS.log('MoEYS', {
+                        type: 'DISTRICT_INPUT_ID',
+                        event: event
+                    });
 
-                    log.debug(district_id, 'onDistrictChangeHandler');
-                },
-                createSchoolSelect: function (district_id) {
-                    if (this.data.selectors.school.length === 0) {
-                        return;
-                    }
+                    const district_id = $(event.target).val();
 
-                    var self = this;
-                    this.ajax("district/" + district_id + ".json").then(function (res) {
-                        self.data.options.schools = res.data;
+                    MoEYS.request
+                        .get('/district/' + district_id + '.json')
+                        .then(function (res) {
+                            MoEYS.data.schools = res.data;
 
-                        var options = self.createSelectOptions(res.data.schools);
-                        self.data.selectors.school[0].options.length = 0;
-                        self.data.selectors.school.append(options);
+                            const options = createSelectOptions(res.data.schools);
+                            $(SCHOOL_INPUT_ID)[0].options.length = 0;
+                            $(SCHOOL_INPUT_ID).append(options);
+
+                            return options;
+                        })
+                        .then(function () {
+                            if (default_school_id) {
+                                $(SCHOOL_INPUT_ID).val(default_school_id)
+                            }
+                        });
+                });
+
+                // Get the province data
+                MoEYS.request
+                    .get('provinces.json')
+                    .then(function (res) {
+                        MoEYS.log('MoEYS', 'Getting provinces data');
+                        MoEYS.data.provinces = res.data;
+
+                        const options = createSelectOptions(res.data);
+                        $(PROVINCE_INPUT_ID)[0].options.length = 0;
+                        $(PROVINCE_INPUT_ID).append(options);
+
+                        return true;
+                    }).then(function () {
+                        // Get the district data
+                        return MoEYS.request
+                            .get('districts.json')
+                            .then(function (res) {
+                                MoEYS.log('MoEYS', 'Getting districts data');
+
+                                MoEYS.data.districts = res.data;
+                            });
                     })
-                },
-            };
+                    .then(function () {
+                        MoEYS.log('MoEYS', 'Set default school data');
 
-            function onMoEYSReady() {
-                log.debug('MoEYS AMD init');
-                window['MoEYS'] = MoEYS;
-                MoEYS.init();
-                log.debug(MoEYS);
+                        if (default_province_id) {
+                            $(PROVINCE_INPUT_ID)
+                                .val(default_province_id)
+                                .trigger('change');
+                        }
+
+                        if (default_district_id) {
+                            $(DISTRICT_INPUT_ID)
+                                .val(default_district_id)
+                                .trigger('change');
+                        }
+                    });
             }
 
             // Ready scripts
