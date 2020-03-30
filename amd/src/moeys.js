@@ -65,6 +65,19 @@ define(['jquery', 'core/log'], function ($, log) {
                     school_id: default_school_id
                 })
 
+                // Emptying Select Options
+                const options = createSelectOptions([]);
+
+                $(SCHOOL_INPUT_ID)[0].options.length = 0;
+                $(SCHOOL_INPUT_ID).append(options);
+
+                $(DISTRICT_INPUT_ID)[0].options.length = 0;
+                $(DISTRICT_INPUT_ID).append(options);
+
+                $(SCHOOL_INPUT_ID)[0].options.length = 0;
+                $(SCHOOL_INPUT_ID).append(options);
+
+
                 // Add change event listener
                 $(PROVINCE_INPUT_ID).on('change', function (event) {
                     MoEYS.log('MoEYS', {
@@ -77,8 +90,6 @@ define(['jquery', 'core/log'], function ($, log) {
                     const districtList = MoEYS.data.districts.filter(function (item) {
                         return item.province_id == province_id;
                     });
-
-                    MoEYS.log('districtList', districtList)
 
                     const options = createSelectOptions(districtList);
                     $(DISTRICT_INPUT_ID)[0].options.length = 0;
