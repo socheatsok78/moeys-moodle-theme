@@ -55,9 +55,9 @@ define(['jquery', 'core/log'], function ($, log) {
                 }
 
                 // Save the default input value
-                const default_province_id = $(PROVINCE_INPUT_ID).val();
-                const default_district_id = $(DISTRICT_INPUT_ID).val();
-                const default_school_id = $(SCHOOL_INPUT_ID).val();
+                var default_province_id = $(PROVINCE_INPUT_ID).val();
+                var default_district_id = $(DISTRICT_INPUT_ID).val();
+                var default_school_id = $(SCHOOL_INPUT_ID).val();
 
                 MoEYS.log('MoEYS User School', {
                     province_id: default_province_id,
@@ -93,7 +93,10 @@ define(['jquery', 'core/log'], function ($, log) {
 
                     const options = createSelectOptions(districtList);
                     $(DISTRICT_INPUT_ID)[0].options.length = 0;
-                    $(DISTRICT_INPUT_ID).append(options);
+                    $(DISTRICT_INPUT_ID)
+                        .append(options)
+                        .val("")
+                        .trigger('change');
                 });
 
                 $(DISTRICT_INPUT_ID).on('change', function (event) {
@@ -102,7 +105,17 @@ define(['jquery', 'core/log'], function ($, log) {
                         event: event
                     });
 
+                    const options = createSelectOptions([]);
+                    $(SCHOOL_INPUT_ID)[0].options.length = 0;
+                    $(SCHOOL_INPUT_ID)
+                        .append(options)
+                        .val("");
+
                     const district_id = $(event.target).val();
+
+                    if (district_id == "") {
+                        return;
+                    }
 
                     MoEYS.request
                         .get('/district/' + district_id + '.json')
@@ -116,7 +129,7 @@ define(['jquery', 'core/log'], function ($, log) {
                             return options;
                         })
                         .then(function () {
-                            if (default_school_id) {
+                            if (district_id == default_district_id && default_school_id != "") {
                                 $(SCHOOL_INPUT_ID).val(default_school_id)
                             }
                         });
